@@ -24,30 +24,9 @@ jobs:
       - name: 运行实时爬虫
         run: python scrape_realtime.py
 
-      - name: 判断是否有变化
-        id: diff
-        run: |
-          python - <<'PY'
-          import re, json, subprocess
-          try:
-              old = subprocess.run(['git','show','HEAD:realtime.js'], capture_output=True, text=True).stdout
-              oe = json.loads(re.search(r'EVENTS_REALTIME\s*=\s*($$.*?$$);', old, re.S).group(1))
-          except Exception:
-              oe = []
-          ne = json.loads(re.search(r'EVENTS_REALTIME\s*=\s*($$.*?$$);', open('realtime.js').read(), re.S).group(1))
-          changed = json.dumps(oe, ensure_ascii=False, sort_keys=True) != json.dumps(ne, ensure_ascii=False, sort_keys=True)
-          open('changed.flag','w').write('1' if changed else '0')
-          print('changed =', changed, '| events =', len(ne))
-          PY
-
       - name: 提交并推送
         run: |
-          if [ "$(cat changed.flag)" = "1" ]; then
-            git config user.name "realtime-bot"
-            git config user.email "bot@trendpick.local"
-            git add realtime.js
-            git commit -m "realtime: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            git push
-          else
-            echo "内容无变化，跳过提交"
-          fi
+          git config user.name "realtime-bot"
+          git config user.email "bot@trendpick.local"
+          git add realtime.js
+          git diff --quiet && echo "内容无变化，跳过提交" || (git commit -m "realtime: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" && git push)
