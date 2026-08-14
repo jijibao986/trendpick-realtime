@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- 实时层数据源（云端榜单，关电脑也更新）：创建 GitHub 仓库 trendpick-realtime 并开通 Pages 后，把下面用户名替换成你的 -->
+<meta name="realtime-src" content="https://jijibao986.github.io/trendpick-realtime/realtime.js" />
+<title>印选 · 泰马热点选品雷达 v2</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">印</div>
+    <div class="brand-text">
+      <h1>印选 <span class="en">TrendPick</span> <span class="ver">v2</span></h1>
+      <p>泰国 · 马来西亚 印花 T 恤热点选品雷达 — 来源分析 · 事件脉络 · 真实配图</p>
+    </div>
+  </div>
+  <div class="topbar-right">
+    <div class="updated">数据更新：<b id="updatedDate">2026-08-13</b> <span id="lastUpdate" class="badge-note"></span></div>
+    <span class="badge-note">🌐 全类目开放 · 无任何内容屏蔽</span>
+    <span class="badge-note daily-note">🔥 已补充 8/13 每日热点日报（67 条泰马双市场热点）</span>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-left">
+    <h2>今天哪些热点值得印上 T 恤？</h2>
+    <p>聚合泰马两地<strong>社交媒体、本地新闻、娱乐机构、影视/音乐/游戏榜单</strong>的真实研究数据，按<strong>印花指数 ★</strong>、<strong>来源可信度</strong>、<strong>讨论热度</strong>多维打分，并附<strong>事件脉络</strong>与<strong>可点击的原始来源</strong>。</p>
+  </div>
+  <div class="hero-stats" id="heroStats"></div>
+</section>
+
+<div class="controls">
+  <div class="row1">
+    <div class="country-tabs" id="countryTabs">
+      <button class="ctab active" data-c="all">🌏 全部</button>
+      <button class="ctab" data-c="th">🇹🇭 泰国</button>
+      <button class="ctab" data-c="my">🇲🇾 马来西亚</button>
+    </div>
+    <div class="search">
+      <input id="searchInput" type="text" placeholder="🔍 搜索热点 / 剧名 / 明星 / 关键词…" />
+    </div>
+    <div class="viewtoggle" id="viewToggle">
+      <button class="vbtn active" data-v="grid">▦ 卡片</button>
+      <button class="vbtn" data-v="timeline">▤ 时间线</button>
+    </div>
+  </div>
+
+  <div class="row2">
+    <div class="chips" id="catChips"></div>
+  </div>
+
+  <div class="row3">
+    <div class="filtergroup">
+      <span class="flabel">印花指数</span>
+      <button class="fbtn active" data-f="stars" data-v="all">全部</button>
+      <button class="fbtn" data-f="stars" data-v="3">★3+</button>
+      <button class="fbtn" data-f="stars" data-v="4">★4</button>
+    </div>
+    <div class="filtergroup">
+      <span class="flabel">风险</span>
+      <button class="fbtn active" data-f="risk" data-v="all">全部</button>
+      <button class="fbtn" data-f="risk" data-v="低">低风险</button>
+      <button class="fbtn" data-f="risk" data-v="中">中风险</button>
+      <button class="fbtn" data-f="risk" data-v="高">高风险</button>
+    </div>
+    <div class="filtergroup">
+      <span class="flabel">还热</span>
+      <button class="fbtn active" data-f="days" data-v="all">全部</button>
+      <button class="fbtn" data-f="days" data-v="1">1天内</button>
+      <button class="fbtn" data-f="days" data-v="3">3天内</button>
+      <button class="fbtn" data-f="days" data-v="7">7天内</button>
+    </div>
+    <div class="filtergroup">
+      <span class="flabel">排序</span>
+      <button class="fbtn active" data-f="sort" data-v="stars">星级↓</button>
+      <button class="fbtn" data-f="sort" data-v="hot">还热↓</button>
+      <button class="fbtn" data-f="sort" data-v="buzz">热度↓</button>
+      <button class="fbtn" data-f="sort" data-v="new">最新↓</button>
+    </div>
+    <button class="daily-btn" id="dailyToggle">🔥 今日日报(67)</button>
+  </div>
+
+  <div class="row4">
+    <label class="pill-toggle"><input type="checkbox" id="mediaToggle" /> 🖼 有配图</label>
+    <label class="pill-toggle"><input type="checkbox" id="localToggle" /> 🇹🇭🇲🇾 含本地媒体</label>
+    <span class="row4-hint">点击卡片查看「来源分析 · 事件脉络 · 原始报道」</span>
+  </div>
+</div>
+
+<main>
+  <div class="resultbar">
+    <span id="resultCount">—</span>
+    <span class="hint">共 <b id="statMedia">0</b> 条含配图 · <b id="statLocal">0</b> 条含本地媒体</span>
+  </div>
+  <div id="gridView" class="grid"></div>
+  <div id="timelineView" class="timeline" style="display:none;"></div>
+</main>
+
+<footer class="footer">
+  <p>印选 TrendPick v2 · 泰马热点选品雷达 — 数据由 AI 基于公开平台实时研究生成，非转载任何第三方聚合站。</p>
+  <p class="muted">来源可信度 / 讨论热度 / 事件脉络为辅助研判指标。封面采用主题相关真实图片（维基媒体 / AniList 等公开来源），无可用真实图时显示分类占位，绝不使用 AI 生成图。</p>
+</footer>
+
+<!-- Modal -->
+<div class="modal-mask" id="modalMask" onclick="if(event.target===this)closeModal()">
+  <div class="modal" id="modal"></div>
+</div>
+
+<!-- Lightbox -->
+<div class="lb-mask" id="lbMask" onclick="if(event.target===this)closeLightbox()">
+  <img id="lbImg" src="" alt="" />
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
