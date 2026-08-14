@@ -51,7 +51,12 @@
     return (s == null ? "" : String(s)).replace(/[&<>"']/g, (c) =>
       ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   }
-  function stars(n) { return "★".repeat(n) + "☆".repeat(4 - n); }
+  function stars(n) {
+    let v = Number(n);
+    if (!isFinite(v) || v < 0) v = 0;
+    if (v > 4) v = 4;
+    return "★".repeat(v) + "☆".repeat(4 - v);
+  }
   function ptClass(pt) {
     if (pt === "文字款") return "t1";
     if (pt === "图案款") return "t2";
@@ -389,9 +394,53 @@
   let rtUpdated = window.REALTIME_UPDATED || "";
   let rtFirst = true;
 
+  // 把任意来源的事件规范成统一结构，避免缺字段导致渲染/弹窗崩溃
+  function normalizeEvent(e) {
+    if (!e || typeof e !== "object") return e;
+    // stars：数字或 🔥/★ 字符串 → 数字 0~4
+    let s = e.stars;
+    if (typeof s === "string") {
+      const cnt = (s.match(/🔥|★/g) || []).length;
+      s = cnt > 0 ? cnt : (parseInt(s, 10) || 3);
+    }
+    e.stars = Math.max(0, Math.min(4, Number(s) || 0));
+    // country：中文 → 代码
+    if (e.country === "泰国") e.country = "th";
+    else if (e.country === "马来西亚") e.country = "my";
+    else if (e.country === "多市场") e.country = "multi";
+    // 兜底缺失字段
+    if (!Array.isArray(e.sources)) e.sources = [];
+    e.sources = e.sources.map((x) => {
+      const c = x && x.credibility;
+      let cs = c;
+      if (typeof c === "number") cs = c >= 75 ? "高" : c >= 50 ? "中" : "低";
+      return Object.assign({}, x, { credibility: cs });
+    });
+    if (!Array.isArray(e.timeline)) e.timeline = [];
+    if (!Array.isArray(e.tags)) e.tags = [];
+    if (!e.sourceBreadth || typeof e.sourceBreadth !== "object") e.sourceBreadth = { local: 0, global: 0, social_only: 0 };
+    if (typeof e.credibilityScore !== "number") e.credibilityScore = Number(e.credibilityScore) || 60;
+    if (typeof e.buzzIndex !== "number") e.buzzIndex = Number(e.buzzIndex) || 50;
+    if (typeof e.hotDays !== "number") e.hotDays = Number(e.hotDays) || 1;
+    if (typeof e.hasMedia !== "boolean") e.hasMedia = !!e.hasMedia;
+    if (typeof e.localFlag !== "boolean") e.localFlag = !!e.localFlag;
+    if (typeof e.cover !== "string") e.cover = "";
+    if (typeof e.coverType !== "string") e.coverType = "placeholder";
+    if (typeof e.printType !== "string") e.printType = "文字+图案";
+    if (typeof e.risk !== "string") e.risk = "低";
+    if (typeof e.titleCn !== "string") e.titleCn = String(e.titleCn || e.titleOrig || "未命名");
+    if (typeof e.summary !== "string") e.summary = "";
+    if (typeof e.catCn !== "string") e.catCn = "其他热搜";
+    if (typeof e.timeRel !== "string") e.timeRel = "";
+    if (typeof e.timeAbs !== "string") e.timeAbs = "";
+    if (typeof e.imageSource !== "string") e.imageSource = "";
+    if (typeof e.primaryUrl !== "string") e.primaryUrl = "";
+    return e;
+  }
+
   function rebuildEvents() {
-    const base = window.EVENTS || [];
-    const rt = window.EVENTS_REALTIME || [];
+    const base = (window.EVENTS || []).map(normalizeEvent);
+    const rt = (window.EVENTS_REALTIME || []).map(normalizeEvent);
     const seen = new Set();
     const out = [];
     for (const e of base.concat(rt)) {
@@ -420,6 +469,11 @@
       rebuildEvents();
       renderHeroStats();
       render();
+      // 右上角日期改为云端实时更新时间
+      const ud = document.getElementById("updatedDate");
+      const lu = document.getElementById("lastUpdate");
+      if (ud && rtUpdated) ud.textContent = rtUpdated.slice(0, 10);
+      if (lu) lu.textContent = "实时榜单更新：" + (rtUpdated || "").replace("T", " ").slice(0, 16);
       if (changed && !rtFirst) {
         showToast("🔄 实时榜单已更新：" + (u || "").replace("T", " ").slice(0, 16) + "，共 " + EVENTS.length + " 条热点");
       }
