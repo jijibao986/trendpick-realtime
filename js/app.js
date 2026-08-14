@@ -555,28 +555,39 @@
   }
 
   function kwAnalysisHtml(analysis) {
-    const flagTh = analysis.slogans.some(s => s.th);
-    const flagMy = analysis.slogans.some(s => s.my);
+    // 防御：确保 analysis 存在且各字段有默认值
+    if (!analysis || typeof analysis !== "object") return "";
+    const slogans = Array.isArray(analysis.slogans) ? analysis.slogans : [];
+    const elements = Array.isArray(analysis.elements) ? analysis.elements : [];
+    const colorsObj = (analysis.colors && typeof analysis.colors === "object") ? analysis.colors : { name: "百搭潮流系", colors: ["#2D3436 → #636E72"], desc: "中性配色" };
+    const colorArr = Array.isArray(colorsObj.colors) ? colorsObj.colors : [String(colorsObj.colors || "#888")];
+    const seoKw = Array.isArray(analysis.seoKw) ? analysis.seoKw : [];
+    const similarTrends = Array.isArray(analysis.similarTrends) ? analysis.similarTrends : [];
+    const audience = (analysis.audience && typeof analysis.audience === "object") ? analysis.audience : { primary: "泛兴趣人群", secondary: "热点关注者" };
+    const pricing = (analysis.pricing && typeof analysis.pricing === "object") ? analysis.pricing : { range: "฿99-299", cost: "￥2-5", suggest: "小批量测试" };
+
+    const flagTh = slogans.some(s => s && s.th);
+    const flagMy = slogans.some(s => s && s.my);
 
     // 文案行
-    const sloganRows = analysis.slogans.map(s => `
+    const sloganRows = slogans.map(s => `
       <div class="kw-slogan-row">
-        <span class="kw-lang-cn">🇨🇳 ${escapeHtml(s.cn)}</span>
-        ${flagTh ? `<span class="kw-lang-th">🇹🇭 ${escapeHtml(s.th)}</span>` : ""}
-        ${flagMy ? `<span class="kw-lang-my">🇲🇾 ${escapeHtml(s.my)}</span>` : ""}
+        <span class="kw-lang-cn">🇨🇳 ${escapeHtml((s && s.cn) || "")}</span>
+        ${flagTh ? `<span class="kw-lang-th">🇹🇭 ${escapeHtml((s && s.th) || "")}</span>` : ""}
+        ${flagMy ? `<span class="kw-lang-my">🇲🇾 ${escapeHtml((s && s.my) || "")}</span>` : ""}
       </div>`).join("");
 
     // 图案元素
-    const elHtml = analysis.elements.map(el => `<span class="kw-el-tag">${escapeHtml(el)}</span>`).join("");
+    const elHtml = elements.map(el => `<span class="kw-el-tag">${escapeHtml(el)}</span>`).join("");
 
-    // 色彩
-    const colorHtml = analysis.colors.map(c => `<span class="kw-color-chip" style="background:linear-gradient(135deg,${c})">${escapeHtml(c)}</span>`).join("");
+    // 色彩（colorsObj.colors 才是数组）
+    const colorHtml = colorArr.map(c => `<span class="kw-color-chip" style="background:linear-gradient(135deg,${c})">${escapeHtml(c)}</span>`).join("");
 
     // SEO关键词
-    const seoHtml = analysis.seoKw.map(k => `<span class="kw-seo-tag">${escapeHtml(k)}</span>`).join("");
+    const seoHtml = seoKw.map(k => `<span class="kw-seo-tag">${escapeHtml(k)}</span>`).join("");
 
     // 类似爆款
-    const simHtml = analysis.similarTrends.map(t => `<li>${escapeHtml(t)}</li>`).join("");
+    const simHtml = similarTrends.map(t => `<li>${escapeHtml(t)}</li>`).join("");
 
     return `
       <div class="m-section m-kw-section">
@@ -593,27 +604,27 @@
         </div>
 
         <div class="kw-block kw-block-half">
-          <div class="kw-block-title">🎨 色彩风格 · ${analysis.colors.name}</div>
+          <div class="kw-block-title">🎨 色彩风格 · ${escapeHtml(colorsObj.name || "")}</div>
           <div class="kw-colors">${colorHtml}</div>
-          <div class="kw-color-desc">${analysis.colors.desc}</div>
+          <div class="kw-color-desc">${escapeHtml(colorsObj.desc || "")}</div>
         </div>
 
         <div class="kw-block kw-block-half">
           <div class="kw-block-title">👥 目标客群</div>
           <div class="kw-audience">
-            <div><b>核心：</b>${analysis.audience.primary}</div>
-            <div><b>延伸：</b>${analysis.audience.secondary}</div>
-            ${analysis.audience.th ? `<div>🇹🇭 ${analysis.audience.th}</div>` : ""}
-            ${analysis.audience.my ? `<div>🇲🇾 ${analysis.audience.my}</div>` : ""}
+            <div><b>核心：</b>${escapeHtml(audience.primary || "")}</div>
+            <div><b>延伸：</b>${escapeHtml(audience.secondary || "")}</div>
+            ${audience.th ? `<div>🇹🇭 ${escapeHtml(audience.th)}</div>` : ""}
+            ${audience.my ? `<div>🇲🇾 ${escapeHtml(audience.my)}</div>` : ""}
           </div>
         </div>
 
         <div class="kw-block kw-block-half">
           <div class="kw-block-title">💰 定价参考</div>
           <div class="kw-pricing">
-            <div class="kw-price-range">${analysis.pricing.range}</div>
-            <div>成本：${analysis.pricing.cost}</div>
-            <div class="kw-price-tip">${analysis.pricing.suggest}</div>
+            <div class="kw-price-range">${escapeHtml(pricing.range || "")}</div>
+            <div>成本：${escapeHtml(pricing.cost || "")}</div>
+            <div class="kw-price-tip">${escapeHtml(pricing.suggest || "")}</div>
           </div>
         </div>
 
