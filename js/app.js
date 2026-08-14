@@ -78,6 +78,123 @@
     return `<div class="meter"><span class="meter-l">${label}</span><span class="meter-bar"><i style="width:${score}%;background:${color}"></i></span><span class="meter-v">${score}</span></div>`;
   }
 
+  // ---------- SVG 概念图生成器（替代黑块） ----------
+  const CONCEPT_ART = {
+    "明星八卦": { bg1:"#f472b6", bg2:"#a855f7", icon:"⭐", pattern:"stars" },
+    "演唱会综艺": { bg1:"#f59e0b", bg2:"#ef4444", icon:"🎤", pattern:"wave" },
+    "影视剧": { bg1:"#6366f1", bg2:"#8b5cf6", icon:"🎬", pattern:"clapper" },
+    "游戏电竞": { bg1:"#10b981", bg2:"#06b6d4", icon:"🎮", pattern:"gamepad" },
+    "网络热梗": { bg1:"#fbbf24", bg2:"#f97316", icon:"😂", pattern:"zap" },
+    "其他热搜": { bg1:"#ef4444", bg2:"#ec4899", icon:"🔥", pattern:"flame" },
+    "社会民生": { bg1:"#14b8a6", bg2:"#0ea5e9", icon:"🏘", pattern:"home" },
+    "体育": { bg1:"#22c55e", bg2:"#16a34a", icon:"⚽", pattern:"ball" },
+    "政党选举": { bg1:"#64748b", bg2:"#475569", icon:"🗳", pattern:"vote" },
+    "电商政策": { bg1:"#0ea5e9", bg2:"#6366f1", icon:"📦", pattern:"box" },
+    "平台热搜": { bg1:"#8b5cf6", bg2:"#d946ef", icon:"🔍", pattern:"search" },
+  };
+
+  function generateConceptSvg(cat, title) {
+    const art = CONCEPT_ART[cat] || CONCEPT_ART["其他热搜"];
+    const safeTitle = (title || "").slice(0, 20);
+    // SVG pattern backgrounds
+    const patterns = {
+      stars: `<circle cx="30" cy="30" r="2" fill="rgba(255,255,255,.15)"/><circle cx="70" cy="20" r="3" fill="rgba(255,255,255,.12)"/><circle cx="200" cy="60" r="2.5" fill="rgba(255,255,255,.18)"/><circle cx="260" cy="25" r="2" fill="rgba(255,255,255,.1)"/><circle cx="150" cy="80" r="3" fill="rgba(255,255,255,.14)"/><circle cx="100" cy="45" r="1.5" fill="rgba(255,255,255,.16)"/>`,
+      wave: `<path d="M0 90 Q50 60 100 80 T200 75 T300 85 L300 120 L0 120Z" fill="rgba(255,255,255,.08)"/><path d="M0 100 Q60 70 120 90 T240 82 L300 95 L300 120 L0 120Z" fill="rgba(255,255,255,.05)"/>`,
+      clapper: `<rect x="230" y="15" width="40" height="8" rx="2" fill="rgba(255,255,255,.12)" transform="rotate(-15 250 19)"/><rect x="220" y="30" width="50" height="35" rx="3" fill="rgba(255,255,255,.08)"/><circle cx="235" cy="48" r="5" fill="rgba(255,255,255,.1)"/>`,
+      gamepad: `<rect x="180" y="50" width="60" height="40" rx="8" fill="rgba(255,255,255,.08)"/><circle cx="198" cy="70" r="6" fill="rgba(255,255,255,.1)"/><circle cx="222" cy="70" r="6" fill="rgba(255,255,255,.1)"/><rect x="205" y="58" width="10" height="4" rx="2" fill="rgba(255,255,255,.1)"/>`,
+      zap: `<path d="M140 30 L155 55 L145 55 L160 85 L135 55 L148 55 Z" fill="rgba(255,255,255,.12)"/><path d="M200 40 L210 58 L204 58 L215 78 L198 58 L206 58 Z" fill="rgba(255,255,255,.08)"/>`,
+      flame: `<path d="M250 90 Q260 60 245 40 Q255 55 265 35 Q258 60 270 90Z" fill="rgba(255,255,255,.12)"/><path d="M40 95 Q48 72 36 56 Q44 68 52 50 Q46 72 56 95Z" fill="rgba(255,255,255,.08)"/>`,
+      home: `<path d="M30 75 L50 55 L70 75 L70 95 L30 95Z" fill="rgba(255,255,255,.08)"/><rect x="42" y="78" width="16" height="17" fill="rgba(255,255,255,.05)"/>`,
+      ball: `<circle cx="250" cy="55" r="22" fill="none" stroke="rgba(255,255,255,.1)" stroke-width="2"/><path d="M238 45 Q250 55 238 65 Q250 55 262 45 Q250 55 262 65" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="1.5"/>`,
+      vote: `<rect x="225" y="40" width="30" height="40" rx="4" fill="rgba(255,255,255,.08)"/><path d="M240 48 L248 58 L232 58Z" fill="rgba(255,255,255,.12)"/>`,
+      box: `<rect x="210" y="55" width="50" height="35" rx="4" fill="rgba(255,255,255,.08)"/><path d="M210 68 L260 68" stroke="rgba(255,255,255,.1)" stroke-width="1.5"/><line x1="235" y1="55" x2="235" y2="90" stroke="rgba(255,255,255,.08)" stroke-width="1"/>`,
+      search: `<circle cx="250" cy="55" r="16" fill="none" stroke="rgba(255,255,255,.1)" stroke-width="2.5"/><line x1="262" y1="67" x2="275" y2="80" stroke="rgba(255,255,255,.1)" stroke-width="2.5"/>`,
+    };
+    return `<svg class="concept-svg" viewBox="0 0 300 120" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="cg-${cat.replace(/\s/g,'')}" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color:${art.bg1}"/>
+          <stop offset="100%" style="stop-color:${art.bg2}"/>
+        </linearGradient>
+      </defs>
+      <rect width="300" height="120" rx="10" fill="url(#cg-${cat.replace(/\s/g,'')})"/>
+      ${patterns[art.pattern] || patterns.stars}
+      <text x="150" y="68" text-anchor="middle" font-size="38" fill="rgba(255,255,255,.9)">${art.icon}</text>
+      <text x="150" y="98" text-anchor="middle" font-size="13" font-weight="700" fill="rgba(255,255,255,.85)" letter-spacing="1">${escapeHtml(safeTitle)}</text>
+    </svg>`;
+  }
+
+  // ---------- 多图支持：为每个事件构建图片列表 ----------
+  function getEventImages(e) {
+    const imgs = [];
+    // 1. 主 cover
+    if (e.cover) {
+      if (e.coverType === "remote" || /^https?:\/\//.test(e.cover)) {
+        imgs.push({ url: e.cover, type: "remote" });
+      } else {
+        imgs.push({ url: "img/" + e.cover, type: "local" });
+      }
+    }
+    // 2. media 数组中的图片
+    if (Array.isArray(e.media)) {
+      e.media.forEach(m => {
+        if (m && (m.url || m.src || m.image)) {
+          const u = m.url || m.src || m.image;
+          if (u && !imgs.some(i => i.url === u)) {
+            imgs.push({ url: u, type: /^https?:\/\//.test(u) ? "remote" : "local", caption: m.caption || m.alt || "" });
+          }
+        }
+      });
+    }
+    // 3. 如果完全没有图，生成概念图
+    if (imgs.length === 0) {
+      imgs.push({ url: generateConceptSvg(e.catCn, e.titleCn), type: "svg", isSvg: true });
+    }
+    return imgs;
+  }
+
+  function buildImgStrip(images, maxShow) {
+    maxShow = maxShow || 5;
+    if (images.length <= 1) return "";
+    const thumbs = images.slice(0, maxShow).map((img, i) =>
+      img.isSvg
+        ? `<div class="thumb more" onclick="event.stopPropagation();switchGalleryImg(${i})">🖼${images.length}</div>`
+        : `<img class="thumb${i===0?' active':''}" src="${escapeHtml(img.url)}" alt="" loading="lazy" onclick="event.stopPropagation();switchGalleryImg(${i})" />`
+    ).join("");
+    if (images.length > maxShow) {
+      thumbs += `<div class="thumb more" onclick="event.stopPropagation()">+${images.length - maxShow}</div>`;
+    }
+    return `<div class="img-strip">${thumbs}</div>`;
+  }
+
+  // 当前弹窗的图片画廊状态
+  let _galleryImages = [];
+  let _galleryIdx = 0;
+
+  window.switchGalleryImg = function(idx) {
+    _galleryIdx = idx;
+    const main = document.getElementById("mGalleryMain");
+    const dots = document.querySelectorAll(".m-gallery-dot");
+    const count = document.getElementById("mGalleryCount");
+    if (main && _galleryImages[idx]) {
+      const img = _galleryImages[idx];
+      if (img.isSvg) {
+        main.outerHTML = `<div class="m-gallery-none" id="mGalleryMain" style="--cg:${catGradient(img.catCn || '')}"><span>${CAT_EMOJI[img.catCn] || '🔥'}</span></div>`;
+      } else {
+        main.outerHTML = `<img class="m-gallery-main" id="mGalleryMain" src="${escapeHtml(img.url)}" onclick="openLightbox('${escapeHtml(img.url)}')" />`;
+      }
+    }
+    dots.forEach((d, i) => d.classList.toggle("active", i === idx));
+    if (count) count.textContent = (idx + 1) + "/" + _galleryImages.length;
+  };
+
+  window.galleryPrev = function() {
+    if (_galleryIdx > 0) switchGalleryImg(_galleryIdx - 1);
+  };
+  window.galleryNext = function() {
+    if (_galleryIdx < _galleryImages.length - 1) switchGalleryImg(_galleryIdx + 1);
+  };
+
   // ---------- init ----------
   function init() {
     const cc = document.getElementById("catChips");
@@ -175,24 +292,29 @@
   function coverHtml(e) {
     const local = e.localFlag ? '<span class="local-badge">🇹🇭🇲🇾 本地</span>' : "";
     const isRemote = e.coverType === "remote" || (e.cover && /^https?:\/\//.test(e.cover));
+    const images = getEventImages(e);
+
     if (e.cover && isRemote) {
-      const label = "远程配图";
+      // 有远程主图 + 可能多图
       return `<div class="cover ${e.coverType}">
-        <img class="rt-img" src="${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="openLightbox('${escapeHtml(e.cover)}')" />
-        <div class="rt-ph" style="--cg:${catGradient(e.catCn)}"><span class="ph-emoji">${CAT_EMOJI[e.catCn] || "🔥"}</span></div>
-        <span class="cover-badge ${e.coverType}">${label}</span>${local}
+        <img class="rt-img" src="${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('${escapeHtml(e.cover)}')" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+        <div class="rt-ph" style="--cg:${catGradient(e.catCn)};display:none"><span class="ph-emoji">${CAT_EMOJI[e.catCn] || "🔥"}</span></div>
+        ${buildImgStrip(images)}
+        <span class="cover-badge ${e.coverType}">远程配图${images.length>1?' · '+images.length+'张':''}</span>${local}
       </div>`;
     }
     if (e.cover) {
-      const label = "真实配图";
+      // 本地图片
       return `<div class="cover ${e.coverType}" onclick="openLightbox('img/${escapeHtml(e.cover)}')">
-        <img src="img/${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" />
-        <span class="cover-badge ${e.coverType}">${label}</span>${local}
+        <img src="img/${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onerror="this.src='data:image/svg+xml,...'" />
+        ${buildImgStrip(images)}
+        <span class="cover-badge ${e.coverType}">真实配图${images.length>1?' · '+images.length+'张':''}</span>${local}
       </div>`;
     }
-    return `<div class="cover none" style="--cg:${catGradient(e.catCn)}">
-      <span class="ph-emoji">${CAT_EMOJI[e.catCn] || "🔥"}</span>
-      <span class="cover-badge none">暂无配图</span>${local}
+    // 无图 → 动态 SVG 概念图
+    return `<div class="cover none concept" style="--cg:${catGradient(e.catCn)}">
+      ${generateConceptSvg(e.catCn, e.titleCn)}
+      <span class="cover-badge none">AI概念图</span>${local}
     </div>`;
   }
 
@@ -547,17 +669,36 @@
     const primaryBtn = e.primaryUrl
       ? `<a class="m-primary" href="${escapeHtml(e.primaryUrl)}" target="_blank" rel="noopener">🔗 查看原始报道 ↗</a>` : "";
 
-    const isRemote = e.coverType === "remote" || (e.cover && /^https?:\/\//.test(e.cover));
-    const coverBig = e.cover && isRemote
-      ? `<img class="m-cover rt-img" src="${escapeHtml(e.cover)}" alt="" onclick="openLightbox('${escapeHtml(e.cover)}')" /><div class="m-cover none rt-ph" style="--cg:${catGradient(e.catCn)}"><span>${CAT_EMOJI[e.catCn] || "🔥"}</span></div>`
-      : e.cover
-        ? `<img class="m-cover" src="img/${escapeHtml(e.cover)}" alt="" onclick="openLightbox('img/${escapeHtml(e.cover)}')" />`
-        : `<div class="m-cover none" style="--cg:${catGradient(e.catCn)}"><span>${CAT_EMOJI[e.catCn] || "🔥"}</span></div>`;
+    // 图片画廊（支持多图切换）
+    const images = getEventImages(e);
+    _galleryImages = images.map(img => Object.assign({}, img, { catCn: e.catCn }));
+    _galleryIdx = 0;
+
+    let galleryHtml;
+    if (images.length === 0 || (images.length === 1 && images[0].isSvg)) {
+      // 纯概念图
+      galleryHtml = `<div class="m-gallery"><div class="m-gallery-none" style="--cg:${catGradient(e.catCn)}">${CAT_EMOJI[e.catCn] || "🔥"}</div></div>`;
+    } else {
+      const firstImg = images[0];
+      const mainEl = firstImg.isSvg
+        ? `<div class="m-gallery-none" id="mGalleryMain" style="--cg:${catGradient(e.catCn)}"><span>${CAT_EMOJI[e.catCn] || "🔥"}</span></div>`
+        : `<img class="m-gallery-main" id="mGalleryMain" src="${escapeHtml(firstImg.url)}" onclick="openLightbox('${escapeHtml(firstImg.url)}')" />`;
+      const dots = images.map((_, i) => `<button class="m-gallery-dot${i===0?' active':''}" onclick="switchGalleryImg(${i})"></button>`).join("");
+      const navBtns = images.length > 1
+        ? `<button class="m-gallery-nav m-gallery-prev" onclick="galleryPrev()">◀</button><button class="m-gallery-nav m-gallery-next" onclick="galleryNext()">▶</button>`
+        : "";
+      galleryHtml = `<div class="m-gallery">
+        ${mainEl}
+        ${navBtns}
+        ${images.length > 1 ? `<div class="m-gallery-count" id="mGalleryCount">1/${images.length}</div>` : ""}
+        ${images.length > 1 ? `<div class="m-gallery-dots">${dots}</div>` : ""}
+      </div>`;
+    }
 
     const hasVerified = e.timeline.some((n) => n.verified);
     return `
       <button class="m-close" onclick="closeModal()">×</button>
-      ${coverBig}
+      ${galleryHtml}
       <span class="m-cat">${escapeHtml(e.catCn)} · ${e.country === "th" ? "🇹🇭 泰国" : e.country === "my" ? "🇲🇾 马来西亚" : "🌏 多市场"}${e.localFlag ? " · 🇹🇭🇲🇾 含本地媒体" : ""}</span>
       <h2>${escapeHtml(e.titleCn)}</h2>
       <div class="m-orig">${escapeHtml(e.titleOrig)}</div>
