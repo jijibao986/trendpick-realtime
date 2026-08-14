@@ -29,4 +29,4 @@ jobs:
           git config user.name "realtime-bot"
           git config user.email "bot@trendpick.local"
           git add realtime.js
-          git diff --quiet && echo "内容无变化，跳过提交" || (git commit -m "realtime: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" && git push)
+          git diff --cached --quiet && echo "内容无变化，跳过提交" || (git commit -m "realtime: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" && git push)
