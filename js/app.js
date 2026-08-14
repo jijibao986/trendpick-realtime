@@ -432,49 +432,173 @@
   function generateSlogans(e, cat, isTh, isMy) {
     const title = e.titleCn || "";
     const orig = e.titleOrig || "";
-    const list = [];
+    // 截取安全长度
+    const short = (s) => (s || "").slice(0, 14);
+    const shortO = (s) => (s || "").slice(0, 12);
 
-    // 根据分类生成不同风格的文案
-    const catSlogans = {
+    // ── 泰国专属：真泰文 + 中文翻译 ──
+    const thSlogans = {
       "明星八卦": [
-        { cn: `${title} · FAN CLUB`, th: `${title} 🌟`, my: `${title} Squad` },
-        { cn: `Official ${orig} Merch`, th: `${orig} Official`, my: `${orig} Original` },
-        { cn: `追星女孩必备 · ${title.slice(0, 10)}`, th: `Must Have! ${title.slice(0, 10)}`, my: `Wajib Punya!` },
+        { cn: `${title} · 粉丝团专属`, th: `${short(title)} Fan Club เฉพาะ` },
+        { cn: `${shortO(orig)} 官方周边`, th: `${shortO(orig)} Official Merch` },
+        { cn: `追星必备 · ${short(title)}`, th: `ของแท้! ${short(title)} ต้องมี` },
+        { cn: `偶像同款T恤`, th: `เสื้อยืดไอดอลเดียวกัน` },
       ],
       "演唱会综艺": [
-        { cn: `${title} TOUR 2026`, th: `${title} LIVE in TH`, my: `${title} KL Stop` },
-        { cn: `I WAS THERE · ${title}`, th: `เคยดูแล้ว ${title.slice(0, 8)}`, my: `Saya Ada Di Sana` },
-        { cn: `${title} · 限量巡演款`, th: `Limited Edition`, my: `Edisi Terhad` },
+        { cn: `${title} 巡演2026`, th: `${short(title)} TOUR 2026` },
+        { cn: `我去过现场！`, th: `เคยดูจริง! ${shortO(title)}` },
+        { cn: `${title} · 限量巡演款`, th: `${short(title)} Limited Edition` },
+        { cn: `演唱会纪念款`, th: `Concert Memorial Tee` },
       ],
       "影视剧": [
-        { cn: `"${(e.summary || "").slice(0, 12)}"`, th: `From ${orig.slice(0, 10)}`, my: `Quote from ${orig.slice(0, 10)}` },
-        { cn: `${title} · 剧粉认证`, th: `${title} Fan Club`, my: `${title} Lovers` },
-        { cn: `角色名 / 经典台词印花`, th: `Character Name Art`, my: `Character Tee` },
+        { cn: `"${short(e.summary || "")}"`, th: `"${shortO(orig)}" Quote Art` },
+        { cn: `${title} · 剧迷认证`, th: `${short(title)} Series Lover` },
+        { cn: `角色名印花 / 经典台词`, th: `Character Name · บทพูดคลาสสิก` },
       ],
       "游戏电竞": [
-        { cn: `${title} · GAMER`, th: `${title} PRO PLAYER`, my: `${title} GG WP` },
-        { cn: `RANK UP! · ${title}`, th: `Victory Royale 🏆`, my: `BOOYAH!` },
-        { cn: `${title} · 装备/皮肤印花`, th: `Skin Collection`, my: `Gear Up!` },
+        { cn: `${title} · 职业玩家`, th: `${short(title)} PRO PLAYER 🎮` },
+        { cn: `段位升级！`, th: `RANK UP! ${shortO(title)}` },
+        { cn: `${title} · 皮肤/装备印花`, th: `${short(title)} Skin Collection` },
+        { cn: `GG 赢了！`, th: `GG WP! Victory Royale 🏆` },
       ],
       "网络热梗": [
-        { cn: `${title} · VIRAL`, th: `${title} 🔥 Trending`, my: `${title} Viral` },
-        { cn: `梗图文字直接印花`, th: `Meme Template`, my: `Meme T-Shirt` },
-        { cn: `${title} · 懂的都懂`, th: `Inside Joke 😂`, my: `Understand Lah` },
+        { cn: `${title} · 病毒式传播`, th: `${short(title)} 🔥 ไวรัล` },
+        { cn: `梗图文字直接印花`, th: `Meme Template T-Shirt` },
+        { cn: `${title} · 懂的都懂`, th: `${short(title)} Inside Joke 😂` },
+      ],
+      "音乐榜单": [
+        { cn: `${title} · 今日神曲`, th: `${short(title)} Hit Song Of The Day 🎵` },
+        { cn: `单曲循环中...`, th: `On Repeat... ${shortO(title)}` },
+        { cn: `${title} · 音乐节款`, th: `${short(title)} Festival Vibe` },
+      ],
+      "平台热搜": [
+        { cn: `${title} · 全网热搜`, th: `${short(title)} Trending #1 🔥` },
+        { cn: `热搜话题印花`, th: `Hot Topic Print` },
+        { cn: `${title} · 大家都在搜`, th: `${short(title)} Everyone Searching` },
+      ],
+      "动漫热度": [
+        { cn: `${title} · 动漫迷必备`, th: `${short(title)} Anime Fan Must Have` },
+        { cn: `二次元印花`, th: `2D Anime Style Art` },
+        { cn: `${title} · 角色立绘`, th: `${short(title)} Character Art` },
+      ],
+      "游戏热度": [
+        { cn: `${title} · 游戏达人`, th: `${short(title)} Gamer Level Up ⬆️` },
+        { cn: `Steam热门同款`, th: `Steam Top Seller Tee` },
+        { cn: `${title} · 开黑必备`, th: `${short(title)} Squad Game On` },
       ],
     };
 
-    const base = catSlogans[cat] || [
-      { cn: `${title} · TRENDING`, th: `${title} 🔥`, my: `${title} Trending` },
-      { cn: `${orig.slice(0, 15)} · Limited`, th: `Limited Edition`, my: `Edisi Terhad` },
-      { cn: `热点追踪 · ${title.slice(0, 10)}`, th: `Hot Topic!`, my: `Trending Now!` },
-    ];
+    // ── 马来西亚专属：真马来文 + 中文翻译 ──
+    const mySlogans = {
+      "明星八卦": [
+        { cn: `${title} · 粉丝团专属`, my: `${short(title)} Fan Club Exclusive` },
+        { cn: `${shortO(orig)} 官方正品`, my: `${shortO(orig)} Original Authentik` },
+        { cn: `追星必备 · ${short(title)}`, my: `Wajib Ada! ${short(title)} Fan` },
+        { cn: `偶像同款T恤`, my: `T-Shirt Idola Sama` },
+      ],
+      "演唱会综艺": [
+        { cn: `${title} 巡演2026`, my: `${short(title)} Tour 2026 KL` },
+        { cn: `我在现场！`, my: `Saya Ada Di Sana! Live` },
+        { cn: `${title} · 限量版`, my: `${short(title)} Edisi Terhad` },
+        { cn: `演唱会纪念`, my: `Konsert Memorial` },
+      ],
+      "影视剧": [
+        { cn: `"${short(e.summary || "")}"`, my: `"${shortO(orig)}" Petikan Klasik` },
+        { cn: `${title} · 剧迷认证`, my: (short(title) || "") + " Peminat Drama" },
+        { cn: `角色名 / 经典台词`, my: `Nama Watak · Dialog Ikonik` },
+      ],
+      "游戏电竞": [
+        { cn: `${title} · 电竞达人`, my: `${short(title)} GG WP Pro` },
+        { cn: `上分成功！`, my: `Rank Up! Menang Terus 🏆` },
+        { cn: `${title} · 装备/皮肤`, my: `${short(title)} Gear & Skin` },
+        { cn: `赢了兄弟！`, my: `BOOYAH! Menang Bossku` },
+      ],
+      "网络热梗": [
+        { cn: `${title} · 爆红中`, my: `${short(title)} Viral Terkini 🔥` },
+        { cn: `梗图直接印`, my: `Meme Template Shirt` },
+        { cn: `${title} · 你懂的`, my: `${short(title)} Faham Lah 😂` },
+      ],
+      "音乐榜单": [
+        { cn: `${title} · 今日金曲`, my: `${short(title)} Lagu Hits Hari Ini 🎵` },
+        { cn: `单曲循环...`, my: `On Repeat... ${shortO(title)}` },
+        { cn: `${title} · 音乐节款`, my: `${short(title)} Festival Vibes` },
+      ],
+      "平台热搜": [
+        { cn: `${title} · 全网热搜`, my: `${short(title)} Trending #1 🔥` },
+        { cn: `热搜话题款`, my: `Hot Topic Print` },
+        { cn: `${title} · 人气搜索`, my: `${short(title)} Carian Popular` },
+      ],
+      "动漫热度": [
+        { cn: `${title} · 动漫迷必入`, my: `${short(title)} Anime Fan Wajib` },
+        { cn: `二次元风格`, my: `Gaya Anime 2D` },
+        { cn: `${title} · 角色设计`, my: `${short(title)} Character Design` },
+      ],
+      "游戏热度": [
+        { cn: `${title} · 游戏高手`, my: `${short(title)} Gamer Pro ⬆️` },
+        { cn: `Steam热销同款`, my: `Steam Best Seller Tee` },
+        { cn: `${title} · 组队开黑`, my: `${short(title)} Team Squad` },
+      ],
+    };
 
-    // 根据国家筛选显示
+    // ── 多市场/其他：中英双语 ──
+    const multiSlogans = {
+      "明星八卦": [
+        { cn: `${title} · FAN CLUB`, th: `${short(title)} Fan Club`, my: `${short(title)} Squad` },
+        { cn: `Official Merch`, th: `${shortO(orig)} Official`, my: `${shortO(orig)} Original` },
+        { cn: `追星必备`, th: `Must Have!`, my: `Wajib Punya!` },
+      ],
+      "演唱会综艺": [
+        { cn: `${title} TOUR 2026`, th: `LIVE in TH`, my: `KL Stop` },
+        { cn: `I WAS THERE`, th: `เคยดูแล้ว`, my: `Saya Ada Di Sana` },
+        { cn: `限量巡演款`, th: `Limited Edition`, my: `Edisi Terhad` },
+      ],
+      "影视剧": [
+        { cn: `"${short(e.summary || "")}"`, th: `Quote Art`, my: `Petikan Klasik` },
+        { cn: `${title} · 剧粉认证`, th: `Fan Club`, my: `Lovers` },
+        { cn: `角色名印花`, th: `Character Name`, my: `Nama Watak` },
+      ],
+      "游戏电竞": [
+        { cn: `${title} · GAMER`, th: `PRO PLAYER`, my: `GG WP` },
+        { cn: `RANK UP!`, th: `Victory Royale`, my: `BOOYAH!` },
+        { cn: `${title} · 皮肤印花`, th: `Skin Collection`, my: `Gear Up!` },
+      ],
+      "网络热梗": [
+        { cn: `${title} · VIRAL`, th: `🔥 Trending`, my: `Viral Terkini` },
+        { cn: `梗图印花`, th: `Meme Template`, my: `Meme Shirt` },
+        { cn: `${title} · 懂的都懂`, th: `Inside Joke`, my: `Faham Lah` },
+      ],
+      "音乐榜单": [
+        { cn: `${title} · 热门单曲`, th: `Hit Song 🎵`, my: `Lagu Hits` },
+        { cn: `循环播放中`, th: `On Repeat`, my: `Main Bergilir` },
+        { cn: `${title} · 音乐节`, th: `Festival`, my: `Festival Vibes` },
+      ],
+      "平台热搜": [
+        { cn: `${title} · 热搜爆款`, th: `Trending 🔥`, my: `Viral 🔥` },
+        { cn: `热搜关键词`, th: `Hot Topic`, my: `Topik Panas` },
+        { cn: `${title} · 全网关注`, th: `Everyone Watching`, my: `Semua Tengok` },
+      ],
+      "动漫热度": [
+        { cn: `${title} · 动漫爆款`, th: `Anime Hot`, my: `Anime Viral` },
+        { cn: `二次元必备`, th: `2D Style`, my: `Gaya Anime` },
+        { cn: `${title} · 角色款`, th: `Character Art`, my: `Design Watak` },
+      ],
+      "游戏热度": [
+        { cn: `${title} · 游戏热榜`, th: `Gaming Top`, my: `Game Popular` },
+        { cn: `Steam热销`, th: `Steam Hit`, my: `Steam Best` },
+        { cn: `${title} · 开黑款`, th: `Squad Game`, my: `Team Game` },
+      ],
+    };
+
+    // 根据国家选择词库
+    let base;
     if (isTh) {
-      return base.map(s => ({ ...s, showMy: false }));
+      base = thSlogans[cat] || thSlogans["平台热搜"];
     } else if (isMy) {
-      return base.map(s => ({ ...s, showTh: false }));
+      base = mySlogans[cat] || mySlogans["平台热搜"];
+    } else {
+      base = multiSlogans[cat] || multiSlogans["平台热搜"];
     }
+
     return base;
   }
 
@@ -530,16 +654,48 @@
 
   function generateSeoKw(words, e, cat, isTh, isMy) {
     const kw = [...words];
-    // 加入分类相关通用词
-    const catKw = {
-      "明星八卦": ["idol shirt", "fan club tee", "เสื้อไอดอล", "kpop merchandise", "baju idol"],
-      "演唱会综艺": ["concert tour tee", "tour merch", "เสื้อคอนเสิร์ต", "concert shirt", "baju konsert"],
-      "影视剧": ["movie quote shirt", "drama tee", "เสื้อหนัง", "drama merch", "baju drama"],
-      "游戏电竞": ["gamer shirt", "gaming tee", "เสื้อเกมเมอร์", "gaming merch", "baju gamer"],
-      "网络热梗": ["viral meme shirt", "trending tee", "เสื้อมีม", "meme tshirt", "baju viral"],
+    // 按国家返回对应语言的SEO关键词（含本地语言+中文）
+    if (isTh) {
+      const thKw = {
+        "明星八卦": ["เสื้อไอดอล", "แฟนคลับ", "idol shirt", "เสื้อยืดคนดัง", "ของแท้", "fan club tee", "kpop merch", "เสื้อซุปตาร์"],
+        "演唱会综艺": ["เสื้อคอนเสิร์ต", "concert tee", "tour merch", "เสื้อถ่ายทอด", "live event", "festival shirt", "เสื้อดนตรี"],
+        "影视剧": ["เสื้อหนัง", "drama tee", "movie quote", "เสื้อละคร", "series merch", "character art", "บทพูดคลาสสิก"],
+        "游戏电竞": ["เสื้อเกมเมอร์", "gamer shirt", "gaming tee", "เกมสุดฮิต", "steam top", "skin collection", "pro player"],
+        "网络热梗": ["เสื้อมีม", "viral shirt", "meme tee", "ไวรัล", "trending", "hot topic", "meme template"],
+        "音乐榜单": ["เพลงฮิต", "hit song", "music chart", "apple music", "เสื้อดนตรี", "festival vibe", "on repeat"],
+        "平台热搜": ["กระแสโซเชียล", "trending", "hot topic", "twitter viral", "คำค้นยอดนิยม", "hashtag ฮิต", "search popular"],
+        "动漫热度": ["อนิเมะฮิต", "anime shirt", "manga style", "character tee", "2D art", "otaku", "cosplay"],
+        "游戏热度": ["เกมยอดนิยม", "gaming hot", "steam best seller", "top game", "gamer pro", "rank up", "GG WP"],
+      };
+      return [...kw.slice(0, 6), ...(thKw[cat] || thKw["平台热搜"])];
+    }
+    if (isMy) {
+      const myKw = {
+        "明星八卦": ["baju idol", "fan club", "kpop merchandise", "baju artis", "original authentik", "idol shirt", "baju superstar"],
+        "演唱会综艺": ["baju konsert", "concert shirt", "tour merch", "edisi terhad", "live show", "festival tee", "baju artis"],
+        "影视剧": ["baju drama", "movie quote", "drama merch", "nama watak", "dialog ikonik", "series lover", "baju filem"],
+        "游戏电竞": ["baju gamer", "gaming shirt", "GG WP", "steam top", "gear up", "pro player", "rank up", "menang terus"],
+        "网络热梗": ["baju viral", "meme shirt", "trending now", "faham lah", "hot topic", "template meme", "viral terkini"],
+        "音乐榜单": ["lagu hits", "music chart", "hit song", "apple music", "baju muzik", "festival vibes", "main bergilir"],
+        "平台热搜": ["topik panas", "trending", "viral", "carian popular", "hashtag viral", "sosial media", "search hot"],
+        "动漫热度": ["baju anime", "anime fan", "gaya anime", "character design", "2D style", "otaku", "manga art"],
+        "游戏热度": ["game popular", "baju gaming", "steam best", "team squad", "gamer pro", "bossku", "booyah"],
+      };
+      return [...kw.slice(0, 6), ...(myKw[cat] || myKw["平台热搜"])];
+    }
+    // 多市场：中英泰马混合
+    const multiKw = {
+      "明星八卦": ["idol shirt", "fan club tee", "เสื้อไอดอล", "baju idol", "kpop merch", "star tee"],
+      "演唱会综艺": ["concert tour tee", "tour merch", "เสื้อคอนเสิร์ต", "baju konsert", "festival shirt", "live event"],
+      "影视剧": ["movie quote shirt", "drama tee", "เสื้อหนัง", "baju drama", "character art", "series merch"],
+      "游戏电竞": ["gamer shirt", "gaming tee", "เสื้อเกมเมอร์", "baju gamer", "steam top", "GG WP"],
+      "网络热梗": ["viral meme shirt", "trending tee", "เสื้อมีม", "baju viral", "hot topic", "meme template"],
+      "音乐榜单": ["hit song tee", "music chart", "เพลงฮิต", "lagu hits", "festival vibes", "apple music"],
+      "平台热搜": ["trending shirt", "hot topic", "กระแสฮิต", "topik panas", "viral", "search popular"],
+      "动漫热度": ["anime shirt", "manga style", "อนิเมะ", "baju anime", "character art", "2D design"],
+      "游戏热度": ["gaming hot", "steam best", "เกมฮิต", "game popular", "team squad", "rank up"],
     };
-    const extra = catKw[cat] || ["trendy shirt", "hot topic tee", "เสื้อฮิต", "trending", "baju trending"];
-    return [...kw.slice(0, 8), ...extra];
+    return [...kw.slice(0, 6), ...(multiKw[cat] || multiKw["平台热搜"])];
   }
 
   function generateSimilarTrends(cat, country) {
@@ -694,7 +850,7 @@
       const firstImg = images[0];
       const mainEl = firstImg.isSvg
         ? `<div class="m-gallery-none" id="mGalleryMain" style="--cg:${catGradient(e.catCn)}"><span>${CAT_EMOJI[e.catCn] || "🔥"}</span></div>`
-        : `<img class="m-gallery-main" id="mGalleryMain" src="${escapeHtml(firstImg.url)}" onclick="openLightbox('${escapeHtml(firstImg.url)}')" />`;
+        : `<img class="m-gallery-main" id="mGalleryMain" src="${escapeHtml(firstImg.url)}" onclick="openLightbox('${escapeHtml(firstImg.url)}')" onerror="this.onerror=null;this.style.display='none';var ph=document.getElementById('mGalleryFallback');if(ph)ph.style.display='flex';" /><div class="m-gallery-none" id="mGalleryFallback" style="--cg:${catGradient(e.catCn)};display:none"><span>${CAT_EMOJI[e.catCn] || "🔥"}</span></div>`;
       const dots = images.map((_, i) => `<button class="m-gallery-dot${i===0?' active':''}" onclick="switchGalleryImg(${i})"></button>`).join("");
       const navBtns = images.length > 1
         ? `<button class="m-gallery-nav m-gallery-prev" onclick="galleryPrev()">◀</button><button class="m-gallery-nav m-gallery-next" onclick="galleryNext()">▶</button>`
