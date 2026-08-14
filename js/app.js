@@ -270,7 +270,242 @@
     document.getElementById("heroStats").innerHTML = html;
   }
 
-  // ---------- modal ----------
+  // ---------- 印花关键词分析引擎 ----------
+  function keywordAnalysis(e) {
+    const t = (e.titleCn || "") + " " + (e.titleOrig || "") + " " + (e.summary || "") + " " + (e.tags.join(" "));
+    const cat = e.catCn || "其他热搜";
+    const country = e.country || "multi";
+    const isTh = country === "th";
+    const isMy = country === "my";
+
+    // 1️⃣ 提取核心关键词（去重、过滤停用词）
+    const stopWords = new Set(["的","了","在","是","我","有","和","就","不","人","都","一","一个","上","也","很","到","说","要","去","你","会","着","没有","看","好","自己","这","他","她","它","们","那","被","从","把","对","与","而","但","或","及","等","之","用","可以","这个","那个","什么","如何","为什么","因为","所以","如果","the","a","an","is","are","was","were","be","been","being","have","has","had","do","does","did","will","would","could","should","may","might","must","shall","can","this","that","these","those","with","from","for","about","into","through","during","before","after","above","below","between","under","again","further","then","once","here","there","when","where","why","how","all","each","few","more","most","other","some","such","no","nor","not","only","own","same","so","than","too","very","just","และ","ที่","มี","เป็น","การ","นั้น","นี้","ได้","จะ","แต่","หรือ","ไม่","ใน","จาก","เพื่อ","สำหรับ","dan","yang","ada","pada","dengan","untuk","dari","ini","itu","atau","bukan","dalam"]);
+    const words = [...new Set(t.toLowerCase().split(/[\s,，.。!！?？:：;；""''【】\[\]（）()\/\/\\|｜\-—_]+/).filter(w => w.length > 1 && !stopWords.has(w)))].slice(0, 15);
+
+    // 2️⃣ 推荐印花文案（基于分类智能生成）
+    const slogans = generateSlogans(e, cat, isTh, isMy);
+
+    // 3️⃣ 图案元素推荐
+    const elements = generateElements(e, cat);
+
+    // 4️⃣ 色彩风格
+    const colors = generateColors(e, cat, e.stars);
+
+    // 5️⃣ 目标客群
+    const audience = generateAudience(e, cat, country);
+
+    // 6️⃣ 定价区间
+    const pricing = generatePricing(e, e.stars, e.printType);
+
+    // 7️⃣ 搜索/SEO 关键词
+    const seoKw = generateSeoKw(words, e, cat, isTh, isMy);
+
+    // 8️⃣ 类似爆款方向
+    const similarTrends = generateSimilarTrends(cat, country);
+
+    return { slogans, elements, colors, audience, pricing, seoKw, similarTrends, rawWords: words.slice(0, 10) };
+  }
+
+  function generateSlogans(e, cat, isTh, isMy) {
+    const title = e.titleCn || "";
+    const orig = e.titleOrig || "";
+    const list = [];
+
+    // 根据分类生成不同风格的文案
+    const catSlogans = {
+      "明星八卦": [
+        { cn: `${title} · FAN CLUB`, th: `${title} 🌟`, my: `${title} Squad` },
+        { cn: `Official ${orig} Merch`, th: `${orig} Official`, my: `${orig} Original` },
+        { cn: `追星女孩必备 · ${title.slice(0, 10)}`, th: `Must Have! ${title.slice(0, 10)}`, my: `Wajib Punya!` },
+      ],
+      "演唱会综艺": [
+        { cn: `${title} TOUR 2026`, th: `${title} LIVE in TH`, my: `${title} KL Stop` },
+        { cn: `I WAS THERE · ${title}`, th: `เคยดูแล้ว ${title.slice(0, 8)}`, my: `Saya Ada Di Sana` },
+        { cn: `${title} · 限量巡演款`, th: `Limited Edition`, my: `Edisi Terhad` },
+      ],
+      "影视剧": [
+        { cn: `"${(e.summary || "").slice(0, 12)}"`, th: `From ${orig.slice(0, 10)}`, my: `Quote from ${orig.slice(0, 10)}` },
+        { cn: `${title} · 剧粉认证`, th: `${title} Fan Club`, my: `${title} Lovers` },
+        { cn: `角色名 / 经典台词印花`, th: `Character Name Art`, my: `Character Tee` },
+      ],
+      "游戏电竞": [
+        { cn: `${title} · GAMER`, th: `${title} PRO PLAYER`, my: `${title} GG WP` },
+        { cn: `RANK UP! · ${title}`, th: `Victory Royale 🏆`, my: `BOOYAH!` },
+        { cn: `${title} · 装备/皮肤印花`, th: `Skin Collection`, my: `Gear Up!` },
+      ],
+      "网络热梗": [
+        { cn: `${title} · VIRAL`, th: `${title} 🔥 Trending`, my: `${title} Viral` },
+        { cn: `梗图文字直接印花`, th: `Meme Template`, my: `Meme T-Shirt` },
+        { cn: `${title} · 懂的都懂`, th: `Inside Joke 😂`, my: `Understand Lah` },
+      ],
+    };
+
+    const base = catSlogans[cat] || [
+      { cn: `${title} · TRENDING`, th: `${title} 🔥`, my: `${title} Trending` },
+      { cn: `${orig.slice(0, 15)} · Limited`, th: `Limited Edition`, my: `Edisi Terhad` },
+      { cn: `热点追踪 · ${title.slice(0, 10)}`, th: `Hot Topic!`, my: `Trending Now!` },
+    ];
+
+    // 根据国家筛选显示
+    if (isTh) {
+      return base.map(s => ({ ...s, showMy: false }));
+    } else if (isMy) {
+      return base.map(s => ({ ...s, showTh: false }));
+    }
+    return base;
+  }
+
+  function generateElements(e, cat) {
+    const elMap = {
+      "明星八卦": ["人物剪影/侧脸轮廓", "名字艺术字设计", "生日年份数字", "星座符号", "粉丝团Logo元素", "签名风格字体"],
+      "演唱会综艺": ["舞台灯光效果", "Tour日期城市列表", "麦克风/乐器图标", "门票票根设计", "乐队/歌手Logo", "霓虹灯管风格"],
+      "影视剧": ["经典台词字幕框", "角色Q版形象", "电影胶片边框", "剧名艺术字+副标题", "场景剪影（地标/道具）", "上映日期纪念"],
+      "游戏电竞": ["游戏角色立绘/像素风", "装备/武器图标", "段位徽章设计", "战队Logo+ID", "操作按键布局(WASD)", "胜利/升级特效字"],
+      "网络热梗": ["表情包主角形象", "梗图文字排版", "对比图/meme模板", "emoji大字报组合", "对话气泡框", "极简文字冲击"],
+      "体育": ["球衣号码+名字", "冠军奖杯图案", "运动剪影动态线", "球队配色条纹", "比分牌设计", "体育场轮廓"],
+      "其他热搜": ["事件关键词云", "时间节点数字", "地点轮廓/地图元素", "报纸头条排版", "极简信息图", "话题标签#hashtag"],
+    };
+    return elMap[cat] || elMap["其他热搜"];
+  }
+
+  function generateColors(e, cat, stars) {
+    const highStars = stars >= 3;
+    const colorPalettes = {
+      "明星八卦": { name: "星光渐变系", colors: ["#FF6B9D → #C44569", "#E84393 → #6C5CE7", "#FD79A8 → #FDCB6E"], desc: "粉紫渐变为主，符合粉丝经济调性" },
+      "演唱会综艺": { name: "霓虹舞台系", colors: ["#00D2FF → #3A7BD5", "#F7DF1E → #FF6B6B", "#A29BFE → #6C5CE7"], desc: "高饱和霓虹色，模拟舞台灯光感" },
+      "影视剧": { name: "电影质感系", colors: ["#2D3436 → #636E72", "#DFE6E9 → #B2BEC3", "#6C5CE7 → #0984E3"], desc: "深色调+金属质感，高级感强" },
+      "游戏电竞": { name: "RGB电竞系", colors: ["#00FF00 → #00FFFF", "#FF0040 → #800080", "#FFD700 → #FF4500"], desc: "RGB高对比度，赛博朋克风" },
+      "网络热梗": { name: "高对比撞色", colors: ["#000000 → #FFFFFF", "#FF4500 → #FFD700", "#00FFFF → #FF00FF"], desc: "黑白或强烈撞色，视觉冲击力max" },
+      "体育": { name: "运动活力系", colors: ["#27AE60 → #2ECC71", "#E74C3C → #C0392B", "#3498DB → #2980B9"], desc: "队服配色+活力绿/红/蓝" },
+    };
+    const pal = colorPalettes[cat] || { name: "百搭潮流系", colors: ["#2D3436 → #636E72", "#E17055 → #FDCB6E", "#00B894 → #00CEC9"], desc: "中性色+点缀色，适配多场景" };
+    if (highStars) pal.desc += " ⭐ 高潜力爆款建议加大首版备货";
+    return pal;
+  }
+
+  function generateAudience(e, cat, country) {
+    const audMap = {
+      "明星八卦": { primary: "18-30岁女性粉丝", secondary: "追星族/偶像团体粉丝", th: "泰国K-pop/BLKpop粉丝圈", my: "马来西亚韩流/泰流粉丝" },
+      "演唱会综艺": { primary: "16-35岁音乐爱好者", secondary: "现场观众/巡演收藏者", th: "泰国Concert常客/KKBox用户", my: "大马演唱会人群/Spotify MY" },
+      "影视剧": { primary: "18-40岁剧迷", secondary: "Netflix/Disney+订阅用户", th: "泰国Netflix用户/剧集讨论区", my: "马来西亚Viu/WeTV用户" },
+      "游戏电竞": { primary: "16-28岁男性玩家", secondary: "Steam/Mobile Gamer", th: "泰国Steam/Garena玩家", my: "马来西亚Mobile Legends/PUBG玩家" },
+      "网络热梗": { primary: "15-30岁Z世代", secondary: "TikTok/Twitter重度用户", th: "泰国Twitter/TikTok网民", my: "马来西亚TikTok/IG用户" },
+      "体育": { primary: "18-45岁体育迷", secondary: "球迷/健身人群", th: "泰国足球迷/拳击迷", my: "马来西亚足球/羽球爱好者" },
+    };
+    return audMap[cat] || audMap["其他热搜"];
+  }
+
+  function generatePricing(e, stars, pt) {
+    if (stars >= 4) {
+      return { range: "฿199-499 / RM25-65", cost: "印花成本￥3-8", suggest: "★4爆款候选 — 首批建议50-100件测试，可设阶梯价" };
+    } else if (stars >= 3) {
+      return { range: "฿149-349 / RM18-45", cost: "印花成本￥2-5", suggest: "★3潜力款 — 小批量30件起测，关注转化率" };
+    } else {
+      return { range: "฿99-249 / RM12-32", cost: "印花成本￥1-3", suggest: "低星测试款 — 按需生产/POD模式，控制库存风险" };
+    }
+  }
+
+  function generateSeoKw(words, e, cat, isTh, isMy) {
+    const kw = [...words];
+    // 加入分类相关通用词
+    const catKw = {
+      "明星八卦": ["idol shirt", "fan club tee", "เสื้อไอดอล", "kpop merchandise", "baju idol"],
+      "演唱会综艺": ["concert tour tee", "tour merch", "เสื้อคอนเสิร์ต", "concert shirt", "baju konsert"],
+      "影视剧": ["movie quote shirt", "drama tee", "เสื้อหนัง", "drama merch", "baju drama"],
+      "游戏电竞": ["gamer shirt", "gaming tee", "เสื้อเกมเมอร์", "gaming merch", "baju gamer"],
+      "网络热梗": ["viral meme shirt", "trending tee", "เสื้อมีม", "meme tshirt", "baju viral"],
+    };
+    const extra = catKw[cat] || ["trendy shirt", "hot topic tee", "เสื้อฮิต", "trending", "baju trending"];
+    return [...kw.slice(0, 8), ...extra];
+  }
+
+  function generateSimilarTrends(cat, country) {
+    const trends = {
+      "明星八卦": ["同组合/剧团其他成员周边", "同期选秀/综艺衍生", "明星联名潮牌合作款", "粉丝应援色系T恤"],
+      "演唱会综艺": ["音乐节通用款(Summer Sonic/Big Mountain)", "DJ/Producer系列", "乐器品牌联名(Fender/Gibson)", "Live House巡演地图"],
+      "影视剧": ["同导演/编剧其他作品", "流平台Top10联动", "漫画原著改编联动", "经典老剧复刻(Nostalgia Wave)"],
+      "游戏电竞": ["同IP手游/端游联动", "电竞赛事战队周边", "主播/Streamer联名", "游戏外设品牌联名"],
+      "网络热梗": ["同类meme变体延展", "TikTok挑战赛关联", "表情包系列(Blind Box概念)", "时事梗后续跟进"],
+      "体育": ["国家队/俱乐部主场客场", "传奇球员退役纪念", "奥运会/世界杯周期", "极限运动跨界"],
+    };
+    return trends[cat] || trends["其他热搜"];
+  }
+
+  function kwAnalysisHtml(analysis) {
+    const flagTh = analysis.slogans.some(s => s.th);
+    const flagMy = analysis.slogans.some(s => s.my);
+
+    // 文案行
+    const sloganRows = analysis.slogans.map(s => `
+      <div class="kw-slogan-row">
+        <span class="kw-lang-cn">🇨🇳 ${escapeHtml(s.cn)}</span>
+        ${flagTh ? `<span class="kw-lang-th">🇹🇭 ${escapeHtml(s.th)}</span>` : ""}
+        ${flagMy ? `<span class="kw-lang-my">🇲🇾 ${escapeHtml(s.my)}</span>` : ""}
+      </div>`).join("");
+
+    // 图案元素
+    const elHtml = analysis.elements.map(el => `<span class="kw-el-tag">${escapeHtml(el)}</span>`).join("");
+
+    // 色彩
+    const colorHtml = analysis.colors.map(c => `<span class="kw-color-chip" style="background:linear-gradient(135deg,${c})">${escapeHtml(c)}</span>`).join("");
+
+    // SEO关键词
+    const seoHtml = analysis.seoKw.map(k => `<span class="kw-seo-tag">${escapeHtml(k)}</span>`).join("");
+
+    // 类似爆款
+    const simHtml = analysis.similarTrends.map(t => `<li>${escapeHtml(t)}</li>`).join("");
+
+    return `
+      <div class="m-section m-kw-section">
+        <h4>🎨 印花关键词分析 <span class="m-sub">AI驱动 · 可直接用于打样</span></h4>
+
+        <div class="kw-block">
+          <div class="kw-block-title">📝 推荐印花文案（可直接印）</div>
+          <div class="kw-slogans">${sloganRows}</div>
+        </div>
+
+        <div class="kw-block">
+          <div class="kw-block-title">🖼 图案元素建议</div>
+          <div class="kw-tags">${elHtml}</div>
+        </div>
+
+        <div class="kw-block kw-block-half">
+          <div class="kw-block-title">🎨 色彩风格 · ${analysis.colors.name}</div>
+          <div class="kw-colors">${colorHtml}</div>
+          <div class="kw-color-desc">${analysis.colors.desc}</div>
+        </div>
+
+        <div class="kw-block kw-block-half">
+          <div class="kw-block-title">👥 目标客群</div>
+          <div class="kw-audience">
+            <div><b>核心：</b>${analysis.audience.primary}</div>
+            <div><b>延伸：</b>${analysis.audience.secondary}</div>
+            ${analysis.audience.th ? `<div>🇹🇭 ${analysis.audience.th}</div>` : ""}
+            ${analysis.audience.my ? `<div>🇲🇾 ${analysis.audience.my}</div>` : ""}
+          </div>
+        </div>
+
+        <div class="kw-block kw-block-half">
+          <div class="kw-block-title">💰 定价参考</div>
+          <div class="kw-pricing">
+            <div class="kw-price-range">${analysis.pricing.range}</div>
+            <div>成本：${analysis.pricing.cost}</div>
+            <div class="kw-price-tip">${analysis.pricing.suggest}</div>
+          </div>
+        </div>
+
+        <div class="kw-block kw-block-half">
+          <div class="kw-block-title">🔍 搜索/Lazada关键词</div>
+          <div class="kw-tags kw-seo">${seoHtml}</div>
+        </div>
+
+        <div class="kw-block">
+          <div class="kw-block-title">📈 类似爆款方向（可提前布局）</div>
+          <ul class="kw-similar">${simHtml}</ul>
+        </div>
+      </div>`;
+  }
+
   function suggestion(e) {
     let s = "";
     if (e.printType === "文字款") s += "建议以<b>文字款</b>为主，突出泰文/中文口号，成本低、上架快，适合快速测试。";
@@ -344,6 +579,8 @@
         <h4>🕒 事件脉络 <span class="m-sub">${hasVerified ? "含已核实节点" : "当前为推断示意，将由研究逐步核实"}</span></h4>
         <div class="tl">${tlHtml}</div>
       </div>
+
+      ${kwAnalysisHtml(keywordAnalysis(e))}
 
       ${primaryBtn}
     ${e.imageSource ? `<div class="m-imgsrc">🖼 配图来源：${escapeHtml(e.imageSource)}</div>` : ""}
@@ -469,11 +706,23 @@
       rebuildEvents();
       renderHeroStats();
       render();
-      // 右上角日期改为云端实时更新时间
+      // 右上角日期改为云端实时更新时间 + 下次更新倒计时
       const ud = document.getElementById("updatedDate");
       const lu = document.getElementById("lastUpdate");
       if (ud && rtUpdated) ud.textContent = rtUpdated.slice(0, 10);
-      if (lu) lu.textContent = "实时榜单更新：" + (rtUpdated || "").replace("T", " ").slice(0, 16);
+      if (lu) {
+        lu.textContent = "🔄 实时榜单：" + (rtUpdated || "").replace("T", " ").slice(0, 16) + " · 每30分钟自动刷新";
+        // 显示下次预计更新（约30分钟后）
+        const nextEl = document.getElementById("nextUpdate");
+        if (nextEl && rtUpdated) {
+          try {
+            const last = new Date(rtUpdated);
+            const next = new Date(last.getTime() + 30 * 60 * 1000);
+            nextEl.textContent = "⏰ 下次约 " + next.toISOString().replace("T", " ").slice(0, 16) + " 更新";
+            nextEl.style.display = "";
+          } catch(e) { nextEl.style.display = "none"; }
+        }
+      }
       if (changed && !rtFirst) {
         showToast("🔄 实时榜单已更新：" + (u || "").replace("T", " ").slice(0, 16) + "，共 " + EVENTS.length + " 条热点");
       }

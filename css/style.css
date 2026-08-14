@@ -232,3 +232,51 @@ main{max-width:1320px;margin:0 auto;padding:8px 28px 40px}
   .search{order:3;flex-basis:100%}
   .safe-toggle{margin-left:0}
 }
+
+/* ========== 印花关键词分析板块 ========== */
+.m-kw-section{background:linear-gradient(135deg,#f8fafc-10%,#f1f5f9-10%);border-radius:14px;border:1px solid #e2e8f0;overflow:hidden}
+.kw-block{padding:16px 18px;border-bottom:1px solid #e2e8f0}
+.kw-block:last-child{border-bottom:none}
+.kw-block-title{font-size:13.5px;font-weight:700;color:#334155;margin-bottom:10px;display:flex;align-items:center;gap:6px}
+
+/* 文案行 */
+.kw-slogans{display:flex;flex-direction:column;gap:8px}
+.kw-slogan-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;background:#fff;border-radius:8px;padding:10px 12px;border:1px dashed #cbd5e1;font-size:13px;line-height:1.5}
+.kw-slogan-row span{display:inline-block;padding:3px 0}
+.kw-lang-cn{color:#1e293b;font-weight:600;min-width:0;flex:1 1 180px}
+.kw-lang-th{color:#0891b2;font-weight:500;min-width:0;flex:1 1 150px}
+.kw-lang-my{color:#7c3aed;font-weight:500;min-width:0;flex:1 1 150px}
+
+/* 标签组 */
+.kw-tags{display:flex;flex-wrap:wrap;gap:6px}
+.kw-el-tag,.kw-seo-tag{display:inline-block;padding:5px 11px;border-radius:20px;font-size:12.5px;font-weight:500;white-space:nowrap}
+.kw-el-tag{background:#eff6ff;color:#1d4ed8;border:1px solid #bfdbfe}
+.kw-seo-tag{background:#fdf4ff;color:#a21caf;border:1px solid #f5d0fe;font-size:11.5px}
+
+/* 色彩芯片 */
+.kw-colors{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+.kw-color-chip{display:inline-block;padding:7px 16px;border-radius:20px;font-size:11.5px;font-weight:600;color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.3);border:1px solid rgba(255,255,255,.3);letter-spacing:.3px}
+.kw-color-desc{font-size:12px;color:#64748b;line-height:1.5}
+
+/* 客群 & 定价 - 双列布局 */
+.kw-block-half{display:inline-block;width:calc(50% - 1px);vertical-align:top;border-right:1px solid #e2e8f0;border-bottom:1px solid #e2e8f0}
+.kw-audience div{font-size:12.5px;color:#475569;line-height:1.7;margin-bottom:2px}
+.kw-pricing{font-size:12.5px;color:#475569;line-height:1.7}
+.kw-price-range{font-size:18px;font-weight:800;color:#0f172a;margin:6px 0 4px;background:#f1f5f9;display:inline-block;padding:4px 12px;border-radius:8px}
+.kw-price-tip{margin-top:6px;font-size:12px;color:#059669;font-weight:600;background:#ecfdf5;padding:6px 10px;border-radius:6px;display:inline-block}
+
+/* SEO关键词 */
+.kw-seo{max-height:120px;overflow-y:auto;padding-right:4px}
+.kw-seo::-webkit-scrollbar{width:4px}
+.kw-seo::-webkit-scrollbar-thumb{background:#cbd5e1;border-radius:2px}
+
+/* 类似爆款 */
+.kw-similar{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:6px}
+.kw-similar li{font-size:12.5px;color:#475569;padding:7px 10px;background:#fff;border-radius:8px;border:1px solid #e2e8f0;display:flex;align-items:center;gap:6px}
+.kw-similar li::before{content:"→";color:#3b82f6;font-weight:700;flex-shrink:0}
+
+@media(max-width:640px){
+  .kw-block-half{display:block;width:100%!important;border-right:none!important}
+  .kw-similar{grid-template-columns:1fr}
+  .kw-slogan-row{flex-direction:column;align-items:flex-start}
+}

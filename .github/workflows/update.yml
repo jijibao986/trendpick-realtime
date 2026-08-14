@@ -2,7 +2,7 @@ name: 印选实时榜单更新
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
