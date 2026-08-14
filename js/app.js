@@ -296,17 +296,18 @@
 
     if (e.cover && isRemote) {
       // 有远程主图 + 可能多图
-      return `<div class="cover ${e.coverType}">
-        <img class="rt-img" src="${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('${escapeHtml(e.cover)}')" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+      return `<div class="cover ${e.coverType}" data-cat="${escapeHtml(e.catCn)}" data-title="${escapeHtml(e.titleCn)}">
+        <img class="rt-img" src="${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('${escapeHtml(e.cover)}')" />
         <div class="rt-ph" style="--cg:${catGradient(e.catCn)};display:none"><span class="ph-emoji">${CAT_EMOJI[e.catCn] || "🔥"}</span></div>
         ${buildImgStrip(images)}
         <span class="cover-badge ${e.coverType}">远程配图${images.length>1?' · '+images.length+'张':''}</span>${local}
       </div>`;
     }
     if (e.cover) {
-      // 本地图片
-      return `<div class="cover ${e.coverType}" onclick="openLightbox('img/${escapeHtml(e.cover)}')">
-        <img src="img/${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onerror="this.src='data:image/svg+xml,...'" />
+      // 本地图片（带降级）
+      return `<div class="cover ${e.coverType}" data-cat="${escapeHtml(e.catCn)}" data-title="${escapeHtml(e.titleCn)}">
+        <img src="img/${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('img/${escapeHtml(e.cover)}')" />
+        <div class="rt-ph" style="--cg:${catGradient(e.catCn)};display:none"><span class="ph-emoji">${CAT_EMOJI[e.catCn] || "🔥"}</span></div>
         ${buildImgStrip(images)}
         <span class="cover-badge ${e.coverType}">真实配图${images.length>1?' · '+images.length+'张':''}</span>${local}
       </div>`;
@@ -757,12 +758,24 @@
     if (e.key === "Escape") { closeModal(); closeLightbox(); }
   });
 
-  // 远程图加载失败 → 显示分类占位（仅作用于实时层 rt-img）
+  // 全局图片加载失败处理 → 显示分类概念图/占位（覆盖所有卡片图片）
   document.addEventListener("error", function (e) {
     const t = e.target;
-    if (t && t.tagName === "IMG" && t.classList && t.classList.contains("rt-img")) {
-      const ph = t.parentNode ? t.parentNode.querySelector(".rt-ph") : null;
-      if (ph) { t.style.display = "none"; ph.style.display = "flex"; }
+    if (!t || t.tagName !== "IMG") return;
+    // 只处理卡片内的图片
+    const cover = t.closest ? t.closest(".cover") : null;
+    if (!cover) return;
+    // 隐藏失败的图片
+    t.style.display = "none";
+    // 查找或创建占位
+    let ph = cover.querySelector(".rt-ph");
+    if (ph) {
+      ph.style.display = "flex";
+    } else {
+      // 没有 rt-ph → 生成 SVG 概念图插入
+      const cat = cover.getAttribute("data-cat") || "";
+      const title = cover.getAttribute("data-title") || "";
+      t.insertAdjacentHTML("afterend", generateConceptSvg(cat, title));
     }
   }, true);
 
