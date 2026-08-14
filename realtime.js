@@ -104,9 +104,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=%23JTOhm"
  },
  {
-  "id": "rt-696a4a428762",
-  "titleCn": "#CharacterFestThailand2xGMMTV",
-  "titleOrig": "#CharacterFestThailand2xGMMTV",
+  "id": "rt-a5ffaaa1ef21",
+  "titleCn": "#WEIRDO101系列EP1",
+  "titleOrig": "#WEIRDO101SeriesEP1",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -115,58 +115,6 @@ window.EVENTS_REALTIME = [
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 94,
-  "summary": "泰国 Twitter/X 今日热搜：#CharacterFestThailand2xGMMTV",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=%23CharacterFestThailand2xGMMTV"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=%23CharacterFestThailand2xGMMTV"
- },
- {
-  "id": "rt-a5ffaaa1ef21",
-  "titleCn": "#WEIRDO101系列EP1",
-  "titleOrig": "#WEIRDO101SeriesEP1",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 92,
   "summary": "泰国 Twitter/X 今日热搜：#WEIRDO101SeriesEP1",
   "tags": [],
   "timeRel": "",
@@ -208,9 +156,61 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=%23WEIRDO101SeriesEP1"
  },
  {
-  "id": "rt-94e284260e92",
-  "titleCn": "#LINEMAN 每天最便宜 xZeeNunew",
-  "titleOrig": "#LINEMANถูกสุดทุกวันxZeeNunew",
+  "id": "rt-00585a3f4442",
+  "titleCn": "#HappyKengDay",
+  "titleOrig": "#HappyKengDay",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tainan_Streetscene_amk.jpg/960px-Tainan_Streetscene_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 92,
+  "summary": "泰国 Twitter/X 今日热搜：#HappyKengDay",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=%23HappyKengDay"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tainan_Streetscene_amk.jpg/960px-Tainan_Streetscene_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=%23HappyKengDay"
+ },
+ {
+  "id": "rt-ede4355ced79",
+  "titleCn": "#LOrealLaqueNudexJimmySea",
+  "titleOrig": "#LOrealLaqueNudexJimmySea",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -219,7 +219,7 @@ window.EVENTS_REALTIME = [
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 90,
-  "summary": "泰国 Twitter/X 今日热搜：#LINEMANถูกสุดทุกวันxZeeNunew",
+  "summary": "泰国 Twitter/X 今日热搜：#LOrealLaqueNudexJimmySea",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -229,7 +229,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23LINEMAN%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99xZeeNunew"
+    "url": "https://twitter.com/search?q=%23LOrealLaqueNudexJimmySea"
    }
   ],
   "sourceBreadth": {
@@ -257,12 +257,12 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=%23LINEMAN%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99xZeeNunew"
+  "primaryUrl": "https://twitter.com/search?q=%23LOrealLaqueNudexJimmySea"
  },
  {
-  "id": "rt-540228889c49",
-  "titleCn": "LINE MAN LIVE x Zee Nunew",
-  "titleOrig": "LINE MAN LIVE x Zee Nunew",
+  "id": "rt-dc5858cc1ff2",
+  "titleCn": "DR.SKINNE独家TMK",
+  "titleOrig": "DR.SKINNE EXCLUSIVE TMK",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -271,7 +271,7 @@ window.EVENTS_REALTIME = [
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 88,
-  "summary": "泰国 Twitter/X 今日热搜：LINE MAN LIVE x Zee Nunew",
+  "summary": "泰国 Twitter/X 今日热搜：DR.SKINNE EXCLUSIVE TMK",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -281,7 +281,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=LINE%20MAN%20LIVE%20x%20Zee%20Nunew"
+    "url": "https://twitter.com/search?q=DR.SKINNE%20EXCLUSIVE%20TMK"
    }
   ],
   "sourceBreadth": {
@@ -309,163 +309,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=LINE%20MAN%20LIVE%20x%20Zee%20Nunew"
- },
- {
-  "id": "rt-06b1522f2820",
-  "titleCn": "#LOrealLaqueNudexSanta",
-  "titleOrig": "#LOrealLaqueNudexSanta",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 86,
-  "summary": "泰国 Twitter/X 今日热搜：#LOrealLaqueNudexSanta",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=%23LOrealLaqueNudexSanta"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=%23LOrealLaqueNudexSanta"
- },
- {
-  "id": "rt-14776e622010",
-  "titleCn": "圣诞老人嘴唇裸体直播",
-  "titleOrig": "SANTA LIP NUDE LIVE",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Weird_Tales_volume_30_number_06.djvu/page1-960px-Weird_Tales_volume_30_number_06.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 84,
-  "summary": "泰国 Twitter/X 今日热搜：SANTA LIP NUDE LIVE",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=SANTA%20LIP%20NUDE%20LIVE"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Weird_Tales_volume_30_number_06.djvu/page1-960px-Weird_Tales_volume_30_number_06.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=SANTA%20LIP%20NUDE%20LIVE"
- },
- {
-  "id": "rt-45f76b973220",
-  "titleCn": "拥抱 TTP 循环",
-  "titleOrig": "HUG TTP GO ROUND",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 82,
-  "summary": "泰国 Twitter/X 今日热搜：HUG TTP GO ROUND",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=HUG%20TTP%20GO%20ROUND"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=HUG%20TTP%20GO%20ROUND"
+  "primaryUrl": "https://twitter.com/search?q=DR.SKINNE%20EXCLUSIVE%20TMK"
  },
  {
   "id": "rt-fe1362816092",
@@ -478,7 +322,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 80,
+  "buzzIndex": 86,
   "summary": "泰国 Twitter/X 今日热搜：NUDE WITH JIMMYSEA",
   "tags": [],
   "timeRel": "",
@@ -520,17 +364,121 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=NUDE%20WITH%20JIMMYSEA"
  },
  {
+  "id": "rt-696a4a428762",
+  "titleCn": "#CharacterFestThailand2xGMMTV",
+  "titleOrig": "#CharacterFestThailand2xGMMTV",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 84,
+  "summary": "泰国 Twitter/X 今日热搜：#CharacterFestThailand2xGMMTV",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=%23CharacterFestThailand2xGMMTV"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=%23CharacterFestThailand2xGMMTV"
+ },
+ {
+  "id": "rt-540228889c49",
+  "titleCn": "LINE MAN LIVE x Zee Nunew",
+  "titleOrig": "LINE MAN LIVE x Zee Nunew",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 82,
+  "summary": "泰国 Twitter/X 今日热搜：LINE MAN LIVE x Zee Nunew",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=LINE%20MAN%20LIVE%20x%20Zee%20Nunew"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=LINE%20MAN%20LIVE%20x%20Zee%20Nunew"
+ },
+ {
   "id": "rt-823cc067a2e8",
   "titleCn": "DBTE 筛选 EP8",
   "titleOrig": "DBTE SCREENING EP8",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
-  "stars": "🔥",
+  "stars": "🔥🔥",
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 78,
+  "buzzIndex": 80,
   "summary": "泰国 Twitter/X 今日热搜：DBTE SCREENING EP8",
   "tags": [],
   "timeRel": "",
@@ -572,9 +520,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=DBTE%20SCREENING%20EP8"
  },
  {
-  "id": "rt-ab8d931763fd",
-  "titleCn": "PIL 新闻和祈祷",
-  "titleOrig": "PIL PRESS AND PRAY",
+  "id": "rt-14776e622010",
+  "titleCn": "圣诞老人嘴唇裸体直播",
+  "titleOrig": "SANTA LIP NUDE LIVE",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -582,8 +530,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 76,
-  "summary": "泰国 Twitter/X 今日热搜：PIL PRESS AND PRAY",
+  "buzzIndex": 78,
+  "summary": "泰国 Twitter/X 今日热搜：SANTA LIP NUDE LIVE",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -593,7 +541,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=PIL%20PRESS%20AND%20PRAY"
+    "url": "https://twitter.com/search?q=SANTA%20LIP%20NUDE%20LIVE"
    }
   ],
   "sourceBreadth": {
@@ -621,163 +569,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=PIL%20PRESS%20AND%20PRAY"
- },
- {
-  "id": "rt-045cc9c3d0bf",
-  "titleCn": "先生。 《杀戮》系列新闻发布会",
-  "titleOrig": "MR. KILL SERIES PRESS TOUR",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 74,
-  "summary": "泰国 Twitter/X 今日热搜：MR. KILL SERIES PRESS TOUR",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=MR.%20KILL%20SERIES%20PRESS%20TOUR"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=MR.%20KILL%20SERIES%20PRESS%20TOUR"
- },
- {
-  "id": "rt-6ae21fddbed5",
-  "titleCn": "EMIBONNIE RED KISS 新闻发布会",
-  "titleOrig": "EMIBONNIE RED KISS PRESS TOUR",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 72,
-  "summary": "泰国 Twitter/X 今日热搜：EMIBONNIE RED KISS PRESS TOUR",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=EMIBONNIE%20RED%20KISS%20PRESS%20TOUR"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=EMIBONNIE%20RED%20KISS%20PRESS%20TOUR"
- },
- {
-  "id": "rt-e01ea75ae990",
-  "titleCn": "JJJFAM X 角色节TH",
-  "titleOrig": "JJJFAM X CharacterFestTH",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 70,
-  "summary": "泰国 Twitter/X 今日热搜：JJJFAM X CharacterFestTH",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=JJJFAM%20X%20CharacterFestTH"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=JJJFAM%20X%20CharacterFestTH"
+  "primaryUrl": "https://twitter.com/search?q=SANTA%20LIP%20NUDE%20LIVE"
  },
  {
   "id": "rt-3c33aac05520",
@@ -790,7 +582,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 68,
+  "buzzIndex": 76,
   "summary": "泰国 Twitter/X 今日热搜：OH MY FOURTH PRESS TOUR",
   "tags": [],
   "timeRel": "",
@@ -832,6 +624,370 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=OH%20MY%20FOURTH%20PRESS%20TOUR"
  },
  {
+  "id": "rt-45f76b973220",
+  "titleCn": "拥抱 TTP 循环",
+  "titleOrig": "HUG TTP GO ROUND",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 74,
+  "summary": "泰国 Twitter/X 今日热搜：HUG TTP GO ROUND",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=HUG%20TTP%20GO%20ROUND"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=HUG%20TTP%20GO%20ROUND"
+ },
+ {
+  "id": "rt-9a9c3fc30fbf",
+  "titleCn": "双子座欧莱雅漆色裸色咖啡",
+  "titleOrig": "GEMINI LOREAL LAQUE NUDE CAFE",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 72,
+  "summary": "泰国 Twitter/X 今日热搜：GEMINI LOREAL LAQUE NUDE CAFE",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=GEMINI%20LOREAL%20LAQUE%20NUDE%20CAFE"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=GEMINI%20LOREAL%20LAQUE%20NUDE%20CAFE"
+ },
+ {
+  "id": "rt-6ae21fddbed5",
+  "titleCn": "EMIBONNIE RED KISS 新闻发布会",
+  "titleOrig": "EMIBONNIE RED KISS PRESS TOUR",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 70,
+  "summary": "泰国 Twitter/X 今日热搜：EMIBONNIE RED KISS PRESS TOUR",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=EMIBONNIE%20RED%20KISS%20PRESS%20TOUR"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=EMIBONNIE%20RED%20KISS%20PRESS%20TOUR"
+ },
+ {
+  "id": "rt-f847c258aa8c",
+  "titleCn": "TLE FIRSTONE X No One Els",
+  "titleOrig": "TLE FIRSTONE X No One Els",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 68,
+  "summary": "泰国 Twitter/X 今日热搜：TLE FIRSTONE X No One Els",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=TLE%20FIRSTONE%20X%20No%20One%20Els"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=TLE%20FIRSTONE%20X%20No%20One%20Els"
+ },
+ {
+  "id": "rt-0c507598c303",
+  "titleCn": "PERMPOON 流行之星 D1",
+  "titleOrig": "PERMPOON POP STAR D1",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 66,
+  "summary": "泰国 Twitter/X 今日热搜：PERMPOON POP STAR D1",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=PERMPOON%20POP%20STAR%20D1"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=PERMPOON%20POP%20STAR%20D1"
+ },
+ {
+  "id": "rt-045cc9c3d0bf",
+  "titleCn": "先生。 《杀戮》系列新闻发布会",
+  "titleOrig": "MR. KILL SERIES PRESS TOUR",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 64,
+  "summary": "泰国 Twitter/X 今日热搜：MR. KILL SERIES PRESS TOUR",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=MR.%20KILL%20SERIES%20PRESS%20TOUR"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=MR.%20KILL%20SERIES%20PRESS%20TOUR"
+ },
+ {
+  "id": "rt-ab8d931763fd",
+  "titleCn": "PIL 新闻和祈祷",
+  "titleOrig": "PIL PRESS AND PRAY",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 62,
+  "summary": "泰国 Twitter/X 今日热搜：PIL PRESS AND PRAY",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=PIL%20PRESS%20AND%20PRAY"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=PIL%20PRESS%20AND%20PRAY"
+ },
+ {
   "id": "rt-2e0c11f6bcad",
   "titleCn": "名人 JUMMO CFT26 D1",
   "titleOrig": "CELEB JUMMO CFT26 D1",
@@ -842,7 +998,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 66,
+  "buzzIndex": 60,
   "summary": "泰国 Twitter/X 今日热搜：CELEB JUMMO CFT26 D1",
   "tags": [],
   "timeRel": "",
@@ -884,9 +1040,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=CELEB%20JUMMO%20CFT26%20D1"
  },
  {
-  "id": "rt-d21951e699bd",
-  "titleCn": "代理",
-  "titleOrig": "PROXIE",
+  "id": "rt-e01ea75ae990",
+  "titleCn": "JJJFAM X 角色节TH",
+  "titleOrig": "JJJFAM X CharacterFestTH",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -894,8 +1050,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 64,
-  "summary": "泰国 Twitter/X 今日热搜：PROXIE",
+  "buzzIndex": 58,
+  "summary": "泰国 Twitter/X 今日热搜：JJJFAM X CharacterFestTH",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -905,7 +1061,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=PROXIE"
+    "url": "https://twitter.com/search?q=JJJFAM%20X%20CharacterFestTH"
    }
   ],
   "sourceBreadth": {
@@ -933,7 +1089,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=PROXIE"
+  "primaryUrl": "https://twitter.com/search?q=JJJFAM%20X%20CharacterFestTH"
  },
  {
   "id": "rt-f0f3540f7c79",
@@ -946,7 +1102,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 62,
+  "buzzIndex": 56,
   "summary": "泰国 Twitter/X 今日热搜：ENGFA OUR HEART14",
   "tags": [],
   "timeRel": "",
@@ -988,9 +1144,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=ENGFA%20OUR%20HEART14"
  },
  {
-  "id": "rt-74057bfd2e80",
-  "titleCn": "波卡桑流行歌星新星",
-  "titleOrig": "POLCASAN RISING POP STAR",
+  "id": "rt-d21951e699bd",
+  "titleCn": "代理",
+  "titleOrig": "PROXIE",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -998,8 +1154,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 60,
-  "summary": "泰国 Twitter/X 今日热搜：POLCASAN RISING POP STAR",
+  "buzzIndex": 54,
+  "summary": "泰国 Twitter/X 今日热搜：PROXIE",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1009,7 +1165,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=POLCASAN%20RISING%20POP%20STAR"
+    "url": "https://twitter.com/search?q=PROXIE"
    }
   ],
   "sourceBreadth": {
@@ -1037,59 +1193,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=POLCASAN%20RISING%20POP%20STAR"
- },
- {
-  "id": "rt-c451b663def7",
-  "titleCn": "MN x WWD 曼谷论坛",
-  "titleOrig": "MN x WWD BANGKOK FORUM",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 58,
-  "summary": "泰国 Twitter/X 今日热搜：MN x WWD BANGKOK FORUM",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=MN%20x%20WWD%20BANGKOK%20FORUM"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=MN%20x%20WWD%20BANGKOK%20FORUM"
+  "primaryUrl": "https://twitter.com/search?q=PROXIE"
  },
  {
   "id": "rt-4c2060a3d0b5",
@@ -1102,7 +1206,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 56,
+  "buzzIndex": 52,
   "summary": "泰国 Twitter/X 今日热搜：RISER CLARIFY ABOUT IRENE SONG",
   "tags": [],
   "timeRel": "",
@@ -1154,7 +1258,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 50,
   "summary": "泰国 Twitter/X 今日热搜：user",
   "tags": [],
   "timeRel": "",
@@ -1196,110 +1300,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=user"
  },
  {
-  "id": "rt-0c507598c303",
-  "titleCn": "PERMPOON 流行之星 D1",
-  "titleOrig": "PERMPOON POP STAR D1",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 52,
-  "summary": "泰国 Twitter/X 今日热搜：PERMPOON POP STAR D1",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=PERMPOON%20POP%20STAR%20D1"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=PERMPOON%20POP%20STAR%20D1"
- },
- {
-  "id": "rt-9c664b50a2d8",
-  "titleCn": "与夏洛特一起14",
-  "titleOrig": "HERE WITH CHARLOTTE14",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 50,
-  "summary": "泰国 Twitter/X 今日热搜：HERE WITH CHARLOTTE14",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE14"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE14"
- },
- {
   "id": "rt-66b1e19dfd84",
   "titleCn": "#YouManiac系列",
   "titleOrig": "#YouManiacSeries",
@@ -1307,7 +1307,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Maniac_Netflix_series_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 98,
@@ -1344,64 +1344,12 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Maniac_Netflix_series_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
   "primaryUrl": "https://twitter.com/search?q=%23YouManiacSeries"
- },
- {
-  "id": "rt-0eac4467c3ac",
-  "titleCn": "#OrmXLegacyOfThaiTextiles",
-  "titleOrig": "#OrmXLegacyOfThaiTextiles",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 96,
-  "summary": "马来西亚 Twitter/X 今日热搜：#OrmXLegacyOfThaiTextiles",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=%23OrmXLegacyOfThaiTextiles"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=%23OrmXLegacyOfThaiTextiles"
  },
  {
   "id": "rt-9f8021d95155",
@@ -1414,7 +1362,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 94,
+  "buzzIndex": 96,
   "summary": "马来西亚 Twitter/X 今日热搜：ORM SWU LEGACY FASHION",
   "tags": [],
   "timeRel": "",
@@ -1456,61 +1404,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=ORM%20SWU%20LEGACY%20FASHION"
  },
  {
-  "id": "rt-7564c1eae019",
-  "titleCn": "克里斯·布朗",
-  "titleOrig": "Chris Brown",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chris_Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 86,
-  "summary": "马来西亚 Twitter/X 今日热搜：Chris Brown",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Chris%20Brown"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chris_Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=Chris%20Brown"
- },
- {
-  "id": "rt-37921506a308",
-  "titleCn": "初月下的埃姆邦妮",
-  "titleOrig": "EMIBONNIE UNDER THE FIRST MOON",
+  "id": "rt-7f96e3ac8647",
+  "titleCn": "#LOrealLaqueNudexGemini",
+  "titleOrig": "#LOrealLaqueNudexGemini",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
@@ -1518,8 +1414,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 84,
-  "summary": "马来西亚 Twitter/X 今日热搜：EMIBONNIE UNDER THE FIRST MOON",
+  "buzzIndex": 92,
+  "summary": "马来西亚 Twitter/X 今日热搜：#LOrealLaqueNudexGemini",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1529,7 +1425,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=EMIBONNIE%20UNDER%20THE%20FIRST%20MOON"
+    "url": "https://twitter.com/search?q=%23LOrealLaqueNudexGemini"
    }
   ],
   "sourceBreadth": {
@@ -1557,21 +1453,21 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=EMIBONNIE%20UNDER%20THE%20FIRST%20MOON"
+  "primaryUrl": "https://twitter.com/search?q=%23LOrealLaqueNudexGemini"
  },
  {
-  "id": "rt-490c2edefbc4",
-  "titleCn": "玛姆",
-  "titleOrig": "MAMAMOO",
+  "id": "rt-0eac4467c3ac",
+  "titleCn": "#OrmXLegacyOfThaiTextiles",
+  "titleOrig": "#OrmXLegacyOfThaiTextiles",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mamamoo_My_con_2023.jpg/960px-Mamamoo_My_con_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 82,
-  "summary": "马来西亚 Twitter/X 今日热搜：MAMAMOO",
+  "buzzIndex": 90,
+  "summary": "马来西亚 Twitter/X 今日热搜：#OrmXLegacyOfThaiTextiles",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1581,7 +1477,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=MAMAMOO"
+    "url": "https://twitter.com/search?q=%23OrmXLegacyOfThaiTextiles"
    }
   ],
   "sourceBreadth": {
@@ -1604,12 +1500,168 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mamamoo_My_con_2023.jpg/960px-Mamamoo_My_con_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=MAMAMOO"
+  "primaryUrl": "https://twitter.com/search?q=%23OrmXLegacyOfThaiTextiles"
+ },
+ {
+  "id": "rt-78995efd3473",
+  "titleCn": "艾琳",
+  "titleOrig": "Irene",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Irene_Bae_%28signature%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 86,
+  "summary": "马来西亚 Twitter/X 今日热搜：Irene",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Irene"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Irene_Bae_%28signature%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=Irene"
+ },
+ {
+  "id": "rt-f030cfc76848",
+  "titleCn": "克里斯·布朗",
+  "titleOrig": "chris brown",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chris_Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 84,
+  "summary": "马来西亚 Twitter/X 今日热搜：chris brown",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=chris%20brown"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chris_Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=chris%20brown"
+ },
+ {
+  "id": "rt-b3dd34e06299",
+  "titleCn": "YOKO 在丝芙兰之家",
+  "titleOrig": "YOKO AT HOUSE OF SEPHORA",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 82,
+  "summary": "马来西亚 Twitter/X 今日热搜：YOKO AT HOUSE OF SEPHORA",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=YOKO%20AT%20HOUSE%20OF%20SEPHORA"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=YOKO%20AT%20HOUSE%20OF%20SEPHORA"
  },
  {
   "id": "rt-435f917a6fe4",
@@ -1664,61 +1716,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Rafayel"
  },
  {
-  "id": "rt-969987725e96",
-  "titleCn": "院长",
-  "titleOrig": "Dean",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/A_lane_to_Dean_-_geograph.org.uk_-_5320389.jpg/960px-A_lane_to_Dean_-_geograph.org.uk_-_5320389.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 78,
-  "summary": "马来西亚 Twitter/X 今日热搜：Dean",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Dean"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/A_lane_to_Dean_-_geograph.org.uk_-_5320389.jpg/960px-A_lane_to_Dean_-_geograph.org.uk_-_5320389.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=Dean"
- },
- {
-  "id": "rt-a60d9baf2ea6",
-  "titleCn": "JYPE",
-  "titleOrig": "JYPE",
+  "id": "rt-21e7fa336814",
+  "titleCn": "杰佩",
+  "titleOrig": "jype",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
@@ -1726,8 +1726,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/191216_Stray_Kids_for_JYP_Entertainment_Audition_%281%29.png/960px-191216_Stray_Kids_for_JYP_Entertainment_Audition_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 76,
-  "summary": "马来西亚 Twitter/X 今日热搜：JYPE",
+  "buzzIndex": 78,
+  "summary": "马来西亚 Twitter/X 今日热搜：jype",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1737,7 +1737,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=JYPE"
+    "url": "https://twitter.com/search?q=jype"
    }
   ],
   "sourceBreadth": {
@@ -1765,7 +1765,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=JYPE"
+  "primaryUrl": "https://twitter.com/search?q=jype"
  },
  {
   "id": "rt-6ce681d49ee1",
@@ -1778,7 +1778,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 74,
+  "buzzIndex": 76,
   "summary": "马来西亚 Twitter/X 今日热搜：18 YEARS OF RORANDERFUL",
   "tags": [],
   "timeRel": "",
@@ -1820,18 +1820,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=18%20YEARS%20OF%20RORANDERFUL"
  },
  {
-  "id": "rt-91651e9691fa",
-  "titleCn": "古尼尔",
-  "titleOrig": "Gunil",
+  "id": "rt-969987725e96",
+  "titleCn": "院长",
+  "titleOrig": "Dean",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gunhild_Fryklund.jpg/960px-Gunhild_Fryklund.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 72,
-  "summary": "马来西亚 Twitter/X 今日热搜：Gunil",
+  "buzzIndex": 74,
+  "summary": "马来西亚 Twitter/X 今日热搜：Dean",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1841,7 +1841,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=Gunil"
+    "url": "https://twitter.com/search?q=Dean"
    }
   ],
   "sourceBreadth": {
@@ -1864,12 +1864,12 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gunhild_Fryklund.jpg/960px-Gunhild_Fryklund.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=Gunil"
+  "primaryUrl": "https://twitter.com/search?q=Dean"
  },
  {
   "id": "rt-c055eac6e165",
@@ -1924,58 +1924,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=DEWTEE%20LIVE%20HOUSE"
  },
  {
-  "id": "rt-60d1f251aaf7",
-  "titleCn": "成为我的第二号玩家 EP5",
-  "titleOrig": "BE MY PLAYER TWO EP5",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 68,
-  "summary": "马来西亚 Twitter/X 今日热搜：BE MY PLAYER TWO EP5",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=BE%20MY%20PLAYER%20TWO%20EP5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=BE%20MY%20PLAYER%20TWO%20EP5"
- },
- {
   "id": "rt-c5345d048e10",
   "titleCn": "奥姆·科纳帕特",
   "titleOrig": "Orm Kornnaphat",
@@ -2028,9 +1976,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Orm%20Kornnaphat"
  },
  {
-  "id": "rt-be68f06a8243",
-  "titleCn": "PHUWIN 黑卡 MV",
-  "titleOrig": "PHUWIN BLACK CARD MV",
+  "id": "rt-91651e9691fa",
+  "titleCn": "古尼尔",
+  "titleOrig": "Gunil",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
@@ -2039,7 +1987,7 @@ window.EVENTS_REALTIME = [
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 64,
-  "summary": "马来西亚 Twitter/X 今日热搜：PHUWIN BLACK CARD MV",
+  "summary": "马来西亚 Twitter/X 今日热搜：Gunil",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2049,7 +1997,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=PHUWIN%20BLACK%20CARD%20MV"
+    "url": "https://twitter.com/search?q=Gunil"
    }
   ],
   "sourceBreadth": {
@@ -2077,12 +2025,12 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=PHUWIN%20BLACK%20CARD%20MV"
+  "primaryUrl": "https://twitter.com/search?q=Gunil"
  },
  {
-  "id": "rt-7831c727ca63",
-  "titleCn": "蛾",
-  "titleOrig": "Moth",
+  "id": "rt-60d1f251aaf7",
+  "titleCn": "成为我的第二号玩家 EP5",
+  "titleOrig": "BE MY PLAYER TWO EP5",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
@@ -2091,7 +2039,7 @@ window.EVENTS_REALTIME = [
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 62,
-  "summary": "马来西亚 Twitter/X 今日热搜：Moth",
+  "summary": "马来西亚 Twitter/X 今日热搜：BE MY PLAYER TWO EP5",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2101,7 +2049,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=Moth"
+    "url": "https://twitter.com/search?q=BE%20MY%20PLAYER%20TWO%20EP5"
    }
   ],
   "sourceBreadth": {
@@ -2129,7 +2077,111 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=Moth"
+  "primaryUrl": "https://twitter.com/search?q=BE%20MY%20PLAYER%20TWO%20EP5"
+ },
+ {
+  "id": "rt-81474190fa7a",
+  "titleCn": "杨克",
+  "titleOrig": "youngk",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 60,
+  "summary": "马来西亚 Twitter/X 今日热搜：youngk",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=youngk"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=youngk"
+ },
+ {
+  "id": "rt-8ef0f740e643",
+  "titleCn": "威廉·埃斯特",
+  "titleOrig": "WilliamEst",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 58,
+  "summary": "马来西亚 Twitter/X 今日热搜：WilliamEst",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=WilliamEst"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Wikimedia Commons 检索图",
+  "hasMedia": true,
+  "media": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://twitter.com/search?q=WilliamEst"
  },
  {
   "id": "rt-74e05a796b61",
@@ -2142,7 +2194,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 60,
+  "buzzIndex": 56,
   "summary": "马来西亚 Twitter/X 今日热搜：jimjuforce birdy ep4",
   "tags": [],
   "timeRel": "",
@@ -2184,9 +2236,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=jimjuforce%20birdy%20ep4"
  },
  {
-  "id": "rt-fe6b23b20920",
-  "titleCn": "CL 在 AFAIR 市场",
-  "titleOrig": "CL AT AFAIR MARKET",
+  "id": "rt-9c71f1273fb4",
+  "titleCn": "JUNIORMARKMO 保持清醒",
+  "titleOrig": "JUNIORMARKMO STAY AWAKE",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
@@ -2194,8 +2246,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 58,
-  "summary": "马来西亚 Twitter/X 今日热搜：CL AT AFAIR MARKET",
+  "buzzIndex": 54,
+  "summary": "马来西亚 Twitter/X 今日热搜：JUNIORMARKMO STAY AWAKE",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2205,7 +2257,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=CL%20AT%20AFAIR%20MARKET"
+    "url": "https://twitter.com/search?q=JUNIORMARKMO%20STAY%20AWAKE"
    }
   ],
   "sourceBreadth": {
@@ -2233,7 +2285,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=CL%20AT%20AFAIR%20MARKET"
+  "primaryUrl": "https://twitter.com/search?q=JUNIORMARKMO%20STAY%20AWAKE"
  },
  {
   "id": "rt-d7ae0b528c9e",
@@ -2246,7 +2298,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 56,
+  "buzzIndex": 52,
   "summary": "马来西亚 Twitter/X 今日热搜：LENAMIU X LEGACY",
   "tags": [],
   "timeRel": "",
@@ -2298,7 +2350,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 50,
   "summary": "马来西亚 Twitter/X 今日热搜：Xdinary Heroes",
   "tags": [],
   "timeRel": "",
@@ -2338,110 +2390,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-14",
   "primaryUrl": "https://twitter.com/search?q=Xdinary%20Heroes"
- },
- {
-  "id": "rt-141dda5a2e5f",
-  "titleCn": "原始宝石",
-  "titleOrig": "Primogems",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 52,
-  "summary": "马来西亚 Twitter/X 今日热搜：Primogems",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Primogems"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=Primogems"
- },
- {
-  "id": "rt-e05391de9a8c",
-  "titleCn": "恩佐",
-  "titleOrig": "Enzo",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 50,
-  "summary": "马来西亚 Twitter/X 今日热搜：Enzo",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Enzo"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Wikimedia Commons 检索图",
-  "hasMedia": true,
-  "media": [
-   {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png/960px-Increasing_trend_of_discussing_pronouns_in_one%27s_social_media_bio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://twitter.com/search?q=Enzo"
  },
  {
   "id": "rt-7c379506f98e",
@@ -2548,9 +2496,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX19IWEpscFdhMTJLT3lNMHlGZEM2MC05S19JcTdZLUhvdXl4TnVBcXB2anNBeU90QjNMQlU4X0MwcUpDejE0QXFjQi1IekZYMFVtenNIamlscUFaNWNpQnFJTmVMcERDYlVkMU9kLWR6QUozZENRREdkVWU2cl9SelFUeGVLYlVIRkJsRXI2NDVPcFFxMmxZMDk5NVRIN01EV3Z5ZHg5cGN4dU1BaTBxdVNB?oc=5"
  },
  {
-  "id": "rt-2877bc3fef7f",
-  "titleCn": "PDC推出《2027年春夏泰国纺织品趋势手册》，力争2026年产品开发达到国际水平 - news.trueid.net",
-  "titleOrig": "พช. เปิดตัว “THAI TEXTILES TREND BOOK SPRING/SUMMER 2027” เพื่อการพัฒนาผลิตภัณฑ์สู่สากล ประจำปี 2569 - news.trueid.net",
+  "id": "rt-3faa83a184f8",
+  "titleCn": "PDC推出《2027年春夏泰国纺织品趋势手册》，力争2026年产品开发达到国际水平 - TrueID",
+  "titleOrig": "พช. เปิดตัว “THAI TEXTILES TREND BOOK SPRING/SUMMER 2027” เพื่อการพัฒนาผลิตภัณฑ์สู่สากล ประจำปี 2569 - TrueID",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -2704,9 +2652,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50cFVzVWdBVllSZ0tWYmJSREU3R0tLNUlqUFpOY3BDMm9xU2VYaHZBTEFUVW10MjRRUS1qQkZ3SzV2ZnNpUW85a3E3My1YU1pmZkRxVQ?oc=5"
  },
  {
-  "id": "rt-bfbc9e7b02f5",
-  "titleCn": "《爱奇艺》揭晓《泰国跑男》四连冠，浏览量破68亿次，登上Google趋势和X趋势第一 - 营销哎呀！",
-  "titleOrig": "‘iQIYI’ เปิด 4 ความสำเร็จ ‘Running Man Thailand’ ทุบสถิติยอดการมองเห็นทะลุ 6.8 พันล้านครั้ง - ขึ้นอันดับ 1 Google Trends และ X Trending - Marketing Oops!",
+  "id": "rt-934d7938d076",
+  "titleCn": "《爱奇艺》揭晓《泰国跑男》四连冠，浏览量突破68亿次破纪录，登顶Google Trends和X Trending第一 - marketingoops.com",
+  "titleOrig": "‘iQIYI’ เปิด 4 ความสำเร็จ ‘Running Man Thailand’ ทุบสถิติยอดการมองเห็นทะลุ 6.8 พันล้านครั้ง - ขึ้นอันดับ 1 Google Trends และ X Trending - marketingoops.com",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -3640,9 +3588,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVVlODFHQk1jc1d1NVptWG04Qi1QVDFqZWttRmE0SU5mZmI1U0lOeFBZRnB6VUU2bFZxN3Z5VXpOazVaMkZyU05NUXk3MVQtdWJqRGdJRUdaRllRWTRXWDZzN1U2aVVRcVBPUXJPSFgyMlNUTFBlN0JjQjFpczBGVllsUmpMTVAyd21tVmw2REl2TXE1RVhvTg?oc=5"
  },
  {
-  "id": "rt-9d27a6b3e065",
-  "titleCn": "关丹拉开 AJL40 巡演帷幕，马来西亚热门艺人入围 - Budiey Channel",
-  "titleOrig": "Kuantan Buka Tirai Jelajah AJL40 Bersama Finalis Penghibur Popular Malaysia - Budiey Channel",
+  "id": "rt-0484c06014ee",
+  "titleCn": "关丹以马来西亚人气艺人入围者 - Budiey 拉开 AJL40 巡演帷幕",
+  "titleOrig": "Kuantan Buka Tirai Jelajah AJL40 Bersama Finalis Penghibur Popular Malaysia - Budiey",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
@@ -6429,7 +6377,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-068ac4971dcb",
-  "titleCn": "韩国流行音乐防弹少年团选择退出新亚洲音乐格莱美评选 - dw.com",
+  "titleCn": "韩国流行音乐防弹少年团选择退出新亚洲音乐格莱美奖评选 - dw.com",
   "titleOrig": "K-pop's BTS opt out of new Asian music Grammy consideration - dw.com",
   "catCn": "音乐榜单",
   "cat": "music",
@@ -6860,9 +6808,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHpZMDZINFlaTlpsbHBwUHZSVmlrb0pGYURUbG1lVmxMTFYxRnFieFBKbWl3NFJabXB3NHhHR2Z6V3FMOWY1WjFLeFBkMlBVSDJjWWVFQy1DYXZDNlQyeUo3cmdnMTdXRmhEWklXT1VCTmk0M2ppZnR3UXFBZnRESGVMSkZONFBfZjRfdXFBQW54WWZkNGpRTnIzUkZON0llVXozdHBDR2pVVkRCcnUxWTFETjBfT2VVNzFIOWtKaUhQWXFrTjFB0gHMAUFVX3lxTFBmb2xZVGVXY0EzekJDelVSdHh6SU9qeUNwME50WmpXN0xua25hOTdXZlRseDVTT2NDTU1ubEpNTFMtSHNkcFdHSXVLa080RnlvYndzN0Ezd1h5bGh3UTBobVppQVNmaFdHZklwbGpvQmNEZWhHQ21wUWI5R0R2Um9HRHU1djNLWS1MbjZaUWQzMEdlSkFDWFNqU2lXbjdDVnpiajhhT0NjeGVfVG83NjY2MGtZUjEzLW5MOWRRS0NQbmpfdkRsV2lWX0tVeg?oc=5"
  },
  {
-  "id": "rt-775805d82c4c",
-  "titleCn": "Spotify 20 周年：有史以来播放量最多的音乐、播客和有声读物 - Spotify — 郑重声明",
-  "titleOrig": "Spotify at 20: The Most Streamed Music, Podcasts, and Audiobooks of All Time - Spotify — For the Record",
+  "id": "rt-7fd9b2d512a9",
+  "titleCn": "Spotify 20 周年：有史以来播放量最多的音乐、播客和有声读物 - newsroom.spotify.com",
+  "titleOrig": "Spotify at 20: The Most Streamed Music, Podcasts, and Audiobooks of All Time - newsroom.spotify.com",
   "catCn": "音乐榜单",
   "cat": "music",
   "country": "多市场",
@@ -7964,54 +7912,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmNGN29leEg0ZVNsTnZGUGlIbW5vbnZhblhGU1FXQ1AyWXZucFRuUklzZk5CODNpS2dOU2RXMkhaYzlTQl8xUnJSQ2tKSFdNVUFSX3ZDWU9CcDVPVFZoamdxSGFZR3hTNVFtQ2V4dWxwamdEZnpNSUE3S0REb1RjWVhuRzEzbG9mRGFBN2xyX2xRaEQwZmZZb3RLOGszMUJnU3I3MklR?oc=5"
  },
  {
-  "id": "rt-b1b74abae008",
-  "titleCn": "2026 年 8 月 VR 游戏展示会上公布的所有内容 - Road to VR",
-  "titleOrig": "Everything Announced at the August 2026 VR Games Showcase - Road to VR",
-  "catCn": "游戏热度",
-  "cat": "gaming",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 90,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNanZEUG1JZno5aHkwc0dDeEZuVHQ1bTNzZVBVZEc1WlRlODU3SXpFTktCUUdJSXVHVWZRRTBlUkVVV1BVaDFSMHZfTEx3NWtBdFM0eEVKVzdfQXU1TU82Y0pjeC1RMlhNN0o4bWJ",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanZEUG1JZno5aHkwc0dDeEZuVHQ1bTNzZVBVZEc1WlRlODU3SXpFTktCUUdJSXVHVWZRRTBlUkVVV1BVaDFSMHZfTEx3NWtBdFM0eEVKVzdfQXU1TU82Y0pjeC1RMlhNN0o4bWJLYjlnSHdabmtFY3FfbDAxUFhBQzJaVEVVQQ?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanZEUG1JZno5aHkwc0dDeEZuVHQ1bTNzZVBVZEc1WlRlODU3SXpFTktCUUdJSXVHVWZRRTBlUkVVV1BVaDFSMHZfTEx3NWtBdFM0eEVKVzdfQXU1TU82Y0pjeC1RMlhNN0o4bWJLYjlnSHdabmtFY3FfbDAxUFhBQzJaVEVVQQ?oc=5"
- },
- {
   "id": "rt-752f1adceb88",
   "titleCn": "一款新的《行尸走肉》视频游戏将于 9 月发布 - Undead Walking",
   "titleOrig": "A new Walking Dead video game gets a September release date - Undead Walking",
@@ -8022,7 +7922,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 88,
+  "buzzIndex": 90,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFNRN3lJMjBTZzJ3aGI3b3hiNDRrY25TLTRKRDNyeG4wMndIWmFpZ3NtUld6TWtxcUJ4MWgzZGZSQjg3cmdsRVFnZmZsUm1hSVRIZzlHbnkyWWJkbjdJTGhPUFQydlBFU25mUnc",
   "tags": [],
   "timeRel": "",
@@ -8058,6 +7958,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-14",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFNRN3lJMjBTZzJ3aGI3b3hiNDRrY25TLTRKRDNyeG4wMndIWmFpZ3NtUld6TWtxcUJ4MWgzZGZSQjg3cmdsRVFnZmZsUm1hSVRIZzlHbnkyWWJkbjdJTGhPUFQydlBFU25mUnc3ckdoQ09uem01c29sbl9tbkgyR21n?oc=5"
+ },
+ {
+  "id": "rt-b1b74abae008",
+  "titleCn": "2026 年 8 月 VR 游戏展上公布的所有内容 - Road to VR",
+  "titleOrig": "Everything Announced at the August 2026 VR Games Showcase - Road to VR",
+  "catCn": "游戏热度",
+  "cat": "gaming",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 88,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNanZEUG1JZno5aHkwc0dDeEZuVHQ1bTNzZVBVZEc1WlRlODU3SXpFTktCUUdJSXVHVWZRRTBlUkVVV1BVaDFSMHZfTEx3NWtBdFM0eEVKVzdfQXU1TU82Y0pjeC1RMlhNN0o4bWJ",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanZEUG1JZno5aHkwc0dDeEZuVHQ1bTNzZVBVZEc1WlRlODU3SXpFTktCUUdJSXVHVWZRRTBlUkVVV1BVaDFSMHZfTEx3NWtBdFM0eEVKVzdfQXU1TU82Y0pjeC1RMlhNN0o4bWJLYjlnSHdabmtFY3FfbDAxUFhBQzJaVEVVQQ?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanZEUG1JZno5aHkwc0dDeEZuVHQ1bTNzZVBVZEc1WlRlODU3SXpFTktCUUdJSXVHVWZRRTBlUkVVV1BVaDFSMHZfTEx3NWtBdFM0eEVKVzdfQXU1TU82Y0pjeC1RMlhNN0o4bWJLYjlnSHdabmtFY3FfbDAxUFhBQzJaVEVVQQ?oc=5"
  },
  {
   "id": "rt-688ae4ddabac",
@@ -8253,7 +8201,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-b16bd613384b",
-  "titleCn": "《古墓丽影：催化剂》、Warhorse 的下一款《王国降临》游戏和《暗黑血统 4》将于 2028 年 4 月推出 - IGN",
+  "titleCn": "《古墓丽影：催化剂》、Warhorse 的下一款《王国降临》游戏和《暗黑血统 4》均将于 2028 年 4 月推出 - IGN",
   "titleOrig": "Tomb Raider: Catalyst, the Next Kingdom Come Game From Warhorse, and Darksiders 4 All Due Out by April 2028 - IGN",
   "catCn": "游戏热度",
   "cat": "gaming",
@@ -8445,7 +8393,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-e7b9f48dfcc9",
-  "titleCn": "《Big Walk》目前的销量正式超过 Steam 上的所有其他游戏 - TheGamer",
+  "titleCn": "Big Walk 目前在 Steam 上的销量正式超过所有其他游戏 - TheGamer",
   "titleOrig": "Big Walk Is Officially Outselling Every Other Game On Steam Right Now - TheGamer",
   "catCn": "游戏热度",
   "cat": "gaming",
@@ -8636,9 +8584,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlREd2lJWUFQaWg5VlFpTFExWXVaQTBpRmljSzk0TlFZOUNmM1VOOXlxNlExM0JKc1lHNEg4RFV2cGRoclZUT3FLTHZVSktVM2xpeHRTYkhqempCUHhZekRDQnZIQzByUlBXeC0zV1pfRFRhVy10blpmRmhCdmVHMkphT19ZNUNyaUF3?oc=5"
  },
  {
-  "id": "rt-1e2656b3437a",
-  "titleCn": "2026 年最佳游戏（迄今为止）_GameSpot",
-  "titleOrig": "The Best Games Of 2026 (So Far) - GameSpot",
+  "id": "rt-0df1b1743d77",
+  "titleCn": "2026 年最佳游戏（迄今为止） - gamespot.com",
+  "titleOrig": "The Best Games Of 2026 (So Far) - gamespot.com",
   "catCn": "游戏热度",
   "cat": "gaming",
   "country": "多市场",
@@ -10940,9 +10888,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://myanimelist.net/anime/42938/Fruits_Basket__The_Final"
  },
  {
-  "id": "rt-1989a0060c8d",
-  "titleCn": "《钢球奔跑》如何将旧西部带入生活：作曲家菅野佑吾和制作人土肥纪子专访 - 动漫趋势",
-  "titleOrig": "How Steel Ball Run Brings the Old West to Life: Interview with Composer Yugo Kanno and Producer Noriko Dohi - Anime Trending",
+  "id": "rt-189027d5debc",
+  "titleCn": "《STEEL BALL RUN》如何将旧西部带入生活：作曲家菅野佑吾和制作人土肥纪子专访 - 动漫趋势",
+  "titleOrig": "How STEEL BALL RUN Brings the Old West to Life: Interview with Composer Yugo Kanno and Producer Noriko Dohi - Anime Trending",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
@@ -10989,7 +10937,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-d4df05825840",
-  "titleCn": "魔法骑士雷耶斯 (2026) 配音演员《Fuu》、《绿宝石公主》以及该系列的遗产 - 动漫趋势",
+  "titleCn": "魔法骑士雷耶斯 (2026) 配音演员《Fuu》、《翡翠公主》以及该系列的遗产 - 动漫趋势",
   "titleOrig": "Magic Knight Rayearth (2026) Voice Actors on Fuu, Princess Emeraude, and the Legacy of the Series - Anime Trending",
   "catCn": "动漫热度",
   "cat": "film_tv",
@@ -11181,7 +11129,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-377db2d16fc4",
-  "titleCn": "《钢球奔跑 JoJo的奇妙冒险》导演木村泰弘讲述他如何骑马进行研究 - 动漫趋势",
+  "titleCn": "《钢球奔跑 JoJo的奇妙冒险》导演木村康弘讲述他如何骑马进行研究 - 动漫趋势",
   "titleOrig": "STEEL BALL RUN JoJo’s Bizarre Adventure Director Yasuhiro Kimura Talks How He Rode a Horse For Research - Anime Trending",
   "catCn": "动漫热度",
   "cat": "film_tv",
@@ -11372,9 +11320,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tR3FHdWFQajFxS3JiMWF6SnE0Qmd0NTZSVHhSUFcwaHlfNklvTFdCdmJ4NkQ0UGM5dW80TldzM2E2MGt2OXhOYnM4RlFkSUM1TnAwZVpER09HZXc0d29hM243NjI2SjYxQkRj?oc=5"
  },
  {
-  "id": "rt-79da839928a7",
-  "titleCn": "Netflix 上 55 部让您尽兴而归的最佳电视节目 - CNET",
-  "titleOrig": "55 of the Best TV Shows on Netflix That Will Keep You Entertained - CNET",
+  "id": "rt-e9251da53732",
+  "titleCn": "Netflix 的《草原上的小屋》隐藏了一位原创明星的精彩客串和一个可能的真实犯罪彩蛋 - 雅虎创作者",
+  "titleOrig": "Netflix's 'Little House on the Prairie' hid a show-stopping cameo from an original star and a possible true crime Easter egg - Yahoo Creators",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "多市场",
@@ -11383,7 +11331,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 96,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBuYm54UjZacTRoeVhnLWt6RGQ1cy1ZelR4Z2piMnZiM0NQNEhiOGhWdTJnazd6S3JLM1FiaUltNEZPZVVNRExmanJ5aVZPUUNyTUhqQXRvTW43VXZlMDBhNFk5X1dNeGVYQmxtQjB",
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGFrcmFQV01GMGdkdU5TWUg2M3NNdzQ2MVZKenkzX2ZBZWpiSHlmN0llNlQtVVpWbU1NbDRWYVE0a2EzUl9YRkV0OUNjRDFFQWpKcnRNbUxUdkRVaDQyTG1vZmJPTEVqY2VINDF",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -11393,7 +11341,7 @@ window.EVENTS_REALTIME = [
     "name": "Google News 热讯",
     "region": "多市场",
     "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuYm54UjZacTRoeVhnLWt6RGQ1cy1ZelR4Z2piMnZiM0NQNEhiOGhWdTJnazd6S3JLM1FiaUltNEZPZVVNRExmanJ5aVZPUUNyTUhqQXRvTW43VXZlMDBhNFk5X1dNeGVYQmxtQjBSZXg4U1FmcTRwanF3?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGFrcmFQV01GMGdkdU5TWUg2M3NNdzQ2MVZKenkzX2ZBZWpiSHlmN0llNlQtVVpWbU1NbDRWYVE0a2EzUl9YRkV0OUNjRDFFQWpKcnRNbUxUdkRVaDQyTG1vZmJPTEVqY2VINDFsRmJJZmVRYUVpaTdfUGVOUzlZbGlOUlpNblZ2T0FWa0I4V3dpOEFHR1FhTlR6NHN0M0RJOURWeThJNUxtZklMaEZRWnFJdmQ0YUN3RjVUZG8wYmF5REkxc2NraktTS0h2SGk0ODZBdzlvV2hDNU1GRHZES2VjcERldndkeEthM2JLYVViZnBOdVRjZzBQTVdrbDNUYlhsODRXUWxTb0E?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -11417,7 +11365,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuYm54UjZacTRoeVhnLWt6RGQ1cy1ZelR4Z2piMnZiM0NQNEhiOGhWdTJnazd6S3JLM1FiaUltNEZPZVVNRExmanJ5aVZPUUNyTUhqQXRvTW43VXZlMDBhNFk5X1dNeGVYQmxtQjBSZXg4U1FmcTRwanF3?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGFrcmFQV01GMGdkdU5TWUg2M3NNdzQ2MVZKenkzX2ZBZWpiSHlmN0llNlQtVVpWbU1NbDRWYVE0a2EzUl9YRkV0OUNjRDFFQWpKcnRNbUxUdkRVaDQyTG1vZmJPTEVqY2VINDFsRmJJZmVRYUVpaTdfUGVOUzlZbGlOUlpNblZ2T0FWa0I4V3dpOEFHR1FhTlR6NHN0M0RJOURWeThJNUxtZklMaEZRWnFJdmQ0YUN3RjVUZG8wYmF5REkxc2NraktTS0h2SGk0ODZBdzlvV2hDNU1GRHZES2VjcERldndkeEthM2JLYVViZnBOdVRjZzBQTVdrbDNUYlhsODRXUWxTb0E?oc=5"
  },
  {
   "id": "rt-8b0bc5ba52f7",
@@ -11516,56 +11464,8 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdS1lcm9Nc2t2VVkzLS1tOVpoeEV5M3NPMTktNUJFUFozanZtcFJZTFhJZ0ZkSFVJMk1yMExqanpQRlAtVGhXUHlEZ0JlQU1Ud3hjM2ZQMjduWWQzQThLeDhCMEJTWTQ4dzdnZ3NSY1VJVHlnOGJBSFNaMFEyVE9fMmVKSWJZM2FvdHp4ODVmZGJlZ25EZXFCWHZ0eVdUNTJRRFlNLXNMMmR2Y3lYcjdHS1BnU3dsVjBJVUVMd1M3cHRSVFdCRVVOekVoeUI0UVh5SHpPS3p3d1Fxby1iVkg3aVBubGc5Q1I4?oc=5"
  },
  {
-  "id": "rt-384192a64b81",
-  "titleCn": "本周末将在 Netflix、HBO Max 等平台上播放的 8 部最佳新电影和节目 - TheWrap",
-  "titleOrig": "The 8 Best New Movies and Shows to Stream This Weekend on Netflix, HBO Max and More - TheWrap",
-  "catCn": "影视剧",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 90,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JnSmR3T2pjYjN0Mk1PdVh6SFNuR19QN0J0LUJtUnROZ1dDd2hfVWlFZHVSd3hoM0xkX1dDNXBfRmN5VVRqQ3pRLUJaeEJGOGNVcFdwYTNsQTRIRGhJbWJRWWxtVzg2c0tLdlo",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JnSmR3T2pjYjN0Mk1PdVh6SFNuR19QN0J0LUJtUnROZ1dDd2hfVWlFZHVSd3hoM0xkX1dDNXBfRmN5VVRqQ3pRLUJaeEJGOGNVcFdwYTNsQTRIRGhJbWJRWWxtVzg2c0tLdlotbG9wcFU3N1EyR1lxMkl0UkNYU2hza08xZXBFYTJMTFFUNGE4UjdwYVNyT1RPeURIc1RKZjZ2OHM3RTdHNV9OX0swNklqQQ?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JnSmR3T2pjYjN0Mk1PdVh6SFNuR19QN0J0LUJtUnROZ1dDd2hfVWlFZHVSd3hoM0xkX1dDNXBfRmN5VVRqQ3pRLUJaeEJGOGNVcFdwYTNsQTRIRGhJbWJRWWxtVzg2c0tLdlotbG9wcFU3N1EyR1lxMkl0UkNYU2hza08xZXBFYTJMTFFUNGE4UjdwYVNyT1RPeURIc1RKZjZ2OHM3RTdHNV9OX0swNklqQQ?oc=5"
- },
- {
   "id": "rt-72ecde9f8fe0",
-  "titleCn": "Netflix 前往亚利桑那州拍摄最新真人秀节目 - Deadline",
+  "titleCn": "Netflix 前往亚利桑那州拍摄最新真人秀剧集 - Deadline",
   "titleOrig": "Netflix Heads To Arizona For Latest Reality Series - Deadline",
   "catCn": "影视剧",
   "cat": "film_tv",
@@ -11574,7 +11474,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 88,
+  "buzzIndex": 90,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOczZNUEhGZzNaeTdGVGktYUZqU0VWQzhINUZsbEZ4Vkt5N2lzc2VMWDJNNlZMUFdWaV9fSUtmRnhKX1oyVmJZTThCU1lHU2FqeGFycy1rdkhpRlNxbUxYWjh5bFFVV3F3bnFHLU1",
   "tags": [],
   "timeRel": "",
@@ -11612,9 +11512,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczZNUEhGZzNaeTdGVGktYUZqU0VWQzhINUZsbEZ4Vkt5N2lzc2VMWDJNNlZMUFdWaV9fSUtmRnhKX1oyVmJZTThCU1lHU2FqeGFycy1rdkhpRlNxbUxYWjh5bFFVV3F3bnFHLU12akJOX092ZzBHVmktQ3BhWThqTQ?oc=5"
  },
  {
-  "id": "rt-952e5025d09f",
-  "titleCn": "艾米莉亚·琼斯 (Emilia Jones) 将出演 Netflix 播客剧集《The Retrievals》改编剧 - Variety",
-  "titleOrig": "Emilia Jones to Star in Netflix Series Adaptation of ‘The Retrievals’ Podcast - Variety",
+  "id": "rt-384192a64b81",
+  "titleCn": "本周末将在 Netflix、HBO Max 等平台上播放的 8 部最佳新电影和节目 - TheWrap",
+  "titleOrig": "The 8 Best New Movies and Shows to Stream This Weekend on Netflix, HBO Max and More - TheWrap",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "多市场",
@@ -11622,8 +11522,8 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 86,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnBzVjVIS0QtZDlaYkpSMnhNTVZ4eDNfeXFwNEk4WkpKcFA3WTFIX2k2czM1WWtIQ216RE9ZNldNelV5dUNRRUhKbW1DU1BiMGdHQnBiRHk1azBIMUxWUUN0d0V0YktjOUg4dWF",
+  "buzzIndex": 88,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JnSmR3T2pjYjN0Mk1PdVh6SFNuR19QN0J0LUJtUnROZ1dDd2hfVWlFZHVSd3hoM0xkX1dDNXBfRmN5VVRqQ3pRLUJaeEJGOGNVcFdwYTNsQTRIRGhJbWJRWWxtVzg2c0tLdlo",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -11633,7 +11533,7 @@ window.EVENTS_REALTIME = [
     "name": "Google News 热讯",
     "region": "多市场",
     "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnBzVjVIS0QtZDlaYkpSMnhNTVZ4eDNfeXFwNEk4WkpKcFA3WTFIX2k2czM1WWtIQ216RE9ZNldNelV5dUNRRUhKbW1DU1BiMGdHQnBiRHk1azBIMUxWUUN0d0V0YktjOUg4dWF4Z3QwcVdIV284c3lsRm1Sc2RWNHMtSmV3bDhjbl9DY2V6NHhzZw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JnSmR3T2pjYjN0Mk1PdVh6SFNuR19QN0J0LUJtUnROZ1dDd2hfVWlFZHVSd3hoM0xkX1dDNXBfRmN5VVRqQ3pRLUJaeEJGOGNVcFdwYTNsQTRIRGhJbWJRWWxtVzg2c0tLdlotbG9wcFU3N1EyR1lxMkl0UkNYU2hza08xZXBFYTJMTFFUNGE4UjdwYVNyT1RPeURIc1RKZjZ2OHM3RTdHNV9OX0swNklqQQ?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -11657,7 +11557,55 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnBzVjVIS0QtZDlaYkpSMnhNTVZ4eDNfeXFwNEk4WkpKcFA3WTFIX2k2czM1WWtIQ216RE9ZNldNelV5dUNRRUhKbW1DU1BiMGdHQnBiRHk1azBIMUxWUUN0d0V0YktjOUg4dWF4Z3QwcVdIV284c3lsRm1Sc2RWNHMtSmV3bDhjbl9DY2V6NHhzZw?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JnSmR3T2pjYjN0Mk1PdVh6SFNuR19QN0J0LUJtUnROZ1dDd2hfVWlFZHVSd3hoM0xkX1dDNXBfRmN5VVRqQ3pRLUJaeEJGOGNVcFdwYTNsQTRIRGhJbWJRWWxtVzg2c0tLdlotbG9wcFU3N1EyR1lxMkl0UkNYU2hza08xZXBFYTJMTFFUNGE4UjdwYVNyT1RPeURIc1RKZjZ2OHM3RTdHNV9OX0swNklqQQ?oc=5"
+ },
+ {
+  "id": "rt-4617f42d6c44",
+  "titleCn": "《毒液：最后之舞》和《角斗士 2》本周将在英国 Netflix 上推出 50 部新电影和电视剧 - Netflix 内容",
+  "titleOrig": "'Venom: The Last Dance' and 'Gladiator 2' Lead 50 New Movies and TV Shows on Netflix UK This Week - What's on Netflix",
+  "catCn": "影视剧",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 86,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOazM1MFpBdThIdmhBRkJneEJaeXZCNmZ5RVptcWtENDhYaTJTN2dQQWI1Z0JHUVYtT2NIWnhrYjdZWTR2V2ctczdrTjZaT3FRaDZZUkdoV21mZ2cwN3J3WFB0a3NDdElXQTFGRDN",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazM1MFpBdThIdmhBRkJneEJaeXZCNmZ5RVptcWtENDhYaTJTN2dQQWI1Z0JHUVYtT2NIWnhrYjdZWTR2V2ctczdrTjZaT3FRaDZZUkdoV21mZ2cwN3J3WFB0a3NDdElXQTFGRDNDOXZQU0E1Mk9IQnVaRUxyOE9KaGpaUkk1VVFISVdSZUE5S20?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazM1MFpBdThIdmhBRkJneEJaeXZCNmZ5RVptcWtENDhYaTJTN2dQQWI1Z0JHUVYtT2NIWnhrYjdZWTR2V2ctczdrTjZaT3FRaDZZUkdoV21mZ2cwN3J3WFB0a3NDdElXQTFGRDNDOXZQU0E1Mk9IQnVaRUxyOE9KaGpaUkk1VVFISVdSZUE5S20?oc=5"
  },
  {
   "id": "rt-26351a5418bd",
@@ -11708,9 +11656,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazZYeTVBd0Fzb3k0V2V0Y0pQeVNLaDI3OS1sNVBMSUdNeEVwY21LdC00TzBSMGhOVXMtN0JMaXk1bGpJYnBTbTFSSWtrc3h3d0RpTzFaejNOMzlHeVdGalRMMUFoWDZPcnZtQUcxUDIzVGZsN1o2MnVhUzNKbGF6RlNrY0dWMkNvMm9Fekp2bjBNSW12UmxFR3EyZjB6Ym5oQzFMaDZ4SzdlQQ?oc=5"
  },
  {
-  "id": "rt-3c120dac7c3e",
-  "titleCn": "Netflix 八月最佳电影和电视节目 - 纽约时报中文网",
-  "titleOrig": "The Best Movies and TV Shows Coming to Netflix in August - The New York Times",
+  "id": "rt-c7c65b395954",
+  "titleCn": "本周（8 月 10 日至 16 日）播放的 5 部最佳 Netflix 最新电影和节目 - 汤姆指南",
+  "titleOrig": "5 best new Netflix movies and shows to stream this week (Aug. 10-16) - Tom's Guide",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "多市场",
@@ -11719,6 +11667,102 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 82,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdlhJZ25lcjl5ek85V1pNVDYwaE1QQnNkNGZ5ZGtTOXhnRzFiSDJURURpMjFKcEgzMGp1UGVBUG1hVjdrbmJzbDRhb1RjZHJaeTVoTXVWaGx0WDBWUndkVld4RXNsd3c2TTNCUFV",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdlhJZ25lcjl5ek85V1pNVDYwaE1QQnNkNGZ5ZGtTOXhnRzFiSDJURURpMjFKcEgzMGp1UGVBUG1hVjdrbmJzbDRhb1RjZHJaeTVoTXVWaGx0WDBWUndkVld4RXNsd3c2TTNCUFVhUFdydlVHZmdiZG41UWV1Sl9RRnpnTVlNVUwzV3V2Q21wQy0xSXVrRWRCTVRPc3V5ejNHcXkySXJfZmJzT21Qb0Zxc2ppZC1oSDZJc05pakVR?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdlhJZ25lcjl5ek85V1pNVDYwaE1QQnNkNGZ5ZGtTOXhnRzFiSDJURURpMjFKcEgzMGp1UGVBUG1hVjdrbmJzbDRhb1RjZHJaeTVoTXVWaGx0WDBWUndkVld4RXNsd3c2TTNCUFVhUFdydlVHZmdiZG41UWV1Sl9RRnpnTVlNVUwzV3V2Q21wQy0xSXVrRWRCTVRPc3V5ejNHcXkySXJfZmJzT21Qb0Zxc2ppZC1oSDZJc05pakVR?oc=5"
+ },
+ {
+  "id": "rt-952e5025d09f",
+  "titleCn": "艾米莉亚·琼斯 (Emilia Jones) 将出演 Netflix 播客剧集《The Retrievals》改编剧 - Variety",
+  "titleOrig": "Emilia Jones to Star in Netflix Series Adaptation of ‘The Retrievals’ Podcast - Variety",
+  "catCn": "影视剧",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 80,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnBzVjVIS0QtZDlaYkpSMnhNTVZ4eDNfeXFwNEk4WkpKcFA3WTFIX2k2czM1WWtIQ216RE9ZNldNelV5dUNRRUhKbW1DU1BiMGdHQnBiRHk1azBIMUxWUUN0d0V0YktjOUg4dWF",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnBzVjVIS0QtZDlaYkpSMnhNTVZ4eDNfeXFwNEk4WkpKcFA3WTFIX2k2czM1WWtIQ216RE9ZNldNelV5dUNRRUhKbW1DU1BiMGdHQnBiRHk1azBIMUxWUUN0d0V0YktjOUg4dWF4Z3QwcVdIV284c3lsRm1Sc2RWNHMtSmV3bDhjbl9DY2V6NHhzZw?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnBzVjVIS0QtZDlaYkpSMnhNTVZ4eDNfeXFwNEk4WkpKcFA3WTFIX2k2czM1WWtIQ216RE9ZNldNelV5dUNRRUhKbW1DU1BiMGdHQnBiRHk1azBIMUxWUUN0d0V0YktjOUg4dWF4Z3QwcVdIV284c3lsRm1Sc2RWNHMtSmV3bDhjbl9DY2V6NHhzZw?oc=5"
+ },
+ {
+  "id": "rt-3c120dac7c3e",
+  "titleCn": "Netflix 八月最佳电影和电视节目 - 纽约时报中文网",
+  "titleOrig": "The Best Movies and TV Shows Coming to Netflix in August - The New York Times",
+  "catCn": "影视剧",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 78,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9tdEhmcHcwZndMSEJuemNZbnZrZ0tZS0tuV0YxWkdfWWIwTmpmcmFUMnM1RUZVMjcwal9lRnVjSV9GS0VsMHE5R3p5bkZYMC1qclE4dnNqWW5IcG44NWtyOXl1VFBUOE44QVRNeU4",
   "tags": [],
   "timeRel": "",
@@ -11756,54 +11800,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tdEhmcHcwZndMSEJuemNZbnZrZ0tZS0tuV0YxWkdfWWIwTmpmcmFUMnM1RUZVMjcwal9lRnVjSV9GS0VsMHE5R3p5bkZYMC1qclE4dnNqWW5IcG44NWtyOXl1VFBUOE44QVRNeU41RHcxWE1MeVYwLXJyYU05dFE?oc=5"
  },
  {
-  "id": "rt-1e189cb69030",
-  "titleCn": "Netflix 真人秀将聚焦亚利桑那州 - AZ Family",
-  "titleOrig": "Netflix reality drama to spotlight Arizona - AZ Family",
-  "catCn": "影视剧",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 80,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbEpWdkhpdTdnZmFsSTNpc0RVcGVHTmxxNzJjWWZTSmFsdWZYYm9tYjJCc2dwYjkxbFNQd3NlZTNSR0FocjdSMkREeThISzFlZ1R6bEFveHF4U0hMcE5JZkhNRVBjMUs3YjkycEx",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbEpWdkhpdTdnZmFsSTNpc0RVcGVHTmxxNzJjWWZTSmFsdWZYYm9tYjJCc2dwYjkxbFNQd3NlZTNSR0FocjdSMkREeThISzFlZ1R6bEFveHF4U0hMcE5JZkhNRVBjMUs3YjkycEx6Nnl6VW01bV9iVE5WamU3OXlpQ2l3?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbEpWdkhpdTdnZmFsSTNpc0RVcGVHTmxxNzJjWWZTSmFsdWZYYm9tYjJCc2dwYjkxbFNQd3NlZTNSR0FocjdSMkREeThISzFlZ1R6bEFveHF4U0hMcE5JZkhNRVBjMUs3YjkycEx6Nnl6VW01bV9iVE5WamU3OXlpQ2l3?oc=5"
- },
- {
   "id": "rt-ccaa98c0f27b",
   "titleCn": "带上你的防晒霜！ 《亚利桑那热辣》在 Netflix 的新真人秀节目中升温 - Netflix",
   "titleOrig": "Pack Your SPF! Arizona Hot Is Turning Up the Temp in New Netflix Reality Show - Netflix",
@@ -11814,7 +11810,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 78,
+  "buzzIndex": 76,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxON0dFU3QxNjB2NlBFaE5uRWJYeXROdkk1ZUZmZG50dkNocDloY0p3d3hlejcwMzhlXzZiTnJIZms0cjFpbE5zVTRCYUlMNkxtRFFuN0JqeVNRQUhnUkJrcHl2LWZuZUlsU2xaNU1",
   "tags": [],
   "timeRel": "",
@@ -11850,54 +11846,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-14",
   "primaryUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON0dFU3QxNjB2NlBFaE5uRWJYeXROdkk1ZUZmZG50dkNocDloY0p3d3hlejcwMzhlXzZiTnJIZms0cjFpbE5zVTRCYUlMNkxtRFFuN0JqeVNRQUhnUkJrcHl2LWZuZUlsU2xaNU1namFpMzVySlJPUnUtMzlNOGlGRmN2cw?oc=5"
- },
- {
-  "id": "rt-1d08811185cb",
-  "titleCn": "乔什·查尔斯医生现在准备见您 - Netflix",
-  "titleOrig": "Doctor Josh Charles Is Ready to See You Now - Netflix",
-  "catCn": "影视剧",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 76,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9jNXM0SURiTUNwZTRlcF80My1zVi1qN2tpLTZVSi1OcTVWZ3NrX1FqVEhxWUs2cDhRQ3c2ZkRlOGlPWGxNeFVTeHZyZ2xzNHF3QWd5dU9Ncll5QmlMSVBsV2ZqbXZ0UXVjbFg0aml",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jNXM0SURiTUNwZTRlcF80My1zVi1qN2tpLTZVSi1OcTVWZ3NrX1FqVEhxWUs2cDhRQ3c2ZkRlOGlPWGxNeFVTeHZyZ2xzNHF3QWd5dU9Ncll5QmlMSVBsV2ZqbXZ0UXVjbFg0amlFYWtpbGFsSE9iSmlB?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jNXM0SURiTUNwZTRlcF80My1zVi1qN2tpLTZVSi1OcTVWZ3NrX1FqVEhxWUs2cDhRQ3c2ZkRlOGlPWGxNeFVTeHZyZ2xzNHF3QWd5dU9Ncll5QmlMSVBsV2ZqbXZ0UXVjbFg0amlFYWtpbGFsSE9iSmlB?oc=5"
  },
  {
   "id": "rt-5bf0720480fb",
@@ -11996,9 +11944,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWng5T2VVRm9ONHpvdmRzWHE2ZVRpSVMtVnhSa0M3LWhxeFRtcjZ6YTFiY09sdWtVVXFSYk5LZ0QyU0tKeW9IdzB5RW9tMExMTEdKM1hzMXp6T2habmFsUUNPUWRxalY4NXl4OXJXb0pMTzBhOGpxYzFvQTBpcGNiRG9TekxSbjRSUFY1cnNaOTVhcWJKYWtFZExLcTI4QWZOdjJ4MTBYb0FvVFNJcWxhQ3dvMHJNSWgxREE?oc=5"
  },
  {
-  "id": "rt-38e2a7d7cff3",
-  "titleCn": "票房：《橡树街的尽头》首映票房目标为 2500 万美元，《蜘蛛侠：崭新的一天》仍稳居第一 - Variety",
-  "titleOrig": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1 - Variety",
+  "id": "rt-13fab662f235",
+  "titleCn": "周末预告：《蜘蛛侠》票房三连冠 - boxofficepro.com",
+  "titleOrig": "Weekend Preview: SPIDER-MAN Poised to Three-peat at the Box Office - boxofficepro.com",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "多市场",
@@ -12007,54 +11955,6 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 94,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTNpak1wLUU0NEFiT1piVi00M3pZNXdPM0NqSWlqUG9ReHdFMFE1TTdjeXRObXNuVFRiN1ZFdXdha1JhUWZ6MnpJMTZLVzVSdXVpNUx2aEJuU2N4QmN3ZUlENGxFZ3ZXbUk4Ymd",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTNpak1wLUU0NEFiT1piVi00M3pZNXdPM0NqSWlqUG9ReHdFMFE1TTdjeXRObXNuVFRiN1ZFdXdha1JhUWZ6MnpJMTZLVzVSdXVpNUx2aEJuU2N4QmN3ZUlENGxFZ3ZXbUk4Ymd6Y19telRDdHlYMUFIRHRkdzVLSnVoTGVPZEJlaUFtNnNrZXdNMnVJT1FYRmV6bmlLbGhkV1hhV29NUDlyQlRUcTctSnNsMFF6Sm9TS1pLVkRrR1VqZw?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTNpak1wLUU0NEFiT1piVi00M3pZNXdPM0NqSWlqUG9ReHdFMFE1TTdjeXRObXNuVFRiN1ZFdXdha1JhUWZ6MnpJMTZLVzVSdXVpNUx2aEJuU2N4QmN3ZUlENGxFZ3ZXbUk4Ymd6Y19telRDdHlYMUFIRHRkdzVLSnVoTGVPZEJlaUFtNnNrZXdNMnVJT1FYRmV6bmlLbGhkV1hhV29NUDlyQlRUcTctSnNsMFF6Sm9TS1pLVkRrR1VqZw?oc=5"
- },
- {
-  "id": "rt-d23e61e2de07",
-  "titleCn": "周末预告：《蜘蛛侠》票房三连冠 - Boxoffice Pro",
-  "titleOrig": "Weekend Preview: SPIDER-MAN Poised to Three-peat at the Box Office - Boxoffice Pro",
-  "catCn": "影视剧",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 92,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHRsdzBXNUg3S1Zhb2x5R05IcWVCUDA5bUwxZGpXMzBvYVNiRkZublpDSkRmWEVJQnJ3SWMwcU41ai1OZ1BSQ0NwRnpmSlMyNHZRTGtCTWo5TVJnVnVhdXlJWWdiSk5FYmhsMGN",
   "tags": [],
   "timeRel": "",
@@ -12092,9 +11992,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHRsdzBXNUg3S1Zhb2x5R05IcWVCUDA5bUwxZGpXMzBvYVNiRkZublpDSkRmWEVJQnJ3SWMwcU41ai1OZ1BSQ0NwRnpmSlMyNHZRTGtCTWo5TVJnVnVhdXlJWWdiSk5FYmhsMGNwN0N2cGNka1g0UG5sQ1VDbVJDRTI4dUpQWkIwN2g3djBYWXR1eHlJelAtMGFSbw?oc=5"
  },
  {
-  "id": "rt-8e7cfe872e29",
-  "titleCn": "《橡树街的尽头》票房目标力压《蜘蛛侠：崭新的一天》 - 好莱坞报道",
-  "titleOrig": "‘End of Oak Street’ Box Office Aims to Take Bite Out of ‘Spider-Man: Brand New Day’ - The Hollywood Reporter",
+  "id": "rt-38e2a7d7cff3",
+  "titleCn": "票房：《橡树街的尽头》首映票房目标为 2500 万美元，《蜘蛛侠：崭新的一天》仍稳居第一 - Variety",
+  "titleOrig": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1 - Variety",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "多市场",
@@ -12102,8 +12002,8 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 90,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjEyUGk1bU1JOUhXbG1HY1JNaVBHQVZrLXpQaGdrcXR4MTJfNkx2SmhiX0dYVktLWXF5QUZoVzVLbDU5LWdHQ3lkWXB6QnhkYk9yUnFSYXV6SXBQNmZpazQ1OHdoeFNWal9hQ1l",
+  "buzzIndex": 92,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTNpak1wLUU0NEFiT1piVi00M3pZNXdPM0NqSWlqUG9ReHdFMFE1TTdjeXRObXNuVFRiN1ZFdXdha1JhUWZ6MnpJMTZLVzVSdXVpNUx2aEJuU2N4QmN3ZUlENGxFZ3ZXbUk4Ymd",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -12113,7 +12013,7 @@ window.EVENTS_REALTIME = [
     "name": "Google News 热讯",
     "region": "多市场",
     "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjEyUGk1bU1JOUhXbG1HY1JNaVBHQVZrLXpQaGdrcXR4MTJfNkx2SmhiX0dYVktLWXF5QUZoVzVLbDU5LWdHQ3lkWXB6QnhkYk9yUnFSYXV6SXBQNmZpazQ1OHdoeFNWal9hQ1l2bWFtYjdlajZHSk1vbU41OUx4ZFFYeDZIYVZwamgxMlN1Z2VCVmNMUEgtLU55Y2Zsam00emlaOUxJNk9iN0NuUE55b1NMWDVxNWQ0OVBoZHBR?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTNpak1wLUU0NEFiT1piVi00M3pZNXdPM0NqSWlqUG9ReHdFMFE1TTdjeXRObXNuVFRiN1ZFdXdha1JhUWZ6MnpJMTZLVzVSdXVpNUx2aEJuU2N4QmN3ZUlENGxFZ3ZXbUk4Ymd6Y19telRDdHlYMUFIRHRkdzVLSnVoTGVPZEJlaUFtNnNrZXdNMnVJT1FYRmV6bmlLbGhkV1hhV29NUDlyQlRUcTctSnNsMFF6Sm9TS1pLVkRrR1VqZw?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -12137,7 +12037,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjEyUGk1bU1JOUhXbG1HY1JNaVBHQVZrLXpQaGdrcXR4MTJfNkx2SmhiX0dYVktLWXF5QUZoVzVLbDU5LWdHQ3lkWXB6QnhkYk9yUnFSYXV6SXBQNmZpazQ1OHdoeFNWal9hQ1l2bWFtYjdlajZHSk1vbU41OUx4ZFFYeDZIYVZwamgxMlN1Z2VCVmNMUEgtLU55Y2Zsam00emlaOUxJNk9iN0NuUE55b1NMWDVxNWQ0OVBoZHBR?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTNpak1wLUU0NEFiT1piVi00M3pZNXdPM0NqSWlqUG9ReHdFMFE1TTdjeXRObXNuVFRiN1ZFdXdha1JhUWZ6MnpJMTZLVzVSdXVpNUx2aEJuU2N4QmN3ZUlENGxFZ3ZXbUk4Ymd6Y19telRDdHlYMUFIRHRkdzVLSnVoTGVPZEJlaUFtNnNrZXdNMnVJT1FYRmV6bmlLbGhkV1hhV29NUDlyQlRUcTctSnNsMFF6Sm9TS1pLVkRrR1VqZw?oc=5"
  },
  {
   "id": "rt-0a0a18af26f5",
@@ -12150,7 +12050,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 88,
+  "buzzIndex": 90,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPazFHWEtaNWh0WS1Td0FSdmpVX21hZDU5TWJYczNTMUJUN0J2WHh6N1lMU1BUcUJxRWZXanY1RnlVTThaVzZRejFEclp0NDVNYmVlQ3BoTnpEdFVwbXB0N0plQ0tsQXYwbm1lWkJ",
   "tags": [],
   "timeRel": "",
@@ -12188,9 +12088,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazFHWEtaNWh0WS1Td0FSdmpVX21hZDU5TWJYczNTMUJUN0J2WHh6N1lMU1BUcUJxRWZXanY1RnlVTThaVzZRejFEclp0NDVNYmVlQ3BoTnpEdFVwbXB0N0plQ0tsQXYwbm1lWkJ0a2NKZV84cTFWSDF1NkUyWl9UMHUxdlE5MXhTRUZFWFhkYmVqa0F1?oc=5"
  },
  {
-  "id": "rt-6b76e61e138a",
-  "titleCn": "日本票房：《千井川剧场版：人鱼岛的秘密》第三周重回第一 - Crunchyroll",
-  "titleOrig": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Returns to No. 1 in 3rd Weekend - Crunchyroll",
+  "id": "rt-6df7fa65ef3b",
+  "titleCn": "英国和爱尔兰预测：《橡树街的尽头》会成为今年八月的流派突破吗？ - boxofficepro.com",
+  "titleOrig": "U.K. and Ireland Forecast: Will THE END OF OAK STREET Be This August's Genre Breakout? - boxofficepro.com",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "多市场",
@@ -12198,55 +12098,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 86,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdUhtUU90XzdfdjkybzI3NjZldVpMbWxudlhpWlNiSllBWE1rZzhpV2QyWmxscHc2NUMyLWh6aFVGdVBzeGhnd1p6RzhtTGp1WThfVEZUY3pCaFEtRm1GeGU2TklmZEpzVlNoaV9",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdUhtUU90XzdfdjkybzI3NjZldVpMbWxudlhpWlNiSllBWE1rZzhpV2QyWmxscHc2NUMyLWh6aFVGdVBzeGhnd1p6RzhtTGp1WThfVEZUY3pCaFEtRm1GeGU2TklmZEpzVlNoaV9jN1JOMzBMcW9ScFpMZ0V3dlFsMnpBbzgyTm5xUHZCa2hTeWJpMVVZOHA3TEQyUTE1RTVhTy00bXBmWnM3cDV4U3djYmIzTDZ6VDRzczctWk5jMmF2TGxBTmw2UGdQUkZnLWdSbWJEX1p3?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdUhtUU90XzdfdjkybzI3NjZldVpMbWxudlhpWlNiSllBWE1rZzhpV2QyWmxscHc2NUMyLWh6aFVGdVBzeGhnd1p6RzhtTGp1WThfVEZUY3pCaFEtRm1GeGU2TklmZEpzVlNoaV9jN1JOMzBMcW9ScFpMZ0V3dlFsMnpBbzgyTm5xUHZCa2hTeWJpMVVZOHA3TEQyUTE1RTVhTy00bXBmWnM3cDV4U3djYmIzTDZ6VDRzczctWk5jMmF2TGxBTmw2UGdQUkZnLWdSbWJEX1p3?oc=5"
- },
- {
-  "id": "rt-92090b79a739",
-  "titleCn": "英国和爱尔兰预测：《橡树街的尽头》会成为今年八月的流派突破吗？ - 票房专业版",
-  "titleOrig": "U.K. and Ireland Forecast: Will THE END OF OAK STREET Be This August's Genre Breakout? - Boxoffice Pro",
-  "catCn": "影视剧",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 84,
+  "buzzIndex": 88,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmdKc2lORFlNVUl6eThmUzRnY2V0akYxdFA3anNPZnZSdFZpeUlscmM3d2FBLWpscVhmekliTmNDdV9zYndYcjdLQkNRVWk3TzRtYjFjUnZ3am10TXhUNlJFUVBLLVRoQk9uU2J",
   "tags": [],
   "timeRel": "",
@@ -12284,9 +12136,105 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmdKc2lORFlNVUl6eThmUzRnY2V0akYxdFA3anNPZnZSdFZpeUlscmM3d2FBLWpscVhmekliTmNDdV9zYndYcjdLQkNRVWk3TzRtYjFjUnZ3am10TXhUNlJFUVBLLVRoQk9uU2JtZ2x5SUgzb0RHT2VBZkhZbGpuYktMN1EyaDRpUnhpZ0xyYThHNmtITjNMRWVDV1dxQ3gtM2dIUWZBbnZYVUpsSHNDcWp3?oc=5"
  },
  {
-  "id": "rt-32bf5bad1104",
-  "titleCn": "Vendetta 2013 泰语配音 - erto.fi",
-  "titleOrig": "Vendetta 2013 พากยไทย - erto.fi",
+  "id": "rt-e7fee34f3985",
+  "titleCn": "《蜘蛛侠：全新一天》美国票房最快突破 7 亿美元的电影 - 截止日期",
+  "titleOrig": "‘Spider-Man: Brand New Day’ Fastest Movie To Cross $700M At U.S. Box Office - Deadline",
+  "catCn": "影视剧",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 86,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVVCc004dUFNN3VpOHo1M21GTG15Vi1zcDkzVzRZTVhqSnZTS0gycDQtUVFQdVh2YlNJWlNVbDhMc2twOVNYaDZpTURxTnUyODh5VGZlYkV6cVA4TUZtQXJtM1BNV0JYLUtOMTR",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVVCc004dUFNN3VpOHo1M21GTG15Vi1zcDkzVzRZTVhqSnZTS0gycDQtUVFQdVh2YlNJWlNVbDhMc2twOVNYaDZpTURxTnUyODh5VGZlYkV6cVA4TUZtQXJtM1BNV0JYLUtOMTRDWHh1NHhfMXhqRFBIOUR2V0drZkFNZEtlT2djRDlTNTZISGJYYU1oSXpuSjNwenk?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVVCc004dUFNN3VpOHo1M21GTG15Vi1zcDkzVzRZTVhqSnZTS0gycDQtUVFQdVh2YlNJWlNVbDhMc2twOVNYaDZpTURxTnUyODh5VGZlYkV6cVA4TUZtQXJtM1BNV0JYLUtOMTRDWHh1NHhfMXhqRFBIOUR2V0drZkFNZEtlT2djRDlTNTZISGJYYU1oSXpuSjNwenk?oc=5"
+ },
+ {
+  "id": "rt-8e7cfe872e29",
+  "titleCn": "《橡树街的尽头》票房目标力压《蜘蛛侠：崭新的一天》 - 好莱坞报道",
+  "titleOrig": "‘End of Oak Street’ Box Office Aims to Take Bite Out of ‘Spider-Man: Brand New Day’ - The Hollywood Reporter",
+  "catCn": "影视剧",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 84,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjEyUGk1bU1JOUhXbG1HY1JNaVBHQVZrLXpQaGdrcXR4MTJfNkx2SmhiX0dYVktLWXF5QUZoVzVLbDU5LWdHQ3lkWXB6QnhkYk9yUnFSYXV6SXBQNmZpazQ1OHdoeFNWal9hQ1l",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjEyUGk1bU1JOUhXbG1HY1JNaVBHQVZrLXpQaGdrcXR4MTJfNkx2SmhiX0dYVktLWXF5QUZoVzVLbDU5LWdHQ3lkWXB6QnhkYk9yUnFSYXV6SXBQNmZpazQ1OHdoeFNWal9hQ1l2bWFtYjdlajZHSk1vbU41OUx4ZFFYeDZIYVZwamgxMlN1Z2VCVmNMUEgtLU55Y2Zsam00emlaOUxJNk9iN0NuUE55b1NMWDVxNWQ0OVBoZHBR?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjEyUGk1bU1JOUhXbG1HY1JNaVBHQVZrLXpQaGdrcXR4MTJfNkx2SmhiX0dYVktLWXF5QUZoVzVLbDU5LWdHQ3lkWXB6QnhkYk9yUnFSYXV6SXBQNmZpazQ1OHdoeFNWal9hQ1l2bWFtYjdlajZHSk1vbU41OUx4ZFFYeDZIYVZwamgxMlN1Z2VCVmNMUEgtLU55Y2Zsam00emlaOUxJNk9iN0NuUE55b1NMWDVxNWQ0OVBoZHBR?oc=5"
+ },
+ {
+  "id": "rt-4f9b52687860",
+  "titleCn": "Vendetta 2013 泰语配音 - Toimihenkilöliitto Erto",
+  "titleOrig": "Vendetta 2013 พากยไทย - Toimihenkilöliitto Erto",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "泰国",
@@ -12380,9 +12328,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83NzZUNHRUTlN3MzlfSXdwa2dCV1o3WDdnMnBOUGdoV3RRQXlVbFFTUFRBNkJuZ3hDN1JwdWxHWkM2bEhCemIxbmRNVEhfUFhzWFBXczFPdFNQWTQ?oc=5"
  },
  {
-  "id": "rt-0973828abcd7",
-  "titleCn": "朋友 (1986) - Rewat |完整电影 |泰国经典电影 - youtu.be",
-  "titleOrig": "Friend (1986) - By Rewat | Full Movie | Thai Classic Film - youtu.be",
+  "id": "rt-41343b642643",
+  "titleCn": "朋友 (1986) - Rewat |完整电影 |泰国经典电影 - YouTube",
+  "titleOrig": "Friend (1986) - By Rewat | Full Movie | Thai Classic Film - YouTube",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "泰国",
@@ -12716,9 +12664,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmp1SFNaNWtjYUplb3FYZFM5RmstZHBfOW51UUxoOWhZcWFkVVUxUHpDWVNiazdvNDVFRDlIRG1rZU5MVlFQeUlick5velFKRzN1YXAya0NOcEdoWEwwYmswQmJGWk91RG1hWFZZNFkwNlI0TW45ZjlBWURNdllKMQ?oc=5"
  },
  {
-  "id": "rt-1b74fcf07b86",
-  "titleCn": "红丝绒终于回来了！ 8月3日回归让粉丝们疯狂！ - dojeonmedia.com",
-  "titleOrig": "RED VELVET IS FINALLY BACK! August 3rd Comeback Has Fans Losing Their Minds! - dojeonmedia.com",
+  "id": "rt-5de976ebdb9a",
+  "titleCn": "红丝绒终于回来了！ 8月3日回归让粉丝们疯狂！ - 道田媒体",
+  "titleOrig": "RED VELVET IS FINALLY BACK! August 3rd Comeback Has Fans Losing Their Minds! - Dojeon Media",
   "catCn": "明星八卦",
   "cat": "celebrity",
   "country": "多市场",
@@ -12860,9 +12808,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2xCWW5KLXpwS1hlNVJFenE2Q2s3UGd2aTBRZ3cwd2cyUl90WDJTanY2OENobWI1Smp3OXU4UW1DdXRrelZmQXg1LUl2V2ZXMmcydUdaMkh0VzF2cTlybUc0SjRLYVl5RG82S1VLdmE0YkZqd213WGhiYk1sZ2FIcGVLaVpyTlRGUkNMamFn?oc=5"
  },
  {
-  "id": "rt-6dc736eca01b",
-  "titleCn": "男团引领8月韩流回归浪潮 - 东亚日报",
-  "titleOrig": "Boy groups lead August K-pop comeback wave - 동아일보",
+  "id": "rt-3d7540c88a8e",
+  "titleCn": "流行巨星 BTS 回归演唱会让首尔历史中心充满活力 - bbc.com",
+  "titleOrig": "Pop megastars BTS electrify historic centre of Seoul with comeback concert - bbc.com",
   "catCn": "明星八卦",
   "cat": "celebrity",
   "country": "多市场",
@@ -12871,54 +12819,6 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 88,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XVDROWUo0bFptb0ZlQ0V1empGeVg4UFJtNkZBT29YX3hRM0tfdEZfMUJsellfb1Q4UWx4cXdpZl9lYUdCRF9ScnRtOWhOdklTWFdNSWU4MTR1WVJDMlJHbkhHSzk4Zw?oc=5\" ta",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XVDROWUo0bFptb0ZlQ0V1empGeVg4UFJtNkZBT29YX3hRM0tfdEZfMUJsellfb1Q4UWx4cXdpZl9lYUdCRF9ScnRtOWhOdklTWFdNSWU4MTR1WVJDMlJHbkhHSzk4Zw?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XVDROWUo0bFptb0ZlQ0V1empGeVg4UFJtNkZBT29YX3hRM0tfdEZfMUJsellfb1Q4UWx4cXdpZl9lYUdCRF9ScnRtOWhOdklTWFdNSWU4MTR1WVJDMlJHbkhHSzk4Zw?oc=5"
- },
- {
-  "id": "rt-6a212a5426fc",
-  "titleCn": "流行巨星 BTS 回归演唱会让首尔历史中心充满活力 - BBC",
-  "titleOrig": "Pop megastars BTS electrify historic centre of Seoul with comeback concert - BBC",
-  "catCn": "明星八卦",
-  "cat": "celebrity",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 86,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HLUh4MWsyUlR0YkNTT0pMMkxxZUo3Q0JJTGVrNnBqYkxCc0l6eWxUYkhaalo2QnFHTTFQY2FtZFhEQ1JqbU15OWswbERqX0R6akIyWDVvNldfQQ?oc=5\" target=\"_blank\"&gt",
   "tags": [],
   "timeRel": "",
@@ -12966,7 +12866,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 84,
+  "buzzIndex": 86,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXR3YldobzZBX09hRF9TZVdtYlhKQWxKcHpmNG5lY1lOanpDc1B6bmFlY2RyeF9zS2JiLTdtTDVsRnhCbDJGMk4yMFN4UmZrY19UY2hZeW5fNjdvaDZUMVNCeFZfWU54WXJvUFV",
   "tags": [],
   "timeRel": "",
@@ -13014,7 +12914,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 82,
+  "buzzIndex": 84,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUdvNUN1NTF1Y1cxclFwNHhtQVhtQXNibmg5TEhqTkl5UlhUdlVFUDBRVzdMQ01FTmNMQWxpWFBJNTlFZWo3R1R2amlVVTZmTzZWQjRDbWdydzQtOUd0VnJUQzJRbzVYWXdYV1J",
   "tags": [],
   "timeRel": "",
@@ -13050,6 +12950,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-14",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUdvNUN1NTF1Y1cxclFwNHhtQVhtQXNibmg5TEhqTkl5UlhUdlVFUDBRVzdMQ01FTmNMQWxpWFBJNTlFZWo3R1R2amlVVTZmTzZWQjRDbWdydzQtOUd0VnJUQzJRbzVYWXdYV1JwazA5cFgwVW1QWnZtLVYtbkFkMVpQTkFHSXJqaHpUVW9iRzZial82MkJ4U2hUUUpfVUIzaTNaOThqU3dDcl9NVjdUQUZaUzN6MTBMWUpnQmhCRnjSAcYBQVVfeXFMTXdWM0xKdElac0hHdFhRbmEya0szQk40OWZlSTBlZFRPeEc1R1ZEMk1qUmJIUDNMNkRPRThVMjFGWW1PcnFYYzZOUWE0UTRKVzZZTmJQdHU3Wm1ZSzl6RUpQNGZDR2oxRzVFSHBNTE80a2dnR0lkV0xMZDJaTVZVdUJFYi1fcFFybW9ad0lQWVY1WjY2TW1SM1VDZy1QdWZ4dHFQY0c4WWk1cXpOSFFqNFhsam9SLVI5VTktQ2c1REpBaWpqVzNn?oc=5"
+ },
+ {
+  "id": "rt-380d65442174",
+  "titleCn": "男团引领8月韩流回归浪潮 - donga.com",
+  "titleOrig": "Boy groups lead August K-pop comeback wave - donga.com",
+  "catCn": "明星八卦",
+  "cat": "celebrity",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 82,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XVDROWUo0bFptb0ZlQ0V1empGeVg4UFJtNkZBT29YX3hRM0tfdEZfMUJsellfb1Q4UWx4cXdpZl9lYUdCRF9ScnRtOWhOdklTWFdNSWU4MTR1WVJDMlJHbkhHSzk4Zw?oc=5\" ta",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XVDROWUo0bFptb0ZlQ0V1empGeVg4UFJtNkZBT29YX3hRM0tfdEZfMUJsellfb1Q4UWx4cXdpZl9lYUdCRF9ScnRtOWhOdklTWFdNSWU4MTR1WVJDMlJHbkhHSzk4Zw?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XVDROWUo0bFptb0ZlQ0V1empGeVg4UFJtNkZBT29YX3hRM0tfdEZfMUJsellfb1Q4UWx4cXdpZl9lYUdCRF9ScnRtOWhOdklTWFdNSWU4MTR1WVJDMlJHbkhHSzk4Zw?oc=5"
  },
  {
   "id": "rt-a51f173c0ef3",
@@ -13196,56 +13144,8 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFltQ2tQTFl0TTVBWFU1dnRPLVNoNFZTYmY0V0ZwX0RLSVlndGxOSm5lcGFLTnlrbDhIbFFkTHhJNHFVdzlGaFdLSV9rODNCcjF5WlBibFdqcnlDUGVERnZ2U1hPekJLQXhlUDR5TTV0OXlsc2ZEZ2F3WGlrSUlaSnJxTFlYQXRKRVFqM0cxcXBPQQ?oc=5"
  },
  {
-  "id": "rt-b602ba7ec184",
-  "titleCn": "山雀美丽的女孩 泰国天气预报 - erto.fi",
-  "titleOrig": "นม สวย สาว ไทยweather Forecast - erto.fi",
-  "catCn": "明星八卦",
-  "cat": "celebrity",
-  "country": "泰国",
-  "stars": "🔥🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 98,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQVhabHVSV1R2a1hlSGtBc05MQ2Z6TDF0RXFnNVNCcXdJMV95VXlmRkpPcUJ6bndlb0d2aGVEN044LXVxcHAzVUk0aXlUVEVLQnFZWDdJTDN3d3RuRHdudTcwTHhMQm9ITVBMUzh",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "泰国",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQVhabHVSV1R2a1hlSGtBc05MQ2Z6TDF0RXFnNVNCcXdJMV95VXlmRkpPcUJ6bndlb0d2aGVEN044LXVxcHAzVUk0aXlUVEVLQnFZWDdJTDN3d3RuRHdudTcwTHhMQm9ITVBMUzhwc1gtNFI0MkZKN2hOVUx1c2d5a1dSV0tiNFpSQnF6eVduU0hna2ZCUnIxcHVZWDJZZnpCb1dnbnpOVUJCTzlWblNUSnhka0ZFaTNxcW1ydkdzV01FZEhqMk9zQXkwSWxubnl2Yjd3X25UWVpmcWJIVk5v?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQVhabHVSV1R2a1hlSGtBc05MQ2Z6TDF0RXFnNVNCcXdJMV95VXlmRkpPcUJ6bndlb0d2aGVEN044LXVxcHAzVUk0aXlUVEVLQnFZWDdJTDN3d3RuRHdudTcwTHhMQm9ITVBMUzhwc1gtNFI0MkZKN2hOVUx1c2d5a1dSV0tiNFpSQnF6eVduU0hna2ZCUnIxcHVZWDJZZnpCb1dnbnpOVUJCTzlWblNUSnhka0ZFaTNxcW1ydkdzV01FZEhqMk9zQXkwSWxubnl2Yjd3X25UWVpmcWJIVk5v?oc=5"
- },
- {
   "id": "rt-9605c6a65e74",
-  "titleCn": "🏀✨ 与著名篮球运动员的特别比赛。随着7HD LEGENDS队与7HD ALL-STARS队3x3男学生篮球赛、7HD 2026体育冠军、泰国冠军赛的7HD演员对决🏆✨✨现场气氛热闹非凡。来自粉丝的欢呼 - facebook.com",
+  "titleCn": "🏀✨ 与著名篮球运动员的特别比赛。随着7HD LEGENDS队与7HD ALL-STARS队的3x3男学生篮球赛、7HD 2026体育冠军、泰国冠军赛的7HD演员对决🏆✨，现场气氛热闹非凡。来自粉丝的欢呼 - facebook.com",
   "titleOrig": "🏀✨ แมตช์พิเศษดวลบาสคนดัง กับการประชันฝีมือของนักแสดงช่อง 7HD ระหว่าง ทีม 7HD LEGENDS และ ทีม 7HD ALL-STARS ในการแข่งขันบาสเกตบอล 3x3 นักเรียนชาย แชมป์กีฬา 7HD 2026 รอบชิงแชมป์ประเทศไทย 🏆 ✨ บรรยากาศเต็มไปด้วยความคึกคัก เรียกเสียงเชียร์จากแฟน ๆ - facebook.com",
   "catCn": "明星八卦",
   "cat": "celebrity",
@@ -13254,7 +13154,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 96,
+  "buzzIndex": 98,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wZBVV95cUxPUzQwOXBySVZVWGwyY3hnMWFnSF9DZU13UnE5eEYwMEh5cW1SdE56NzlZcVpUUUZ2ZF8xUjZEdS1pdWtzdlYxYmRpVnBDZzZTOXhsdWFMQ0d4NnVBX2N6RW1UOWVMaDZGZTRaZVV",
   "tags": [],
   "timeRel": "",
@@ -13302,7 +13202,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 94,
+  "buzzIndex": 96,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTVSNlR1X3k1TVJ6MmRZeGlZY01GNUVBQml6Q00wV0t2Z0lHUFNRUGRNZEtGZW15Wlo0b00xNzRzME5Fa2hUTENIclFtcUUtcTlqZU1oclB2MnJsMUdyQncyMnl3dXgwQkhvaUt",
   "tags": [],
   "timeRel": "",
@@ -13346,11 +13246,11 @@ window.EVENTS_REALTIME = [
   "catCn": "明星八卦",
   "cat": "celebrity",
   "country": "泰国",
-  "stars": "🔥🔥",
+  "stars": "🔥🔥🔥",
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 92,
+  "buzzIndex": 94,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBOa3NwaTBxYkJpSU9FaFA4UThwLU81TEs0a0c5VExfUlpPSVFlX0tORjdnVEdtRW9XbnFKLTdvVGtaR0lKOE84Vk1vSUpaN3k5LWVjbnJzdzItMXpEUUZVMHZUQ0VxT0FETTdSdXE",
   "tags": [],
   "timeRel": "",
@@ -13398,7 +13298,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 90,
+  "buzzIndex": 92,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBKaW5oSnJkOU1GYjUtdF8weGlmZnl0RjhnSkRraExsdHBmazJvYjBGU0Y2UXpmRnZQRUp3Y2RFNWtzd044MmdTZGVxdWtWczBmNDAtVDVMbVRtM0VCZlAwQ2lPNk5GNTFsMGlMUEl",
   "tags": [],
   "timeRel": "",
@@ -13446,7 +13346,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 88,
+  "buzzIndex": 90,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPeml2emhnZ1BZSDdTdm1ybGIzRVQ1NFdHWldYQktXZnlCNnh5WDhhblRpM3pHQXJwR3FOTXhTeElpSXBiSm0yVTkxaTlibm96UlB2bmpwYnM2QXFLbEEtUm5TT2stUmtwZ1V1ZDd",
   "tags": [],
   "timeRel": "",
@@ -13484,9 +13384,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeml2emhnZ1BZSDdTdm1ybGIzRVQ1NFdHWldYQktXZnlCNnh5WDhhblRpM3pHQXJwR3FOTXhTeElpSXBiSm0yVTkxaTlibm96UlB2bmpwYnM2QXFLbEEtUm5TT2stUmtwZ1V1ZDdfVjFzV3hyaVE5TERNX2Nud3o5aWs3b2JrN1VobEpOaXZCU2NPblUyTHp6ODhLZ2xVbkF6bmtOdXpmZHZERk9BWWNabA?oc=5"
  },
  {
-  "id": "rt-0f639ca07aa1",
-  "titleCn": "Silk Sonic、奥利维亚·罗德里戈、乔恩·巴蒂斯特在 2022 年格莱美颁奖典礼上荣获大奖 - Sanook",
-  "titleOrig": "Silk Sonic, Olivia Rodrigo, Jon Batiste คว้ารางวัลใหญ่ 2022 Grammys - Sanook",
+  "id": "rt-c396ce2e42c7",
+  "titleCn": "Silk Sonic、奥利维亚·罗德里戈、乔恩·巴蒂斯特在 2022 年格莱美颁奖典礼上荣获大奖 - Sanook.com",
+  "titleOrig": "Silk Sonic, Olivia Rodrigo, Jon Batiste คว้ารางวัลใหญ่ 2022 Grammys - Sanook.com",
   "catCn": "明星八卦",
   "cat": "celebrity",
   "country": "泰国",
@@ -13494,7 +13394,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 86,
+  "buzzIndex": 88,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ea1hES1VhalZqTnJyd3VtWU9IRXdILTVneVJwdkxiaHNVNWwwd1BmbWJSMlYwZ3ZHNmc2REhZUkhrWVBQYTkxV0RuamZoUQ?oc=5\" target=\"_blank\"&gt;Silk Sonic, Oli",
   "tags": [],
   "timeRel": "",
@@ -13533,7 +13433,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-9a6ee7968283",
-  "titleCn": "BNK 48 为名人纷纷涌入“幸运饼干”封面并承认他们的生活已经改变而感到自豪 - workpointtoday.com",
+  "titleCn": "BNK 48 为名人纷纷涌入“幸运饼干”封面而感到自豪，承认他们的生活已经改变 - workpointtoday.com",
   "titleOrig": "BNK 48 ภูมิใจ ดาราแห่ Cover “คุกกี้เสี่ยงทาย” รับ ชีวิตเปลี่ยนไป - workpointtoday.com",
   "catCn": "明星八卦",
   "cat": "celebrity",
@@ -13542,7 +13442,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 84,
+  "buzzIndex": 86,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxPTkZMQWcyVzNOMnMtR0hoRWVBbS1vbnYtMHd5U2ljc0JKTDl4MHBWYTJzVHhBb3dTZHN4WVFkQXRCV0NmY0hhNWlmak5UZXkxYnNaa1JQckRiczdGczJpdHgxOHJwUVcyb1kyNUd",
   "tags": [],
   "timeRel": "",
@@ -13590,7 +13490,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 82,
+  "buzzIndex": 84,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNcEdHbWx0ZUVLY1JTSUtfdWNEWmt1UmhIejJ2QnpNVGxvWFZKbDJWX3ZnckFrTHk0VTRuNnBudDZMbXpNeW5YaGoydFI0Y29KZ0dyMjFwQU5sQ0VJODBsR2pNY2p5UktHa09YWmd",
   "tags": [],
   "timeRel": "",
@@ -13820,9 +13720,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV05iZGFaQnFjMEZLUEVka09xdzlSR0RVUnN2VjZHQ09LMkJScUxpeGswdUZjZU14TjFpQ1pCdkRwczBzTUFuUGtlb0pFdzlZMkhYZi10c3dlcktKejR2MUtGZGQtNHNINDc0YUNiRkx6ZS1ORDBGM1RZYWNCb1lxNUZWa3hEbnV6dHgzb3E0YmJfUC1DSVNNZjlQb2JGdw?oc=5"
  },
  {
-  "id": "rt-da3ad34310cf",
-  "titleCn": "东北小学第二九周校长名单和 A/B 荣誉榜 - Neuse News",
-  "titleOrig": "Northeast Elementary Second Nine Week Principal’s List and A/B Honor Roll - Neuse News",
+  "id": "rt-950ecb1e0cb2",
+  "titleCn": "东北小学第二九周校长名单和 A/B 荣誉榜 - neusenews.com",
+  "titleOrig": "Northeast Elementary Second Nine Week Principal’s List and A/B Honor Roll - neusenews.com",
   "catCn": "明星八卦",
   "cat": "celebrity",
   "country": "马来西亚",
@@ -14013,7 +13913,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-91350101e510",
-  "titleCn": "坊间传闻：马航客机失踪是否影响了您对飞行的态度？ - 诺沃克小时",
+  "titleCn": "坊间传闻：马航客机失踪是否影响了您对飞行的态度？ - 诺沃克时间",
   "titleOrig": "Word on the Street: Has the disappearance of the Malaysia Airline plane impacted your attitude toward flying? - Norwalk Hour",
   "catCn": "明星八卦",
   "cat": "celebrity",
@@ -14108,9 +14008,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOM3QwSU5SVzJCQmhNc0xIS1FmQTR4VXdrQUFnWEJPVm1ncXlja3ZMZDVCUFJzQ0JtZF9pQ2R0QUVhODBlLUFTN1BHNXVfREppZ0ZBZ1FFbmxaZ0hNYjNINk9lT0dNUnBTR1ZqMXU5NjNJYXJWa3NWS24xZVd6c1BSb2JhQ3hHUnEwLTdQU0cwelR1Q1E0RlhBSzE1eUR4UW1RbVdZdmtpVG9ONXZEeUItLW9MYXRWd2pwOUZaWGFRV1diVE4zVTZmR0FVVGZKQzdlcVhpdHd1YUt4SjRPb1pxcTBuekJmVDF0eDRFc0FiZldQNDRhS1pyaktOVE56V2FUQkR3V2Z6VnhpNC1ja3NUUGhJS0hkSGRwR1IwbVFZMUNLYkRlRHJ6U1c1VQ?oc=5"
  },
  {
-  "id": "rt-f0b1c2923950",
-  "titleCn": "马可·卢比奥 (Marco Rubio) 获得 68 个新职位，这是受病毒迷因启发的史诗级白宫生日礼物 - Foxnews.com",
-  "titleOrig": "Marco Rubio gets 68 new jobs in epic White House birthday gift inspired by viral meme - foxnews.com",
+  "id": "rt-5f0385d0a674",
+  "titleCn": "受病毒迷因启发，马可·卢比奥在白宫史诗般的生日礼物中获得了 68 个新职位 - 福克斯新闻",
+  "titleOrig": "Marco Rubio gets 68 new jobs in epic White House birthday gift inspired by viral meme - Fox News",
   "catCn": "网络热梗",
   "cat": "meme",
   "country": "多市场",
@@ -14156,54 +14056,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczFlRFVPT1FHdnh6R09pX0FvR1NfZVkxbDgyT09MNURVNzBQWjNEVnpMS25uU1ctaWJJOGpNQmIxdEpjc093R09Gem05NmxPU0RhTE9aZWQ1WlQ2SXRLdE9LUXp1RC1adWJPMm5sclVjYzdvU3RnX3lUdFBKMEhGdmxXYVQ4SUQ5LUpRTmk5b1FPWDhjb00zNVJVcUp1dzJtRlJYb25QbFVHR0oyeFBQT0Jn0gG3AUFVX3lxTFBtWXF2RFQ5Tm9sY0huYlNfcmdFcnJmbHRnbnRBeHUxcUJFMTdoNlo5cERJLXhMZUpXZjVjcjJsZFU3WDVZSU1yUVFaRkZXZFdNdEVIb0dJM0tGTmhmZnFvQ1hJU054REp6Y0tmLWtkblVCMkhjV1lzdGJFS09aOTJ1TGVTSnc3ZXRROVg3WE9iXzdzNmR5c0FfVEJCQ1EtQzZfSlMtUDVyWlhBWHhGN2xEX2VHdzRYcw?oc=5"
  },
  {
-  "id": "rt-be5c7478b284",
-  "titleCn": "为什么罗伯特·帕丁森是网络猫薄荷 - CNN",
-  "titleOrig": "Why Robert Pattinson is internet catnip - CNN",
-  "catCn": "网络热梗",
-  "cat": "meme",
-  "country": "多市场",
-  "stars": "🔥🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 96,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmdVMTlxaHdpMGE1TkJzdjJnbWppRVQzT2xPdEIzN2VUdlhWenkwbi1WOVJTVjhXT0ZlR25kN2Z1MVh0eDlGM2VqUGl2aTd4THRwRlhtTUx2Ty01VFRaeFJjUjFwXzVJSFVGMXE",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmdVMTlxaHdpMGE1TkJzdjJnbWppRVQzT2xPdEIzN2VUdlhWenkwbi1WOVJTVjhXT0ZlR25kN2Z1MVh0eDlGM2VqUGl2aTd4THRwRlhtTUx2Ty01VFRaeFJjUjFwXzVJSFVGMXEzdEc4TmttdmF1bVB3dkJBVEp2LWFGcHFGaWxJc0xUSFhjSGliUQ?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmdVMTlxaHdpMGE1TkJzdjJnbWppRVQzT2xPdEIzN2VUdlhWenkwbi1WOVJTVjhXT0ZlR25kN2Z1MVh0eDlGM2VqUGl2aTd4THRwRlhtTUx2Ty01VFRaeFJjUjFwXzVJSFVGMXEzdEc4TmttdmF1bVB3dkJBVEp2LWFGcHFGaWxJc0xUSFhjSGliUQ?oc=5"
- },
- {
   "id": "rt-9f1e8291bc09",
   "titleCn": "新杰伦·布朗模因的起源被确定为社交媒体上的病毒视频趋势 - Bleacher Report",
   "titleOrig": "Origins of New Jaylen Brown Meme Identified as Viral Video Trends on Social Media - Bleacher Report",
@@ -14214,7 +14066,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 94,
+  "buzzIndex": 96,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlM4X0lKRUlVOW0zS014eExvdzZmLVJYRFlkc3VOZmpocDBOZmVYS185YVUyMVFiUzMyNGJGcHJXYnJzNkFzN3FyaFB0RTRFT2psZ2VEOHBFRDR2WXRIaHRtMnRDMWxabEhnOFR",
   "tags": [],
   "timeRel": "",
@@ -14258,11 +14110,11 @@ window.EVENTS_REALTIME = [
   "catCn": "网络热梗",
   "cat": "meme",
   "country": "多市场",
-  "stars": "🔥🔥",
+  "stars": "🔥🔥🔥",
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 92,
+  "buzzIndex": 94,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOa2hOanNpSkc1WldKVEhxMkpwYmhXUkc2RFZmSVRFZ0pRMXdlQlFmVzRYTENCQ1VUMjhSRmlGRVZWQ0JpUWdwUm00VmdWVnBhSURKMUVJTWRMQi1lMFFaanhPR2pmb1pJMW1WQnZ",
   "tags": [],
   "timeRel": "",
@@ -14310,7 +14162,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 90,
+  "buzzIndex": 92,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPT3Y0Wm43QkJHNTBmbnM5REdMejI4eERGekVQMS1WM29rYkdRd3BWbHVDbXZyTS1tbEV5NmFuY2NjX3RVV1psX1VFZldEU242a3RpeF9DWVZUSFVTRUZKUTZPSEp4RThxSnJ2blR",
   "tags": [],
   "timeRel": "",
@@ -14358,7 +14210,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 88,
+  "buzzIndex": 90,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzgyaTh3MkFVY3B0bm02RFBVN1lQNFJmOXVKV3l5c2pBRmttQkxETlVZWVpZWEpSX3MzbFpYVmMwSFNJd2lSbGM2Sm9BejFxbG5tcS05bVJWQ0RWanI3X0xuN2lxNHRVNXVCREY",
   "tags": [],
   "timeRel": "",
@@ -14406,7 +14258,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 86,
+  "buzzIndex": 88,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWnVBVGJFM3BraEk5eEt4SnlQeHQzSVJEbjJTNnhwYkpMQzhkdG1oaG82bGtVX2t0SHpfaG93SEIxRTdzdGlOcjh4T3BmV1h6ZVRFZl94QllWLXdSRGtPeWN0VzRBX1ZXSGVZdVh",
   "tags": [],
   "timeRel": "",
@@ -14454,7 +14306,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 84,
+  "buzzIndex": 86,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQUjZwOV9KYzN4SXpYUk55TWtRN0gzQUJnSEEtRUNfOXBuTnc3ZEh1TWhXaUs4akxGTVFxTHEwc04xR3d1c0EtS0NobzdjWkpDX0ZjLUhJUTNMdUJuOHRHbXRoNjQtaTFwRWN3bEp",
   "tags": [],
   "timeRel": "",
@@ -14502,7 +14354,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 82,
+  "buzzIndex": 84,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEUxTGF6bnVaQktTRzdWdkx5UTlIMlc0OS0wQzlIaHVvRkI2blhrR0hkSmM2YTNDZ2RsUzlDM3AxYV9XbXJWVVRGcmVsNlZVTWRYVl9QZkl2TnZ2VC1aRFRZcFVhZ0xIS3owZmF",
   "tags": [],
   "timeRel": "",
@@ -14550,7 +14402,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 80,
+  "buzzIndex": 82,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNUXA0RDIwbVN6dWlBYlJjdm1zSTVBLTBqQ0wzNG51TU82U3p0c1VsWHM1ZEU2NU96eUFHS0xpbWxhMzRHUU5HdnlOOWxxaDFadzMzUWF5THNFdDZJS3BPdDhtWi1JX25pM09LRGp",
   "tags": [],
   "timeRel": "",
@@ -14594,11 +14446,11 @@ window.EVENTS_REALTIME = [
   "catCn": "网络热梗",
   "cat": "meme",
   "country": "多市场",
-  "stars": "🔥",
+  "stars": "🔥🔥",
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 78,
+  "buzzIndex": 80,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlBUOXA3SGNsYS03T3NBZW5kRnZUVWxvQ0tBTWVDTTNxczU5eG9vNHEzYzdwclBmRDBmcFZqUTFIU2FxRHdjVkdma0t3X3kxTVIxdmlxbXZONnhJdThQM3NVUWpZandKZGlHd0R",
   "tags": [],
   "timeRel": "",
@@ -14637,7 +14489,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-e4ce18d0ec3a",
-  "titleCn": "拉维·基尚（Ravi Kishan）的妻子想把他锁在一个房间里，因为米姆名声大噪：“Na niklenge na Viral honge” - 《印度快报》",
+  "titleCn": "拉维·基尚 (Ravi Kishan) 的妻子想把他锁在一个房间里，因为米姆名声大噪：“Na niklenge na Viral honge” - 《印度快报》",
   "titleOrig": "Ravi Kishan’s wife wants to lock him in a room amid meme fame: ‘Na niklenge na viral honge’ - The Indian Express",
   "catCn": "网络热梗",
   "cat": "meme",
@@ -14646,7 +14498,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 76,
+  "buzzIndex": 78,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVEwNHNqQVRiZC1vd2JtcVd3MXdSbmVxV1JpMk9QYXlXV3RqRzFIdXZhNDRudXRHZFN4TlZ4b1lHMVo4bGZtdXRxZk5rWnNadVV1S1FoalZydWtDaTV1MElZNWt1QUFiVEctaWY",
   "tags": [],
   "timeRel": "",
@@ -14684,18 +14536,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVEwNHNqQVRiZC1vd2JtcVd3MXdSbmVxV1JpMk9QYXlXV3RqRzFIdXZhNDRudXRHZFN4TlZ4b1lHMVo4bGZtdXRxZk5rWnNadVV1S1FoalZydWtDaTV1MElZNWt1QUFiVEctaWYzQXBrY29kRHZrSTZrcHJ3c19Wam05dEV5ekgweFcxX0NTVHJsN1Izc19USnNZdEdzZTlFcWRpaXNYem5zYWdzemh2cktJSll0VkVjbkZ0YzBGWmJtY3lRR3UxVF83RWXSAdMBQVVfeXFMTWttNXNnN2o0dzd5MWhkN2hDOElhMXljUWJoU0VyX1pfNlFnMTVabDR0c3JhZmJ3NHZBblltdUFUNXdoeTI5Nk5KT2doam9zRVpIMDFHRjI2Nm1ZYXZjeW41QWRkRDE5MEVSMkQxYi1yS2RxN25mZEVUUlIyaHlQUU5RMGtGeHJ2UUlsQkdDSW1Pa1JZUjhzZ0RLaXhCS2NXaGRIZktpNENWdFFTdzhjOS1nTWpVQ01EbnJKdnlYakR0MVVfZUlnVTAzLUJpUHpNRzZuWQ?oc=5"
  },
  {
-  "id": "rt-c1c374399b08",
-  "titleCn": "在圣地亚哥疯传视频中踢海狮的青少年认罪 - WRIC ABC 8News",
-  "titleOrig": "Teen who kicked sea lion in viral video in San Diego pleads guilty - WRIC ABC 8News",
+  "id": "rt-4bef5ef38d14",
+  "titleCn": "恐怖重量级人物联手将病毒迷因拍成电影 - Fangoria",
+  "titleOrig": "Horror Heavyweights Unite To Turn A Viral Meme Into A Movie - Fangoria",
   "catCn": "网络热梗",
   "cat": "meme",
-  "country": "泰国",
-  "stars": "🔥🔥🔥",
+  "country": "多市场",
+  "stars": "🔥",
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 98,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQm9yb0hiRGVNNURVb0RFR0tlbm5KdTRuTW00Z1E0TzN5UDNmVF8wREw2d1gyMC1SYmU3bm5TYW1BVWR0MkdpbDBzeDdpRENJcDlBb0ptdTB2YVN0SXRPOHpGOVN0ZE56WjNvTEY",
+  "buzzIndex": 76,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VTUR0V01aX0pIVndvVkZPZGZqTDM2eVlaQWhpLXpFUVNvY1JHMGJqMHBNSkhrdHlzVzFmRDk1cWJyQjVlYXFhaG1qaGpYR05tbllDNGRubEhZUkZ2aU93eDgxUQ?oc=5\" target",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -14703,14 +14555,14 @@ window.EVENTS_REALTIME = [
    {
     "type": "googlenews",
     "name": "Google News 热讯",
-    "region": "泰国",
+    "region": "多市场",
     "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQm9yb0hiRGVNNURVb0RFR0tlbm5KdTRuTW00Z1E0TzN5UDNmVF8wREw2d1gyMC1SYmU3bm5TYW1BVWR0MkdpbDBzeDdpRENJcDlBb0ptdTB2YVN0SXRPOHpGOVN0ZE56WjNvTEYyNERvWERQRi1mQXc3dFpBV2V2X21SV2VSLXpxb1VsMFF2ekhEcXZxYjZoN9IBngFBVV95cUxPZ0haT0FQZzc3MG82cTRTRUZsbmRWNDBGRkc0eFlXbndmSms1eTZHZENXazhxSnJnVVRmWFpNSnZpeXF0UTZPc1Vxd3lhTkcwQ3NVdFVtSHBMRHRfVVpveFhnZHR4RWRfWjlndlh6Yi11eDI2SVRaWkxVYXdZOGN5a1poSUExeHhXaWpDQjgtMlF5YWRaQkRuMEc0bjhEQQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VTUR0V01aX0pIVndvVkZPZGZqTDM2eVlaQWhpLXpFUVNvY1JHMGJqMHBNSkhrdHlzVzFmRDk1cWJyQjVlYXFhaG1qaGpYR05tbllDNGRubEhZUkZ2aU93eDgxUQ?oc=5"
    }
   ],
   "sourceBreadth": {
-   "local": true,
-   "global": false,
+   "local": false,
+   "global": true,
    "social_only": false
   },
   "timeline": [
@@ -14729,7 +14581,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQm9yb0hiRGVNNURVb0RFR0tlbm5KdTRuTW00Z1E0TzN5UDNmVF8wREw2d1gyMC1SYmU3bm5TYW1BVWR0MkdpbDBzeDdpRENJcDlBb0ptdTB2YVN0SXRPOHpGOVN0ZE56WjNvTEYyNERvWERQRi1mQXc3dFpBV2V2X21SV2VSLXpxb1VsMFF2ekhEcXZxYjZoN9IBngFBVV95cUxPZ0haT0FQZzc3MG82cTRTRUZsbmRWNDBGRkc0eFlXbndmSms1eTZHZENXazhxSnJnVVRmWFpNSnZpeXF0UTZPc1Vxd3lhTkcwQ3NVdFVtSHBMRHRfVVpveFhnZHR4RWRfWjlndlh6Yi11eDI2SVRaWkxVYXdZOGN5a1poSUExeHhXaWpDQjgtMlF5YWRaQkRuMEc0bjhEQQ?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VTUR0V01aX0pIVndvVkZPZGZqTDM2eVlaQWhpLXpFUVNvY1JHMGJqMHBNSkhrdHlzVzFmRDk1cWJyQjVlYXFhaG1qaGpYR05tbllDNGRubEhZUkZ2aU93eDgxUQ?oc=5"
  },
  {
   "id": "rt-95ee2665bb35",
@@ -14742,7 +14594,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 96,
+  "buzzIndex": 98,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZERTZ2R1LWl3bXNyTy1sV3dXNmtwUVVlVmJhQ1gxYjBWNzZfdmN4Q09mNmVwcFYtUC1sWVNrOVctUEFTdXE5Vk1ydEJjV1JVRFdGLXlOd1pZRkJkMTRBeXNzb1YteGNLbFczTlV",
   "tags": [],
   "timeRel": "",
@@ -14780,9 +14632,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZERTZ2R1LWl3bXNyTy1sV3dXNmtwUVVlVmJhQ1gxYjBWNzZfdmN4Q09mNmVwcFYtUC1sWVNrOVctUEFTdXE5Vk1ydEJjV1JVRFdGLXlOd1pZRkJkMTRBeXNzb1YteGNLbFczTlVsVEhwaEJOUVZ0bzhuQkhMLTQ4b2NDRGhIdmxRVHFzS2xHaXptQVc5UFpDenZRT1VtTkJxa1E?oc=5"
  },
  {
-  "id": "rt-4f826926a04c",
-  "titleCn": "拉斯维加斯企业否认与病毒式街头小贩对抗视频有关 - FOX5 Vegas",
-  "titleOrig": "Las Vegas businesses deny ties to viral street vendor confrontation video - FOX5 Vegas",
+  "id": "rt-06e4848a5801",
+  "titleCn": "圣地亚哥一名因踢海狮而被疯传的视频的青少年认罪 - WJTV",
+  "titleOrig": "Teen who kicked sea lion in viral video in San Diego pleads guilty - WJTV",
   "catCn": "网络热梗",
   "cat": "meme",
   "country": "泰国",
@@ -14790,8 +14642,8 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 94,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDV6aXE5U2FjQWxqN0tkRzRrZXJNenJBRlFzSWVXeGFmb0RDNDV0ZFNLeU5ON0c1UmprLWZrWFkyajhLQlJLNVRFMXVTX0otUExQQ1FTdE1HdFNFN1oyS2J1NnhCMk9QV2xadFp",
+  "buzzIndex": 96,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUNzSGN6VFFIdTR5S2pITUZ2QmpSSnRsZzZ5ZVhra1N1NUhrVmNJVnJiTklteWV1LXB4QksxcTNScWtnTlh1MkVDVHRaaW1wdWc0U1ZXQ3dzb2tibDFXc2VadG45eC1YdjVVZlp",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -14801,7 +14653,7 @@ window.EVENTS_REALTIME = [
     "name": "Google News 热讯",
     "region": "泰国",
     "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDV6aXE5U2FjQWxqN0tkRzRrZXJNenJBRlFzSWVXeGFmb0RDNDV0ZFNLeU5ON0c1UmprLWZrWFkyajhLQlJLNVRFMXVTX0otUExQQ1FTdE1HdFNFN1oyS2J1NnhCMk9QV2xadFpfQnI5clQ3SXM2dzU4eV9VejJKdEJOME1fUkxjT2dyVEctWThjcGRoUXhTUkRLaDBWSUJQVHpGSmdQckJGbk55?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUNzSGN6VFFIdTR5S2pITUZ2QmpSSnRsZzZ5ZVhra1N1NUhrVmNJVnJiTklteWV1LXB4QksxcTNScWtnTlh1MkVDVHRaaW1wdWc0U1ZXQ3dzb2tibDFXc2VadG45eC1YdjVVZlpleXl3LUYzMm1SWllOVXBRcUUtam8yd2pTeHdKVG1ZcWxGZHJJWXkyTTEybGMzYnM0TnlpRkxjbtIBqgFBVV95cUxPNmVlMGxrMVJaRTNvU2VtR1o2SmZ3X0ZuVnlkdktOdU5mRzJEWS1DNFhFVnlQbExoSDAxa0tQbHJlX3J6MmZjdmZFbHhOcUV3WHlxVTlFTUJFQ0JxV2I5N1lZM1ZkcG9LRk9mMVZOTW1VX2VENlRrU2RkRkNJMkNpc2hfY3RRaE9LbTI0VDNCSXV5V1FBYW9LYllvV250NlZtaWljZ1laZ3FZdw?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -14825,7 +14677,103 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDV6aXE5U2FjQWxqN0tkRzRrZXJNenJBRlFzSWVXeGFmb0RDNDV0ZFNLeU5ON0c1UmprLWZrWFkyajhLQlJLNVRFMXVTX0otUExQQ1FTdE1HdFNFN1oyS2J1NnhCMk9QV2xadFpfQnI5clQ3SXM2dzU4eV9VejJKdEJOME1fUkxjT2dyVEctWThjcGRoUXhTUkRLaDBWSUJQVHpGSmdQckJGbk55?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUNzSGN6VFFIdTR5S2pITUZ2QmpSSnRsZzZ5ZVhra1N1NUhrVmNJVnJiTklteWV1LXB4QksxcTNScWtnTlh1MkVDVHRaaW1wdWc0U1ZXQ3dzb2tibDFXc2VadG45eC1YdjVVZlpleXl3LUYzMm1SWllOVXBRcUUtam8yd2pTeHdKVG1ZcWxGZHJJWXkyTTEybGMzYnM0TnlpRkxjbtIBqgFBVV95cUxPNmVlMGxrMVJaRTNvU2VtR1o2SmZ3X0ZuVnlkdktOdU5mRzJEWS1DNFhFVnlQbExoSDAxa0tQbHJlX3J6MmZjdmZFbHhOcUV3WHlxVTlFTUJFQ0JxV2I5N1lZM1ZkcG9LRk9mMVZOTW1VX2VENlRrU2RkRkNJMkNpc2hfY3RRaE9LbTI0VDNCSXV5V1FBYW9LYllvV250NlZtaWljZ1laZ3FZdw?oc=5"
+ },
+ {
+  "id": "rt-f0c9cb671b4a",
+  "titleCn": "圣地亚哥踢海狮视频走红的青少年认罪 - WWLP",
+  "titleOrig": "Teen in viral video kicking sea lion in San Diego pleads guilty - WWLP",
+  "catCn": "网络热梗",
+  "cat": "meme",
+  "country": "泰国",
+  "stars": "🔥🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 94,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUlBONFY1UWZ4MThmQUhFdXdQS2hwM191WVd0eXZ6ZFoyY21na0ZYZ0ZxeWdLWFhoWEluZ0c1SkdRcVFCWVRmLTZMR2JsazhtMGxYSWFnVnVNZFRXaG12dXFDdThoNjg0eW85Tnh",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "泰国",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUlBONFY1UWZ4MThmQUhFdXdQS2hwM191WVd0eXZ6ZFoyY21na0ZYZ0ZxeWdLWFhoWEluZ0c1SkdRcVFCWVRmLTZMR2JsazhtMGxYSWFnVnVNZFRXaG12dXFDdThoNjg0eW85Tnh2eFdhOXJ0NHFGU0N0R3FVNGczQWdHU0liZUJCUE81S1RlSDVFTHBPVF9mRkxmRjhoUU1NbHc?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUlBONFY1UWZ4MThmQUhFdXdQS2hwM191WVd0eXZ6ZFoyY21na0ZYZ0ZxeWdLWFhoWEluZ0c1SkdRcVFCWVRmLTZMR2JsazhtMGxYSWFnVnVNZFRXaG12dXFDdThoNjg0eW85Tnh2eFdhOXJ0NHFGU0N0R3FVNGczQWdHU0liZUJCUE81S1RlSDVFTHBPVF9mRkxmRjhoUU1NbHc?oc=5"
+ },
+ {
+  "id": "rt-a70dd99b61d5",
+  "titleCn": "当这位媒人带着价值 35,000 美元的客户去一家软椒盐卷饼餐厅约会时，这位媒人迅速走红 - 《财富》",
+  "titleOrig": "This matchmaker went viral when her $35,000 client took a date to a soft pretzel restaurant - Fortune",
+  "catCn": "网络热梗",
+  "cat": "meme",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 92,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5MaE5aS0JHQmJWcC13enJWd3pBaGhqMmpkQ0VLR081Q0p2bFhtaDYxajAyaG9vUWJRSWFKVmpiNW1fRnRhQVVmU0ZoOTI4VXBScGRCVXNqX2NCaHU2cWNvWEpPU2pnM3NMbEZud2d",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "泰国",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MaE5aS0JHQmJWcC13enJWd3pBaGhqMmpkQ0VLR081Q0p2bFhtaDYxajAyaG9vUWJRSWFKVmpiNW1fRnRhQVVmU0ZoOTI4VXBScGRCVXNqX2NCaHU2cWNvWEpPU2pnM3NMbEZud2dnR3lQWU5lWlFtbUtMaw?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MaE5aS0JHQmJWcC13enJWd3pBaGhqMmpkQ0VLR081Q0p2bFhtaDYxajAyaG9vUWJRSWFKVmpiNW1fRnRhQVVmU0ZoOTI4VXBScGRCVXNqX2NCaHU2cWNvWEpPU2pnM3NMbEZud2dnR3lQWU5lWlFtbUtMaw?oc=5"
  },
  {
   "id": "rt-aab8a34fca48",
@@ -14838,7 +14786,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 92,
+  "buzzIndex": 90,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQWdvamZ6WjdIU25FZ0h5bURKVk1fbFBwa09WTWQyWXpNZHVOcXgxSjYtUnhJaE50R0NyTkpIV2tIRlJPNmkyVVpnQlgyMjlyV2pCYnlwd2lseWhKZU9PLVBTRzhjX2FMVGMtOU5",
   "tags": [],
   "timeRel": "",
@@ -14876,6 +14824,54 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQWdvamZ6WjdIU25FZ0h5bURKVk1fbFBwa09WTWQyWXpNZHVOcXgxSjYtUnhJaE50R0NyTkpIV2tIRlJPNmkyVVpnQlgyMjlyV2pCYnlwd2lseWhKZU9PLVBTRzhjX2FMVGMtOU55OGRIU3lPM1dROUZSV0ozMGR4VlFPTTNPbnF1YXJtLUhJOXB0WkpuOUp3d2JlY0VXZFg4S0cwTmg0QTU0Y3pKNDY0bWROUUs5RGF3V0RxdzBrMWZBOXpheURHYUI2MDhIVXJUR292VW5xdkpiUkFo?oc=5"
  },
  {
+  "id": "rt-4f826926a04c",
+  "titleCn": "拉斯维加斯企业否认与病毒式街头小贩对抗视频有关 - FOX5 Vegas",
+  "titleOrig": "Las Vegas businesses deny ties to viral street vendor confrontation video - FOX5 Vegas",
+  "catCn": "网络热梗",
+  "cat": "meme",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 88,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDV6aXE5U2FjQWxqN0tkRzRrZXJNenJBRlFzSWVXeGFmb0RDNDV0ZFNLeU5ON0c1UmprLWZrWFkyajhLQlJLNVRFMXVTX0otUExQQ1FTdE1HdFNFN1oyS2J1NnhCMk9QV2xadFp",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "泰国",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDV6aXE5U2FjQWxqN0tkRzRrZXJNenJBRlFzSWVXeGFmb0RDNDV0ZFNLeU5ON0c1UmprLWZrWFkyajhLQlJLNVRFMXVTX0otUExQQ1FTdE1HdFNFN1oyS2J1NnhCMk9QV2xadFpfQnI5clQ3SXM2dzU4eV9VejJKdEJOME1fUkxjT2dyVEctWThjcGRoUXhTUkRLaDBWSUJQVHpGSmdQckJGbk55?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDV6aXE5U2FjQWxqN0tkRzRrZXJNenJBRlFzSWVXeGFmb0RDNDV0ZFNLeU5ON0c1UmprLWZrWFkyajhLQlJLNVRFMXVTX0otUExQQ1FTdE1HdFNFN1oyS2J1NnhCMk9QV2xadFpfQnI5clQ3SXM2dzU4eV9VejJKdEJOME1fUkxjT2dyVEctWThjcGRoUXhTUkRLaDBWSUJQVHpGSmdQckJGbk55?oc=5"
+ },
+ {
   "id": "rt-0ed1a26c1910",
   "titleCn": "肯塔基州的科尔顿·普莱斯 (Coleton Price) 因艺术而走红，但足球是第一位的 - The Courier-Journal",
   "titleOrig": "Kentucky's Coleton Price goes viral for art, but football comes first - The Courier-Journal",
@@ -14886,7 +14882,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 90,
+  "buzzIndex": 86,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeGF3N3drZUhaVlM4cWNHdU9zVThOaEZLbkxCdzFuMmtpaml1Vy1SbWd2VF81cHh0TXQtMmpmN19pVU9Odk5abmxRTy1oLVAyTGd5VkpCVlFIRDlzenNSRUxid3pDSlBkZ1dEd3N",
   "tags": [],
   "timeRel": "",
@@ -14934,7 +14930,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 88,
+  "buzzIndex": 84,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRlRpRm1sUWFZTW5rUmNzNUo5UDNQYXd2WTRpQlJDWi1HYWlMLVV0UmVsbm91ekFhRE9pYWhlbTJraW1LbEN0bVpWNGhWRENxdEROdDN0WFZONm8yeGgwODhMSlJOT2ZxMW9tQUV",
   "tags": [],
   "timeRel": "",
@@ -14972,104 +14968,8 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRlRpRm1sUWFZTW5rUmNzNUo5UDNQYXd2WTRpQlJDWi1HYWlMLVV0UmVsbm91ekFhRE9pYWhlbTJraW1LbEN0bVpWNGhWRENxdEROdDN0WFZONm8yeGgwODhMSlJOT2ZxMW9tQUVYQTBtdmk2SmV5dTZPS0dCVGpXeWg3X09xck1MSFRsSXk2S1NSdjNDYmFPQUt3bURiMjZ4Vm84bFFOYjJOeFRyc1E?oc=5"
  },
  {
-  "id": "rt-8a0cf849b1d1",
-  "titleCn": "圣地亚哥踢海狮视频走红的青少年认罪 - NEWS10 ABC",
-  "titleOrig": "Teen in viral video kicking sea lion in San Diego pleads guilty - NEWS10 ABC",
-  "catCn": "网络热梗",
-  "cat": "meme",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 86,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObi1zMHJCa0VxYWJVQWFNLVY5VlE4WW1qUjJYUzJGaDkwNERmR1F2dzVBeGdOaGM4SjFITHNSZElfMk5nMzVVd2tpd2dDam5yUmo4SVl0QWd1MXJwdWNoNWo3dlhyMi1aa19jYU1",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "泰国",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObi1zMHJCa0VxYWJVQWFNLVY5VlE4WW1qUjJYUzJGaDkwNERmR1F2dzVBeGdOaGM4SjFITHNSZElfMk5nMzVVd2tpd2dDam5yUmo4SVl0QWd1MXJwdWNoNWo3dlhyMi1aa19jYU1lbnZmaHFMRmxORk8zT1J4cl9LWUpHVktGcWVjWEIwWkRRTGZHZzhzX0dBZHBONU5wR2VWQmN1Rg?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObi1zMHJCa0VxYWJVQWFNLVY5VlE4WW1qUjJYUzJGaDkwNERmR1F2dzVBeGdOaGM4SjFITHNSZElfMk5nMzVVd2tpd2dDam5yUmo4SVl0QWd1MXJwdWNoNWo3dlhyMi1aa19jYU1lbnZmaHFMRmxORk8zT1J4cl9LWUpHVktGcWVjWEIwWkRRTGZHZzhzX0dBZHBONU5wR2VWQmN1Rg?oc=5"
- },
- {
-  "id": "rt-a70dd99b61d5",
-  "titleCn": "当这位媒人带着价值 35,000 美元的客户去一家软椒盐卷饼餐厅约会时，这位媒人迅速走红 - 《财富》",
-  "titleOrig": "This matchmaker went viral when her $35,000 client took a date to a soft pretzel restaurant - Fortune",
-  "catCn": "网络热梗",
-  "cat": "meme",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 84,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5MaE5aS0JHQmJWcC13enJWd3pBaGhqMmpkQ0VLR081Q0p2bFhtaDYxajAyaG9vUWJRSWFKVmpiNW1fRnRhQVVmU0ZoOTI4VXBScGRCVXNqX2NCaHU2cWNvWEpPU2pnM3NMbEZud2d",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "泰国",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MaE5aS0JHQmJWcC13enJWd3pBaGhqMmpkQ0VLR081Q0p2bFhtaDYxajAyaG9vUWJRSWFKVmpiNW1fRnRhQVVmU0ZoOTI4VXBScGRCVXNqX2NCaHU2cWNvWEpPU2pnM3NMbEZud2dnR3lQWU5lWlFtbUtMaw?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MaE5aS0JHQmJWcC13enJWd3pBaGhqMmpkQ0VLR081Q0p2bFhtaDYxajAyaG9vUWJRSWFKVmpiNW1fRnRhQVVmU0ZoOTI4VXBScGRCVXNqX2NCaHU2cWNvWEpPU2pnM3NMbEZud2dnR3lQWU5lWlFtbUtMaw?oc=5"
- },
- {
   "id": "rt-41b8487f1354",
-  "titleCn": "本周我们喜欢的 25 个热门模因和典型模因 - 雅虎",
+  "titleCn": "本周我们喜欢的 25 个趋势和典型模因 - 雅虎",
   "titleOrig": "25 Trending And Typical Memes We Enjoyed This Week - Yahoo",
   "catCn": "网络热梗",
   "cat": "meme",
@@ -15357,7 +15257,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-bda0d4b89554",
-  "titleCn": "24 个世界杯模因将拉开新赛季的序幕 - 雅虎",
+  "titleCn": "本赛季拉开序幕的 24 个世界杯模因 - 雅虎",
   "titleOrig": "24 World Cup Memes To Kick Off The Season - Yahoo",
   "catCn": "网络热梗",
   "cat": "meme",
@@ -15452,9 +15352,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLVgxUjMyQ0ZicWN5ZFhzVW0xTHdsa2RKSDBRMnZ3UmFOTEZCaGFaenNWMEFlRkotYkhNeGJ1eF9FTUFZdnVGd0tNMzNRclBjcmdXblkzb1VwQlRrTzhhZnZGckU5emlwQWl0ZjBkM3FFZmEyVW5hQVowY1g3TmhTeXFCWGpjd3RtbFVYZkg4TGRGM2NXS2g4d29JbUg5Y0tEU3lfRGg2dHpMSzV1N2NOeEZhVEZNbVB1Si03MUdFU0RNa3hqS1NsdnU2aEduaGM?oc=5"
  },
  {
-  "id": "rt-6aa46d2e0460",
-  "titleCn": "人们对亚伯拉罕·林肯号航空母舰的状况越来越担忧 - BBC",
-  "titleOrig": "Concern grows over conditions on USS Abraham Lincoln - BBC",
+  "id": "rt-e893002c1875",
+  "titleCn": "实时更新：伊朗战争；美国官员称乔治·华盛顿号航空母舰将取代林肯号 - CNN",
+  "titleOrig": "Live updates: Iran war; USS George Washington to replace the Lincoln, US official says - CNN",
   "catCn": "世界热点",
   "cat": "world",
   "country": "多市场",
@@ -15463,6 +15363,54 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 98,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE50bHFXRTNsVkRFU3JmVVZjWExoWDlwZEdkLVJYNENoLWUtRlNBMkRFUjAzVTBNZzdpaHdKd1lpRTZTeXEtbF92MndpVlpZdl9RSUMzd2U3WG1TaFlPS2dIbTVrVXBSLVUtWTFsQUl",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50bHFXRTNsVkRFU3JmVVZjWExoWDlwZEdkLVJYNENoLWUtRlNBMkRFUjAzVTBNZzdpaHdKd1lpRTZTeXEtbF92MndpVlpZdl9RSUMzd2U3WG1TaFlPS2dIbTVrVXBSLVUtWTFsQUl3?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50bHFXRTNsVkRFU3JmVVZjWExoWDlwZEdkLVJYNENoLWUtRlNBMkRFUjAzVTBNZzdpaHdKd1lpRTZTeXEtbF92MndpVlpZdl9RSUMzd2U3WG1TaFlPS2dIbTVrVXBSLVUtWTFsQUl3?oc=5"
+ },
+ {
+  "id": "rt-e209ef30dd8a",
+  "titleCn": "人们对亚伯拉罕·林肯号航空母舰的状况越来越担忧 - bbc.com",
+  "titleOrig": "Concern grows over conditions on USS Abraham Lincoln - bbc.com",
+  "catCn": "世界热点",
+  "cat": "world",
+  "country": "多市场",
+  "stars": "🔥🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 96,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EbUVSTUtsNGNLeV9CMGRfX3pxMWJDa1Ztb2RLTk1aZFBCS3g1OU9Bc2xNVmJTZjJxUTJJSDlJWHRHN3lyUTJveEQ5Q0F1ZF9oWFgyTFhIcG1ZUQ?oc=5\" target=\"_blank\"&gt",
   "tags": [],
   "timeRel": "",
@@ -15500,57 +15448,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EbUVSTUtsNGNLeV9CMGRfX3pxMWJDa1Ztb2RLTk1aZFBCS3g1OU9Bc2xNVmJTZjJxUTJJSDlJWHRHN3lyUTJveEQ5Q0F1ZF9oWFgyTFhIcG1ZUQ?oc=5"
  },
  {
-  "id": "rt-3a7c12e0cc40",
-  "titleCn": "西米德兰兹火灾后，克罗地亚数千人撤离，19人被送往医院 - 欧洲直播 - 英国卫报",
-  "titleOrig": "19 people taken to hospital after West Midlands fire, as thousands evacuated in Croatia – Europe live - The Guardian",
-  "catCn": "世界热点",
-  "cat": "world",
-  "country": "多市场",
-  "stars": "🔥🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 96,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQak9UZUdrUWZQNGNKTXQ3dEdkZFF5VkNUakgyWkM5WGJKekZZY3lqS3ktQ1d5aE1YcW1hcjVwemlMWG1jNWVUUjdESU5xVUdyUlh0TEc0d0pGVm5IU3dodDNDT0lHRmxYdnFMTVV",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQak9UZUdrUWZQNGNKTXQ3dEdkZFF5VkNUakgyWkM5WGJKekZZY3lqS3ktQ1d5aE1YcW1hcjVwemlMWG1jNWVUUjdESU5xVUdyUlh0TEc0d0pGVm5IU3dodDNDT0lHRmxYdnFMTVVlTVFNRHJIc2w5STRCVWxBQVhYdmpGaDg3NVpreF8yRldxa0xnRlNQaWtObzlWREN1R2hrQWE5cXJDZld1X2lxcno1R2lWUlNSVUtIQUpzdWtUd0VScWp2UjBTRGVFZDVvd3NQeGVaYWpfOWI2SWdFU2ZlMDFhb2xVVWtwTUVrOGgtYms4RExXajFGb19HeThJQ3pjYXc?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQak9UZUdrUWZQNGNKTXQ3dEdkZFF5VkNUakgyWkM5WGJKekZZY3lqS3ktQ1d5aE1YcW1hcjVwemlMWG1jNWVUUjdESU5xVUdyUlh0TEc0d0pGVm5IU3dodDNDT0lHRmxYdnFMTVVlTVFNRHJIc2w5STRCVWxBQVhYdmpGaDg3NVpreF8yRldxa0xnRlNQaWtObzlWREN1R2hrQWE5cXJDZld1X2lxcno1R2lWUlNSVUtIQUpzdWtUd0VScWp2UjBTRGVFZDVvd3NQeGVaYWpfOWI2SWdFU2ZlMDFhb2xVVWtwTUVrOGgtYms4RExXajFGb19HeThJQ3pjYXc?oc=5"
- },
- {
-  "id": "rt-8bd963dfcf9c",
-  "titleCn": "特朗普威胁美国可能“保留霍尔木兹海峡”后，德黑兰称霍尔木兹海峡“处于伊朗控制之下” - 哥伦比亚广播公司新闻",
-  "titleOrig": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threatens U.S. might \"keep it\" - CBS News",
+  "id": "rt-a0238eee907b",
+  "titleCn": "万斯表示，随着美国威胁新的经济压力，低油价现在是伊朗战争的“首要目标” - NBC新闻",
+  "titleOrig": "Low oil prices now ‘goal number one’ in Iran war, Vance says, as U.S. threatens new economic pressure - NBC News",
   "catCn": "世界热点",
   "cat": "world",
   "country": "多市场",
@@ -15559,102 +15459,6 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 94,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2RHTTJfTFBtYldWN0p1aFl6bWNhQ3FHc3VLVUVodGl4SmY1RGZuTmhFNjRWZjBpLUlvaktWVnhpQ2FFZHJZYV9SeWVGVFNaZ0VKQ2xLNF9LVnAwOVE2MFhBUTlaWm1TZFFELW5",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2RHTTJfTFBtYldWN0p1aFl6bWNhQ3FHc3VLVUVodGl4SmY1RGZuTmhFNjRWZjBpLUlvaktWVnhpQ2FFZHJZYV9SeWVGVFNaZ0VKQ2xLNF9LVnAwOVE2MFhBUTlaWm1TZFFELW53bC1vekluLXlHanRTdE9aU3ZpWG9aRmhvUDdiMTFoUzlkcFFvcWVscTA3YWxaZDBIbi1xbkVaMURGVFpPTXY0WEcwWTBn?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2RHTTJfTFBtYldWN0p1aFl6bWNhQ3FHc3VLVUVodGl4SmY1RGZuTmhFNjRWZjBpLUlvaktWVnhpQ2FFZHJZYV9SeWVGVFNaZ0VKQ2xLNF9LVnAwOVE2MFhBUTlaWm1TZFFELW53bC1vekluLXlHanRTdE9aU3ZpWG9aRmhvUDdiMTFoUzlkcFFvcWVscTA3YWxaZDBIbi1xbkVaMURGVFpPTXY0WEcwWTBn?oc=5"
- },
- {
-  "id": "rt-1a18417f56cc",
-  "titleCn": "2026 年 8 月 13 日——随着世界石油库存的消耗，霍尔木兹海峡的交通量仍然很低 - CNN",
-  "titleOrig": "August 13, 2026 — Strait of Hormuz traffic remains low as world burns through oil stockpiles - CNN",
-  "catCn": "世界热点",
-  "cat": "world",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 92,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1pbW5CSDVsU0lSOTVwRzBkaENsM2VZYVdSTVJVaWxKbVpRbHBPaWJZMktfcVBGVzB1bGdKT0ZtSVBzblpBV0xkS2dSdlBJYVlSR1hRWVhPb2Z0UWtoaDhaMGhpTTJyYllaaFZ1ejB",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pbW5CSDVsU0lSOTVwRzBkaENsM2VZYVdSTVJVaWxKbVpRbHBPaWJZMktfcVBGVzB1bGdKT0ZtSVBzblpBV0xkS2dSdlBJYVlSR1hRWVhPb2Z0UWtoaDhaMGhpTTJyYllaaFZ1ejBR?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pbW5CSDVsU0lSOTVwRzBkaENsM2VZYVdSTVJVaWxKbVpRbHBPaWJZMktfcVBGVzB1bGdKT0ZtSVBzblpBV0xkS2dSdlBJYVlSR1hRWVhPb2Z0UWtoaDhaMGhpTTJyYllaaFZ1ejBR?oc=5"
- },
- {
-  "id": "rt-a0238eee907b",
-  "titleCn": "万斯表示，随着美国威胁新的经济压力，低油价现在是伊朗战争的“首要目标” - NBC新闻",
-  "titleOrig": "Low oil prices now ‘goal number one’ in Iran war, Vance says, as U.S. threatens new economic pressure - NBC News",
-  "catCn": "世界热点",
-  "cat": "world",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 90,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1RjRkdfWFhDa19XeVdJTExnYzQwX0ZJdFBnYzlkMVhfWXdPNFRxWVJVcUlMLTdtZ3NudmVvQTI4Mm1EZ25Lb25oelpLX0dyVl81TEpkbndwTTBhMzRUM052VmdVdnRGcjl5dUl",
   "tags": [],
   "timeRel": "",
@@ -15692,6 +15496,54 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1RjRkdfWFhDa19XeVdJTExnYzQwX0ZJdFBnYzlkMVhfWXdPNFRxWVJVcUlMLTdtZ3NudmVvQTI4Mm1EZ25Lb25oelpLX0dyVl81TEpkbndwTTBhMzRUM052VmdVdnRGcjl5dUlhNUVfX1FJcU5fX3BRVmp1T3JUTUcxMWZFcExEdFE5dXVZSlN1TlNBQ0FYdEJPRFJOVXZvbmF6andjdEdnMDhjNXpjOXFZaw?oc=5"
  },
  {
+  "id": "rt-fbd0c3ebcf5b",
+  "titleCn": "西米德兰兹郡火灾后十九人被送往医院，数千人在克罗地亚疏散 - 欧洲直播 - 英国卫报",
+  "titleOrig": "Nineteen people taken to hospital after West Midlands fire, as thousands evacuated in Croatia – Europe live - The Guardian",
+  "catCn": "世界热点",
+  "cat": "world",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 92,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQak9UZUdrUWZQNGNKTXQ3dEdkZFF5VkNUakgyWkM5WGJKekZZY3lqS3ktQ1d5aE1YcW1hcjVwemlMWG1jNWVUUjdESU5xVUdyUlh0TEc0d0pGVm5IU3dodDNDT0lHRmxYdnFMTVV",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQak9UZUdrUWZQNGNKTXQ3dEdkZFF5VkNUakgyWkM5WGJKekZZY3lqS3ktQ1d5aE1YcW1hcjVwemlMWG1jNWVUUjdESU5xVUdyUlh0TEc0d0pGVm5IU3dodDNDT0lHRmxYdnFMTVVlTVFNRHJIc2w5STRCVWxBQVhYdmpGaDg3NVpreF8yRldxa0xnRlNQaWtObzlWREN1R2hrQWE5cXJDZld1X2lxcno1R2lWUlNSVUtIQUpzdWtUd0VScWp2UjBTRGVFZDVvd3NQeGVaYWpfOWI2SWdFU2ZlMDFhb2xVVWtwTUVrOGgtYms4RExXajFGb19HeThJQ3pjYXc?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQak9UZUdrUWZQNGNKTXQ3dEdkZFF5VkNUakgyWkM5WGJKekZZY3lqS3ktQ1d5aE1YcW1hcjVwemlMWG1jNWVUUjdESU5xVUdyUlh0TEc0d0pGVm5IU3dodDNDT0lHRmxYdnFMTVVlTVFNRHJIc2w5STRCVWxBQVhYdmpGaDg3NVpreF8yRldxa0xnRlNQaWtObzlWREN1R2hrQWE5cXJDZld1X2lxcno1R2lWUlNSVUtIQUpzdWtUd0VScWp2UjBTRGVFZDVvd3NQeGVaYWpfOWI2SWdFU2ZlMDFhb2xVVWtwTUVrOGgtYms4RExXajFGb19HeThJQ3pjYXc?oc=5"
+ },
+ {
   "id": "rt-608602f540a2",
   "titleCn": "独家：消息人士称，由于粮食供应​​担忧加剧，乌克兰向俄罗斯提出在黑海停战 - 路透",
   "titleOrig": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says - Reuters",
@@ -15702,7 +15554,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 88,
+  "buzzIndex": 90,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1",
   "tags": [],
   "timeRel": "",
@@ -15738,6 +15590,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-14",
   "primaryUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1rWEF2TTV4LUZzazNDU2dkdTVsdENPdnFvZDJMWmcxWTdwNE5na2NzeVBwVlVwTnNrQUN5VHV3bEIwaS1vTmZXOVhGeEVnN1FyQ1VxMTQ0T2g4aw?oc=5"
+ },
+ {
+  "id": "rt-881feded7e2f",
+  "titleCn": "为什么乌克兰的粮食受阻可能成为世界问题 - CNN",
+  "titleOrig": "Why Ukraine’s blocked grain could become the world’s problem - CNN",
+  "catCn": "世界热点",
+  "cat": "world",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 88,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2NveDZnTGticC1BNWR5QkJFMUh4U0hTQy11M21FbkIwSlo4TTBHX0ttbjJfV3FEUmZuLTU2N0p5aUFnWmZCMVhGa2hBYWFzOWlZb3dHd2RhM2Q1Z05Ub1ZLTm9PZTVnWnJiRGZ",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2NveDZnTGticC1BNWR5QkJFMUh4U0hTQy11M21FbkIwSlo4TTBHX0ttbjJfV3FEUmZuLTU2N0p5aUFnWmZCMVhGa2hBYWFzOWlZb3dHd2RhM2Q1Z05Ub1ZLTm9PZTVnWnJiRGZqQkN4SXFmeUJzbWtZLTc1bmszUFd4UDJoWlBPN0FqQUwyQQ?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2NveDZnTGticC1BNWR5QkJFMUh4U0hTQy11M21FbkIwSlo4TTBHX0ttbjJfV3FEUmZuLTU2N0p5aUFnWmZCMVhGa2hBYWFzOWlZb3dHd2RhM2Q1Z05Ub1ZLTm9PZTVnWnJiRGZqQkN4SXFmeUJzbWtZLTc1bmszUFd4UDJoWlBPN0FqQUwyQQ?oc=5"
  },
  {
   "id": "rt-94bd7609a6b0",
@@ -15788,9 +15688,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUJSazBHRkwzZmk0aHJzWldhTXpGNThoR0ZCVTlkOTZmNVZaekIyUlIxekxLTFV4QjFfb1NSQmtVeXN6TnRZMDJtZEhXUVJJenFrY1pnLWJ0bFd2TDhyV2R4SU9XbW1oaS1MMHFfYWdLSkZ5QkZqeWJUREVFZ1FpalZqeTh3YWdkUVo4?oc=5"
  },
  {
-  "id": "rt-f018f8314fcf",
-  "titleCn": "美国在霍尔木兹的问题比伊朗的抵抗更大 - NDTV",
-  "titleOrig": "US Has A Bigger Problem In Hormuz Than Iran's Resistance - NDTV",
+  "id": "rt-df2663fe01d8",
+  "titleCn": "美国、英国、爱尔兰：五年内针对海外印第安人的袭击激增七倍 - NDTV",
+  "titleOrig": "US, UK, Ireland: Sevenfold Spike In Attacks On Indians Abroad In 5 Years - NDTV",
   "catCn": "世界热点",
   "cat": "world",
   "country": "多市场",
@@ -15799,7 +15699,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 84,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXRHd085TTJtbl9YU3QxaGhGRklvcnJBc2lDNGQ4ZDdHNllURTJWMVdWYU1xZ0tsVEVrX0dBN3Yxa19JZV9YSXhMT0hKX1lqVmhOQ21RV0lJdi1JY0RTdnZVckFZUzJuWTYtY1V",
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOeF92NG5HUlV0dC1idmdtcWd5OUxvS3AzeFNSbXEtalp2dGlZT25BaUI1MmxRUS1yOEMyZVJ3bmRhclVrSU8zbWtsa3BYeGMxLUdZR3FQdmNnQlRNWVoyN2QtWkZpZkxNbFhieFp",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -15809,7 +15709,7 @@ window.EVENTS_REALTIME = [
     "name": "Google News 热讯",
     "region": "多市场",
     "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXRHd085TTJtbl9YU3QxaGhGRklvcnJBc2lDNGQ4ZDdHNllURTJWMVdWYU1xZ0tsVEVrX0dBN3Yxa19JZV9YSXhMT0hKX1lqVmhOQ21RV0lJdi1JY0RTdnZVckFZUzJuWTYtY1VMY0E3VWs5cmFvMHNLeUlCVjVWQ1FCanVaS0tSelBoZlNKRXZteWlROUE1VldOc2JVRl9PWDVSR3BSdWh1ZEdTZ1Q1ZjhadE1adw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeF92NG5HUlV0dC1idmdtcWd5OUxvS3AzeFNSbXEtalp2dGlZT25BaUI1MmxRUS1yOEMyZVJ3bmRhclVrSU8zbWtsa3BYeGMxLUdZR3FQdmNnQlRNWVoyN2QtWkZpZkxNbFhieFpqSlFDM2l5VXBMaVgyREl4M0dWdHZyMzF1ZXZXNXVPaFBpb0pEZVhYV0xRNU5OTlZsTDQySU5ldFRqS0thVVpHZXIw0gG3AUFVX3lxTE1PQVJaMTZXbXZzUk5pLWdyVjJvQmVWS3ZnY05pQ3gya2lERVZ0VVdFd1hDNHFfNEx1VGVSMHdHS0Nab0RmcW1NYmRuNEJjMC1uNDg5QW1VTTYxc3VRY09zUGhHU2ZBX2tWVHZpQ0tMZU9SbnEza2k3VzJBQUx0dWpkYU1abXJHWms1cEFWQ0I5OVpFRE9pVE5rWjd1SU1oaGM0MDhpUnlUZkFPcGFGbjZLODE3cTNjZw?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -15833,12 +15733,12 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXRHd085TTJtbl9YU3QxaGhGRklvcnJBc2lDNGQ4ZDdHNllURTJWMVdWYU1xZ0tsVEVrX0dBN3Yxa19JZV9YSXhMT0hKX1lqVmhOQ21RV0lJdi1JY0RTdnZVckFZUzJuWTYtY1VMY0E3VWs5cmFvMHNLeUlCVjVWQ1FCanVaS0tSelBoZlNKRXZteWlROUE1VldOc2JVRl9PWDVSR3BSdWh1ZEdTZ1Q1ZjhadE1adw?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeF92NG5HUlV0dC1idmdtcWd5OUxvS3AzeFNSbXEtalp2dGlZT25BaUI1MmxRUS1yOEMyZVJ3bmRhclVrSU8zbWtsa3BYeGMxLUdZR3FQdmNnQlRNWVoyN2QtWkZpZkxNbFhieFpqSlFDM2l5VXBMaVgyREl4M0dWdHZyMzF1ZXZXNXVPaFBpb0pEZVhYV0xRNU5OTlZsTDQySU5ldFRqS0thVVpHZXIw0gG3AUFVX3lxTE1PQVJaMTZXbXZzUk5pLWdyVjJvQmVWS3ZnY05pQ3gya2lERVZ0VVdFd1hDNHFfNEx1VGVSMHdHS0Nab0RmcW1NYmRuNEJjMC1uNDg5QW1VTTYxc3VRY09zUGhHU2ZBX2tWVHZpQ0tMZU9SbnEza2k3VzJBQUx0dWpkYU1abXJHWms1cEFWQ0I5OVpFRE9pVE5rWjd1SU1oaGM0MDhpUnlUZkFPcGFGbjZLODE3cTNjZw?oc=5"
  },
  {
-  "id": "rt-42f862e42408",
-  "titleCn": "普京在远东展示莫斯科的力量 - 每日电讯报",
-  "titleOrig": "Putin flexes Moscow’s muscles in the Far East - The Telegraph",
+  "id": "rt-297b57bdcc51",
+  "titleCn": "朝鲜对即将举行的美韩军事演习感到愤怒 - 半岛电视台",
+  "titleOrig": "North Korea fumes over upcoming US-South Korea military drills - Al Jazeera",
   "catCn": "世界热点",
   "cat": "world",
   "country": "多市场",
@@ -15847,7 +15747,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 82,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEVsNnRsU1hMam90WmN0aXdDSHFtcmZWRFg4QVRDcTVfZVBmRXI2NElzdjBfMFItb1NoR1ZyQ2hjMkNQUEIzY05OR1RBWlN2Njd4ajB0dUExTERyblAxT3cwTjhRZ0t6WUdTQVd",
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObEhnX0xTOHFuOUtNOWRrRVJrUUVTVWRoUU1mSFdZdUdqZ3NRdkVUclpNMkE1dnVkNUNZX2xZNmotV214RHEtbFc1UEp3b3ZTXzFhUGdkamx5cTlDY0RGU1J4cUlGTTZ4bUdNTTJ",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -15857,7 +15757,7 @@ window.EVENTS_REALTIME = [
     "name": "Google News 热讯",
     "region": "多市场",
     "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEVsNnRsU1hMam90WmN0aXdDSHFtcmZWRFg4QVRDcTVfZVBmRXI2NElzdjBfMFItb1NoR1ZyQ2hjMkNQUEIzY05OR1RBWlN2Njd4ajB0dUExTERyblAxT3cwTjhRZ0t6WUdTQVd0bS0tcVV6X0dWeWRIU2Z1dzVEOEhuZmdtZEUtQXh6ckRITFlPRHFsNUVJTk8tSQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEhnX0xTOHFuOUtNOWRrRVJrUUVTVWRoUU1mSFdZdUdqZ3NRdkVUclpNMkE1dnVkNUNZX2xZNmotV214RHEtbFc1UEp3b3ZTXzFhUGdkamx5cTlDY0RGU1J4cUlGTTZ4bUdNTTJaTXNuSHpRdGVBYjRJaG5PblpncW14Vmc0OVdnUHdSM0hQcDV2NThuNW5WX0pta0NBLXJtSV9MLVh30gGrAUFVX3lxTE5odlg2YVA4VTVrUHJJOXpLQXFNOURQeTZ5QTFmeURlN0diNUM5REs2RWptdWl0TFAtdnUxb3loc3hfQjZBVXBiT0RwRDhsUFRXbVZNeG5RRmhBVzViNE90TmlLcmNnTkNUejI2ZF9DZklaWG10c3BMZDlPaE9jOGRjOENsY202Q3plM0ZRUGRTSDAyNkNrbUV6ZjVIVDBrYWkwSG5STG9kVEQ5MA?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -15881,7 +15781,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEVsNnRsU1hMam90WmN0aXdDSHFtcmZWRFg4QVRDcTVfZVBmRXI2NElzdjBfMFItb1NoR1ZyQ2hjMkNQUEIzY05OR1RBWlN2Njd4ajB0dUExTERyblAxT3cwTjhRZ0t6WUdTQVd0bS0tcVV6X0dWeWRIU2Z1dzVEOEhuZmdtZEUtQXh6ckRITFlPRHFsNUVJTk8tSQ?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEhnX0xTOHFuOUtNOWRrRVJrUUVTVWRoUU1mSFdZdUdqZ3NRdkVUclpNMkE1dnVkNUNZX2xZNmotV214RHEtbFc1UEp3b3ZTXzFhUGdkamx5cTlDY0RGU1J4cUlGTTZ4bUdNTTJaTXNuSHpRdGVBYjRJaG5PblpncW14Vmc0OVdnUHdSM0hQcDV2NThuNW5WX0pta0NBLXJtSV9MLVh30gGrAUFVX3lxTE5odlg2YVA4VTVrUHJJOXpLQXFNOURQeTZ5QTFmeURlN0diNUM5REs2RWptdWl0TFAtdnUxb3loc3hfQjZBVXBiT0RwRDhsUFRXbVZNeG5RRmhBVzViNE90TmlLcmNnTkNUejI2ZF9DZklaWG10c3BMZDlPaE9jOGRjOENsY202Q3plM0ZRUGRTSDAyNkNrbUV6ZjVIVDBrYWkwSG5STG9kVEQ5MA?oc=5"
  },
  {
   "id": "rt-95c0bdc90f69",
@@ -15980,9 +15880,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5"
  },
  {
-  "id": "rt-6ef8d0a513a9",
-  "titleCn": "印度一水电项目隧道崩塌，造成至少 7 人死亡 - 泰勒维尔每日新闻",
-  "titleOrig": "Tunnel collapses at an Indian hydropower project, killing at least 7 - Taylorville Daily News",
+  "id": "rt-6c3f1cc665ec",
+  "titleCn": "赞比亚因暴力和选票被盗的报道而暂停选举计票 - 泰勒维尔每日新闻",
+  "titleOrig": "Zambia suspends vote counting in election over reports of violence and the theft of ballot papers - Taylorville Daily News",
   "catCn": "世界热点",
   "cat": "world",
   "country": "多市场",
@@ -15991,7 +15891,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 76,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVo0YUVIZmhIUnQyWFp0MEVZaGJrQ2dvTW5vaTczcG9sOEJhNUYtY2JiNVRjTllOQVd0NjA2Q0tJVGw5bXVpYlJ5T19iMW02VldCRWUwdWhMMGd5Ykx1clRmekxzODYtTTFKNEc",
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHZzMHpFVHY5T2FWVFZnUF9NZWtQOS1MRG1EYjhMcmFVamZLQ3hNTENXZl9YTU42d2s5ampGakpOeUNVOWRtQXc3Q3ZIYnFMTGJ6dktfWDRoY2xIa1A5M1VRTHFSV3ZUdHBPQ2h",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -16001,7 +15901,7 @@ window.EVENTS_REALTIME = [
     "name": "Google News 热讯",
     "region": "多市场",
     "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVo0YUVIZmhIUnQyWFp0MEVZaGJrQ2dvTW5vaTczcG9sOEJhNUYtY2JiNVRjTllOQVd0NjA2Q0tJVGw5bXVpYlJ5T19iMW02VldCRWUwdWhMMGd5Ykx1clRmekxzODYtTTFKNEcxc3FrM0daeHN0TXRDYnRCRDlPX1dNSXJjWkIxdElKSTJSYjVCRlBjSVE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHZzMHpFVHY5T2FWVFZnUF9NZWtQOS1MRG1EYjhMcmFVamZLQ3hNTENXZl9YTU42d2s5ampGakpOeUNVOWRtQXc3Q3ZIYnFMTGJ6dktfWDRoY2xIa1A5M1VRTHFSV3ZUdHBPQ2hMaDB3SkRUaUNVTVVubmdsRGlkeTlHQ3BVTGhOaVVkczdUbDhGdGlCT2c?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -16025,12 +15925,12 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVo0YUVIZmhIUnQyWFp0MEVZaGJrQ2dvTW5vaTczcG9sOEJhNUYtY2JiNVRjTllOQVd0NjA2Q0tJVGw5bXVpYlJ5T19iMW02VldCRWUwdWhMMGd5Ykx1clRmekxzODYtTTFKNEcxc3FrM0daeHN0TXRDYnRCRDlPX1dNSXJjWkIxdElKSTJSYjVCRlBjSVE?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHZzMHpFVHY5T2FWVFZnUF9NZWtQOS1MRG1EYjhMcmFVamZLQ3hNTENXZl9YTU42d2s5ampGakpOeUNVOWRtQXc3Q3ZIYnFMTGJ6dktfWDRoY2xIa1A5M1VRTHFSV3ZUdHBPQ2hMaDB3SkRUaUNVTVVubmdsRGlkeTlHQ3BVTGhOaVVkczdUbDhGdGlCT2c?oc=5"
  },
  {
-  "id": "rt-23c76571774e",
-  "titleCn": "10 今天早上 6 点 - 10TV",
-  "titleOrig": "10 This Morning 6AM - 10TV",
+  "id": "rt-9ec816742540",
+  "titleCn": "白宫揭露“转运骗局”，美国损失高达$26B，矛头直指中国 - 福克斯新闻",
+  "titleOrig": "White House exposes ‘Transshipment Scam’ costing US up to $26B, points finger at China - Fox News",
   "catCn": "世界热点",
   "cat": "world",
   "country": "多市场",
@@ -16039,7 +15939,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 98,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQm90MklEN01sWUMxRkc3WmZFcW1iNkc1c0ZjYnpXbm9jQk5LRFpKQS1QdlhVcXB1LTZ3Qk5yQWdWOU50Rk5zWmZERlJhYVZJRHpLamRBb09ac0FjaHctcTRlSE9KcnZjaENDMVR",
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3FOdUc3b3hILWtfUHotSkN3UWpubWZhdEdGR25RYU90bExSdjFkLUM2dmE3emh5QllFcGxUa0E4dlh6d1dNZzd4MmhDc0VCTVhZTXZTeXFQUWxoZVYyaWhaaE4xU1lsVGNaWER",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -16049,7 +15949,7 @@ window.EVENTS_REALTIME = [
     "name": "Google News 热讯",
     "region": "多市场",
     "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQm90MklEN01sWUMxRkc3WmZFcW1iNkc1c0ZjYnpXbm9jQk5LRFpKQS1QdlhVcXB1LTZ3Qk5yQWdWOU50Rk5zWmZERlJhYVZJRHpLamRBb09ac0FjaHctcTRlSE9KcnZjaENDMVRhM3Rrd2I0SlNuYm9NT1FWengzMUZjMy1GWmF0ZVdzRk9MdWNnVThrc24xMjlMQUdob1lSSU9XQ0RrTQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3FOdUc3b3hILWtfUHotSkN3UWpubWZhdEdGR25RYU90bExSdjFkLUM2dmE3emh5QllFcGxUa0E4dlh6d1dNZzd4MmhDc0VCTVhZTXZTeXFQUWxoZVYyaWhaaE4xU1lsVGNaWERfUi1tQlVVY2tjcmZqYjQ4T0RfR1Rjc1hOcVdUcGVHamxiX2lfa2RvNFRBR2tMcUZmU1R5VzF4WUs0RWRkd9IBrwFBVV95cUxQcHBNaEZmSW54UklpWmFNdUtPZnYwdERXcFNFVnlGdkNralhYelV5QUxQYjB1QWtral8zWkl1TU00a3VEbUFZUlIxam1mWF9zRXl1VHFZWXNWZW9qcGowcGRtejJHQUdGdUJvdHFuOXdmMVJESEdINzVLZkw3RnJGTWpzNTAybXNnS3lhRWc0MDFqR0NtZjdNRlk2eHBMNlViMEw5dmdvZ1VZajEzRlhr?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -16073,7 +15973,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQm90MklEN01sWUMxRkc3WmZFcW1iNkc1c0ZjYnpXbm9jQk5LRFpKQS1QdlhVcXB1LTZ3Qk5yQWdWOU50Rk5zWmZERlJhYVZJRHpLamRBb09ac0FjaHctcTRlSE9KcnZjaENDMVRhM3Rrd2I0SlNuYm9NT1FWengzMUZjMy1GWmF0ZVdzRk9MdWNnVThrc24xMjlMQUdob1lSSU9XQ0RrTQ?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3FOdUc3b3hILWtfUHotSkN3UWpubWZhdEdGR25RYU90bExSdjFkLUM2dmE3emh5QllFcGxUa0E4dlh6d1dNZzd4MmhDc0VCTVhZTXZTeXFQUWxoZVYyaWhaaE4xU1lsVGNaWERfUi1tQlVVY2tjcmZqYjQ4T0RfR1Rjc1hOcVdUcGVHamxiX2lfa2RvNFRBR2tMcUZmU1R5VzF4WUs0RWRkd9IBrwFBVV95cUxQcHBNaEZmSW54UklpWmFNdUtPZnYwdERXcFNFVnlGdkNralhYelV5QUxQYjB1QWtral8zWkl1TU00a3VEbUFZUlIxam1mWF9zRXl1VHFZWXNWZW9qcGowcGRtejJHQUdGdUJvdHFuOXdmMVJESEdINzVLZkw3RnJGTWpzNTAybXNnS3lhRWc0MDFqR0NtZjdNRlk2eHBMNlViMEw5dmdvZ1VZajEzRlhr?oc=5"
  },
  {
   "id": "rt-340537de74c3",
@@ -16124,17 +16024,17 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcnowa0tCUFVEZFc1RXprT2JxYS1PVGRQR3BrMUt6V1ByODd2aG5LSlIyRm03MkozZ2ZkS3ZXLVdRX1Q4V2ZFRENjMUNZb0FXUzVSU2NEbTlhQ08tblJmcWE3ZzFzVlc3cVNMMElXVDZwLVNWYk9HRDU3ZFZISDM0ZzJYR3VTNVJibjlYdmVZTTc4WG1hcHpmQXNR0gGfAUFVX3lxTE9JckxmUjN2amRtbDJUS25xZE9XZkxuMDdtNkNBUUVmMmJlSGtZbHV5LXh0d043TEZpczNrM3RfWlF6VVdRWUNSTjRkSEpNNUFJSkxkUWtPa0FjNmowS1dzX1Roanh2Qm8tZW9LbWZ6MG84bnFVTkVLQUJGeHZ5WXpzb0pSa294ckx3LWdTTTNadklORVFVRzU0R0ZSbHBlZw?oc=5"
  },
  {
-  "id": "rt-3ec44a425b93",
-  "titleCn": "特朗普下令归还航母上的蒸汽弹射器，这是第五家公共造船厂",
-  "titleOrig": "Trump orders return of steam catapults on carriers, fifth public shipyard - breakingdefense.com",
+  "id": "rt-63b2c3249ad7",
+  "titleCn": "特朗普下令归还航母上的蒸汽弹射器，第五家公共造船厂 - Breaking Defense",
+  "titleOrig": "Trump orders return of steam catapults on carriers, fifth public shipyard - Breaking Defense",
   "catCn": "世界热点",
   "cat": "world",
   "country": "多市场",
-  "stars": "🔥🔥",
+  "stars": "🔥🔥🔥",
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 92,
+  "buzzIndex": 94,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjJfQU1XWUI1OVA1RzZZYndmQjgyakRTZG56NTV5TTdmZWh1Skd1SzNKMlZhdGJxaFVMUm84akNvdUhEM3BRQlpRWGVyeUlrMnQ4RUl0N0xaeHAzTDBLei1ZQlV5TlZfdDFwV3d",
   "tags": [],
   "timeRel": "",
@@ -16182,7 +16082,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 90,
+  "buzzIndex": 92,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcTFzYkNVb2FMLUtiWEFXWVlQSkRTNnVYTVJCejZrXzNMZTlNQmlBYlNkRWtuMTB4d0kwTzl5THpTVHNSV0xXcHFfSUxyemxkdW1KMDdtYnB3UjZEbm8yT19fdlRSS0dVcm1mWnk",
   "tags": [],
   "timeRel": "",
@@ -16218,6 +16118,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-14",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcTFzYkNVb2FMLUtiWEFXWVlQSkRTNnVYTVJCejZrXzNMZTlNQmlBYlNkRWtuMTB4d0kwTzl5THpTVHNSV0xXcHFfSUxyemxkdW1KMDdtYnB3UjZEbm8yT19fdlRSS0dVcm1mWnk4Y3FJdzltU1pFcWI5SlVuTmJGWkp4a09QSXpZX1VZcUlQUUMwcXRieVlRdmh5ZFM2WHRyOGxMd1I5bmJ6UQ?oc=5"
+ },
+ {
+  "id": "rt-ee67c741440d",
+  "titleCn": "东京附近暴雨引发洪水并导致交通瘫痪，造成 1 人死亡 - 美联社新闻",
+  "titleOrig": "Torrential rain near Tokyo causes flooding and paralyzes traffic, killing 1 - AP News",
+  "catCn": "世界热点",
+  "cat": "world",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 90,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOME50RVM2OXpOZGJsbUxOVXRZSDNxMDlqdThOQzlLV05ibWNlYThFRnFLdnhiVkpuS0JqYThtLWNFbzNqMWx2UmM1andCY0VIMzU1cEctNVJmYWNsd1Y5bk1kQ0E2RjMxNW81cHh",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOME50RVM2OXpOZGJsbUxOVXRZSDNxMDlqdThOQzlLV05ibWNlYThFRnFLdnhiVkpuS0JqYThtLWNFbzNqMWx2UmM1andCY0VIMzU1cEctNVJmYWNsd1Y5bk1kQ0E2RjMxNW81cHhZWEFnOTdNNTFBWG1BdXlSa3N0WWNVMA?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOME50RVM2OXpOZGJsbUxOVXRZSDNxMDlqdThOQzlLV05ibWNlYThFRnFLdnhiVkpuS0JqYThtLWNFbzNqMWx2UmM1andCY0VIMzU1cEctNVJmYWNsd1Y5bk1kQ0E2RjMxNW81cHhZWEFnOTdNNTFBWG1BdXlSa3N0WWNVMA?oc=5"
  },
  {
   "id": "rt-d2f14af6b14b",
@@ -16460,9 +16408,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YcnZUZHB3VlBDUTJCOS1wX2J4dy1meUh3WnV3WFdLa3NZTXJadVR1RGZyaUx2MkFzeThKd09wMmJ0V2E3cV91U2RoT0VVblh6elpZaXNLUkhCUVFYQ3dTZjlDU0EybE5uX05XU3JkSk9lVjRBOHJaelJjSGlXdw?oc=5"
  },
  {
-  "id": "rt-f0d402e6f267",
-  "titleCn": "2026 年 7 种夏秋过渡时装秀趋势 - whowhatwear.com",
-  "titleOrig": "7 Summer-to-Autumn-Transition Runway Trends for 2026 - whowhatwear.com",
+  "id": "rt-ea57256aa671",
+  "titleCn": "正如您所知，秋季最时尚的人将穿着这 5 种趋势 - 谁穿什么",
+  "titleOrig": "Just So You Know, the Most Stylish People Will Be Wearing These 5 Trends Come Fall - Who What Wear",
   "catCn": "时尚趋势",
   "cat": "fashion",
   "country": "多市场",
@@ -16471,7 +16419,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 84,
   "buzzIndex": 94,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOVzd5bUdUY28teHBaOER4UzBuYnkxZEx0R1BUdzhYYk1UZ3FIdUs3bHVCQW9DVVRtWGpzZ0hBaS1wbmRBN1BxM1ZuR2lubFZtVng3Y1VGT2VKVExOTUtacGNJUnhWUVduZ3ctaGJ",
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTdOVVk1SjZucFpZbGI1OVJLcTNETlM5UGtCSWVoOFdycVhxbEJlNXJTbEFsSEF6bFN3dmdHby0xM19kOVVyU3IxWGU4b0NSREc5a0FBVzZCaG5vaTZLWXN6azU0MDh0bnctbDZ",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -16481,7 +16429,7 @@ window.EVENTS_REALTIME = [
     "name": "Google News 热讯",
     "region": "多市场",
     "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVzd5bUdUY28teHBaOER4UzBuYnkxZEx0R1BUdzhYYk1UZ3FIdUs3bHVCQW9DVVRtWGpzZ0hBaS1wbmRBN1BxM1ZuR2lubFZtVng3Y1VGT2VKVExOTUtacGNJUnhWUVduZ3ctaGJiSUFIcVlqYW1fUHFnZGtfaE4xc2ZiQ0NSNTlPX1FsYkhOT2g?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTdOVVk1SjZucFpZbGI1OVJLcTNETlM5UGtCSWVoOFdycVhxbEJlNXJTbEFsSEF6bFN3dmdHby0xM19kOVVyU3IxWGU4b0NSREc5a0FBVzZCaG5vaTZLWXN6azU0MDh0bnctbDZOclZQY0RZOF8xdGtKUlZfZTJQVzZYX2ZxOVY2?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -16505,7 +16453,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVzd5bUdUY28teHBaOER4UzBuYnkxZEx0R1BUdzhYYk1UZ3FIdUs3bHVCQW9DVVRtWGpzZ0hBaS1wbmRBN1BxM1ZuR2lubFZtVng3Y1VGT2VKVExOTUtacGNJUnhWUVduZ3ctaGJiSUFIcVlqYW1fUHFnZGtfaE4xc2ZiQ0NSNTlPX1FsYkhOT2g?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTdOVVk1SjZucFpZbGI1OVJLcTNETlM5UGtCSWVoOFdycVhxbEJlNXJTbEFsSEF6bFN3dmdHby0xM19kOVVyU3IxWGU4b0NSREc5a0FBVzZCaG5vaTZLWXN6azU0MDh0bnctbDZOclZQY0RZOF8xdGtKUlZfZTJQVzZYX2ZxOVY2?oc=5"
  },
  {
   "id": "rt-14f1ecfa03a4",
@@ -16556,54 +16504,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcVlsa0h4SHdCaXBDZnFHWXhXNk1QdVlnNm5nb3JxeW1xejZONTEzaUZ6ZjRTODFweXNhUEdqRTJCU19qVmk4Mlcxa3RWZUZrS3NGZW9FeFlDUGk3Q09TX0Y0MkZ6bDdwQklTc3NWVHhDSzVVMmVRclJLNzByei0zaXFYUGdCSlhNOHc?oc=5"
  },
  {
-  "id": "rt-a0a8963d4a39",
-  "titleCn": "2026 年夏季时尚趋势将帮助您无缝过渡到秋季 - Women.com",
-  "titleOrig": "Summer 2026 Fashion Trends That Will Help You Seamlessly Transition Into Fall - women.com",
-  "catCn": "时尚趋势",
-  "cat": "fashion",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 84,
-  "buzzIndex": 90,
-  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQLW1ZelVHZTBlS1V3YTVVQWVGdml3UnFjTnk2MEo1UWxSa3BnSlo0S3h2RDVXYXRrdm9OR3FRY213dDliRGdwWGFsZG9WbmpQeloyT0Y2QzZxb1NnMS05MEJLb0t3aV9iaXVqeV8",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "googlenews",
-    "name": "Google News 热讯",
-    "region": "多市场",
-    "credibility": 84,
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLW1ZelVHZTBlS1V3YTVVQWVGdml3UnFjTnk2MEo1UWxSa3BnSlo0S3h2RDVXYXRrdm9OR3FRY213dDliRGdwWGFsZG9WbmpQeloyT0Y2QzZxb1NnMS05MEJLb0t3aV9iaXVqeV85eVhGYlFRenF3SDdqU0dlcVBpOXZrWHdTSldNSVlpZQ?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-14",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-14",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLW1ZelVHZTBlS1V3YTVVQWVGdml3UnFjTnk2MEo1UWxSa3BnSlo0S3h2RDVXYXRrdm9OR3FRY213dDliRGdwWGFsZG9WbmpQeloyT0Y2QzZxb1NnMS05MEJLb0t3aV9iaXVqeV85eVhGYlFRenF3SDdqU0dlcVBpOXZrWHdTSldNSVlpZQ?oc=5"
- },
- {
   "id": "rt-3e9c4300932b",
   "titleCn": "以下是我如何为秋季打造夏季最亮丽的色彩趋势 - Marie Claire",
   "titleOrig": "Here's How I'm Styling Summer's Brightest Color Trends for Fall - Marie Claire",
@@ -16614,7 +16514,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 84,
-  "buzzIndex": 88,
+  "buzzIndex": 90,
   "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQNWVkdnNvbWtCbl8xYVVFOWstMThaR2MwMnQ5U29kYUI2UW1JRDN3QXZqNnZqWTlZeFJsZFNhZ0ZMNlY3cDNaR2pmTUV4cmlCNG5YRnZpOGhoTVJZZmNTVXBpaXJwTHJKUnRwZ0Y",
   "tags": [],
   "timeRel": "",
@@ -16650,6 +16550,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-14",
   "primaryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNWVkdnNvbWtCbl8xYVVFOWstMThaR2MwMnQ5U29kYUI2UW1JRDN3QXZqNnZqWTlZeFJsZFNhZ0ZMNlY3cDNaR2pmTUV4cmlCNG5YRnZpOGhoTVJZZmNTVXBpaXJwTHJKUnRwZ0Y5bFc4ckFlYjBrdDNRcEdCLXpqNVd5YmRyeDdfUkFmekZEcTI?oc=5"
+ },
+ {
+  "id": "rt-a0a8963d4a39",
+  "titleCn": "2026 年夏季时尚趋势将帮助您无缝过渡到秋季 - Women.com",
+  "titleOrig": "Summer 2026 Fashion Trends That Will Help You Seamlessly Transition Into Fall - women.com",
+  "catCn": "时尚趋势",
+  "cat": "fashion",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 84,
+  "buzzIndex": 88,
+  "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQLW1ZelVHZTBlS1V3YTVVQWVGdml3UnFjTnk2MEo1UWxSa3BnSlo0S3h2RDVXYXRrdm9OR3FRY213dDliRGdwWGFsZG9WbmpQeloyT0Y2QzZxb1NnMS05MEJLb0t3aV9iaXVqeV8",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "googlenews",
+    "name": "Google News 热讯",
+    "region": "多市场",
+    "credibility": 84,
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLW1ZelVHZTBlS1V3YTVVQWVGdml3UnFjTnk2MEo1UWxSa3BnSlo0S3h2RDVXYXRrdm9OR3FRY213dDliRGdwWGFsZG9WbmpQeloyT0Y2QzZxb1NnMS05MEJLb0t3aV9iaXVqeV85eVhGYlFRenF3SDdqU0dlcVBpOXZrWHdTSldNSVlpZQ?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-14",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-14",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLW1ZelVHZTBlS1V3YTVVQWVGdml3UnFjTnk2MEo1UWxSa3BnSlo0S3h2RDVXYXRrdm9OR3FRY213dDliRGdwWGFsZG9WbmpQeloyT0Y2QzZxb1NnMS05MEJLb0t3aV9iaXVqeV85eVhGYlFRenF3SDdqU0dlcVBpOXZrWHdTSldNSVlpZQ?oc=5"
  },
  {
   "id": "rt-ba91d2068594",
@@ -16700,9 +16648,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEeHFpcEZZVGo4QzJ0SW5VRHducC1na1Y1eXB4MkdiUEV0cHFxVW9JMVhXd2NvR051N2R2dWhkX2h0LWxxdnVFQkZiNHVmUnRRdXhHTTk1TVRZc25DTnFMSA?oc=5"
  },
  {
-  "id": "rt-04973651845a",
-  "titleCn": "2026 年夏季主要趋势，现在就添加到你的衣柜里 - vogue.com",
-  "titleOrig": "The Key Summer 2026 Trends to Add to Your Wardrobe Now - vogue.com",
+  "id": "rt-7827a6c509b9",
+  "titleCn": "2026 年夏季主要趋势，现在就添加到你的衣柜里 - Vogue",
+  "titleOrig": "The Key Summer 2026 Trends to Add to Your Wardrobe Now - Vogue",
   "catCn": "时尚趋势",
   "cat": "fashion",
   "country": "多市场",
@@ -16844,9 +16792,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSjVERTYybFB3REt1VzhLSThYNExPc2U2d2M2ZGJUTTdJMGNlSWQ2c2E3S3JUcHJ3TzlNVUJpWFFTQnhUQWlyVWJkYktJckx1VUI0X25BOGNnVVp5REp3MW9mbXl2RE9udG5WaEpaaGwxM3VKZVZQZTdvWmUxUQ?oc=5"
  },
  {
-  "id": "rt-8d74523a3d6a",
-  "titleCn": "塑造哥本哈根时装周造型的 28 位斯堪的纳维亚街头风格明星 - vogue.com",
-  "titleOrig": "28 Scandinavian Street Style Stars Who Have Shaped the Look of Copenhagen Fashion Week - vogue.com",
+  "id": "rt-1f00c0818b50",
+  "titleCn": "塑造哥本哈根时装周造型的 28 位斯堪的纳维亚街头风格明星 - Vogue",
+  "titleOrig": "28 Scandinavian Street Style Stars Who Have Shaped the Look of Copenhagen Fashion Week - Vogue",
   "catCn": "时尚趋势",
   "cat": "fashion",
   "country": "泰国",
@@ -16892,9 +16840,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjNsWnpUNndtQ0ZMSFNhQVgtaDEzSE5pNGRwdmt0R1hzbEhSa0dPcDNWdENyR2oxaGJtdlBMVVl6OGJQb1U5TmJfeFo5ZVJCajU1WFNUNHVlUGhNaHA0Ykt5eXlPb3hEYnlUT2RtVUFONGtERmJTY2h6NmRBb2dGOFgtT2pfbHlKQTMwTUx5LVQ4aU5hQmNJRWNDeTdPdVFHRkxYTGxMTnpxQkRYUjlqdU40XzYzNUk?oc=5"
  },
  {
-  "id": "rt-a30e53a94751",
-  "titleCn": "2027 春夏哥本哈根时装周我们最喜欢的秀 - Hypebae",
-  "titleOrig": "Our Favorite Shows of Copenhagen Fashion Week SS27 - Hypebae",
+  "id": "rt-7108722c959a",
+  "titleCn": "我们最喜欢的 2027 春夏哥本哈根时装周秀场 - hypebae.com",
+  "titleOrig": "Our Favorite Shows of Copenhagen Fashion Week SS27 - hypebae.com",
   "catCn": "时尚趋势",
   "cat": "fashion",
   "country": "泰国",
@@ -16940,9 +16888,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUVRLSFpDSTRna1dMMkhKZHZmTi16QXU5bjAxdUxSOWNJT0ZNd3lQV1BNY09NTXV6eERJUW0yWTQ2Q0p4bW01XzVqeEN4RGtTdzQ5Tm5kYWhSOGk5cmtnYndVSnJhNjdLNUFwNjRiNGMtaVhXOGNwNE1SVDVfWjhlNW1jUlBTMGN1YnlHSW0xbkFpSDlIbmdFLUJhSHhKbkk?oc=5"
  },
  {
-  "id": "rt-d51354c8f5bd",
-  "titleCn": "2026 年时尚现状：当规则发生变化时 - mckinsey.com",
-  "titleOrig": "The State of Fashion 2026: When the rules change - mckinsey.com",
+  "id": "rt-4db6c4062fee",
+  "titleCn": "2026 年时尚现状：当规则发生变化时 - 麦肯锡公司",
+  "titleOrig": "The State of Fashion 2026: When the rules change - McKinsey &amp; Company",
   "catCn": "时尚趋势",
   "cat": "fashion",
   "country": "泰国",
@@ -17085,7 +17033,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-75c9e769d4aa",
-  "titleCn": "2026 年 Met Gala 主题和着装规范解读 - People.com",
+  "titleCn": "2026 年 Met Gala 主题和着装规范详解 - People.com",
   "titleOrig": "The 2026 Met Gala Theme and Dress Code, Explained - People.com",
   "catCn": "时尚趋势",
   "cat": "fashion",
@@ -17132,9 +17080,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XVTZvWGpEQWVyZWIwLUhqR3pwQllGZkhCSktVLTE4N0tqRm5nM21ldW5hdDMzSjZ6WGM2cHNobjFNMXJsRlFONjdKd0JOd0RXbmRxSXhpcjNqajZmTmt1Q1RuTXVFem9i?oc=5"
  },
  {
-  "id": "rt-a58ddf7e9d58",
-  "titleCn": "Shein 收购了 Everlane，该公司向千禧一代兜售了道德、实惠的奢侈品的梦想 - NPR",
-  "titleOrig": "Shein buys Everlane, which sold millennials the dream of ethical, affordable luxury - NPR",
+  "id": "rt-a6b92fda9bfd",
+  "titleCn": "Shein 收购了 Everlane，该公司向千禧一代兜售了道德、实惠的奢侈品的梦想 - npr.org",
+  "titleOrig": "Shein buys Everlane, which sold millennials the dream of ethical, affordable luxury - npr.org",
   "catCn": "时尚趋势",
   "cat": "fashion",
   "country": "泰国",
@@ -17280,5 +17228,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://en.wikipedia.org/wiki/Special:FeedItem"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-14T19:43:43";
+window.REALTIME_UPDATED = "2026-08-14T20:55:47";
 window.REALTIME_CARRIED = false;
