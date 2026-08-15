@@ -24,9 +24,14 @@ jobs:
       - name: 运行实时爬虫
         run: python scrape_realtime.py
 
+      - name: 更新前端缓存版本号（防浏览器缓存旧 app.js/data.js）
+        run: |
+          TS=$(date +%Y%m%d%H%M)
+          sed -i -E "s#js/(app|data)\.js([?]v=[0-9]+)?\"#js/\1.js?v=${TS}\"#g" index.html
+
       - name: 提交并推送
         run: |
           git config user.name "realtime-bot"
           git config user.email "bot@trendpick.local"
-          git add realtime.js
+          git add realtime.js index.html
           git diff --cached --quiet && echo "内容无变化，跳过提交" || (git commit -m "realtime: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" && git push)
