@@ -498,6 +498,20 @@ KNOWN_IPS = [
     ("GMMTV", "GMMTV"), ("LINGORM", "LINGORM"),
 ]
 
+# ── 终极兜底：知名 IP 硬编码备用图（维基/图库全挂时直接用，永不黑块）──
+IP_FALLBACK_IMAGES = {
+    "Genshin Impact": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Genshin_Impact_logo.svg/960px-Genshin_Impact_logo.svg.png",
+    "Genshin":        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Genshin-gazo.jpg",
+    "Black Myth Wukong": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Black_Myth_Wukong_cover_art.jpg/800px-Black_Myth_Wukong_cover_art.jpg",
+    "Wukong":          "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Black_Myth_Wukong_cover_art.jpg/800px-Black_Myth_Wukong_cover_art.jpg",
+    "Honkai Star Rail":"https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Honkai_Star_Rail_logo.png/800px-Honkai_Star_Rail_logo.png",
+    "BLACKPINK":       "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/BLACKPINK_COACHELLA_2019.jpg/800px-BLACKPINK_COACHELLA_2019.jpg",
+    "BTS":             "https://upload.wikimedia.org/wikipedia/commons/7/75/BTS_for_Dispatch_2017.jpg",
+    "Minecraft":        "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Minecraft_cover_poster.jpg/800px-Minecraft_cover_poster.jpg",
+    "Roblox":           "https://upload.wikimedia.org/wikipedia/en/thumb/aad/Roblox_logo_%282022%29.svg/800px-Roblox_logo_%282022%29.svg.png",
+    "League of Legends":"https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/League_of_Legends_2019_vector_logo.svg/800px-League_of_Legends_2019_vector_logo.svg.png",
+}
+
 def _ip_match(title):
     """检查标题是否匹配知名 IP，返回 (精确搜图词, 中文名) 或 None。"""
     t = title.lower()
@@ -539,6 +553,10 @@ def enrich_images(events, max_requests=300):
             o = openverse_img(kw); used += 1
             if o:
                 apply_img(e, o, f"Openverse({cn_name})", "openverse"); continue
+            # ── 终极兜底：硬编码备用图（API 全挂也不黑块）──
+            fb = IP_FALLBACK_IMAGES.get(kw)
+            if fb:
+                apply_img(e, fb, f"备用图({cn_name})", "fallback"); continue
         # ── 第二层：通用候选词链 ──
         tried = 0
         for q in extract_queries(e["titleOrig"]):
