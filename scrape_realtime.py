@@ -473,25 +473,40 @@ def aggregate(events):
     return result
 
 
-def enrich_images(events, cap_total=180):
-    """对无图事件按候选词依次尝试：维基搜索图 → Commons → Openverse 借图。"""
+def enrich_images(events, max_requests=300):
+    """对无图事件按候选词依次尝试：维基搜索图 → Commons → Openverse 借图。
+
+    优化：
+    - 高命中率类别（游戏/动漫/音乐）优先处理
+    - used 只在实际发起网络请求时计数（修复此前空耗 bug）
+    - 每事件最多试 3 个候选词 × 3 源 = 9 次，避免单条拖垮配额
+    """
+    # 排序：有英文名的高命中率类别优先（游戏>动漫>音乐>其他）
+    PRIORITY = {"gaming": 0, "anime": 1, "music": 2}
+    events.sort(key=lambda e: (PRIORITY.get(e.get("cat",""), 99),
+                                bool(re.search(r"[A-Za-z]{3,}", e.get("titleOrig","")))))
     used = 0
     for e in events:
         if e.get("cover"):
             continue
+        tried = 0
         for q in extract_queries(e["titleOrig"]):
-            if e.get("cover") or used >= cap_total:
+            if e.get("cover") or used >= max_requests or tried >= 3:
                 break
+            tried += 1
             w = wiki_search_img(q); used += 1
             if w:
                 apply_img(e, w, "维基百科词条图", "wiki"); break
+            if used >= max_requests:
+                break
             c = commons_image(q); used += 1
             if c:
                 apply_img(e, c, "维基共享资源图", "commons"); break
-            if used < cap_total:
-                o = openverse_img(q); used += 1
-                if o:
-                    apply_img(e, o, "Openverse 共享图库", "openverse"); break
+            if used >= max_requests:
+                break
+            o = openverse_img(q); used += 1
+            if o:
+                apply_img(e, o, "Openverse 共享图库", "openverse"); break
     return events
 
 
