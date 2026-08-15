@@ -473,13 +473,48 @@ def aggregate(events):
     return result
 
 
+# ── 知名 IP / 游戏 / 艬人 精确短词表（高热度实体，直接用短词搜图避免长标题空耗）──
+KNOWN_IPS = [
+    # 游戏
+    ("Genshin Impact", "原神"), ("Genshin", "原神"),
+    ("Black Myth Wukong", "黑神话悟空"), ("Wukong", "黑神话"),
+    ("Honkai Star Rail", "崩坏星穹铁道"), ("Honkai", "崩坏"),
+    ("PUBG", "绝地求生"), ("Apex Legends", "Apex英雄"),
+    ("Dota 2", "Dota2"), ("Counter-Strike 2", "CS2"),
+    ("League of Legends", "英雄联盟"), ("Valorant", "瓦罗兰特"),
+    ("Minecraft", "我的世界"), ("Roblox", "Roblox"),
+    ("Grand Theft Auto V", "GTA5"), ("GTA V", "GTA5"),
+    ("EA Sports FC 26", "FIFA26"),
+    # 动漫
+    ("Jujutsu Kaisen", "咒术回战"), ("Demon Slayer", "鬼灭之刃"),
+    ("Attack on Titan", "进击的巨人"), ("One Piece", "海贼王"),
+    ("Naruto", "火影忍者"), ("Dragon Ball", "龙珠"),
+    ("Spy x Family", "间谍过家家"), ("Chainsaw Man", "电锯人"),
+    # K-Pop / 国际艺人
+    ("BLACKPINK", "BLACKPINK"), ("BTS", "BTS"),
+    ("NewJeans", "NewJeans"), ("IVE", "IVE"),
+    ("Taylor Swift", "泰勒斯威夫特"), ("Adele", "阿黛尔"),
+    # 泰国 BL / GMMTV
+    ("GMMTV", "GMMTV"), ("LINGORM", "LINGORM"),
+]
+
+def _ip_match(title):
+    """检查标题是否匹配知名 IP，返回 (精确搜图词, 中文名) 或 None。"""
+    t = title.lower()
+    for keyword, cn in KNOWN_IPS:
+        if keyword.lower() in t:
+            return keyword, cn
+    return None
+
+
 def enrich_images(events, max_requests=300):
-    """对无图事件按候选词依次尝试：维基搜索图 → Commons → Openverse 借图。
+    """对无图事件依次尝试：① 知名 IP 精确匹配 → ② 候选词链(维基→Commons→Openverse)。
 
     优化：
+    - 知名 IP 层优先（头部热点零延迟命中）
     - 高命中率类别（游戏/动漫/音乐）优先处理
-    - used 只在实际发起网络请求时计数（修复此前空耗 bug）
-    - 每事件最多试 3 个候选词 × 3 源 = 9 次，避免单条拖垮配额
+    - used 只在实际发起网络请求时计数
+    - 每事件最多试 3 个候选词 × 3 源 = 9 次
     """
     # 排序：有英文名的高命中率类别优先（游戏>动漫>音乐>其他）
     PRIORITY = {"gaming": 0, "anime": 1, "music": 2}
@@ -489,6 +524,22 @@ def enrich_images(events, max_requests=300):
     for e in events:
         if e.get("cover"):
             continue
+        # ── 第一层：知名 IP 精确匹配（头部热点直接命中）──
+        ip = _ip_match(e["titleOrig"]) or _ip_match(e.get("titleCn") or "")
+        if ip:
+            kw, cn_name = ip
+            w = wiki_search_img(kw); used += 1
+            if w:
+                apply_img(e, w, f"维基百科({cn_name})", "wiki"); continue
+            if used >= max_requests: continue
+            c = commons_image(kw); used += 1
+            if c:
+                apply_img(e, c, f"维基共享({cn_name})", "commons"); continue
+            if used >= max_requests: continue
+            o = openverse_img(kw); used += 1
+            if o:
+                apply_img(e, o, f"Openverse({cn_name})", "openverse"); continue
+        # ── 第二层：通用候选词链 ──
         tried = 0
         for q in extract_queries(e["titleOrig"]):
             if e.get("cover") or used >= max_requests or tried >= 3:
