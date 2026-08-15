@@ -3458,18 +3458,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=LINGORM%20ILF%20EP9"
  },
  {
-  "id": "rt-01b04504f9a1",
-  "titleCn": "PERMPOON 三岁了",
-  "titleOrig": "PERMPOON TURNS THREE",
+  "id": "rt-cd7904932301",
+  "titleCn": "#kennampingFSinmacau",
+  "titleOrig": "#kengnampingFSinmacau",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sombat_Permpoon_Gallery.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 80,
   "buzzIndex": 92,
-  "summary": "泰国 Twitter/X 今日热搜：PERMPOON TURNS THREE",
+  "summary": "泰国 Twitter/X 今日热搜：#kengnampingFSinmacau",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3479,14 +3479,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=PERMPOON%20TURNS%20THREE"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
+    "url": "https://twitter.com/search?q=%23kengnampingFSinmacau"
    }
   ],
   "sourceBreadth": {
@@ -3505,18 +3498,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sombat_Permpoon_Gallery.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=PERMPOON%20TURNS%20THREE"
+  "primaryUrl": "https://twitter.com/search?q=%23kengnampingFSinmacau"
  },
  {
   "id": "rt-da0d5de4ac5e",
@@ -3580,18 +3567,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=TFO%20X%20NO%20ONE%20ELSE"
  },
  {
-  "id": "rt-a5ffaaa1ef21",
-  "titleCn": "#WEIRDO101系列EP1",
-  "titleOrig": "#WEIRDO101SeriesEP1",
+  "id": "rt-01b04504f9a1",
+  "titleCn": "PERMPOON 三岁了",
+  "titleOrig": "PERMPOON TURNS THREE",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/2174/2184458971_df11f5497b_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sombat_Permpoon_Gallery.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 86,
-  "summary": "泰国 Twitter/X 今日热搜：#WEIRDO101SeriesEP1",
+  "summary": "泰国 Twitter/X 今日热搜：PERMPOON TURNS THREE",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3601,7 +3588,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23WEIRDO101SeriesEP1"
+    "url": "https://twitter.com/search?q=PERMPOON%20TURNS%20THREE"
    },
    {
     "type": "openverse",
@@ -3631,28 +3618,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2174/2184458971_df11f5497b_b.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sombat_Permpoon_Gallery.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=%23WEIRDO101SeriesEP1"
+  "primaryUrl": "https://twitter.com/search?q=PERMPOON%20TURNS%20THREE"
  },
  {
-  "id": "rt-696a4a428762",
-  "titleCn": "#CharacterFestThailand2xGMMTV",
-  "titleOrig": "#CharacterFestThailand2xGMMTV",
+  "id": "rt-98cd975ca96a",
+  "titleCn": "#DuangGoRound音乐会",
+  "titleOrig": "#DuangGoRoundConcert",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/2289/2438792982_6e89624d17.jpg",
+  "cover": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 84,
-  "summary": "泰国 Twitter/X 今日热搜：#CharacterFestThailand2xGMMTV",
+  "summary": "泰国 Twitter/X 今日热搜：#DuangGoRoundConcert",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3662,7 +3649,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23CharacterFestThailand2xGMMTV"
+    "url": "https://twitter.com/search?q=%23DuangGoRoundConcert"
    },
    {
     "type": "openverse",
@@ -3692,14 +3679,75 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2289/2438792982_6e89624d17.jpg",
+    "url": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=%23CharacterFestThailand2xGMMTV"
+  "primaryUrl": "https://twitter.com/search?q=%23DuangGoRoundConcert"
+ },
+ {
+  "id": "rt-895d84358760",
+  "titleCn": "劳里尔 1S X TFO",
+  "titleOrig": "LAURIER 1S X TFO",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/65535/51937070062_b9f05dbda0_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 82,
+  "summary": "泰国 Twitter/X 今日热搜：LAURIER 1S X TFO",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=LAURIER%201S%20X%20TFO"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/65535/51937070062_b9f05dbda0_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://twitter.com/search?q=LAURIER%201S%20X%20TFO"
  },
  {
   "id": "rt-14776e622010",
@@ -3712,7 +3760,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3829/12800490244_2b92cc0889_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 82,
+  "buzzIndex": 80,
   "summary": "泰国 Twitter/X 今日热搜：SANTA LIP NUDE LIVE",
   "tags": [],
   "timeRel": "",
@@ -3769,11 +3817,11 @@ window.EVENTS_REALTIME = [
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
-  "stars": "🔥🔥",
+  "stars": "🔥",
   "cover": "https://live.staticflickr.com/4005/4182879425_8a1fcc97d2_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 80,
+  "buzzIndex": 78,
   "summary": "泰国 Twitter/X 今日热搜：PIL PRESS AND PRAY",
   "tags": [],
   "timeRel": "",
@@ -3834,7 +3882,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/2914/13992521580_11a4b755bd_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 78,
+  "buzzIndex": 76,
   "summary": "泰国 Twitter/X 今日热搜：BE MY PLAYER TWO EP5",
   "tags": [],
   "timeRel": "",
@@ -3885,79 +3933,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=BE%20MY%20PLAYER%20TWO%20EP5"
  },
  {
-  "id": "rt-895d84358760",
-  "titleCn": "劳里尔 1S X TFO",
-  "titleOrig": "LAURIER 1S X TFO",
+  "id": "rt-089b333acf0c",
+  "titleCn": "庞德普温可乐零",
+  "titleOrig": "PONDPHUWIN COKE ZERO",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/65535/51937070062_b9f05dbda0_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 76,
-  "summary": "泰国 Twitter/X 今日热搜：LAURIER 1S X TFO",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=LAURIER%201S%20X%20TFO"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/65535/51937070062_b9f05dbda0_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=LAURIER%201S%20X%20TFO"
- },
- {
-  "id": "rt-c1bfa301d588",
-  "titleCn": "与夏洛特一起15",
-  "titleOrig": "HERE WITH CHARLOTTE15",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
+  "cover": "https://live.staticflickr.com/6071/6112450920_2eba00807e_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 74,
-  "summary": "泰国 Twitter/X 今日热搜：HERE WITH CHARLOTTE15",
+  "summary": "泰国 Twitter/X 今日热搜：PONDPHUWIN COKE ZERO",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3967,7 +3954,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE15"
+    "url": "https://twitter.com/search?q=PONDPHUWIN%20COKE%20ZERO"
    },
    {
     "type": "openverse",
@@ -3997,28 +3984,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
+    "url": "https://live.staticflickr.com/6071/6112450920_2eba00807e_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE15"
+  "primaryUrl": "https://twitter.com/search?q=PONDPHUWIN%20COKE%20ZERO"
  },
  {
-  "id": "rt-9f8021d95155",
-  "titleCn": "ORM SWU 传统时尚",
-  "titleOrig": "ORM SWU LEGACY FASHION",
+  "id": "rt-e3507d41fdbb",
+  "titleCn": "DUANG GO 轮第 1 天",
+  "titleOrig": "DUANG GO ROUND DAY1",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/146/382637881_0902bd880f_b.jpg",
+  "cover": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 72,
-  "summary": "泰国 Twitter/X 今日热搜：ORM SWU LEGACY FASHION",
+  "summary": "泰国 Twitter/X 今日热搜：DUANG GO ROUND DAY1",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4028,7 +4015,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=ORM%20SWU%20LEGACY%20FASHION"
+    "url": "https://twitter.com/search?q=DUANG%20GO%20ROUND%20DAY1"
    },
    {
     "type": "openverse",
@@ -4058,75 +4045,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/146/382637881_0902bd880f_b.jpg",
+    "url": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=ORM%20SWU%20LEGACY%20FASHION"
- },
- {
-  "id": "rt-913e3150ecda",
-  "titleCn": "ENGFA 我们的心15",
-  "titleOrig": "ENGFA OUR HEART15",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Engfa_Waraha.png",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 70,
-  "summary": "泰国 Twitter/X 今日热搜：ENGFA OUR HEART15",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=ENGFA%20OUR%20HEART15"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Engfa_Waraha.png",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=ENGFA%20OUR%20HEART15"
+  "primaryUrl": "https://twitter.com/search?q=DUANG%20GO%20ROUND%20DAY1"
  },
  {
   "id": "rt-45f76b973220",
@@ -4139,7 +4065,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/7300/9069119622_3f79d2b701_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 68,
+  "buzzIndex": 70,
   "summary": "泰国 Twitter/X 今日热搜：HUG TTP GO ROUND",
   "tags": [],
   "timeRel": "",
@@ -4190,18 +4116,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=HUG%20TTP%20GO%20ROUND"
  },
  {
-  "id": "rt-e01ea75ae990",
-  "titleCn": "JJJFAM X 角色节TH",
-  "titleOrig": "JJJFAM X CharacterFestTH",
+  "id": "rt-c1bfa301d588",
+  "titleCn": "与夏洛特一起15",
+  "titleOrig": "HERE WITH CHARLOTTE15",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
+  "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 66,
-  "summary": "泰国 Twitter/X 今日热搜：JJJFAM X CharacterFestTH",
+  "buzzIndex": 68,
+  "summary": "泰国 Twitter/X 今日热搜：HERE WITH CHARLOTTE15",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4211,7 +4137,14 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=JJJFAM%20X%20CharacterFestTH"
+    "url": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE15"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -4230,12 +4163,18 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=JJJFAM%20X%20CharacterFestTH"
+  "primaryUrl": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE15"
  },
  {
   "id": "rt-fe1362816092",
@@ -4248,7 +4187,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/1362/660157234_821ce6a34d_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 64,
+  "buzzIndex": 66,
   "summary": "泰国 Twitter/X 今日热搜：NUDE WITH JIMMYSEA",
   "tags": [],
   "timeRel": "",
@@ -4299,18 +4238,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=NUDE%20WITH%20JIMMYSEA"
  },
  {
-  "id": "rt-2b0d9adacc27",
-  "titleCn": "DUANG 和 IMPACT 很快",
-  "titleOrig": "DUANG AT IMPACT SOON",
+  "id": "rt-e01ea75ae990",
+  "titleCn": "JJJFAM X 角色节TH",
+  "titleOrig": "JJJFAM X CharacterFestTH",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 62,
-  "summary": "泰国 Twitter/X 今日热搜：DUANG AT IMPACT SOON",
+  "buzzIndex": 64,
+  "summary": "泰国 Twitter/X 今日热搜：JJJFAM X CharacterFestTH",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4320,14 +4259,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=DUANG%20AT%20IMPACT%20SOON"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
+    "url": "https://twitter.com/search?q=JJJFAM%20X%20CharacterFestTH"
    }
   ],
   "sourceBreadth": {
@@ -4346,79 +4278,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=DUANG%20AT%20IMPACT%20SOON"
- },
- {
-  "id": "rt-c0fa6a34d453",
-  "titleCn": "DBTE 规则 EP8",
-  "titleOrig": "DBTE RULES EP8",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/4556/38002483115_50b06c08bf_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 60,
-  "summary": "泰国 Twitter/X 今日热搜：DBTE RULES EP8",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=DBTE%20RULES%20EP8"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/4556/38002483115_50b06c08bf_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=DBTE%20RULES%20EP8"
+  "primaryUrl": "https://twitter.com/search?q=JJJFAM%20X%20CharacterFestTH"
  },
  {
   "id": "rt-25cae24383d2",
@@ -4431,7 +4296,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3165/2830853287_1b00eb2736_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 58,
+  "buzzIndex": 62,
   "summary": "泰国 Twitter/X 今日热搜：YOU MANIAC TRAILER",
   "tags": [],
   "timeRel": "",
@@ -4482,6 +4347,250 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=YOU%20MANIAC%20TRAILER"
  },
  {
+  "id": "rt-9f8021d95155",
+  "titleCn": "ORM SWU 传统时尚",
+  "titleOrig": "ORM SWU LEGACY FASHION",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/146/382637881_0902bd880f_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 60,
+  "summary": "泰国 Twitter/X 今日热搜：ORM SWU LEGACY FASHION",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=ORM%20SWU%20LEGACY%20FASHION"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/146/382637881_0902bd880f_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://twitter.com/search?q=ORM%20SWU%20LEGACY%20FASHION"
+ },
+ {
+  "id": "rt-2b0d9adacc27",
+  "titleCn": "DUANG 和 IMPACT 很快",
+  "titleOrig": "DUANG AT IMPACT SOON",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 58,
+  "summary": "泰国 Twitter/X 今日热搜：DUANG AT IMPACT SOON",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=DUANG%20AT%20IMPACT%20SOON"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://twitter.com/search?q=DUANG%20AT%20IMPACT%20SOON"
+ },
+ {
+  "id": "rt-913e3150ecda",
+  "titleCn": "ENGFA 我们的心15",
+  "titleOrig": "ENGFA OUR HEART15",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Engfa_Waraha.png",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 56,
+  "summary": "泰国 Twitter/X 今日热搜：ENGFA OUR HEART15",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=ENGFA%20OUR%20HEART15"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Engfa_Waraha.png",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://twitter.com/search?q=ENGFA%20OUR%20HEART15"
+ },
+ {
+  "id": "rt-c0fa6a34d453",
+  "titleCn": "DBTE 规则 EP8",
+  "titleOrig": "DBTE RULES EP8",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/4556/38002483115_50b06c08bf_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 54,
+  "summary": "泰国 Twitter/X 今日热搜：DBTE RULES EP8",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=DBTE%20RULES%20EP8"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/4556/38002483115_50b06c08bf_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://twitter.com/search?q=DBTE%20RULES%20EP8"
+ },
+ {
   "id": "rt-2c783a32ea40",
   "titleCn": "MARKJRTN X 羽绒上衣",
   "titleOrig": "MARKJRTN X DOWNY TOPS",
@@ -4492,7 +4601,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 56,
+  "buzzIndex": 52,
   "summary": "泰国 Twitter/X 今日热搜：MARKJRTN X DOWNY TOPS",
   "tags": [],
   "timeRel": "",
@@ -4540,7 +4649,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/2797/5782063210_608e9b48e2.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 50,
   "summary": "泰国 Twitter/X 今日热搜：RISER CLARIFY ABOUT IRENE SONG",
   "tags": [],
   "timeRel": "",
@@ -4591,18 +4700,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=RISER%20CLARIFY%20ABOUT%20IRENE%20SONG"
  },
  {
-  "id": "rt-823cc067a2e8",
-  "titleCn": "DBTE 筛选 EP8",
-  "titleOrig": "DBTE SCREENING EP8",
+  "id": "rt-a5ffaaa1ef21",
+  "titleCn": "#WEIRDO101系列EP1",
+  "titleOrig": "#WEIRDO101SeriesEP1",
   "catCn": "平台热搜",
   "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/4556/38002483115_50b06c08bf_b.jpg",
+  "country": "马来西亚",
+  "stars": "🔥🔥🔥",
+  "cover": "https://live.staticflickr.com/2174/2184458971_df11f5497b_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 52,
-  "summary": "泰国 Twitter/X 今日热搜：DBTE SCREENING EP8",
+  "buzzIndex": 94,
+  "summary": "马来西亚 Twitter/X 今日热搜：#WEIRDO101SeriesEP1",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4610,14 +4719,14 @@ window.EVENTS_REALTIME = [
    {
     "type": "trends24",
     "name": "Twitter/X 热搜榜",
-    "region": "泰国",
+    "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=DBTE%20SCREENING%20EP8"
+    "url": "https://twitter.com/search?q=%23WEIRDO101SeriesEP1"
    },
    {
     "type": "openverse",
     "name": "Openverse 共享图库",
-    "region": "泰国",
+    "region": "马来西亚",
     "credibility": 82,
     "url": ""
    }
@@ -4642,75 +4751,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/4556/38002483115_50b06c08bf_b.jpg",
+    "url": "https://live.staticflickr.com/2174/2184458971_df11f5497b_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=DBTE%20SCREENING%20EP8"
- },
- {
-  "id": "rt-3c33aac05520",
-  "titleCn": "哦，我的第四次新闻发布会",
-  "titleOrig": "OH MY FOURTH PRESS TOUR",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/6054/5902214763_a38bb7dde1_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 50,
-  "summary": "泰国 Twitter/X 今日热搜：OH MY FOURTH PRESS TOUR",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=OH%20MY%20FOURTH%20PRESS%20TOUR"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/6054/5902214763_a38bb7dde1_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=OH%20MY%20FOURTH%20PRESS%20TOUR"
+  "primaryUrl": "https://twitter.com/search?q=%23WEIRDO101SeriesEP1"
  },
  {
   "id": "rt-66b1e19dfd84",
@@ -4772,6 +4820,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-15",
   "primaryUrl": "https://twitter.com/search?q=%23YouManiacSeries"
+ },
+ {
+  "id": "rt-696a4a428762",
+  "titleCn": "#CharacterFestThailand2xGMMTV",
+  "titleOrig": "#CharacterFestThailand2xGMMTV",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/2289/2438792982_6e89624d17.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 90,
+  "summary": "马来西亚 Twitter/X 今日热搜：#CharacterFestThailand2xGMMTV",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=%23CharacterFestThailand2xGMMTV"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/2289/2438792982_6e89624d17.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://twitter.com/search?q=%23CharacterFestThailand2xGMMTV"
  },
  {
   "id": "rt-b083f230a3ba",
@@ -4845,7 +4954,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/6185/6085357265_1f9f558fb9_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 84,
+  "buzzIndex": 86,
   "summary": "马来西亚 Twitter/X 今日热搜：Irene",
   "tags": [],
   "timeRel": "",
@@ -4957,78 +5066,17 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=18%20YEARS%20OF%20RORANDERFUL"
  },
  {
-  "id": "rt-435f917a6fe4",
-  "titleCn": "拉斐尔",
-  "titleOrig": "Rafayel",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/4068/4457920110_abf8608294_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 80,
-  "summary": "马来西亚 Twitter/X 今日热搜：Rafayel",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Rafayel"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/4068/4457920110_abf8608294_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=Rafayel"
- },
- {
   "id": "rt-28694cd4674a",
   "titleCn": "韩国KCON",
   "titleOrig": "KCON",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
-  "stars": "🔥",
+  "stars": "🔥🔥",
   "cover": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lee_Min-ho_-_KCON_2016_%28cropped%29.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 78,
+  "buzzIndex": 80,
   "summary": "马来西亚 Twitter/X 今日热搜：KCON",
   "tags": [],
   "timeRel": "",
@@ -5079,6 +5127,128 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=KCON"
  },
  {
+  "id": "rt-b200573360b9",
+  "titleCn": "泰容",
+  "titleOrig": "taeyong",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/1/13/20231006_Taeyong_%28NCT%29.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 78,
+  "summary": "马来西亚 Twitter/X 今日热搜：taeyong",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=taeyong"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/20231006_Taeyong_%28NCT%29.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://twitter.com/search?q=taeyong"
+ },
+ {
+  "id": "rt-435f917a6fe4",
+  "titleCn": "拉斐尔",
+  "titleOrig": "Rafayel",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/4068/4457920110_abf8608294_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "summary": "马来西亚 Twitter/X 今日热搜：Rafayel",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Rafayel"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/4068/4457920110_abf8608294_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://twitter.com/search?q=Rafayel"
+ },
+ {
   "id": "rt-6fa16f1d4db4",
   "titleCn": "不",
   "titleOrig": "Neen",
@@ -5089,7 +5259,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/0/04/Neen_Sollars_-_geograph.org.uk_-_53107.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 76,
+  "buzzIndex": 74,
   "summary": "马来西亚 Twitter/X 今日热搜：Neen",
   "tags": [],
   "timeRel": "",
@@ -5150,7 +5320,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3667/12158553094_0a73684e96_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 74,
+  "buzzIndex": 72,
   "summary": "马来西亚 Twitter/X 今日热搜：Runch",
   "tags": [],
   "timeRel": "",
@@ -5201,9 +5371,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Runch"
  },
  {
-  "id": "rt-b61cfd298883",
-  "titleCn": "和夏洛特14在一起",
-  "titleOrig": "here with charlotte14",
+  "id": "rt-9c664b50a2d8",
+  "titleCn": "与夏洛特一起14",
+  "titleOrig": "HERE WITH CHARLOTTE14",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
@@ -5211,8 +5381,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 72,
-  "summary": "马来西亚 Twitter/X 今日热搜：here with charlotte14",
+  "buzzIndex": 70,
+  "summary": "马来西亚 Twitter/X 今日热搜：HERE WITH CHARLOTTE14",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5222,7 +5392,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=here%20with%20charlotte14"
+    "url": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE14"
    },
    {
     "type": "openverse",
@@ -5259,7 +5429,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=here%20with%20charlotte14"
+  "primaryUrl": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE14"
  },
  {
   "id": "rt-969987725e96",
@@ -5272,7 +5442,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/8254/8651645445_c5c61b7545_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 70,
+  "buzzIndex": 68,
   "summary": "马来西亚 Twitter/X 今日热搜：Dean",
   "tags": [],
   "timeRel": "",
@@ -5330,10 +5500,10 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3590/3392121459_4c48bc7356_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Delicious_fresh_strawberries_%284735910403%29.jpg/960px-Delicious_fresh_strawberries_%284735910403%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 66,
+  "buzzIndex": 64,
   "summary": "马来西亚 Twitter/X 今日热搜：EMIBONNIE RED KISS PRESS TOUR",
   "tags": [],
   "timeRel": "",
@@ -5347,8 +5517,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=EMIBONNIE%20RED%20KISS%20PRESS%20TOUR"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5370,18 +5540,79 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/3590/3392121459_4c48bc7356_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Delicious_fresh_strawberries_%284735910403%29.jpg/960px-Delicious_fresh_strawberries_%284735910403%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-15",
   "primaryUrl": "https://twitter.com/search?q=EMIBONNIE%20RED%20KISS%20PRESS%20TOUR"
+ },
+ {
+  "id": "rt-8546c1dea719",
+  "titleCn": "雪邦",
+  "titleOrig": "Sepang",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sepang.svg/960px-Sepang.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 60,
+  "summary": "马来西亚 Twitter/X 今日热搜：Sepang",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Sepang"
+   },
+   {
+    "type": "wiki",
+    "name": "维基百科词条图",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "维基百科词条图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sepang.svg/960px-Sepang.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://twitter.com/search?q=Sepang"
  },
  {
   "id": "rt-f030cfc76848",
@@ -5394,7 +5625,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/5460/7082350521_a6bcb554a3_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 62,
+  "buzzIndex": 58,
   "summary": "马来西亚 Twitter/X 今日热搜：chris brown",
   "tags": [],
   "timeRel": "",
@@ -5445,67 +5676,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=chris%20brown"
  },
  {
-  "id": "rt-8546c1dea719",
-  "titleCn": "雪邦",
-  "titleOrig": "Sepang",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sepang.svg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 60,
-  "summary": "马来西亚 Twitter/X 今日热搜：Sepang",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Sepang"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sepang.svg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://twitter.com/search?q=Sepang"
- },
- {
   "id": "rt-a60d9baf2ea6",
   "titleCn": "JYPE",
   "titleOrig": "JYPE",
@@ -5513,10 +5683,10 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/8/84/Got7_cheering_video_for_JYPE_16th_audition_01.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/191216_Stray_Kids_for_JYP_Entertainment_Audition_%281%29.png/960px-191216_Stray_Kids_for_JYP_Entertainment_Audition_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 58,
+  "buzzIndex": 54,
   "summary": "马来西亚 Twitter/X 今日热搜：JYPE",
   "tags": [],
   "timeRel": "",
@@ -5530,8 +5700,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=JYPE"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "commons",
+    "name": "维基共享资源图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5553,12 +5723,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基共享资源图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Got7_cheering_video_for_JYPE_16th_audition_01.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/191216_Stray_Kids_for_JYP_Entertainment_Audition_%281%29.png/960px-191216_Stray_Kids_for_JYP_Entertainment_Audition_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "维基共享资源图",
     "caption": ""
    }
   ],
@@ -5577,7 +5747,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 52,
   "summary": "马来西亚 Twitter/X 今日热搜：cl at afair market",
   "tags": [],
   "timeRel": "",
@@ -5613,6 +5783,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-15",
   "primaryUrl": "https://twitter.com/search?q=cl%20at%20afair%20market"
+ },
+ {
+  "id": "rt-823cc067a2e8",
+  "titleCn": "DBTE 筛选 EP8",
+  "titleOrig": "DBTE SCREENING EP8",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 50,
+  "summary": "马来西亚 Twitter/X 今日热搜：DBTE SCREENING EP8",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=DBTE%20SCREENING%20EP8"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://twitter.com/search?q=DBTE%20SCREENING%20EP8"
  },
  {
   "id": "rt-5d5ea7a1c9cf",
@@ -6743,9 +6961,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qcUVfZ1RpWUlETnNtbWlqblY4Y2lLaDhKNEdxbkQzUy1KUDVhMXk5a1pLUmR1MUdfNi04U1FzT2NqaVFJODNSZVhrdlZwS0xZaDRaR1JOSQ?oc=5"
  },
  {
-  "id": "rt-79c263b8c564",
-  "titleCn": "[Fancam] 14/08/2026 Remember Forgot (Flashback) - Keen Suvijak (#WEIRDO101SeriesEP1) - t.co",
-  "titleOrig": "[Fancam] 14/08/2026 จำได้ว่าลืม (Flashback) - Keen Suvijak (#WEIRDO101SeriesEP1) - t.co",
+  "id": "rt-444eb9e4b393",
+  "titleCn": "📣 热剧总结！ “卡卡黑手党”横行，侮辱7-11员工 自称中国经销商 网友深挖！不知道这是否就是当年在电影院门前扇粉丝耳光的一伙人？ 👇 🔵 华人零售商“猪魔王”最新英雄行径，对7-11员工横行霸道◼️ 这起事件新鲜发生在乐溪区7-11分店，当时 - facebook.com",
+  "titleOrig": "📣 สรุปดราม่าเดือด! \"มาเฟียกดบัตร\" อาละวาดด่ากราดพนักงานเซเว่น อ้างเป็นรีเซลจีน ชาวเน็ตขุดยับ! สงสัยใช่คนเดียวกับแก๊งที่เคยตบแฟนคลับหน้าโรงหนังไหม? 👇 🔵 วีรกรรมล่าสุดสุดกร่าง \"ปีศาจหมู\" รีเซลจีน อาละวาดพนักงาน 7-11 ◼️ เหตุการณ์นี้เกิดขึ้นสดๆ ร้อนๆ ที่ 7-11 สาขาเขตหลักสี่ เมื่อ - facebook.com",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "泰国",
@@ -6754,7 +6972,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国新闻：[Fancam] 14/08/2026 จำได้ว่าลืม (Flashback) - Keen Suvijak (#WEIRDO101SeriesEP1) - t.co",
+  "summary": "泰国新闻：📣 สรุปดราม่าเดือด! \"มาเฟียกดบัตร\" อาละวาดด่ากราดพนักงานเซเว่น อ้างเป็นรีเซลจีน ชาวเน็ตขุดยับ! สงสัยใช่คนเดียวกับแก๊งที่เคยตบแฟนคลับหน้าโรงหนังไหม? 👇 🔵 วีรกรรมล่าสุดสุดกร่าง \"ปีศาจหมู\" รีเซลจีน อาละวาดพนักงาน 7-11 ◼️ เหตุการณ์นี้เกิดขึ้นสดๆ ร้อนๆ ที่ 7-11 สาขาเขตหลักสี่ เมื่อ - facebook.com",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6764,7 +6982,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9ZckRWNmdNRlU4bWRIX3ZweGlBUExfOTdxaEdfMWZ1azVQVlppWmEtRnJhYzVZUVN6bFJv?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxPMDl6S1owWWhIM3lxSEJmOTNDMTBORlh1ZHByVmdlblg4STkweFZTTW5FVFZCSEhseF9ucUY2SDNDRGVwamdHUVdJSGNId1RTVlByQ3Exc0FCbWhKZnFUejl6SEVIb2p3WjBhbUFSWlJjSEl2VTRxUjlqbjhRUnBLdmdQUXB4NEl4VmJ1SVBZV3pwUHV4LVltSTZObG9DTnZiRjdVYWlyT2l0cmRpQWUxdVNodFJ4QVhqbF9VdmVzYm95T3ZXS0NHZHVWTXJfaXBjR3FBSzB6SFktTFhxSng1UHBaQ2h4MnFVTlQzajNveHc2SDl5MFlGRG1JRWd5ZV9MLXJFYlc3ZWlHVG9qNGRCY2ZIb1FFU0ZiYXp0cmJNbEU4NzFzYTlCUDlod21SbmpRVUdnU05zMWJ4LXhwN1Z2NHVlZDJTVFZvWjgyRFZGV2tCbFFSTU40azFOQkJLaE5uemx6NGJSV1A3TE81MTNfdkpSMlE0bXJvOWU5b25ITWUzQmxtYUF3bVlKLVBlcjkzcHJURE1lRTBFTzcycDZGZEhwOThCUndTSTlJOG1NaHFLOTNkNlgweXlING8tOFFtYWJxZnl4NXB5UjVCUHViUkVuOEdFSm5HTzQ0WDlqMUotb0pvSDNvRVB5dDZSeXlXU0x3T3E1QW1sck9HdTlKbmVYUnhOeTBNa1RKUDBFcE9RakZVZjJlYm8xZ3FsZ1Y3SnJmN19PNVU5OE91T0xSSFV4dFJpbVJ3UjNDSU1rNVZJeEhWaExkeVd4dDRTSUJwODJLak9wTU1MclE2S3gybk5DTU1xQ0VfRkUweDI2blZhTjF5czdyMU02MjEwVVJMdDdKWlgxQ0NLSzNMUGlkR2hMYlBWWHN1U0JzdmxvLVpUX193TW4zVk5HVGNyY1hJWGZCbS1lektQX2tSeUZIWWZjOE5YU2VvekVnemU3UTIxQkx5VmRGMjNITXZVTk9DZDhwMGpjbmN3S3M1cUUyelB6Z2pEUEVoT21ENGcyNkZaaGtFV2lmLThWRmVXdkRoSEJUbVN3VXJqd0RLRmlqZDVRNEltUDhVNS10U3U0QTliLUxfYjJlVEtmTVFQWGtXbGdXc3RvNXdxaXN2dGhhc25Cd0dMRVUzdlFaZE5takRxVDJjQVBwcXZqSjYzeEcxOU1HU1VzRXNjSENYSmdiTy1Sc3FicURxT0d6SlNzUlQzRU1OOGNjd1RlX3QyeVNvaWtWM1F0Zi1ENmVWMDBSUFJqNFVOSHVpaHpZaU51TnFiRGxhY1h1cUoxWWtYUEFVcml0d08yMmNNekhFY1A3RnpvTlZfRE1VX1NLblpIWjVIdU83enc?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -6788,55 +7006,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9ZckRWNmdNRlU4bWRIX3ZweGlBUExfOTdxaEdfMWZ1azVQVlppWmEtRnJhYzVZUVN6bFJv?oc=5"
- },
- {
-  "id": "rt-0d3a96e8fe83",
-  "titleCn": "总而言之，谁是麻烦制造者？ #CharacterFestThailand2xGMMTV #POLCASAN #JUMMO #TOMAFOX - t.co",
-  "titleOrig": "สรุปใครเป็นตัวแสบ #CharacterFestThailand2xGMMTV #POLCASAN #JUMMO #TOMAFOX - t.co",
-  "catCn": "新闻热点",
-  "cat": "news",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国新闻：สรุปใครเป็นตัวแสบ #CharacterFestThailand2xGMMTV #POLCASAN #JUMMO #TOMAFOX - t.co",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9CMmV6SWhOSExZRlNON3dyajQ0ZkZFTm1ZUmI0UzRuMUluZUk0Tl9tbEx6RDR1QXN5SzdF?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9CMmV6SWhOSExZRlNON3dyajQ0ZkZFTm1ZUmI0UzRuMUluZUk0Tl9tbEx6RDR1QXN5SzdF?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxPMDl6S1owWWhIM3lxSEJmOTNDMTBORlh1ZHByVmdlblg4STkweFZTTW5FVFZCSEhseF9ucUY2SDNDRGVwamdHUVdJSGNId1RTVlByQ3Exc0FCbWhKZnFUejl6SEVIb2p3WjBhbUFSWlJjSEl2VTRxUjlqbjhRUnBLdmdQUXB4NEl4VmJ1SVBZV3pwUHV4LVltSTZObG9DTnZiRjdVYWlyT2l0cmRpQWUxdVNodFJ4QVhqbF9VdmVzYm95T3ZXS0NHZHVWTXJfaXBjR3FBSzB6SFktTFhxSng1UHBaQ2h4MnFVTlQzajNveHc2SDl5MFlGRG1JRWd5ZV9MLXJFYlc3ZWlHVG9qNGRCY2ZIb1FFU0ZiYXp0cmJNbEU4NzFzYTlCUDlod21SbmpRVUdnU05zMWJ4LXhwN1Z2NHVlZDJTVFZvWjgyRFZGV2tCbFFSTU40azFOQkJLaE5uemx6NGJSV1A3TE81MTNfdkpSMlE0bXJvOWU5b25ITWUzQmxtYUF3bVlKLVBlcjkzcHJURE1lRTBFTzcycDZGZEhwOThCUndTSTlJOG1NaHFLOTNkNlgweXlING8tOFFtYWJxZnl4NXB5UjVCUHViUkVuOEdFSm5HTzQ0WDlqMUotb0pvSDNvRVB5dDZSeXlXU0x3T3E1QW1sck9HdTlKbmVYUnhOeTBNa1RKUDBFcE9RakZVZjJlYm8xZ3FsZ1Y3SnJmN19PNVU5OE91T0xSSFV4dFJpbVJ3UjNDSU1rNVZJeEhWaExkeVd4dDRTSUJwODJLak9wTU1MclE2S3gybk5DTU1xQ0VfRkUweDI2blZhTjF5czdyMU02MjEwVVJMdDdKWlgxQ0NLSzNMUGlkR2hMYlBWWHN1U0JzdmxvLVpUX193TW4zVk5HVGNyY1hJWGZCbS1lektQX2tSeUZIWWZjOE5YU2VvekVnemU3UTIxQkx5VmRGMjNITXZVTk9DZDhwMGpjbmN3S3M1cUUyelB6Z2pEUEVoT21ENGcyNkZaaGtFV2lmLThWRmVXdkRoSEJUbVN3VXJqd0RLRmlqZDVRNEltUDhVNS10U3U0QTliLUxfYjJlVEtmTVFQWGtXbGdXc3RvNXdxaXN2dGhhc25Cd0dMRVUzdlFaZE5takRxVDJjQVBwcXZqSjYzeEcxOU1HU1VzRXNjSENYSmdiTy1Sc3FicURxT0d6SlNzUlQzRU1OOGNjd1RlX3QyeVNvaWtWM1F0Zi1ENmVWMDBSUFJqNFVOSHVpaHpZaU51TnFiRGxhY1h1cUoxWWtYUEFVcml0d08yMmNNekhFY1A3RnpvTlZfRE1VX1NLblpIWjVIdU83enc?oc=5"
  },
  {
   "id": "rt-e3bee5428bfe",
@@ -6935,54 +7105,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1VGMW1JUERiaEhMbnI0UU1kWUxKWFpjeGhJaDBENXF6Y2I1MUxTcmVjVHRGc3NRTzBuX2NDR08zUkprNktDUk5venp2alRzWFpJTUgwczlsbVZQY0lld1gxb3E4WEZiakJPRG5SdlZUQ25DbTRlYkRxQmZCNjBaUjZJbUpzZjFGSk0xb3d0NXl2TTI5X0dfYmF6cjZyVXM5Sk9kWXg4Q245eUQzZWI0eGkyTjZPYkN6V2Nn?oc=5"
  },
  {
-  "id": "rt-1ae5658df971",
-  "titleCn": "PWD Sports Club 1 - 3 Mohammedan：比赛报告、统计数据、阵容和在线直播 - 365Scores",
-  "titleOrig": "PWD Sports Club 1 - 3 Mohammedan: Laporan perlawanan, statistik, barisan pemain &amp; H2H - 365Scores",
-  "catCn": "新闻热点",
-  "cat": "news",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "马来西亚新闻：PWD Sports Club 1 - 3 Mohammedan: Laporan perlawanan, statistik, barisan pemain &amp; H2H - 365Scores",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "马来西亚",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3Q0ODFsbnpYU1dTaXhHTzJhY0hESzdpRWY5UXJQaVBTV1lFZTZ6YzRmY2dXcGJadFQwempGRlBXNlFISEpzWlg2LTBHajJWOXE2OGZWa0p6MS1yZTVfUHlpT1M2ZmtCMzYyTWU5Z2tGODZrQ0d1Nk5yRzZxQ1hTVzNyeUVreU4yTVlvZkhR?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3Q0ODFsbnpYU1dTaXhHTzJhY0hESzdpRWY5UXJQaVBTV1lFZTZ6YzRmY2dXcGJadFQwempGRlBXNlFISEpzWlg2LTBHajJWOXE2OGZWa0p6MS1yZTVfUHlpT1M2ZmtCMzYyTWU5Z2tGODZrQ0d1Nk5yRzZxQ1hTVzNyeUVreU4yTVlvZkhR?oc=5"
- },
- {
   "id": "rt-1a4247c7a5a3",
   "titleCn": "Astro 庆祝成立 25 周年，为 Kpopers 带来 KCON：TACT 3 特别节目 - Gempak",
   "titleOrig": "Astro Raikan Ulang Tahun 25, Bawa KCON: TACT 3 Khas Buat Kpopers - Gempak",
@@ -7031,9 +7153,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEViWm5rMUhUTXE2TTVQRVpueGpqZDlWLXhDeFVwS1QtR0VpLS1ZX0xUMFpObW9rbkt3X2l1SEowY2haZmlQZEd4UGctZHRTWHZaaXNDaGFmNkF3Sy1nUWhDbVdiYWxCYzNKRklIZkVjWUdjNkRrQmFteFhoTFhIT2MwemZBT3R4RENJaTU3bkd4eUhZaTdMZkVpcW41aTgzdFE?oc=5"
  },
  {
-  "id": "rt-3bbc0fe76164",
-  "titleCn": "永远相爱的唐顿 - Netflix",
-  "titleOrig": "Tonton In Love Forever - Netflix",
+  "id": "rt-9547f93b6824",
+  "titleCn": "泰容服完兵役后首次个人巡回演唱会来到马来西亚，将与Pemin见面... - ohbulan.com",
+  "titleOrig": "Taeyong Bawa Konsert Jelajah Solo Pertama Ke Malaysia Selepas Tamat Khidmat Ketenteraan, Bakal Temui Pemin ... - ohbulan.com",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7042,7 +7164,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Tonton In Love Forever - Netflix",
+  "summary": "马来西亚新闻：Taeyong Bawa Konsert Jelajah Solo Pertama Ke Malaysia Selepas Tamat Khidmat Ketenteraan, Bakal Temui Pemin ... - ohbulan.com",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7052,7 +7174,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91MHd3d1VlTG00RHdlS0JDYnpBZGJFeFI4SGN0QjFDbzJocHFIb1RTRV9jVU1SU1ZKYzA5Z3owZjlHZ0t1bVJiaS1tdmRSendiaWhr?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDVoYUpaQ1lHWlJSN0xMRjlWNENCVTExZVBtLTZtcHBkV1NSdzk2X2xOVVUzbmFEazNiWl8zeGhfUlAzejlJWkE4d1JvMElmVGJNLUtmck5nYVlnSWtXVXhtMDJlUmV4MWtTTU9BbTNEQUtteWxEWGlvUFI2Uk10WW1qWTNJWVdtc2pYcy1qRXI2NXl6U1VjajduU0RwOElneVY4Uk1JV1RodFRzTlhFblYxZ1VJd2pFdC1HTEVVZ2hZTm5NTmJNcnpSUDRJZG5jNzZVSdIB3AFBVV95cUxPd1d1UVJsbWRUemlHMzhBRjZGc1JXcWRyMTR6VF9IUlRiOW5TZHVheENSUUVYT2JCZ0pYU0Zvam1SWlA4b1FIbVNyT3lZY28tUWc0UTFLSzhtM1JxMGN5QXgyQk0wZURneGlfZzcwZmNDMmVKcGFLand6LURNcWVUNGVrMnV2Mmw5UTB0N3hWU0NkcTZ2V3RIMElDMDljazZObnBOYmRiNFp0ZTJyOVNSRV9PcmpxclFKZEs5RWtQcnh1TUZxS3N6SXN1QnhyMzBuZ2NTZTVFX0ZJdDFn?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7076,8 +7198,56 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91MHd3d1VlTG00RHdlS0JDYnpBZGJFeFI4SGN0QjFDbzJocHFIb1RTRV9jVU1SU1ZKYzA5Z3owZjlHZ0t1bVJiaS1tdmRSendiaWhr?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDVoYUpaQ1lHWlJSN0xMRjlWNENCVTExZVBtLTZtcHBkV1NSdzk2X2xOVVUzbmFEazNiWl8zeGhfUlAzejlJWkE4d1JvMElmVGJNLUtmck5nYVlnSWtXVXhtMDJlUmV4MWtTTU9BbTNEQUtteWxEWGlvUFI2Uk10WW1qWTNJWVdtc2pYcy1qRXI2NXl6U1VjajduU0RwOElneVY4Uk1JV1RodFRzTlhFblYxZ1VJd2pFdC1HTEVVZ2hZTm5NTmJNcnpSUDRJZG5jNzZVSdIB3AFBVV95cUxPd1d1UVJsbWRUemlHMzhBRjZGc1JXcWRyMTR6VF9IUlRiOW5TZHVheENSUUVYT2JCZ0pYU0Zvam1SWlA4b1FIbVNyT3lZY28tUWc0UTFLSzhtM1JxMGN5QXgyQk0wZURneGlfZzcwZmNDMmVKcGFLand6LURNcWVUNGVrMnV2Mmw5UTB0N3hWU0NkcTZ2V3RIMElDMDljazZObnBOYmRiNFp0ZTJyOVNSRV9PcmpxclFKZEs5RWtQcnh1TUZxS3N6SXN1QnhyMzBuZ2NTZTVFX0ZJdDFn?oc=5"
+ },
+ {
+  "id": "rt-1ae5658df971",
+  "titleCn": "PWD Sports Club 1 - 3 Mohammedan：比赛报告、统计数据、阵容和在线直播 - 365Scores",
+  "titleOrig": "PWD Sports Club 1 - 3 Mohammedan: Laporan perlawanan, statistik, barisan pemain &amp; H2H - 365Scores",
+  "catCn": "新闻热点",
+  "cat": "news",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "马来西亚新闻：PWD Sports Club 1 - 3 Mohammedan: Laporan perlawanan, statistik, barisan pemain &amp; H2H - 365Scores",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3Q0ODFsbnpYU1dTaXhHTzJhY0hESzdpRWY5UXJQaVBTV1lFZTZ6YzRmY2dXcGJadFQwempGRlBXNlFISEpzWlg2LTBHajJWOXE2OGZWa0p6MS1yZTVfUHlpT1M2ZmtCMzYyTWU5Z2tGODZrQ0d1Nk5yRzZxQ1hTVzNyeUVreU4yTVlvZkhR?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-15",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3Q0ODFsbnpYU1dTaXhHTzJhY0hESzdpRWY5UXJQaVBTV1lFZTZ6YzRmY2dXcGJadFQwempGRlBXNlFISEpzWlg2LTBHajJWOXE2OGZWa0p6MS1yZTVfUHlpT1M2ZmtCMzYyTWU5Z2tGODZrQ0d1Nk5yRzZxQ1hTVzNyeUVreU4yTVlvZkhR?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-15T12:03:37";
+window.REALTIME_UPDATED = "2026-08-15T12:56:02";
 window.REALTIME_CARRIED = false;
