@@ -379,7 +379,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-44747273d187",
-  "titleCn": "地狱潜水员™2",
+  "titleCn": "地狱潜水员™ 2",
   "titleOrig": "HELLDIVERS™ 2",
   "catCn": "游戏热度",
   "cat": "gaming",
@@ -865,7 +865,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-773f1237882c",
-  "titleCn": "这就是我所要求的（永远永远）-双关语",
+  "titleCn": "这就是我想要的一切（永远永远）-PUN",
   "titleOrig": "ขอแค่นี้ (Forever n ever) - PUN",
   "catCn": "音乐榜单",
   "cat": "music",
@@ -973,7 +973,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-9226c778dbe2",
-  "titleCn": "爱让你知道（证明）- PUN",
+  "titleCn": "爱让你知道（证明）-PUN",
   "titleOrig": "รักให้เธอได้รู้ (Proof.) - PUN",
   "catCn": "音乐榜单",
   "cat": "music",
@@ -3472,7 +3472,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-e3507d41fdbb",
-  "titleCn": "DUANG GO 回合 第一天",
+  "titleCn": "DUANG GO 轮第 1 天",
   "titleOrig": "DUANG GO ROUND DAY1",
   "catCn": "平台热搜",
   "cat": "platform_search",
@@ -3844,7 +3844,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/6141/5928334765_67d2e5311d_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nex_Playground.jpg/960px-Nex_Playground.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 80,
@@ -3861,8 +3861,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=NEX%20x%20GELBOYS2"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -3884,12 +3884,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/6141/5928334765_67d2e5311d_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nex_Playground.jpg/960px-Nex_Playground.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -3905,7 +3905,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/4064/4400350981_aa28d5972f_m.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/b/be/%28Force%29_Jiratchapong_Srisang.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 78,
@@ -3922,6 +3922,250 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=PERTHSANTA%20LOVE%20CLASS"
    },
    {
+    "type": "wiki",
+    "name": "维基百科词条图",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "维基百科词条图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/%28Force%29_Jiratchapong_Srisang.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=PERTHSANTA%20LOVE%20CLASS"
+ },
+ {
+  "id": "rt-19a4ad6183f7",
+  "titleCn": "德克斯",
+  "titleOrig": "DEXX",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/6/62/DoMunDi_%28%E0%B8%94%E0%B8%B9%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B4%29_-_Thai_Talent_Agency_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "summary": "泰国 Twitter/X 今日热搜：DEXX",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=DEXX"
+   },
+   {
+    "type": "wiki",
+    "name": "维基百科词条图",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "维基百科词条图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/DoMunDi_%28%E0%B8%94%E0%B8%B9%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B4%29_-_Thai_Talent_Agency_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=DEXX"
+ },
+ {
+  "id": "rt-5561631084e1",
+  "titleCn": "EMIBONNIE X 阿尔法营",
+  "titleOrig": "EMIBONNIE X THE ALPHA CAMP",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/0/07/%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C_%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 74,
+  "summary": "泰国 Twitter/X 今日热搜：EMIBONNIE X THE ALPHA CAMP",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=EMIBONNIE%20X%20THE%20ALPHA%20CAMP"
+   },
+   {
+    "type": "wiki",
+    "name": "维基百科词条图",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "维基百科词条图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C_%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=EMIBONNIE%20X%20THE%20ALPHA%20CAMP"
+ },
+ {
+  "id": "rt-efbe10de2338",
+  "titleCn": "FK x GOHAIRLIVE",
+  "titleOrig": "FK x GOHAIRLIVE",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 72,
+  "summary": "泰国 Twitter/X 今日热搜：FK x GOHAIRLIVE",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=FK%20x%20GOHAIRLIVE"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse(IVE)",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse(IVE)",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+    "source": "Openverse(IVE)",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=FK%20x%20GOHAIRLIVE"
+ },
+ {
+  "id": "rt-f52b357aefb1",
+  "titleCn": "NANI 超越 GoHair",
+  "titleOrig": "NANI BEYOND WITH GOHAIR",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/4083/5093639901_fe504436cb_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 70,
+  "summary": "泰国 Twitter/X 今日热搜：NANI BEYOND WITH GOHAIR",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=NANI%20BEYOND%20WITH%20GOHAIR"
+   },
+   {
     "type": "openverse",
     "name": "Openverse 共享图库",
     "region": "泰国",
@@ -3949,184 +4193,75 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/4064/4400350981_aa28d5972f_m.jpg",
+    "url": "https://live.staticflickr.com/4083/5093639901_fe504436cb_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=PERTHSANTA%20LOVE%20CLASS"
- },
- {
-  "id": "rt-5561631084e1",
-  "titleCn": "EMIBONNIE X 阿尔法营",
-  "titleOrig": "EMIBONNIE X THE ALPHA CAMP",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 80,
-  "buzzIndex": 76,
-  "summary": "泰国 Twitter/X 今日热搜：EMIBONNIE X THE ALPHA CAMP",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=EMIBONNIE%20X%20THE%20ALPHA%20CAMP"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=EMIBONNIE%20X%20THE%20ALPHA%20CAMP"
- },
- {
-  "id": "rt-efbe10de2338",
-  "titleCn": "FK x GOHAIRLIVE",
-  "titleOrig": "FK x GOHAIRLIVE",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/IVE_%28%EC%95%84%EC%9D%B4%EB%B8%8C%29_performing_at_the_2023_World_Scout_Jamboree_K-POP_Super_Live_Concert.jpg/960px-IVE_%28%EC%95%84%EC%9D%B4%EB%B8%8C%29_performing_at_the_2023_World_Scout_Jamboree_K-POP_Super_Live_Concert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 74,
-  "summary": "泰国 Twitter/X 今日热搜：FK x GOHAIRLIVE",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=FK%20x%20GOHAIRLIVE"
-   },
-   {
-    "type": "commons",
-    "name": "维基共享(IVE)",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "维基共享(IVE)",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/IVE_%28%EC%95%84%EC%9D%B4%EB%B8%8C%29_performing_at_the_2023_World_Scout_Jamboree_K-POP_Super_Live_Concert.jpg/960px-IVE_%28%EC%95%84%EC%9D%B4%EB%B8%8C%29_performing_at_the_2023_World_Scout_Jamboree_K-POP_Super_Live_Concert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "维基共享(IVE)",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=FK%20x%20GOHAIRLIVE"
- },
- {
-  "id": "rt-f52b357aefb1",
-  "titleCn": "NANI 超越 GoHair",
-  "titleOrig": "NANI BEYOND WITH GOHAIR",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Nani_at_an_interview_for_film_companion_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 72,
-  "summary": "泰国 Twitter/X 今日热搜：NANI BEYOND WITH GOHAIR",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=NANI%20BEYOND%20WITH%20GOHAIR"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Nani_at_an_interview_for_film_companion_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
   "primaryUrl": "https://twitter.com/search?q=NANI%20BEYOND%20WITH%20GOHAIR"
+ },
+ {
+  "id": "rt-c921ba8d12e2",
+  "titleCn": "诺霍托旋转",
+  "titleOrig": "NORTHOTTO GO ROUND",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/313/19086486493_369b33e1ba_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 68,
+  "summary": "泰国 Twitter/X 今日热搜：NORTHOTTO GO ROUND",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=NORTHOTTO%20GO%20ROUND"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/313/19086486493_369b33e1ba_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=NORTHOTTO%20GO%20ROUND"
  },
  {
   "id": "rt-fd77a2601940",
@@ -4136,10 +4271,10 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Change_of_work_shift_at_Ford_Motor_Company.jpg/960px-Change_of_work_shift_at_Ford_Motor_Company.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://live.staticflickr.com/4061/4583067411_5fb341d776_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 70,
+  "buzzIndex": 66,
   "summary": "泰国 Twitter/X 今日热搜：THE RUNNING SHIFT",
   "tags": [],
   "timeRel": "",
@@ -4153,8 +4288,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=THE%20RUNNING%20SHIFT"
    },
    {
-    "type": "wiki",
-    "name": "维基百科词条图",
+    "type": "openverse",
+    "name": "Openverse 共享图库",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -4176,12 +4311,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "维基百科词条图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Change_of_work_shift_at_Ford_Motor_Company.jpg/960px-Change_of_work_shift_at_Ford_Motor_Company.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
+    "url": "https://live.staticflickr.com/4061/4583067411_5fb341d776_b.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
@@ -4197,10 +4332,10 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/YouTube_Theater_interior.jpg/960px-YouTube_Theater_interior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://live.staticflickr.com/3335/3534031338_0c5b1a56c5.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 68,
+  "buzzIndex": 64,
   "summary": "泰国 Twitter/X 今日热搜：UNLOCK BREEZE WITH GEMINI",
   "tags": [],
   "timeRel": "",
@@ -4214,8 +4349,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=UNLOCK%20BREEZE%20WITH%20GEMINI"
    },
    {
-    "type": "wiki",
-    "name": "维基百科词条图",
+    "type": "openverse",
+    "name": "Openverse 共享图库",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -4237,79 +4372,18 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "维基百科词条图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/YouTube_Theater_interior.jpg/960px-YouTube_Theater_interior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
+    "url": "https://live.staticflickr.com/3335/3534031338_0c5b1a56c5.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://twitter.com/search?q=UNLOCK%20BREEZE%20WITH%20GEMINI"
- },
- {
-  "id": "rt-01b04504f9a1",
-  "titleCn": "PERMPOON 三岁了",
-  "titleOrig": "PERMPOON TURNS THREE",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%E0%B8%8A%E0%B8%B1%E0%B8%A2_%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%9A_2011.jpg/960px-%E0%B8%8A%E0%B8%B1%E0%B8%A2_%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%9A_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 66,
-  "summary": "泰国 Twitter/X 今日热搜：PERMPOON TURNS THREE",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=PERMPOON%20TURNS%20THREE"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%E0%B8%8A%E0%B8%B1%E0%B8%A2_%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%9A_2011.jpg/960px-%E0%B8%8A%E0%B8%B1%E0%B8%A2_%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%9A_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=PERMPOON%20TURNS%20THREE"
  },
  {
   "id": "rt-1111e01b6c8f",
@@ -4322,7 +4396,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3805/9076823153_e33a70fa5d_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 64,
+  "buzzIndex": 62,
   "summary": "泰国 Twitter/X 今日热搜：DESTINY CLINIC YINWAR 08",
   "tags": [],
   "timeRel": "",
@@ -4371,67 +4445,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://twitter.com/search?q=DESTINY%20CLINIC%20YINWAR%2008"
- },
- {
-  "id": "rt-c1bfa301d588",
-  "titleCn": "与夏洛特一起15",
-  "titleOrig": "HERE WITH CHARLOTTE15",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 62,
-  "summary": "泰国 Twitter/X 今日热搜：HERE WITH CHARLOTTE15",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE15"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE15"
  },
  {
   "id": "rt-056ec0571afe",
@@ -4495,18 +4508,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=TPJS%20LIGHTS%20THE%20WAY%2015"
  },
  {
-  "id": "rt-c921ba8d12e2",
-  "titleCn": "诺霍托旋转",
-  "titleOrig": "NORTHOTTO GO ROUND",
+  "id": "rt-c1bfa301d588",
+  "titleCn": "与夏洛特一起15",
+  "titleOrig": "HERE WITH CHARLOTTE15",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/313/19086486493_369b33e1ba_b.jpg",
+  "cover": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 58,
-  "summary": "泰国 Twitter/X 今日热搜：NORTHOTTO GO ROUND",
+  "summary": "泰国 Twitter/X 今日热搜：HERE WITH CHARLOTTE15",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4516,7 +4529,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=NORTHOTTO%20GO%20ROUND"
+    "url": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE15"
    },
    {
     "type": "openverse",
@@ -4546,75 +4559,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/313/19086486493_369b33e1ba_b.jpg",
+    "url": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=NORTHOTTO%20GO%20ROUND"
- },
- {
-  "id": "rt-87eadd81f295",
-  "titleCn": "演示 BLINK 周围的情况",
-  "titleOrig": "TESHOWPING LOOKS AROUND BLINK",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3874/14637971075_823f809fe4_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 56,
-  "summary": "泰国 Twitter/X 今日热搜：TESHOWPING LOOKS AROUND BLINK",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=TESHOWPING%20LOOKS%20AROUND%20BLINK"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/3874/14637971075_823f809fe4_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=TESHOWPING%20LOOKS%20AROUND%20BLINK"
+  "primaryUrl": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE15"
  },
  {
   "id": "rt-227212f82ec7",
@@ -4627,7 +4579,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/18/92782973_c1e387ebb0_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 56,
   "summary": "泰国 Twitter/X 今日热搜：Healthy Hair Healthy Care",
   "tags": [],
   "timeRel": "",
@@ -4688,7 +4640,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/5092/5431313330_cc56685430_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 52,
+  "buzzIndex": 54,
   "summary": "泰国 Twitter/X 今日热搜：MUVMUV BOUNCE TO CROWD",
   "tags": [],
   "timeRel": "",
@@ -4737,6 +4689,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://twitter.com/search?q=MUVMUV%20BOUNCE%20TO%20CROWD"
+ },
+ {
+  "id": "rt-87eadd81f295",
+  "titleCn": "演示 BLINK 周围的情况",
+  "titleOrig": "TESHOWPING LOOKS AROUND BLINK",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/3874/14637971075_823f809fe4_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 52,
+  "summary": "泰国 Twitter/X 今日热搜：TESHOWPING LOOKS AROUND BLINK",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=TESHOWPING%20LOOKS%20AROUND%20BLINK"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3874/14637971075_823f809fe4_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=TESHOWPING%20LOOKS%20AROUND%20BLINK"
  },
  {
   "id": "rt-4536ec49527a",
@@ -5831,7 +5844,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/City_vs_United_FA_Cup_final_2023.jpg/960px-City_vs_United_FA_Cup_final_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 52,
@@ -5848,8 +5861,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Rashford"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5871,12 +5884,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/City_vs_United_FA_Cup_final_2023.jpg/960px-City_vs_United_FA_Cup_final_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5892,7 +5905,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/8117/8778333517_b70e7a5bd0_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Harry_Maguire_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 50,
@@ -5909,8 +5922,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Maguire"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5932,12 +5945,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/8117/8778333517_b70e7a5bd0_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Harry_Maguire_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5953,7 +5966,7 @@ window.EVENTS_REALTIME = [
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sousou_no_frieren.png",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cosplayer_of_Frieren_in_red_dress_at_ICOS04_%2820241019141052%29.jpg/960px-Cosplayer_of_Frieren_in_red_dress_at_ICOS04_%2820241019141052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 98,
@@ -5970,8 +5983,8 @@ window.EVENTS_REALTIME = [
     "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "commons",
+    "name": "维基共享资源图",
     "region": "多市场",
     "credibility": 82,
     "url": ""
@@ -5993,12 +6006,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基共享资源图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sousou_no_frieren.png",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cosplayer_of_Frieren_in_red_dress_at_ICOS04_%2820241019141052%29.jpg/960px-Cosplayer_of_Frieren_in_red_dress_at_ICOS04_%2820241019141052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "维基共享资源图",
     "caption": ""
    }
   ],
@@ -6014,7 +6027,7 @@ window.EVENTS_REALTIME = [
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/3212/3145780296_a6dd024eaa_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_logo.svg/960px-Re_Zero_kara_Hajimeru_Isekai_Seikatsu_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 96,
@@ -6031,8 +6044,8 @@ window.EVENTS_REALTIME = [
     "url": "https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "多市场",
     "credibility": 82,
     "url": ""
@@ -6054,12 +6067,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/3212/3145780296_a6dd024eaa_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_logo.svg/960px-Re_Zero_kara_Hajimeru_Isekai_Seikatsu_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -6075,7 +6088,7 @@ window.EVENTS_REALTIME = [
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/4106/4836636607_5bd619f8f8_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fullmetal_Alchemist_2003_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 94,
@@ -6092,8 +6105,8 @@ window.EVENTS_REALTIME = [
     "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "多市场",
     "credibility": 82,
     "url": ""
@@ -6115,12 +6128,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/4106/4836636607_5bd619f8f8_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fullmetal_Alchemist_2003_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -6130,13 +6143,13 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-81366fbfff9e",
-  "titleCn": "钢球跑酷：JoJo 的金曜的冒险",
+  "titleCn": "钢珠跑酷：JoJo 的金曜的冒险",
   "titleOrig": "Steel Ball Run: JoJo no Kimyou na Bouken",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/2007/2361569853_45e0b16aa7.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nintendo-Super-Famicom-Set-FL.png/960px-Nintendo-Super-Famicom-Set-FL.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 92,
@@ -6151,6 +6164,250 @@ window.EVENTS_REALTIME = [
     "region": "多市场",
     "credibility": 80,
     "url": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken"
+   },
+   {
+    "type": "wiki",
+    "name": "维基百科词条图",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "维基百科词条图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nintendo-Super-Famicom-Set-FL.png/960px-Nintendo-Super-Famicom-Set-FL.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken"
+ },
+ {
+  "id": "rt-1c08366d602b",
+  "titleCn": "命运石之门",
+  "titleOrig": "Steins;Gate",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sciadv_tp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 90,
+  "summary": "MyAnimeList 人气动漫第5：Steins;Gate",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
+    "region": "多市场",
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/9253/Steins_Gate"
+   },
+   {
+    "type": "wiki",
+    "name": "维基百科词条图",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "维基百科词条图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sciadv_tp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://myanimelist.net/anime/9253/Steins_Gate"
+ },
+ {
+  "id": "rt-5bcc47188bee",
+  "titleCn": "电锯男电影：Reze-hen",
+  "titleOrig": "Chainsaw Man Movie: Reze-hen",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Man_Woman_Chainsaw_%2854245769924%29.jpg/960px-Man_Woman_Chainsaw_%2854245769924%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 88,
+  "summary": "MyAnimeList 人气动漫第6：Chainsaw Man Movie: Reze-hen",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
+    "region": "多市场",
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/57555/Chainsaw_Man_Movie__Reze-hen"
+   },
+   {
+    "type": "wiki",
+    "name": "维基百科(电锯人)",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "维基百科(电锯人)",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Man_Woman_Chainsaw_%2854245769924%29.jpg/960px-Man_Woman_Chainsaw_%2854245769924%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科(电锯人)",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://myanimelist.net/anime/57555/Chainsaw_Man_Movie__Reze-hen"
+ },
+ {
+  "id": "rt-d5ad274b7de1",
+  "titleCn": "银魂：结局",
+  "titleOrig": "Gintama: The Final",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/2/23/GintamaAnimeLogo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 86,
+  "summary": "MyAnimeList 人气动漫第7：Gintama: The Final",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
+    "region": "多市场",
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/39486/Gintama__The_Final"
+   },
+   {
+    "type": "wiki",
+    "name": "维基百科词条图",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "维基百科词条图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/GintamaAnimeLogo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://myanimelist.net/anime/39486/Gintama__The_Final"
+ },
+ {
+  "id": "rt-790cc157fc62",
+  "titleCn": "银魂°",
+  "titleOrig": "Gintama°",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/4107/5175874884_e30f55e130_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 84,
+  "summary": "MyAnimeList 人气动漫第8：Gintama°",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
+    "region": "多市场",
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/28977/Gintama°"
    },
    {
     "type": "openverse",
@@ -6180,203 +6437,11 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2007/2361569853_45e0b16aa7.jpg",
+    "url": "https://live.staticflickr.com/4107/5175874884_e30f55e130_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken"
- },
- {
-  "id": "rt-1c08366d602b",
-  "titleCn": "命运石之门",
-  "titleOrig": "Steins;Gate",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 80,
-  "buzzIndex": 90,
-  "summary": "MyAnimeList 人气动漫第5：Steins;Gate",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "mal",
-    "name": "MyAnimeList 榜单",
-    "region": "多市场",
-    "credibility": 80,
-    "url": "https://myanimelist.net/anime/9253/Steins_Gate"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://myanimelist.net/anime/9253/Steins_Gate"
- },
- {
-  "id": "rt-5bcc47188bee",
-  "titleCn": "电锯男电影：Reze-hen",
-  "titleOrig": "Chainsaw Man Movie: Reze-hen",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 80,
-  "buzzIndex": 88,
-  "summary": "MyAnimeList 人气动漫第6：Chainsaw Man Movie: Reze-hen",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "mal",
-    "name": "MyAnimeList 榜单",
-    "region": "多市场",
-    "credibility": 80,
-    "url": "https://myanimelist.net/anime/57555/Chainsaw_Man_Movie__Reze-hen"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://myanimelist.net/anime/57555/Chainsaw_Man_Movie__Reze-hen"
- },
- {
-  "id": "rt-d5ad274b7de1",
-  "titleCn": "银魂：结局",
-  "titleOrig": "Gintama: The Final",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 80,
-  "buzzIndex": 86,
-  "summary": "MyAnimeList 人气动漫第7：Gintama: The Final",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "mal",
-    "name": "MyAnimeList 榜单",
-    "region": "多市场",
-    "credibility": 80,
-    "url": "https://myanimelist.net/anime/39486/Gintama__The_Final"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://myanimelist.net/anime/39486/Gintama__The_Final"
- },
- {
-  "id": "rt-790cc157fc62",
-  "titleCn": "银魂°",
-  "titleOrig": "Gintama°",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 80,
-  "buzzIndex": 84,
-  "summary": "MyAnimeList 人气动漫第8：Gintama°",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "mal",
-    "name": "MyAnimeList 榜单",
-    "region": "多市场",
-    "credibility": 80,
-    "url": "https://myanimelist.net/anime/28977/Gintama°"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://myanimelist.net/anime/28977/Gintama°"
@@ -6389,8 +6454,8 @@ window.EVENTS_REALTIME = [
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://live.staticflickr.com/3696/12979057283_b961f3a92f_b.jpg",
+  "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 82,
   "summary": "MyAnimeList 人气动漫第9：Shingeki no Kyojin Season 3 Part 2",
@@ -6404,6 +6469,13 @@ window.EVENTS_REALTIME = [
     "region": "多市场",
     "credibility": 80,
     "url": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -6422,9 +6494,15 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3696/12979057283_b961f3a92f_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2"
@@ -6437,8 +6515,8 @@ window.EVENTS_REALTIME = [
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://live.staticflickr.com/98/232626381_f15829527d_b.jpg",
+  "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 80,
   "summary": "MyAnimeList 人气动漫第10：Hunter x Hunter (2011)",
@@ -6452,6 +6530,13 @@ window.EVENTS_REALTIME = [
     "region": "多市场",
     "credibility": 80,
     "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -6470,9 +6555,15 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/98/232626381_f15829527d_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
@@ -6485,8 +6576,8 @@ window.EVENTS_REALTIME = [
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://live.staticflickr.com/33/59260443_52d9982b90_b.jpg",
+  "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 78,
   "summary": "MyAnimeList 人气动漫第11：Ginga Eiyuu Densetsu",
@@ -6500,6 +6591,13 @@ window.EVENTS_REALTIME = [
     "region": "多市场",
     "credibility": 80,
     "url": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -6518,9 +6616,15 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/33/59260443_52d9982b90_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu"
@@ -7054,9 +7158,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ud0xSTm10cFFCbERSOFVHV2NPZ0JmUVEyUUg1U2UyV000SFdEYWRCSU1YOWdwajJ1VXFmTFk4NW5RaWFxcmpKcWVtOGtfbEUt?oc=5"
  },
  {
-  "id": "rt-f48f3c2a78f7",
-  "titleCn": "你说什么 第 017 集：爱情语录之战！ 12 条可能有助于改善你的爱情生活的信息 - themomentum.co",
-  "titleOrig": "WHAT DO YOU SAY EP 017 : LOVE QUOTES BATTLE! 12 ข้อความที่อาจช่วยทำให้ชีวิตรักของคุณดีขึ้น - themomentum.co",
+  "id": "rt-225c5db623d5",
+  "titleCn": "你说什么 第 017 集：爱情语录之战！ 12 条可能有助于改善你的爱情生活的信息 - The Momentum",
+  "titleOrig": "WHAT DO YOU SAY EP 017 : LOVE QUOTES BATTLE! 12 ข้อความที่อาจช่วยทำให้ชีวิตรักของคุณดีขึ้น - The Momentum",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "泰国",
@@ -7065,7 +7169,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国新闻：WHAT DO YOU SAY EP 017 : LOVE QUOTES BATTLE! 12 ข้อความที่อาจช่วยทำให้ชีวิตรักของคุณดีขึ้น - themomentum.co",
+  "summary": "泰国新闻：WHAT DO YOU SAY EP 017 : LOVE QUOTES BATTLE! 12 ข้อความที่อาจช่วยทำให้ชีวิตรักของคุณดีขึ้น - The Momentum",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7198,8 +7302,56 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DQzRBRGVMWW5fd1dqbVFSTXlCZEc0cHNydmY3TmwxdFBSbVl2OHc4V2xfOVBUUjdwN2tnOHNMVXhxd2pjeGhDb2s1dEVmQ1ZIVEFtMHdXSjA2SFZwSFpKZXQ5UQ?oc=5"
  },
  {
+  "id": "rt-92333f84113e",
+  "titleCn": "闻起来好极了！ DMD MUSIC 新男团项目“DEXX”6 名成员帅气面孔曝光 - Mint Magazine Thai",
+  "titleOrig": "ได้กลิ่นความปัง! เปิดหน้าหล่อของ 6 เมมเบอร์บอยกรุ๊ปโปรเจกต์ใหม่ \"DEXX\" จากค่าย DMD MUSIC - Mint Magazine Thailand",
+  "catCn": "新闻热点",
+  "cat": "news",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国新闻：ได้กลิ่นความปัง! เปิดหน้าหล่อของ 6 เมมเบอร์บอยกรุ๊ปโปรเจกต์ใหม่ \"DEXX\" จากค่าย DMD MUSIC - Mint Magazine Thailand",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xZndxQmdyNHN0RkhmQXpQM2hFdk0ybHY5N2ZEcDZNVnhua2ZDdkpwMDJjN19RWGEwMFAyNWtwcDJGcF9Oa3VIVVBrLVRaNFE?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xZndxQmdyNHN0RkhmQXpQM2hFdk0ybHY5N2ZEcDZNVnhua2ZDdkpwMDJjN19RWGEwMFAyNWtwcDJGcF9Oa3VIVVBrLVRaNFE?oc=5"
+ },
+ {
   "id": "rt-348b5d847925",
-  "titleCn": "第40届歌曲冠军奖（AJL40）即将通过一场更盛大、更负盛名的活动创造新的历史。迈入 40 周年之际，这一标志性奖项的主题是“庆祝 4 个十年：购物中心音乐的演变与未来 - instagram.com”",
+  "titleCn": "第 40 届 Juara Lagu 奖（AJL40）将通过更盛大、更负盛名的活动创造新的历史。迈入 40 周年之际，这一标志性奖项的主题是“庆祝 4 个十年：购物中心音乐的演变与未来 - instagram.com”",
   "titleOrig": "Anugerah Juara Lagu Ke-40 (AJL40) bakal melakar sejarah baharu menerusi penganjuran yang lebih gah dan berprestij. Memasuki ulang tahunnya yang ke-40, anugerah ikonik ini tampil dengan tema “Meraikan 4 Dekad: Evolusi dan Masa Depan Muzik Mal - instagram.com",
   "catCn": "新闻热点",
   "cat": "news",
@@ -7294,9 +7446,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmtqN1ExWjB2dEV3X2d2MUhfc1VrNGN1SG1sUEowM0J6VWxuYTdkZGYtUHowSW85Yjl3SFNRTkM0dk1UbUlKNy10MGJtYTU0OVdNSEt3Z2pZN0d5WnVXOW9udUJ3T0YtRGxMYTJ2bUlObjJFRm9JMjVIbkNhelNvT3BsMHRhZ2Eta2tQQl9YeE4tYURIbDFQZjhTdjAwS3NjYURiXzUwWG5EZWpaSGpv?oc=5"
  },
  {
-  "id": "rt-24bd2f317fc7",
-  "titleCn": "政府需要系统地管理难民，以避免更大的危机 - Lila Ruzaini - MalaysiaGazette",
-  "titleOrig": "Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - MalaysiaGazette",
+  "id": "rt-8bf2d19fbd38",
+  "titleCn": "政府需要系统地管理难民，以避免更大的危机 - Lila Ruzaini - MalaysiaGazette - malaysiagazette.com",
+  "titleOrig": "Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - MalaysiaGazette - malaysiagazette.com",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7305,7 +7457,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - MalaysiaGazette",
+  "summary": "马来西亚新闻：Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - MalaysiaGazette - malaysiagazette.com",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7438,9 +7590,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1eGJKaUpybnFpTzdDSGpBRHZSUUN2SDhoLTZFYUNPYmpvRXgtcFhNdkZrRjJxOGo4VzF0Ui1XeXBpYXVvbGdLQXM5U1B1VEEzaVlnNlBWOWFOTFdlYWNaQU9kNlBaRXdzbVlVMG9vazdCRVYxOXdYY3Nacjc?oc=5"
  },
  {
-  "id": "rt-da0fc358719c",
-  "titleCn": "Astro Shaw 在 2026 年速度艺术节上宣传 Terbang 电影 - Astro Awani",
-  "titleOrig": "Astro Shaw promosi filem Terbang di Art of Speed 2026 - Astro Awani",
+  "id": "rt-7af5bd19c10e",
+  "titleCn": "Astro Shaw 在 2026 年速度艺术节上宣传 Terbang 电影 - astrowani.com",
+  "titleOrig": "Astro Shaw promosi filem Terbang di Art of Speed 2026 - astroawani.com",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7449,7 +7601,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Astro Shaw promosi filem Terbang di Art of Speed 2026 - Astro Awani",
+  "summary": "马来西亚新闻：Astro Shaw promosi filem Terbang di Art of Speed 2026 - astroawani.com",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7486,5 +7638,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWE8xRDl1MlhldzUyNWs5SlhoWFByM3pZWkV0dVhTSlVKRkhVRkJxZlN1VjhraW5mMmxtSVFwdGZxTGFIb3JCSFpLRDRqWFk2RVBZVTZ3OWM4Qjh2anhQRjhhZXNqY0VtT0Y1TUZJc2VVc1UzbEFxQk9jM3Zpcno3RnVkbTNQT21uT3ZQSDZta2o4RVQ5ZGFkY2hvSEUxdHA1TEY5Mi1yTzQ?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-16T02:20:17";
+window.REALTIME_UPDATED = "2026-08-16T02:57:16";
 window.REALTIME_CARRIED = false;
