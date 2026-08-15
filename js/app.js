@@ -289,6 +289,61 @@
     else renderTimeline(list);
   }
 
+  // ---------- 前端 IP 硬编码兜底（知名游戏/艺人/动漫 永不黑块）----------
+  const FE_FALLBACK = {
+    // 游戏
+    "genshin": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Genshin_Impact_logo.svg/960px-Genshin_Impact_logo.svg.png",
+    "原神": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Genshin_Impact_logo.svg/960px-Genshin_Impact_logo.svg.png",
+    "black myth wukong": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Black_Myth_Wukong_cover_art.jpg/800px-Black_Myth_Wukong_cover_art.jpg",
+    "黑神话": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Black_Myth_Wukong_cover_art.jpg/800px-Black_Myth_Wukong_cover_art.jpg",
+    "honkai star rail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Honkai_Star_Rail_logo.png/800px-Honkai_Star_Rail_logo.png",
+    "崩坏": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Honkai_Star_Rail_logo.png/800px-Honkai_Star_Rail_logo.png",
+    "roblox": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Roblox_logo_2022.svg/800px-Roblox_logo_2022.svg.png",
+    "minecraft": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Minecraft_logo.svg/800px-Minecraft_logo.svg.png",
+    "我的世界": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Minecraft_logo.svg/800px-Minecraft_logo.svg.png",
+    "league of legends": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/League_of_Legends_2019_vector_logo.svg/800px-League_of_Legends_2019_vector_logo.svg.png",
+    "英雄联盟": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/League_of_Legends_2019_vector_logo.svg/800px-League_of_Legends_2019_vector_logo.svg.png",
+    "pubg": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/PlayerUnknown%27s_Battlegrounds_logo.svg/800px-PlayerUnknown%27s_Battlegrounds_logo.svg.png",
+    "apex legends": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Apex_Legends_logo.svg/800px-Apex_Legends_logo.svg.png",
+    "dota 2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Dota_2_logo.svg/800px-Dota_2_logo.svg.png",
+    "valorant": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Valorant_logo_-_color.svg/800px-Valorant_logo_-_color.svg.png",
+    "gta v": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Grand_Theft_Auto_V.png/800px-Grand_Theft_Auto_V.png",
+    "gta5": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Grand_Theft_Auto_V.png/800px-Grand_Theft_Auto_V.png",
+    // K-Pop / 国际艺人
+    "blackpink": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/BLACKPINK_2019_photo.png/800px-BLACKPINK_2019_photo.png",
+    "bts": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/BTS_for_%EB%9D%BC%EB%B8%8C%ED%94%84%EC%96%B4%ED%8A%B8%EC%A6%88_in_2019.png/800px-BTS_for_%EB%9D%BC%EB%B8%8C%ED%94%84%EC%96%B4%ED%8A%B8%EC%A6%88_in_2019.png",
+    "newjeans": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NewJeans_%282023%29.png/800px-NewJeans_%282023%29.png",
+    "ive": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/IVE_%282023%29.png/800px-IVE_%282023%29.png",
+    "taylor swift": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Taylor_Swift_%28The_Eras_Tour%29.png/800px-Taylor_Swift_%28The_Eras_Tour%29.png",
+    // 动漫
+    "jujutsu kaisen": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Jujutsu_Kaisen_logo.png/800px-Jujutsu_Kaisen_logo.png",
+    "咒术回战": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Jujutsu_Kaisen_logo.png/800px-Jujutsu_Kaisen_logo.png",
+    "demon slayer": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Demon_Slayer_Kimetsu_no_Yaiba_logo.png/800px-Demon_Slayer_Kimetsu_no_Yaiba_logo.png",
+    "鬼灭之刃": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Demon_Slayer_Kimetsu_no_Yaiba_logo.png/800px-Demon_Slayer_Kimetsu_no_Yaiba_logo.png",
+    "attack on titan": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Attack_on_Titan_logo.png/800px-Attack_on_Titan_logo.png",
+    "one piece": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/One_Piece_Logo.png/800px-One_Piece_Logo.png",
+    "海贼王": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/One_Piece_Logo.png/800px-One_Piece_Logo.png",
+    "naruto": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Naruto_logo.png/800px-Naruto_logo.png",
+    "火影忍者": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Naruto_logo.png/800px-Naruto_logo.png",
+    "dragon ball": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Dragon_Ball_logo.svg/800px-Dragon_Ball_logo.svg.png",
+    "龙珠": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Dragon_Ball_logo.svg/800px-Dragon_Ball_logo.svg.png",
+    "spy x family": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Spy_x_Family_logo.png/800px-Spy_x_Family_logo.png",
+    "间谍过家家": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Spy_x_Family_logo.png/800px-Spy_x_Family_logo.png",
+    "chainsaw man": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Chainsaw_Man_logo.png/800px-Chainsaw_Man_logo.png",
+    "电锯人": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Chainsaw_Man_logo.png/800px-Chainsaw_Man_logo.png",
+    // 泰国 BL / GMMTV
+    "gmmtv": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/GMMTV_logo.svg/800px-GMMTV_logo.svg.png",
+    "lingorm": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ling_Orm_at_GMMTV_2024.jpg/800px-Ling_Orm_at_GMMTV_2024.jpg",
+  };
+
+  function feFallbackImg(e) {
+    const combined = ((e.titleOrig || "") + " " + (e.titleCn || "")).toLowerCase();
+    for (const [kw, url] of Object.entries(FE_FALLBACK)) {
+      if (combined.includes(kw)) return { url, src: "前端IP兜底(" + kw + ")" };
+    }
+    return null;
+  }
+
   function coverHtml(e) {
     const local = e.localFlag ? '<span class="local-badge">🇹🇭🇲🇾 本地</span>' : "";
     const isRemote = e.coverType === "remote" || (e.cover && /^https?:\/\//.test(e.cover));
@@ -312,7 +367,15 @@
         <span class="cover-badge ${e.coverType}">真实配图${images.length>1?' · '+images.length+'张':''}</span>${local}
       </div>`;
     }
-    // 无图 → 动态 SVG 概念图
+    // 无图 → 先检查前端 IP 硬编码兜底 → 再用 SVG 概念图
+    const fb = feFallbackImg(e);
+    if (fb) {
+      return `<div class="cover remote" data-cat="${escapeHtml(e.catCn)}" data-title="${escapeHtml(e.titleCn)}">
+        <img class="rt-img" src="${escapeHtml(fb.url)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('${escapeHtml(fb.url)}')" />
+        <div class="rt-ph" style="--cg:${catGradient(e.catCn)};display:none"><span class="ph-emoji">${CAT_EMOJI[e.catCn] || "🔥"}</span></div>
+        <span class="cover-badge remote">前端兜底${local}</span>
+      </div>`;
+    }
     return `<div class="cover none concept" style="--cg:${catGradient(e.catCn)}">
       ${generateConceptSvg(e.catCn, e.titleCn)}
       <span class="cover-badge none">AI概念图</span>${local}
