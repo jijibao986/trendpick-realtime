@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-印选 TrendPick v3 — 云端实时榜单爬虫（零 Key · 纯标准库 · 多源 + 自动补图）
-每 30 分钟由 GitHub Actions 运行：爬取泰/马双市场 + 全球公开榜单与热搜，
-覆盖 平台热搜 / 音乐 / 游戏 / 动漫 / 影视 / 明星 / 热梗 / 世界热点 / 时尚 等类目，
-自动为缺图事件联网检索真实配图（Wikimedia Commons 等），生成 realtime.js 推到 Pages。
-所有数据源均为免费公开接口，无需任何 API Key / 大模型。
+印选 TrendPick — 云端实时榜单爬虫 v3（零 Key · 纯标准库）
+- 多源采集：Twitter/X 热搜、Apple Music、Steam、AniList 动漫、Google News 新闻
+- 跨源聚合：同一热点(实体名包含关系)在多个数据源出现时，合并成一条多源事件并互相借图
+- 真实配图：优先官方接口图 → 跨源借图 → 维基词条图 → Commons 兜底
+每小时由 GitHub Actions 运行，生成 realtime.js 推到 GitHub Pages。
 """
 import json
 import os
 import re
 import ssl
-import time
 import hashlib
+import time
 import urllib.request
 import urllib.parse
 from datetime import datetime, timezone, timedelta
@@ -21,27 +21,30 @@ CTX = ssl.create_default_context()
 CTX.check_hostname = False
 CTX.verify_mode = ssl.CERT_NONE
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-UA_BOT = "TrendPickBot/3.0 (github.com/jijibao986/trendpick-realtime)"
 TZ8 = timezone(timedelta(hours=8))
 
-CJK = re.compile(r"[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff\uff66-\uff9f]")  # 日/韩/中/假名
+CJK = re.compile(r"[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff\uff66-\uff9f]")
 
 
 def now_iso():
     return datetime.now(TZ8).strftime("%Y-%m-%dT%H:%M:%S")
 
 
-def fetch_text(url, timeout=20, headers=None):
-    h = {"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"}
-    if headers:
-        h.update(headers)
-    req = urllib.request.Request(url, headers=h)
+def fetch_text(url, timeout=15):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"})
     with urllib.request.urlopen(req, timeout=timeout, context=CTX) as r:
         return r.read().decode("utf-8", "ignore")
 
 
-def fetch_json(url, timeout=20, headers=None):
-    return json.loads(fetch_text(url, timeout, headers))
+def fetch_json(url, timeout=15):
+    return json.loads(fetch_text(url, timeout))
+
+
+def post_json(url, payload, timeout=15):
+    data = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json", "User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=timeout, context=CTX) as r:
+        return json.loads(r.read().decode("utf-8", "ignore"))
 
 
 def translate(text, to="zh-CN", timeout=6):
@@ -49,7 +52,7 @@ def translate(text, to="zh-CN", timeout=6):
     if not text:
         return text
     if CJK.search(text):
-        return text  # 已含中日韩文字，直接保留
+        return text
     try:
         q = urllib.parse.quote(text[:500])
         u = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl={to}&dt=t&q={q}"
@@ -71,28 +74,25 @@ SRC_NAME = {
     "trends24": "Twitter/X 热搜榜",
     "apple": "Apple Music 榜单",
     "steam": "Steam 榜单",
+    "anilist": "AniList 动漫榜",
+    "gnews": "Google 新闻",
     "mal": "MyAnimeList 榜单",
-    "googlenews": "Google News 热讯",
-    "anilist": "AniList 榜单",
-    "wiki": "维基精选",
 }
 
-CRED = {
-    "trends24": 80, "apple": 86, "steam": 86, "mal": 86,
-    "googlenews": 84, "anilist": 86, "wiki": 90,
-}
+CAT_RANK = {"film_tv": 5, "gaming": 4, "music": 3, "news": 2, "platform_search": 2, "other": 1}
 
 
 def make_event(source, title, *, url="", image="", country="多市场",
-               cat="other", cat_cn="其他", rank=None, summary=""):
+               cat="other", cat_cn="其他", rank=None, summary="", img_src=""):
     title = (title or "").strip()
     if not title:
         return None
     title_cn = translate(title)
     stars = "🔥🔥🔥" if (rank and rank <= 3) else ("🔥🔥" if (rank and rank <= 10) else "🔥")
     buzz = max(20, 100 - (rank or 20) * 2)
-    cred = CRED.get(source, 80)
+    cred = 88 if source in ("apple", "steam", "anilist", "gnews") else 80
     has_media = bool(image)
+    media = [{"url": image, "source": img_src or SRC_NAME.get(source, source), "caption": ""}] if has_media else []
     ev = {
         "id": stable_id(source, title),
         "titleCn": title_cn,
@@ -114,20 +114,21 @@ def make_event(source, title, *, url="", image="", country="多市场",
         ],
         "sourceBreadth": {"local": country != "多市场", "global": country == "多市场", "social_only": source == "trends24"},
         "timeline": [{"date": now_iso()[:10], "desc": "实时榜单收录", "verified": False, "label": "收录"}],
-        "printType": "文字款" if cat in ("platform_search", "music", "gaming", "film_tv") else "",
+        "printType": "文字款" if cat in ("platform_search", "music", "gaming", "film_tv", "news") else "",
         "risk": "低",
         "hotDays": 1,
-        "imageSource": ("官方接口远程图" if has_media else "分类占位图（无自然配图）"),
+        "imageSource": (img_src or ("官方接口远程图" if has_media else "分类占位图（无自然配图）")),
         "hasMedia": has_media,
-        "media": [{"thumb": image}] if has_media else [],
+        "media": media,
         "fresh": True,
         "batch": "realtime-" + now_iso()[:10],
         "primaryUrl": url or "",
+        "_src": source,
     }
     return ev
 
 
-# ---------- 原有数据源 ----------
+# ---------- 各数据源 ----------
 
 def src_trends24(country_code, country_cn):
     evs = []
@@ -165,6 +166,7 @@ def src_apple_music(country_code, country_cn):
                 url=it.get("url", ""), image=art, country=country_cn,
                 cat="music", cat_cn="音乐榜单", rank=i,
                 summary=f"苹果音乐 {country_cn} 热门歌曲第{i}：{name}（{artist}）",
+                img_src="Apple Music 专辑图",
             ))
     except Exception as e:
         print(f"[apple {country_code}] 失败: {e}")
@@ -190,11 +192,37 @@ def src_steam(top=10):
                     url=f"https://store.steampowered.com/app/{aid}/", image=hdr,
                     country="多市场", cat="gaming", cat_cn="游戏热度", rank=i,
                     summary=f"Steam 最热门游戏第{i}：{name}",
+                    img_src="Steam 封面图",
                 ))
             except Exception as e:
                 print(f"[steam app {aid}] 跳过: {e}")
     except Exception as e:
         print(f"[steam] 失败: {e}")
+    return evs
+
+
+def src_anilist(top=20):
+    evs = []
+    try:
+        q = 'query($p:Int){Page(perPage:$p){media(sort:TRENDING_DESC,type:ANIME){title{romaji english native}coverImage{medium large extraLarge}siteUrl}}}'
+        j = post_json("https://graphql.anilist.co", {"query": q, "variables": {"p": top}})
+        for i, m in enumerate(j["data"]["Page"]["media"], 1):
+            t = m.get("title", {})
+            name = (t.get("english") or t.get("romaji") or t.get("native") or "").strip()
+            if not name:
+                continue
+            cov = (m.get("coverImage", {}).get("extraLarge") or m.get("coverImage", {}).get("large")
+                   or m.get("coverImage", {}).get("medium") or "")
+            evs.append(make_event(
+                "anilist", name,
+                url=m.get("siteUrl", ""), image=cov, country="多市场",
+                cat="film_tv", cat_cn="动漫热度", rank=i,
+                summary=f"AniList 人气动漫第{i}：{name}",
+                img_src="AniList 封面图",
+            ))
+    except Exception as e:
+        print(f"[anilist] 失败，回退 MyAnimeList: {e}")
+        evs += src_mal(top)
     return evs
 
 
@@ -225,235 +253,274 @@ def src_mal(top=20):
     return evs
 
 
-# ---------- 新增数据源 ----------
-
-def src_google_news(query, country_cn, cat, cat_cn, hl="en-US", gl="US", ceid="US:en", limit=10):
+def src_google_news(query, country_cn, hl, gl, ceid, limit=1):
+    """按关键词查 Google News RSS，返回带图新闻事件（作为独立数据源，也可被聚合借图）。"""
     evs = []
     try:
-        url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(query) + f"&hl={hl}&gl={gl}&ceid={ceid}"
-        xml = fetch_text(url, timeout=20)
+        q = urllib.parse.quote(query)
+        url = f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
+        xml = fetch_text(url, timeout=12)
         items = re.findall(r"<item>(.*?)</item>", xml, re.S)
         for it in items[:limit]:
-            tm = re.search(r"<title>(.*?)</title>", it, re.S)
+            tm = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", it, re.S)
             lm = re.search(r"<link>(.*?)</link>", it, re.S)
-            dm = re.search(r"<description>(.*?)</description>", it, re.S)
+            im = (re.search(r'<media:content[^>]*url="([^"]+)"', it)
+                  or re.search(r'<enclosure[^>]*url="([^"]+)"', it)
+                  or re.search(r'<media:thumbnail[^>]*url="([^"]+)"', it))
             if not tm:
                 continue
-            title = re.sub(r"<[^>]+>", "", tm.group(1)).strip()
+            title = tm.group(1).strip()
+            link = lm.group(1).strip() if lm else ""
+            img = im.group(1).strip() if im else ""
+            if img and "news.google.com/rss" in img:
+                img = ""
             if not title:
                 continue
-            link = lm.group(1).strip() if lm else ""
-            desc = re.sub(r"<[^>]+>", "", dm.group(1)).strip() if dm else ""
-            img = ""
-            if dm:
-                im = re.search(r'<img[^>]+src="(https://[^"]+)"', dm.group(1))
-                if im:
-                    img = im.group(1)
-            if not img:
-                mm = re.search(r'<media:thumbnail[^>]+url="([^"]+)"', it)
-                if mm:
-                    img = mm.group(1)
-            if not img:
-                mc = re.search(r'<media:content[^>]+url="([^"]+)"', it)
-                if mc:
-                    img = mc.group(1)
             evs.append(make_event(
-                "googlenews", title,
-                url=link, image=img, country=country_cn, cat=cat, cat_cn=cat_cn,
-                rank=len(evs) + 1, summary=desc[:200],
+                "gnews", title,
+                url=link, image=img, country=country_cn,
+                cat="news", cat_cn="新闻热点",
+                summary=f"{country_cn}新闻：{title}",
+                img_src="Google 新闻图" if img else "",
             ))
     except Exception as e:
-        print(f"[googlenews {query}] 失败: {e}")
+        print(f"[gnews {query}] 失败: {e}")
     return evs
 
 
-def src_anilist(media_type, cat, cat_cn, limit=15):
-    """AniList GraphQL（免费、无需 Key），动漫/漫画带封面图。"""
-    evs = []
+def wiki_search_img(query, width=600):
+    """维基百科搜索相关页面并返回其缩略图（容错拼写，按实体名搜真实图）。"""
     try:
-        body = json.dumps({
-            "query": ("query($type:MediaType,$n:Int){Page(perPage:$n){media("
-                      "sort:POPULARITY_DESC,type:$type){title{romaji english native} "
-                      "coverImage{large} siteUrl}}}"),
-            "variables": {"type": media_type, "n": limit}
-        }).encode("utf-8")
-        req = urllib.request.Request(
-            "https://graphql.anilist.co", data=body,
-            headers={"User-Agent": UA, "Content-Type": "application/json"})
-        d = json.loads(urllib.request.urlopen(req, timeout=20, context=CTX).read().decode("utf-8", "ignore"))
-        for i, m in enumerate(d["data"]["Page"]["media"], 1):
-            t = m.get("title") or {}
-            name = t.get("english") or t.get("romaji") or t.get("native") or ""
-            if not name:
-                continue
-            img = (m.get("coverImage") or {}).get("large") or ""
-            label = "动漫" if media_type == "ANIME" else "漫画"
-            evs.append(make_event(
-                "anilist", name,
-                url=m.get("siteUrl") or "", image=img, country="多市场",
-                cat=cat, cat_cn=cat_cn, rank=i,
-                summary=f"AniList 人气{label}第{i}：{name}",
-            ))
-    except Exception as e:
-        print(f"[anilist {media_type}] 失败: {e}")
-    return evs
+        q = urllib.parse.quote(query)
+        api = ("https://en.wikipedia.org/w/api.php?action=query&format=json"
+               "&generator=search&gsrsearch=" + q +
+               "&gsrlimit=8&prop=pageimages&piprop=thumbnail&pithumbsize=" + str(width))
+        d = fetch_json(api)
+        for p in d.get("query", {}).get("pages", {}).values():
+            th = p.get("thumbnail", {}).get("source")
+            if th:
+                return th
+    except Exception:
+        pass
+    return None
 
-
-def src_wikipedia():
-    evs = []
-    try:
-        d = datetime.now(TZ8)
-        url = f"https://en.wikipedia.org/api/rest_v1/feed/featured/{d.year}/{d.month:02d}/{d.day:02d}"
-        data = fetch_json(url, timeout=20)
-        img_obj = (data.get("image") or {}).get("image") or {}
-        img = img_obj.get("source") or ""
-        title = (data.get("image") or {}).get("title") or "维基每日精选图"
-        if img:
-            evs.append(make_event(
-                "wiki", title,
-                url="https://en.wikipedia.org/wiki/Special:FeedItem", image=img,
-                country="多市场", cat="world", cat_cn="世界热点",
-                rank=1, summary=f"维基百科每日精选：{title}",
-            ))
-    except Exception as e:
-        print(f"[wiki] 失败: {e}")
-    return evs
-
-
-# ---------- 自动补图（联网检索） ----------
 
 def commons_image(query, width=600):
-    """按关键词在 Wikimedia Commons 检索一张真实图片 URL。失败返回空（带 1 次重试）。"""
-    for _ in range(2):
-        try:
-            q = urllib.parse.quote(query[:200])
-            url = ("https://commons.wikimedia.org/w/api.php?action=query&generator=search"
-                   f"&gsrsearch={q}&gsrnamespace=6&gsrlimit=6&prop=imageinfo&iiprop=url|mime&iiurlwidth={width}&format=json")
-            d = fetch_json(url, timeout=15)
-            pages = (d.get("query") or {}).get("pages") or {}
-            for pid, p in pages.items():
-                ii = (p.get("imageinfo") or [{}])[0]
-                if ii.get("mime", "").startswith("image"):
-                    return ii.get("thumburl") or ii.get("url") or ""
-            return ""
-        except Exception:
-            time.sleep(1.0)
-    return ""
+    """维基共享资源按关键词搜图（File 空间）。"""
+    try:
+        q = urllib.parse.quote(query)
+        api = (f"https://commons.wikimedia.org/w/api.php?action=query&format=json"
+               f"&generator=search&gsrsearch={q}&gsrnamespace=6&gsrlimit=5"
+               f"&prop=imageinfo&iiprop=url&iiurlwidth={width}")
+        d = fetch_json(api)
+        pages = d.get("query", {}).get("pages", {})
+        for p in pages.values():
+            ii = (p.get("imageinfo") or [{}])[0]
+            u = ii.get("thumburl") or ii.get("url")
+            if u:
+                return u
+    except Exception:
+        pass
+    return None
 
 
-# 分类兜底检索词（精确标题搜不到时，按类目搜一张相关的真实网络图）
-CAT_QUERY = {
-    "platform_search": "social media trend",
-    "music": "music concert",
-    "gaming": "video game",
-    "film_tv": "movie film",
-    "celebrity": "celebrity star",
-    "meme": "internet meme",
-    "world": "breaking news",
-    "fashion": "fashion style",
-    "other": "trend",
-}
+def openverse_img(query, timeout=12):
+    """Openverse 共享图库（零 Key，返回真实照片），作为最后兜底。"""
+    try:
+        q = urllib.parse.quote(query)
+        url = f"https://api.openverse.org/v1/images/?q={q}&page_size=5"
+        d = fetch_json(url, timeout)
+        for r in d.get("results", []):
+            u = r.get("url")
+            if u and u.startswith("http"):
+                return u
+    except Exception:
+        pass
+    return None
 
 
-def enrich_images(events, cap=140):
-    """为缺图事件联网补图：Wikimedia Commons 两层级检索
-    （精确原标题 → 类目关键词兜底），带缓存 + 调用上限 + 礼貌延迟。"""
-    cache = {}
-    calls = 0
-    filled = 0
+STOPQ = set("ep id mv off ic rl th my cp the and or x with of to a an in on for".split())
+
+
+def extract_queries(title):
+    """从标题提取用于搜图的候选词（按希望程度排序）。"""
+    raw = (title or "").strip()
+    qs = [raw]
+    parts = []
+    for tk in re.findall(r"[A-Za-z][A-Za-z0-9]*", raw):
+        parts += re.findall(r"[A-Z]?[a-z]+|[A-Z]{2,}|\d+", tk)
+    lat = [p for p in parts if p.isalpha() and len(p) >= 2]
+    if lat:
+        qs.append(" ".join(lat))
+        meaningful = [p for p in lat if len(p) >= 3 and p.lower() not in STOPQ]
+        for p in meaningful:
+            qs.append(p)
+        if len(meaningful) >= 2:
+            qs.append(" ".join(meaningful[:3]))
+    seen, out = set(), []
+    for q in qs:
+        q = q.strip()
+        if q and q.lower() not in seen:
+            seen.add(q.lower())
+            out.append(q)
+    return out[:4]
+
+
+def apply_img(e, url, src_name, src_type):
+    """给事件贴图，并把图源作为关联来源并入 sources（实现多源）。"""
+    e["cover"] = url
+    e["coverType"] = "remote"
+    e["media"].append({"url": url, "source": src_name, "caption": ""})
+    e["imageSource"] = src_name
+    e["hasMedia"] = True
+    e["sources"].append({
+        "type": src_type, "name": src_name, "region": e["country"],
+        "credibility": 82, "url": "",
+    })
+
+
+# ---------- 跨源实体聚合 + 借图 ----------
+
+def _norm(s):
+    s = (s or "").lower()
+    s = re.sub(r"[^a-z0-9\u0e00-\u0e7f\s]", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+STOP = set("live new show top hot best official trailer mv video song music the a an of and remix feat ft version episode ep season watch full hd lyrics concert tour debut comeback win wins".split())
+
+
+def match_entities(a, b):
+    """两标题指向同一实体（包含关系且非纯停用词）时返回 True。"""
+    ka, kb = _norm(a), _norm(b)
+    if not ka or not kb:
+        return False
+    if ka == kb:
+        return True
+    ta, tb = set(ka.split()), set(kb.split())
+    if not ta or not tb:
+        return False
+    shared = ta & tb
+    if not shared or shared <= STOP:
+        return False
+    longer = max(len(ta), len(tb))
+    shorter = min(len(ta), len(tb))
+    if (ta <= tb or tb <= ta) and longer <= shorter + 1:
+        return True
+    return False
+
+
+def _pick_cat(a, b):
+    ra, rb = CAT_RANK.get(a["cat"], 1), CAT_RANK.get(b["cat"], 1)
+    return (b["cat"], b["catCn"]) if rb > ra else (a["cat"], a["catCn"])
+
+
+def merge_into(dst, src):
+    """把 src 的信息并入 dst（来源、图片、分类、国家、摘要）。"""
+    for s in src["sources"]:
+        if not any(s["type"] == x["type"] and s["name"] == x["name"] for x in dst["sources"]):
+            dst["sources"].append(dict(s))
+    for m in src.get("media", []):
+        u = m.get("url")
+        if u and not any(x.get("url") == u for x in dst["media"]):
+            dst["media"].append(dict(m))
+    if not dst.get("cover") and src.get("cover"):
+        dst["cover"] = src["cover"]
+        dst["coverType"] = "remote"
+    # 国家归一
+    if dst["country"] != "多市场" and src["country"] != "多市场" and dst["country"] != src["country"]:
+        dst["country"] = "多市场"
+    elif src["country"] == "多市场":
+        dst["country"] = "多市场"
+    # 分类取更实质
+    dst["cat"], dst["catCn"] = _pick_cat(dst, src)
+    dst["credibilityScore"] = max(dst["credibilityScore"], src["credibilityScore"])
+    if src["summary"] and src["summary"] not in dst["summary"]:
+        dst["summary"] = dst["summary"] + " ｜ " + src["summary"]
+    if src.get("imageSource") and not dst.get("cover"):
+        dst["imageSource"] = src.get("imageSource")
+    if src.get("imageSource") and dst.get("cover"):
+        dst["imageSource"] = dst.get("imageSource") + " + " + src.get("imageSource")
+    sb = dst["sourceBreadth"]
+    ss = src["sourceBreadth"]
+    sb["local"] = sb["local"] or ss["local"]
+    sb["global"] = sb["global"] or ss["global"]
+    sb["social_only"] = sb["social_only"] and ss["social_only"]
+    dst["hasMedia"] = bool(dst.get("cover") or dst["media"])
+
+
+def aggregate(events):
+    """trends24 热搜词 ↔ 其他源（apple/steam/anilist/gnews）按实体名合并并借图。"""
+    trends = [e for e in events if e.get("_src") == "trends24"]
+    others = [e for e in events if e.get("_src") != "trends24"]
+    result = []
+    used = set()
+    for t in trends:
+        matches = [o for o in others if id(o) not in used and match_entities(t["titleOrig"], o["titleOrig"])]
+        if matches:
+            primary = matches[0]
+            for o in matches[1:]:
+                merge_into(primary, o)
+                used.add(id(o))
+            merge_into(primary, t)  # 把热搜热度并入主体
+            used.add(id(primary))
+            result.append(primary)
+        else:
+            result.append(t)
+    for o in others:
+        if id(o) not in used:
+            result.append(o)
+    return result
+
+
+def enrich_images(events, cap_total=180):
+    """对无图事件按候选词依次尝试：维基搜索图 → Commons → Openverse 借图。"""
+    used = 0
     for e in events:
         if e.get("cover"):
             continue
-        key = (e.get("titleOrig") or e.get("titleCn") or "")[:120]
-        cat = e.get("cat", "other")
-        for q in [key, CAT_QUERY.get(cat, "trend")]:
-            if not q:
-                continue
-            if q in cache:
-                img = cache[q]
-            else:
-                if calls >= cap:
-                    img = ""
-                else:
-                    img = commons_image(q)
-                    calls += 1
-                    cache[q] = img
-                    time.sleep(0.15)
-            if img:
-                e["cover"] = img
-                e["coverType"] = "remote"
-                e["hasMedia"] = True
-                e["media"] = [{"thumb": img}]
-                e["imageSource"] = "Wikimedia Commons 检索图"
-                filled += 1
+        for q in extract_queries(e["titleOrig"]):
+            if e.get("cover") or used >= cap_total:
                 break
-    print(f"== 自动补图：检索 {calls} 次，成功补齐 {filled} 张")
+            w = wiki_search_img(q); used += 1
+            if w:
+                apply_img(e, w, "维基百科词条图", "wiki"); break
+            c = commons_image(q); used += 1
+            if c:
+                apply_img(e, c, "维基共享资源图", "commons"); break
+            if used < cap_total:
+                o = openverse_img(q); used += 1
+                if o:
+                    apply_img(e, o, "Openverse 共享图库", "openverse"); break
     return events
 
 
-# ---------- 汇总 ----------
-
 def collect():
-    evs = []
+    trends_th = src_trends24("thailand", "泰国")
+    trends_ml = src_trends24("malaysia", "马来西亚")
+    base = (trends_th + trends_ml
+            + src_apple_music("th", "泰国")
+            + src_apple_music("my", "马来西亚")
+            + src_steam(12)
+            + src_anilist(20))
 
-    # 平台热搜
-    evs += src_trends24("thailand", "泰国")
-    evs += src_trends24("malaysia", "马来西亚")
-    evs += src_google_news("trending Thailand", "泰国", "platform_search", "平台热搜", hl="th", gl="TH", ceid="TH:th", limit=12)
-    evs += src_google_news("trending Malaysia", "马来西亚", "platform_search", "平台热搜", hl="ms", gl="MY", ceid="MY:ms", limit=12)
+    # Google News：基于热搜词查带图新闻（既是数据源，也能给热搜借图）
+    gnews_evs = []
+    for e in (trends_th[:12] + trends_ml[:12]):
+        cc = e["country"]
+        hl, gl, ceid = ("th", "TH", "TH:th") if cc == "泰国" else ("ms", "MY", "MY:ms")
+        gnews_evs += src_google_news(e["titleOrig"], cc, hl, gl, ceid, limit=1)
+        time.sleep(0.15)
 
-    # 音乐榜单
-    evs += src_apple_music("th", "泰国")
-    evs += src_apple_music("my", "马来西亚")
-    evs += src_google_news("Kpop new song release", "多市场", "music", "音乐榜单", limit=10)
-    evs += src_google_news("Spotify top global", "多市场", "music", "音乐榜单", limit=10)
-
-    # 游戏热度
-    evs += src_steam(12)
-    evs += src_google_news("video game release", "多市场", "gaming", "游戏热度", limit=12)
-    evs += src_google_news("Steam top game", "多市场", "gaming", "游戏热度", limit=8)
-
-    # 动漫 / 漫画
-    evs += src_anilist("ANIME", "film_tv", "动漫热度", 18)
-    evs += src_anilist("MANGA", "film_tv", "动漫热度", 10)
-    evs += src_mal(20)
-    evs += src_google_news("anime trending", "多市场", "film_tv", "动漫热度", limit=8)
-
-    # 影视剧
-    evs += src_google_news("Netflix new series", "多市场", "film_tv", "影视剧", limit=12)
-    evs += src_google_news("box office weekend", "多市场", "film_tv", "影视剧", limit=8)
-    evs += src_google_news("หนัง ใหม่", "泰国", "film_tv", "影视剧", limit=8)
-
-    # 明星八卦
-    evs += src_google_news("Kpop comeback", "多市场", "celebrity", "明星八卦", limit=12)
-    evs += src_google_news("ดารา ไทย", "泰国", "celebrity", "明星八卦", limit=10)
-    evs += src_google_news("artis Malaysia", "马来西亚", "celebrity", "明星八卦", limit=10)
-
-    # 网络热梗
-    evs += src_google_news("viral meme internet", "多市场", "meme", "网络热梗", limit=12)
-    evs += src_google_news("ไวรัล", "泰国", "meme", "网络热梗", limit=8)
-    evs += src_google_news("trending meme Malaysia", "马来西亚", "meme", "网络热梗", limit=8)
-
-    # 世界热点
-    evs += src_google_news("world news", "多市场", "world", "世界热点", hl="en-US", gl="US", ceid="US:en", limit=12)
-    evs += src_google_news("breaking news", "多市场", "world", "世界热点", hl="en-US", gl="US", ceid="US:en", limit=8)
-
-    # 时尚趋势
-    evs += src_google_news("fashion trend 2026", "多市场", "fashion", "时尚趋势", limit=10)
-    evs += src_google_news("แฟชั่น", "泰国", "fashion", "时尚趋势", limit=8)
-
-    # 维基精选图
-    evs += src_wikipedia()
-
-    # 同 id 去重（不同源同标题只留一条，保留先到者）
+    all_evs = base + gnews_evs
+    all_evs = aggregate(all_evs)
+    all_evs = enrich_images(all_evs)
+    # 去重（同 id）
     seen, out = set(), []
-    for e in evs:
+    for e in all_evs:
         if e and e["id"] not in seen:
             seen.add(e["id"])
             out.append(e)
-
-    # 自动补图
-    enrich_images(out, cap=90)
     return out
 
 
@@ -470,7 +537,8 @@ def load_prev(path):
 
 def write_out(events, carried=False):
     path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "realtime.js")
-    txt = "window.EVENTS_REALTIME = " + json.dumps(events, ensure_ascii=False, indent=1) + ";\n"
+    clean = [{k: v for k, v in e.items() if k != "_src"} for e in events]
+    txt = "window.EVENTS_REALTIME = " + json.dumps(clean, ensure_ascii=False, indent=1) + ";\n"
     txt += 'window.REALTIME_UPDATED = "' + now_iso() + '";\n'
     txt += "window.REALTIME_CARRIED = " + ("true" if carried else "false") + ";\n"
     with open(path, "w", encoding="utf-8") as f:
@@ -481,8 +549,7 @@ def write_out(events, carried=False):
 def main():
     print("== 印选实时榜单爬虫 v3 开始", now_iso())
     events = collect()
-    with_img = sum(1 for e in events if e.get("cover"))
-    print(f"== 抓到事件数: {len(events)}，其中含图: {with_img}")
+    print(f"== 抓到事件数: {len(events)}")
     if events:
         p = write_out(events, carried=False)
         print(f"== 已写出(新鲜): {p}")
