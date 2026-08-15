@@ -51,6 +51,8 @@
     return (s == null ? "" : String(s)).replace(/[&<>"']/g, (c) =>
       ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   }
+  // 封面图加载失败的统一降级：隐藏破图，显示同级 .rt-ph 渐变占位（绝不黑块）
+  const IMG_ONERR = "this.onerror=null;this.style.display='none';var p=this.parentNode.querySelector('.rt-ph');if(p)p.style.display='grid';";
   function stars(n) {
     let v = Number(n);
     if (!isFinite(v) || v < 0) v = 0;
@@ -352,7 +354,7 @@
     if (e.cover && isRemote) {
       // 有远程主图 + 可能多图
       return `<div class="cover ${e.coverType}" data-cat="${escapeHtml(e.catCn)}" data-title="${escapeHtml(e.titleCn)}">
-        <img class="rt-img" src="${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('${escapeHtml(e.cover)}')" />
+        <img class="rt-img" src="${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('${escapeHtml(e.cover)}')" onerror="${IMG_ONERR}" />
         <div class="rt-ph" style="--cg:${catGradient(e.catCn)};display:none"><span class="ph-emoji">${CAT_EMOJI[e.catCn] || "🔥"}</span></div>
         ${buildImgStrip(images)}
         <span class="cover-badge ${e.coverType}">远程配图${images.length>1?' · '+images.length+'张':''}</span>${local}
@@ -361,7 +363,7 @@
     if (e.cover) {
       // 本地图片（带降级）
       return `<div class="cover ${e.coverType}" data-cat="${escapeHtml(e.catCn)}" data-title="${escapeHtml(e.titleCn)}">
-        <img src="img/${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('img/${escapeHtml(e.cover)}')" />
+        <img src="img/${escapeHtml(e.cover)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('img/${escapeHtml(e.cover)}')" onerror="${IMG_ONERR}" />
         <div class="rt-ph" style="--cg:${catGradient(e.catCn)};display:none"><span class="ph-emoji">${CAT_EMOJI[e.catCn] || "🔥"}</span></div>
         ${buildImgStrip(images)}
         <span class="cover-badge ${e.coverType}">真实配图${images.length>1?' · '+images.length+'张':''}</span>${local}
@@ -371,7 +373,7 @@
     const fb = feFallbackImg(e);
     if (fb) {
       return `<div class="cover remote" data-cat="${escapeHtml(e.catCn)}" data-title="${escapeHtml(e.titleCn)}">
-        <img class="rt-img" src="${escapeHtml(fb.url)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('${escapeHtml(fb.url)}')" />
+        <img class="rt-img" src="${escapeHtml(fb.url)}" alt="${escapeHtml(e.titleCn)}" loading="lazy" onclick="event.stopPropagation();openLightbox('${escapeHtml(fb.url)}')" onerror="${IMG_ONERR}" />
         <div class="rt-ph" style="--cg:${catGradient(e.catCn)};display:none"><span class="ph-emoji">${CAT_EMOJI[e.catCn] || "🔥"}</span></div>
         <span class="cover-badge remote">前端兜底${local}</span>
       </div>`;
@@ -1176,6 +1178,11 @@
     clearTimeout(t._timer);
     t._timer = setTimeout(() => t.classList.remove("show"), 4000);
   }
-  document.addEventListener("DOMContentLoaded", init);
-  document.addEventListener("DOMContentLoaded", setupLiveUpdate);
+  // 兼容静态加载与动态注入：动态加载时 DOM 已 ready，DOMContentLoaded 不会再触发，故用 readyState 判断
+  function boot() { init(); setupLiveUpdate(); }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", boot);
+  } else {
+    boot();
+  }
 })();

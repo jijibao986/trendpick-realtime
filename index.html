@@ -115,7 +115,20 @@
   <img id="lbImg" src="" alt="" />
 </div>
 
-<script src="js/data.js?v=202608150707"></script>
-<script src="js/app.js?v=202608150707"></script>
+<!-- 动态加载脚本并强制带时间戳，彻底绕过浏览器/CDN 对 js/app.js、js/data.js 的缓存（避免一直显示旧版本黑块） -->
+<script>
+  (function () {
+    var t = Date.now();
+    var s1 = document.createElement("script");
+    s1.src = "js/data.js?_=" + t;
+    // data.js 无论成功失败都继续加载 app.js，避免页面空白
+    s1.onload = s1.onerror = function () {
+      var s2 = document.createElement("script");
+      s2.src = "js/app.js?_=" + t;
+      document.head.appendChild(s2);
+    };
+    document.head.appendChild(s1);
+  })();
+</script>
 </body>
 </html>
