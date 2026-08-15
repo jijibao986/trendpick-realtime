@@ -379,7 +379,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-44747273d187",
-  "titleCn": "地狱潜水员™ 2",
+  "titleCn": "地狱潜水员™2",
   "titleOrig": "HELLDIVERS™ 2",
   "catCn": "游戏热度",
   "cat": "gaming",
@@ -865,7 +865,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-773f1237882c",
-  "titleCn": "这就是我想要的一切（永远永远）-PUN",
+  "titleCn": "这就是我所要求的（永远永远）-双关语",
   "titleOrig": "ขอแค่นี้ (Forever n ever) - PUN",
   "catCn": "音乐榜单",
   "cat": "music",
@@ -973,7 +973,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-9226c778dbe2",
-  "titleCn": "爱让你知道（证明）-PUN",
+  "titleCn": "爱让你知道（证明）- PUN",
   "titleOrig": "รักให้เธอได้รู้ (Proof.) - PUN",
   "catCn": "音乐榜单",
   "cat": "music",
@@ -1512,60 +1512,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/th/album/less-than-a-lover/6793277024?i=6793277028"
  },
  {
-  "id": "rt-b01c6b674cc5",
-  "titleCn": "那空达拉 - YOUNGOHM",
-  "titleOrig": "Nakorn Dara - YOUNGOHM",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a5/51/a8a55109-5a16-7633-b953-48d91bedfd70/cover.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 66,
-  "summary": "苹果音乐 泰国 热门歌曲第17：Nakorn Dara（YOUNGOHM）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://music.apple.com/th/album/nakorn-dara/1792155056?i=1792155060"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a5/51/a8a55109-5a16-7633-b953-48d91bedfd70/cover.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://music.apple.com/th/album/nakorn-dara/1792155056?i=1792155060"
- },
- {
   "id": "rt-e423e830a935",
   "titleCn": "BF (feat. URBOYTJ) - 双关语",
   "titleOrig": "BF (feat. URBOYTJ) - PUN",
@@ -1576,8 +1522,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 64,
-  "summary": "苹果音乐 泰国 热门歌曲第18：BF (feat. URBOYTJ)（PUN）",
+  "buzzIndex": 66,
+  "summary": "苹果音乐 泰国 热门歌曲第17：BF (feat. URBOYTJ)（PUN）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1618,6 +1564,60 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://music.apple.com/th/album/bf-feat-urboytj/1767346199?i=1767346202"
+ },
+ {
+  "id": "rt-b01c6b674cc5",
+  "titleCn": "那空达拉 - YOUNGOHM",
+  "titleOrig": "Nakorn Dara - YOUNGOHM",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a5/51/a8a55109-5a16-7633-b953-48d91bedfd70/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 64,
+  "summary": "苹果音乐 泰国 热门歌曲第18：Nakorn Dara（YOUNGOHM）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/nakorn-dara/1792155056?i=1792155060"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a5/51/a8a55109-5a16-7633-b953-48d91bedfd70/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://music.apple.com/th/album/nakorn-dara/1792155056?i=1792155060"
  },
  {
   "id": "rt-94fc1132844d",
@@ -2430,72 +2430,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/my/album/honeybee/1889992111?i=1889992116"
  },
  {
-  "id": "rt-8ff1e529b939",
-  "titleCn": "死了——奥利维亚·罗德里戈",
-  "titleOrig": "drop dead - Olivia Rodrigo",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 80,
-  "summary": "苹果音乐 马来西亚 热门歌曲第10：drop dead（Olivia Rodrigo）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "马来西亚",
-    "credibility": 88,
-    "url": "https://music.apple.com/my/album/drop-dead/1889992111?i=1889992113"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://music.apple.com/my/album/drop-dead/1889992111?i=1889992113"
- },
- {
   "id": "rt-93f4aad8efec",
   "titleCn": "野花——比莉·艾利什",
   "titleOrig": "WILDFLOWER - Billie Eilish",
   "catCn": "音乐榜单",
   "cat": "music",
   "country": "马来西亚",
-  "stars": "🔥",
+  "stars": "🔥🔥",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 78,
-  "summary": "苹果音乐 马来西亚 热门歌曲第11：WILDFLOWER（Billie Eilish）",
+  "buzzIndex": 80,
+  "summary": "苹果音乐 马来西亚 热门歌曲第10：WILDFLOWER（Billie Eilish）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2536,6 +2482,60 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://music.apple.com/my/album/wildflower/1739659134?i=1739659144"
+ },
+ {
+  "id": "rt-8ff1e529b939",
+  "titleCn": "死了——奥利维亚·罗德里戈",
+  "titleOrig": "drop dead - Olivia Rodrigo",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 78,
+  "summary": "苹果音乐 马来西亚 热门歌曲第11：drop dead（Olivia Rodrigo）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://music.apple.com/my/album/drop-dead/1889992111?i=1889992113"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://music.apple.com/my/album/drop-dead/1889992111?i=1889992113"
  },
  {
   "id": "rt-01c06cf6b4fa",
@@ -2710,8 +2710,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 70,
-  "summary": "苹果音乐 马来西亚 热门歌曲第15：The Fate of Ophelia（Taylor Swift）",
+  "buzzIndex": 68,
+  "summary": "苹果音乐 马来西亚 热门歌曲第16：The Fate of Ophelia（Taylor Swift）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3132,60 +3132,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/my/album/die-on-this-hill/1841769601?i=1841769602"
  },
  {
-  "id": "rt-ea91981ef4e5",
-  "titleCn": "微笑而死 - Lady Gaga 和 Bruno Mars",
-  "titleOrig": "Die With A Smile - Lady Gaga & Bruno Mars",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 52,
-  "summary": "苹果音乐 马来西亚 热门歌曲第24：Die With A Smile（Lady Gaga & Bruno Mars）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "马来西亚",
-    "credibility": 88,
-    "url": "https://music.apple.com/my/album/die-with-a-smile/1762656724?i=1762656732"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://music.apple.com/my/album/die-with-a-smile/1762656724?i=1762656732"
- },
- {
   "id": "rt-ee45d7ff7399",
   "titleCn": "谢谢你，下一个 - 阿丽亚娜·格兰德",
   "titleOrig": "thank u, next - Ariana Grande",
@@ -3196,8 +3142,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 50,
-  "summary": "苹果音乐 马来西亚 热门歌曲第25：thank u, next（Ariana Grande）",
+  "buzzIndex": 52,
+  "summary": "苹果音乐 马来西亚 热门歌曲第24：thank u, next（Ariana Grande）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3238,6 +3184,60 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://music.apple.com/my/album/thank-u-next/1450330588?i=1450330686"
+ },
+ {
+  "id": "rt-ea91981ef4e5",
+  "titleCn": "微笑而死 - Lady Gaga 和 Bruno Mars",
+  "titleOrig": "Die With A Smile - Lady Gaga & Bruno Mars",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 50,
+  "summary": "苹果音乐 马来西亚 热门歌曲第25：Die With A Smile（Lady Gaga & Bruno Mars）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://music.apple.com/my/album/die-with-a-smile/1762656724?i=1762656732"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://music.apple.com/my/album/die-with-a-smile/1762656724?i=1762656732"
  },
  {
   "id": "rt-d6778359f8de",
@@ -3424,7 +3424,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-e3507d41fdbb",
-  "titleCn": "DUANG GO 轮第 1 天",
+  "titleCn": "DUANG GO 回合 第一天",
   "titleOrig": "DUANG GO ROUND DAY1",
   "catCn": "平台热搜",
   "cat": "platform_search",
@@ -5105,67 +5105,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=LINGORM%20THAILAND%20FANTOUR"
  },
  {
-  "id": "rt-fa18ca20b4e4",
-  "titleCn": "卡里克",
-  "titleOrig": "Carrick",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/58/199706664_25f44575b8_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 74,
-  "summary": "马来西亚 Twitter/X 今日热搜：Carrick",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Carrick"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/58/199706664_25f44575b8_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=Carrick"
- },
- {
   "id": "rt-0235054487fc",
   "titleCn": "伊森",
   "titleOrig": "Ethan",
@@ -5176,7 +5115,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3837/15229827496_7b8d902b97_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 72,
+  "buzzIndex": 74,
   "summary": "马来西亚 Twitter/X 今日热搜：Ethan",
   "tags": [],
   "timeRel": "",
@@ -5225,6 +5164,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://twitter.com/search?q=Ethan"
+ },
+ {
+  "id": "rt-fa18ca20b4e4",
+  "titleCn": "卡里克",
+  "titleOrig": "Carrick",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/58/199706664_25f44575b8_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 72,
+  "summary": "马来西亚 Twitter/X 今日热搜：Carrick",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Carrick"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/58/199706664_25f44575b8_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=Carrick"
  },
  {
   "id": "rt-19715ff2ac7a",
@@ -5288,67 +5288,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Shaw"
  },
  {
-  "id": "rt-f6d21a00d941",
-  "titleCn": "艾娜·阿卜杜勒",
-  "titleOrig": "Aina Abdul",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/4/47/Aina_Abdul_PTTI.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 68,
-  "summary": "马来西亚 Twitter/X 今日热搜：Aina Abdul",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Aina%20Abdul"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Aina_Abdul_PTTI.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=Aina%20Abdul"
- },
- {
   "id": "rt-833f03470085",
   "titleCn": "克康",
   "titleOrig": "kcon",
@@ -5359,7 +5298,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lee_Min-ho_-_KCON_2016_%28cropped%29.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 66,
+  "buzzIndex": 68,
   "summary": "马来西亚 Twitter/X 今日热搜：kcon",
   "tags": [],
   "timeRel": "",
@@ -5408,6 +5347,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://twitter.com/search?q=kcon"
+ },
+ {
+  "id": "rt-f6d21a00d941",
+  "titleCn": "艾娜·阿卜杜勒",
+  "titleOrig": "Aina Abdul",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/4/47/Aina_Abdul_PTTI.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 62,
+  "summary": "马来西亚 Twitter/X 今日热搜：Aina Abdul",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Aina%20Abdul"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Aina_Abdul_PTTI.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=Aina%20Abdul"
  },
  {
   "id": "rt-25a14a19f2e0",
@@ -5899,7 +5899,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-81366fbfff9e",
-  "titleCn": "钢珠跑酷：JoJo 的金曜的冒险",
+  "titleCn": "钢球跑酷：JoJo 的金曜的冒险",
   "titleOrig": "Steel Ball Run: JoJo no Kimyou na Bouken",
   "catCn": "动漫热度",
   "cat": "film_tv",
@@ -6907,7 +6907,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-348b5d847925",
-  "titleCn": "第 40 届 Juara Lagu 奖（AJL40）将通过更盛大、更负盛名的活动创造新的历史。迈入 40 周年之际，这一标志性奖项的主题是“庆祝 4 个十年：购物中心音乐的演变与未来 - instagram.com”",
+  "titleCn": "第40届歌曲冠军奖（AJL40）即将通过一场更盛大、更负盛名的活动创造新的历史。迈入 40 周年之际，这一标志性奖项的主题是“庆祝 4 个十年：购物中心音乐的演变与未来 - instagram.com”",
   "titleOrig": "Anugerah Juara Lagu Ke-40 (AJL40) bakal melakar sejarah baharu menerusi penganjuran yang lebih gah dan berprestij. Memasuki ulang tahunnya yang ke-40, anugerah ikonik ini tampil dengan tema “Meraikan 4 Dekad: Evolusi dan Masa Depan Muzik Mal - instagram.com",
   "catCn": "新闻热点",
   "cat": "news",
@@ -6954,9 +6954,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tT0FnUkFWRXBIcDdmMGJ1djF6RTN2eFFBdlBya3U3ZDA5M2lZOFdSeEd4VDl1T1VId3RZaHVmTXNKSDBFdjFidE84UXg1ajZiR2c?oc=5"
  },
  {
-  "id": "rt-376f03e33b6f",
-  "titleCn": "政府需要系统地管理难民，以避免更大的危机 - Lila Ruzaini - MalaysiaGazette - MalaysiaGazette",
-  "titleOrig": "Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - MalaysiaGazette - MalaysiaGazette",
+  "id": "rt-d8ea42f86f22",
+  "titleCn": "政府需要系统地管理难民，以避免更大的危机 - Lila Ruzaini - malaysiagazette.com",
+  "titleOrig": "Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - malaysiagazette.com",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -6965,7 +6965,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - MalaysiaGazette - MalaysiaGazette",
+  "summary": "马来西亚新闻：Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - malaysiagazette.com",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7098,5 +7098,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmtqN1ExWjB2dEV3X2d2MUhfc1VrNGN1SG1sUEowM0J6VWxuYTdkZGYtUHowSW85Yjl3SFNRTkM0dk1UbUlKNy10MGJtYTU0OVdNSEt3Z2pZN0d5WnVXOW9udUJ3T0YtRGxMYTJ2bUlObjJFRm9JMjVIbkNhelNvT3BsMHRhZ2Eta2tQQl9YeE4tYURIbDFQZjhTdjAwS3NjYURiXzUwWG5EZWpaSGpv?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-16T06:14:32";
+window.REALTIME_UPDATED = "2026-08-16T06:45:54";
 window.REALTIME_CARRIED = false;
