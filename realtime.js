@@ -3886,7 +3886,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-e3507d41fdbb",
-  "titleCn": "DUANG GO 轮第 1 天",
+  "titleCn": "DUANG GO 回合 第一天",
   "titleOrig": "DUANG GO ROUND DAY1",
   "catCn": "平台热搜",
   "cat": "platform_search",
@@ -7231,9 +7231,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvTjRXVVFQNDR2RnRoRXkyalp1NEFCaGZNaDd1RENqTGljWnVidmVNdEZCY0RYQ3FqRl9Sa3pCZ2lqRkxLdG1aR3ZxempfN0hYNGdKN013?oc=5"
  },
  {
-  "id": "rt-fbe5b45e58c4",
-  "titleCn": "圣克拉拉 79 - 67 麦克尼斯州立大学: 比赛报告、统计数据、阵容和实时比分 - 365Scores",
-  "titleOrig": "Santa Clara 79 - 67 McNeese State: Laporan perlawanan, statistik, barisan pemain &amp; H2H - 365Scores",
+  "id": "rt-43fbac191cfe",
+  "titleCn": "圣克拉拉 vs 国民队预测：预期阵容 - Vietnam.vn",
+  "titleOrig": "Ramalan Santa Clara lwn Nacional: Barisan Yang Dijangka - Vietnam.vn",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7242,7 +7242,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Santa Clara 79 - 67 McNeese State: Laporan perlawanan, statistik, barisan pemain &amp; H2H - 365Scores",
+  "summary": "马来西亚新闻：Ramalan Santa Clara lwn Nacional: Barisan Yang Dijangka - Vietnam.vn",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7252,7 +7252,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDJvOWNWWE5jWDRuUWZrWWk5TzVrd2F1S3J3RWJJdmd0YVZ4dmxGeDlNaVFwbE1pbDVub1dYN3FjYmhUMHUtUEd1MEZFejZWZVVuZlN3YllJeFZNZUdSemdBSkFXQThscThNVnltY2lpZzdNS2tUZkpwVVhaZXp4c01kXzkwMmJLR0VQMHdn?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlUdk9XRWFXSC02RE80WWt1NXFsNDFvYlgweldnR1ZrM2cwUUJHd0pEYnJvcUg2eE1rMTVmWVN2UENlSlgyNHV2MEZ3Y0RldjJRZFJWX1g3UXNuSjBxeDgwMC1VOGdUYnFZTXlKenZzS2JTQVBTRHRWbnRSaTYyRDVn?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7276,12 +7276,12 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDJvOWNWWE5jWDRuUWZrWWk5TzVrd2F1S3J3RWJJdmd0YVZ4dmxGeDlNaVFwbE1pbDVub1dYN3FjYmhUMHUtUEd1MEZFejZWZVVuZlN3YllJeFZNZUdSemdBSkFXQThscThNVnltY2lpZzdNS2tUZkpwVVhaZXp4c01kXzkwMmJLR0VQMHdn?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlUdk9XRWFXSC02RE80WWt1NXFsNDFvYlgweldnR1ZrM2cwUUJHd0pEYnJvcUg2eE1rMTVmWVN2UENlSlgyNHV2MEZ3Y0RldjJRZFJWX1g3UXNuSjBxeDgwMC1VOGdUYnFZTXlKenZzS2JTQVBTRHRWbnRSaTYyRDVn?oc=5"
  },
  {
-  "id": "rt-a83e5abd189f",
-  "titleCn": "艾琳的成功令人自豪，是沙巴运动员成功的典范 - astrowani.com",
-  "titleOrig": "Kejayaan Irene jadi kebanggaan, contoh atlet Sabah boleh berjaya - astroawani.com",
+  "id": "rt-914bbdcd92e5",
+  "titleCn": "艾琳的成功令人自豪，是沙巴运动员成功的典范 - Astro Awani",
+  "titleOrig": "Kejayaan Irene jadi kebanggaan, contoh atlet Sabah boleh berjaya - Astro Awani",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7290,7 +7290,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Kejayaan Irene jadi kebanggaan, contoh atlet Sabah boleh berjaya - astroawani.com",
+  "summary": "马来西亚新闻：Kejayaan Irene jadi kebanggaan, contoh atlet Sabah boleh berjaya - Astro Awani",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7327,9 +7327,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1VGMW1JUERiaEhMbnI0UU1kWUxKWFpjeGhJaDBENXF6Y2I1MUxTcmVjVHRGc3NRTzBuX2NDR08zUkprNktDUk5venp2alRzWFpJTUgwczlsbVZQY0lld1gxb3E4WEZiakJPRG5SdlZUQ25DbTRlYkRxQmZCNjBaUjZJbUpzZjFGSk0xb3d0NXl2TTI5X0dfYmF6cjZyVXM5Sk9kWXg4Q245eUQzZWI0eGkyTjZPYkN6V2Nn?oc=5"
  },
  {
-  "id": "rt-1a4247c7a5a3",
-  "titleCn": "Astro 庆祝成立 25 周年，为 Kpopers 带来 KCON：TACT 3 特别节目 - Gempak",
-  "titleOrig": "Astro Raikan Ulang Tahun 25, Bawa KCON: TACT 3 Khas Buat Kpopers - Gempak",
+  "id": "rt-652818747f31",
+  "titleCn": "Astro 庆祝 25 岁生日，带来 KCON：为 Kpopers 提供的 3 个特别 TACTS - gemak.com",
+  "titleOrig": "Astro Raikan Ulang Tahun 25, Bawa KCON: TACT 3 Khas Buat Kpopers - gempak.com",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7338,7 +7338,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Astro Raikan Ulang Tahun 25, Bawa KCON: TACT 3 Khas Buat Kpopers - Gempak",
+  "summary": "马来西亚新闻：Astro Raikan Ulang Tahun 25, Bawa KCON: TACT 3 Khas Buat Kpopers - gempak.com",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7423,5 +7423,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTThnREozNUNhdHJyODZmTEdlZHBUb3dGTnlNVXdpeUdPdGxoWFBUenVlSVhtNHJwcTVON1lncllvQl9WdEExalY0d0VOTENhV3FtbU04SmUyMEdBUVdrTTluNFJvUl9vV1RCbFhJUjNxOTZuMi1sVnZDXzZ1ZWtfM2dB?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-15T14:18:45";
+window.REALTIME_UPDATED = "2026-08-15T14:27:55";
 window.REALTIME_CARRIED = false;
