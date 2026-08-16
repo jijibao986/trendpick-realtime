@@ -3250,7 +3250,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Michael_Nesmith_EP.jpg/960px-Michael_Nesmith_EP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 88,
+  "buzzIndex": 92,
   "summary": "马来西亚 Twitter/X 今日热搜：#วาดฝันวันวิวาห์EP9",
   "tags": [],
   "timeRel": "",
@@ -3308,7 +3308,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PROXIE_in_2025.jpg/960px-PROXIE_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/9/99/Por_Suppakarn_-_Duang_with_You_250702.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 98,
@@ -3352,7 +3352,7 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PROXIE_in_2025.jpg/960px-PROXIE_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Por_Suppakarn_-_Duang_with_You_250702.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "source": "维基百科词条图",
     "caption": ""
    }
@@ -4836,7 +4836,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/2/21/Faizal_Tahir_-_AJL_23_Rehearsal_%282009%29.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 98,
+  "buzzIndex": 96,
   "summary": "马来西亚 Twitter/X 今日热搜：#AJL40",
   "tags": [],
   "timeRel": "",
@@ -4887,176 +4887,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=%23AJL40"
  },
  {
-  "id": "rt-48c91443ccc4",
-  "titleCn": "#DuangConcertDay1",
-  "titleOrig": "#DuangConcertDay1",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 96,
-  "summary": "马来西亚 Twitter/X 今日热搜：#DuangConcertDay1",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=%23DuangConcertDay1"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=%23DuangConcertDay1"
- },
- {
-  "id": "rt-e3507d41fdbb",
-  "titleCn": "DUANG GO 回合 第一天",
-  "titleOrig": "DUANG GO ROUND DAY1",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 94,
-  "summary": "马来西亚 Twitter/X 今日热搜：DUANG GO ROUND DAY1",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=DUANG%20GO%20ROUND%20DAY1"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/3236/2961285924_829b6a30ca_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=DUANG%20GO%20ROUND%20DAY1"
- },
- {
-  "id": "rt-dbd9b6689150",
-  "titleCn": "#KalmcloseEST时刻",
-  "titleOrig": "#KalmclosESTmoment",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 80,
-  "buzzIndex": 92,
-  "summary": "马来西亚 Twitter/X 今日热搜：#KalmclosESTmoment",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=%23KalmclosESTmoment"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=%23KalmclosESTmoment"
- },
- {
   "id": "rt-6a3ee1758458",
   "titleCn": "埃拉拉",
   "titleOrig": "Elara",
@@ -5067,7 +4897,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/7/76/Elara_-_New_Horizons.png",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 84,
+  "buzzIndex": 88,
   "summary": "马来西亚 Twitter/X 今日热搜：Elara",
   "tags": [],
   "timeRel": "",
@@ -5128,7 +4958,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 82,
+  "buzzIndex": 86,
   "summary": "马来西亚 Twitter/X 今日热搜：LINGORM ILF EP9",
   "tags": [],
   "timeRel": "",
@@ -5177,6 +5007,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://twitter.com/search?q=LINGORM%20ILF%20EP9"
+ },
+ {
+  "id": "rt-a5ffaaa1ef21",
+  "titleCn": "#WEIRDO101系列EP1",
+  "titleOrig": "#WEIRDO101SeriesEP1",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/2174/2184458971_df11f5497b_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 84,
+  "summary": "马来西亚 Twitter/X 今日热搜：#WEIRDO101SeriesEP1",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=%23WEIRDO101SeriesEP1"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/2174/2184458971_df11f5497b_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=%23WEIRDO101SeriesEP1"
  },
  {
   "id": "rt-0cfe468f4328",
@@ -5240,67 +5131,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Amorim"
  },
  {
-  "id": "rt-50474b09ded7",
-  "titleCn": "LINGORM 泰国 FANTOUR",
-  "titleOrig": "LINGORM THAILAND FANTOUR",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 78,
-  "summary": "马来西亚 Twitter/X 今日热搜：LINGORM THAILAND FANTOUR",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=LINGORM%20THAILAND%20FANTOUR"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse(LINGORM)",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse(LINGORM)",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
-    "source": "Openverse(LINGORM)",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=LINGORM%20THAILAND%20FANTOUR"
- },
- {
   "id": "rt-87a29562ac98",
   "titleCn": "莉拉",
   "titleOrig": "Lila",
@@ -5311,7 +5141,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/4894/31174074047_96e0e7fb3c_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 76,
+  "buzzIndex": 78,
   "summary": "马来西亚 Twitter/X 今日热搜：Lila",
   "tags": [],
   "timeRel": "",
@@ -5362,9 +5192,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Lila"
  },
  {
-  "id": "rt-833f03470085",
-  "titleCn": "克康",
-  "titleOrig": "kcon",
+  "id": "rt-28694cd4674a",
+  "titleCn": "韩国KCON",
+  "titleOrig": "KCON",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
@@ -5372,8 +5202,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lee_Min-ho_-_KCON_2016_%28cropped%29.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 72,
-  "summary": "马来西亚 Twitter/X 今日热搜：kcon",
+  "buzzIndex": 74,
+  "summary": "马来西亚 Twitter/X 今日热搜：KCON",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5383,7 +5213,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=kcon"
+    "url": "https://twitter.com/search?q=KCON"
    },
    {
     "type": "openverse",
@@ -5420,21 +5250,21 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=kcon"
+  "primaryUrl": "https://twitter.com/search?q=KCON"
  },
  {
-  "id": "rt-0235054487fc",
-  "titleCn": "伊森",
-  "titleOrig": "Ethan",
+  "id": "rt-50474b09ded7",
+  "titleCn": "LINGORM 泰国 FANTOUR",
+  "titleOrig": "LINGORM THAILAND FANTOUR",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3837/15229827496_7b8d902b97_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 70,
-  "summary": "马来西亚 Twitter/X 今日热搜：Ethan",
+  "buzzIndex": 72,
+  "summary": "马来西亚 Twitter/X 今日热搜：LINGORM THAILAND FANTOUR",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5444,7 +5274,68 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=Ethan"
+    "url": "https://twitter.com/search?q=LINGORM%20THAILAND%20FANTOUR"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse(LINGORM)",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse(LINGORM)",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
+    "source": "Openverse(LINGORM)",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=LINGORM%20THAILAND%20FANTOUR"
+ },
+ {
+  "id": "rt-7c552e87eaac",
+  "titleCn": "PERTHSANTA 爱情班",
+  "titleOrig": "PERTHSANTA LOVE CLASS",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/4064/4400350981_aa28d5972f_m.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 70,
+  "summary": "马来西亚 Twitter/X 今日热搜：PERTHSANTA LOVE CLASS",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=PERTHSANTA%20LOVE%20CLASS"
    },
    {
     "type": "openverse",
@@ -5474,14 +5365,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/3837/15229827496_7b8d902b97_b.jpg",
+    "url": "https://live.staticflickr.com/4064/4400350981_aa28d5972f_m.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=Ethan"
+  "primaryUrl": "https://twitter.com/search?q=PERTHSANTA%20LOVE%20CLASS"
  },
  {
   "id": "rt-d163f7ad7699",
@@ -5494,7 +5385,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/2913/14613349968_b8f8b858c1_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 68,
+  "buzzIndex": 66,
   "summary": "马来西亚 Twitter/X 今日热搜：Eric",
   "tags": [],
   "timeRel": "",
@@ -5545,6 +5436,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Eric"
  },
  {
+  "id": "rt-06ae22c29338",
+  "titleCn": "圆宇",
+  "titleOrig": "wonwoo",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Wonwoo_Follow_240330.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 64,
+  "summary": "马来西亚 Twitter/X 今日热搜：wonwoo",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=wonwoo"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-16",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Wonwoo_Follow_240330.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-16",
+  "primaryUrl": "https://twitter.com/search?q=wonwoo"
+ },
+ {
   "id": "rt-25a14a19f2e0",
   "titleCn": "埃利亚斯",
   "titleOrig": "Elias",
@@ -5555,7 +5507,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/8074/8282659297_017c1f6171.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 66,
+  "buzzIndex": 62,
   "summary": "马来西亚 Twitter/X 今日热搜：Elias",
   "tags": [],
   "timeRel": "",
@@ -5616,7 +5568,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/65535/48286572132_44bcab7e14_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 64,
+  "buzzIndex": 60,
   "summary": "马来西亚 Twitter/X 今日热搜：DR ALLY WITH OHM",
   "tags": [],
   "timeRel": "",
@@ -5677,7 +5629,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3272/2551021254_7bffd976f9_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 62,
+  "buzzIndex": 58,
   "summary": "马来西亚 Twitter/X 今日热搜：Marsha",
   "tags": [],
   "timeRel": "",
@@ -5738,7 +5690,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/4/47/Aina_Abdul_PTTI.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 60,
+  "buzzIndex": 56,
   "summary": "马来西亚 Twitter/X 今日热搜：AINA ABDUL",
   "tags": [],
   "timeRel": "",
@@ -5796,10 +5748,10 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/65535/49732775112_baa27d0b3e_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Arlington_Texas_EF2_damage.jpg/960px-Arlington_Texas_EF2_damage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 58,
+  "buzzIndex": 54,
   "summary": "马来西亚 Twitter/X 今日热搜：Arlington",
   "tags": [],
   "timeRel": "",
@@ -5813,8 +5765,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Arlington"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "commons",
+    "name": "维基共享资源图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5836,12 +5788,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基共享资源图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/65535/49732775112_baa27d0b3e_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Arlington_Texas_EF2_damage.jpg/960px-Arlington_Texas_EF2_damage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "维基共享资源图",
     "caption": ""
    }
   ],
@@ -5860,7 +5812,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 56,
+  "buzzIndex": 52,
   "summary": "马来西亚 Twitter/X 今日热搜：HERE WITH CHARLOTTE15",
   "tags": [],
   "timeRel": "",
@@ -5918,10 +5870,10 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/8798/17108913845_d9bd91d7fd_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/3/33/EleanordeProvence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 50,
   "summary": "马来西亚 Twitter/X 今日热搜：Eleanor",
   "tags": [],
   "timeRel": "",
@@ -5935,8 +5887,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Eleanor"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5958,127 +5910,18 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/8798/17108913845_d9bd91d7fd_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/EleanordeProvence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-16",
   "primaryUrl": "https://twitter.com/search?q=Eleanor"
- },
- {
-  "id": "rt-5561631084e1",
-  "titleCn": "EMIBONNIE X 阿尔法营",
-  "titleOrig": "EMIBONNIE X THE ALPHA CAMP",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 80,
-  "buzzIndex": 52,
-  "summary": "马来西亚 Twitter/X 今日热搜：EMIBONNIE X THE ALPHA CAMP",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=EMIBONNIE%20X%20THE%20ALPHA%20CAMP"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=EMIBONNIE%20X%20THE%20ALPHA%20CAMP"
- },
- {
-  "id": "rt-19715ff2ac7a",
-  "titleCn": "肖",
-  "titleOrig": "Shaw",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3395/3607243710_027f50dafb_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 50,
-  "summary": "马来西亚 Twitter/X 今日热搜：Shaw",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Shaw"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-16",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/3395/3607243710_027f50dafb_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://twitter.com/search?q=Shaw"
  },
  {
   "id": "rt-86f7df107061",
@@ -7222,18 +7065,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qNFp0M294RmVYWnZtRlZDWXVpMkpyUHB6YUdtMmJCbTRrQnV4YXJHX2JiSFN6bEpSQm8xcnpHSGVsY2hVUHI5dnhhNzBRNlpTcmpEVlR3TW5FV2lO?oc=5"
  },
  {
-  "id": "rt-b336d7de6bdf",
-  "titleCn": "会太近了！ “Fourth” Live 推出首场个人演唱会 - “Phuwin” 加入但暗地里很忙 - mintmagth.com",
-  "titleOrig": "มันจะสนิทกันเกิน! 'โฟร์ท' ไลฟ์ฝากคอนเสิร์ตเดี่ยวครั้งแรก - 'ภูวินทร์' ร่วมแจมแต่แอบติดธุระ - mintmagth.com",
+  "id": "rt-bed82759b209",
+  "titleCn": "会太近了！ “Fourth” Live 推出首场个人演唱会 - “Phuwin” 加入但暗地里很忙 - Mint 杂志泰国",
+  "titleOrig": "มันจะสนิทกันเกิน! 'โฟร์ท' ไลฟ์ฝากคอนเสิร์ตเดี่ยวครั้งแรก - 'ภูวินทร์' ร่วมแจมแต่แอบติดธุระ - Mint Magazine Thailand",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ive_at_the_40th_Golden_Disc_Awards%2C_January_10%2C_2026_%282%29.png/960px-Ive_at_the_40th_Golden_Disc_Awards%2C_January_10%2C_2026_%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国新闻：มันจะสนิทกันเกิน! 'โฟร์ท' ไลฟ์ฝากคอนเสิร์ตเดี่ยวครั้งแรก - 'ภูวินทร์' ร่วมแจมแต่แอบติดธุระ - mintmagth.com",
+  "summary": "泰国新闻：มันจะสนิทกันเกิน! 'โฟร์ท' ไลฟ์ฝากคอนเสิร์ตเดี่ยวครั้งแรก - 'ภูวินทร์' ร่วมแจมแต่แอบติดธุระ - Mint Magazine Thailand",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7246,8 +7089,8 @@ window.EVENTS_REALTIME = [
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGxkLUoyZHVIelNxWDlrR190QWhLTEJpUVpxYjgxQVc2WnBHcnF0TVRaTWZmN0RYYnJEZW16MmE4clBSRTFzX2o4VVh2d2NSZGNwTUhmYl94MXg0NngxeVVPSGVFODFNN1JWTUk5ZTh5azhETWJ1LUU2aGVTbUZxMXh5WQ?oc=5"
    },
    {
-    "type": "openverse",
-    "name": "Openverse(IVE)",
+    "type": "wiki",
+    "name": "维基百科(IVE)",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -7269,12 +7112,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse(IVE)",
+  "imageSource": "维基百科(IVE)",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
-    "source": "Openverse(IVE)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ive_at_the_40th_Golden_Disc_Awards%2C_January_10%2C_2026_%282%29.png/960px-Ive_at_the_40th_Golden_Disc_Awards%2C_January_10%2C_2026_%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科(IVE)",
     "caption": ""
    }
   ],
@@ -7475,9 +7318,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWdVekRhbkFuMmVfZWcyVldsNGV2NnBFQzBfQ3p5R3hjWTM1c3g4UlFxcEtIR3N3NXh3QTJJcWJGZ2daaC1nZnpsdmlpOEZIcGtGOWo0ek1MekZKa084NTZFYTNqTEtzZnhybGlkMExtd1JtMHNGLWZWWU9kcGNvZDV1WlIzTmRLN3hxX0JMY0t6NFJpM2lQUm5YSdIBoAFBVV95cUxPNi1wX1lETnJlTDBFM3I0emUwMllTQmVPOHZobk9CeVN3bmhNQ3c1RkFXUkRRdEVNVWxKVGhodlNEWm5XUlNoSXNfU0hxV2ZGZEdsc1ZPUVU4eFVVamtzNWtFcndiRnlJRGNYYk9aOXJRdzJFQ3pMSTBpWmN6ZmdxUGM0TnY5YWNMa21yalZOOFJRcW9VV1JFN2xQdV9RclNI?oc=5"
  },
  {
-  "id": "rt-24bd2f317fc7",
-  "titleCn": "政府需要系统地管理难民，以避免更大的危机 - Lila Ruzaini - MalaysiaGazette",
-  "titleOrig": "Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - MalaysiaGazette",
+  "id": "rt-56ded05d7fd5",
+  "titleCn": "比卡莉拉曼子性交被称为两年一射|每日射线 - 每日射线",
+  "titleOrig": "Bi Ka Lila Man amang seksual kanak-kanak dijel dua tahun, satu sebatan | Sinar Harian - Sinar Harian",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7486,7 +7329,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - MalaysiaGazette",
+  "summary": "马来西亚新闻：Bi Ka Lila Man amang seksual kanak-kanak dijel dua tahun, satu sebatan | Sinar Harian - Sinar Harian",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7496,7 +7339,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlJKOW1iRWt2VmVlenc3b3RLdzNENGg1RmFjS3dlUVpoRWZIOENfMG41SUswVjdKNzRUWHM0S3JvTGhtdm5kQnRPbUF1NzBnQjJCcF9nX1BuTDllSVRWUC1mcUwxSjFxNlh0OHlfNVphR190Y2F0VEYwX3ljWDZSYVZWbjhaek5tSHhhRDZ4WC1FbElPcFN5OWpYaXEyRnVuVTJxZjJ2bGNlV1ZXSXNnODF2N3gtWVR0RVNnQjdkWlI?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUxXUzlMSzIzV25ObEFPU3Q1WmZPcldXNmcyN01rUmwyV3NLYS1aenJHSkx4MXZDclhGS0k1Sk9XWUJjZEVLYkZwNW45SmlWalBBVTgyWmRKUHkyOVJSZnItMXhGMWRWM1Nnb2pRRl95X1pPY01JczB4VUlDWlNyeGI3c3oxUzRlemNESlBiSmtpdkJBZXhHUG42ZjctanEtVS1ueU1JWjRzaVh6bEtSY0hwUTF2V01tcXllY21KdXZvTWRvVzdXTNIBXEFVX3lxTFB2MGRHaUhOZ3gzRnB2ZXNpZmxsM21WNjNaOUU1Qmt3ekZ4QS00ZEpteGJiNTlCajhkSlFxcTkyZzlSVzZiSVU1WjEyZEZFbVpPWUFXMXQ4R2NUX25i?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7520,8 +7363,8 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-16",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlJKOW1iRWt2VmVlenc3b3RLdzNENGg1RmFjS3dlUVpoRWZIOENfMG41SUswVjdKNzRUWHM0S3JvTGhtdm5kQnRPbUF1NzBnQjJCcF9nX1BuTDllSVRWUC1mcUwxSjFxNlh0OHlfNVphR190Y2F0VEYwX3ljWDZSYVZWbjhaek5tSHhhRDZ4WC1FbElPcFN5OWpYaXEyRnVuVTJxZjJ2bGNlV1ZXSXNnODF2N3gtWVR0RVNnQjdkWlI?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUxXUzlMSzIzV25ObEFPU3Q1WmZPcldXNmcyN01rUmwyV3NLYS1aenJHSkx4MXZDclhGS0k1Sk9XWUJjZEVLYkZwNW45SmlWalBBVTgyWmRKUHkyOVJSZnItMXhGMWRWM1Nnb2pRRl95X1pPY01JczB4VUlDWlNyeGI3c3oxUzRlemNESlBiSmtpdkJBZXhHUG42ZjctanEtVS1ueU1JWjRzaVh6bEtSY0hwUTF2V01tcXllY21KdXZvTWRvVzdXTNIBXEFVX3lxTFB2MGRHaUhOZ3gzRnB2ZXNpZmxsM21WNjNaOUU1Qmt3ekZ4QS00ZEpteGJiNTlCajhkSlFxcTkyZzlSVzZiSVU1WjEyZEZFbVpPWUFXMXQ4R2NUX25i?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-16T17:21:54";
+window.REALTIME_UPDATED = "2026-08-16T17:51:03";
 window.REALTIME_CARRIED = false;
