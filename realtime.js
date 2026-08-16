@@ -3654,6 +3654,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=%23MatchPointSeriesEP4"
  },
  {
+  "id": "rt-f72a0d224f01",
+  "titleCn": "子玉向前奔跑",
+  "titleOrig": "ZIYU RUN IT FORWARD",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/4136/4781984363_f0b55a2a20_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 84,
+  "summary": "泰国 Twitter/X 今日热搜：ZIYU RUN IT FORWARD",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=ZIYU%20RUN%20IT%20FORWARD"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-17",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/4136/4781984363_f0b55a2a20_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-17",
+  "primaryUrl": "https://twitter.com/search?q=ZIYU%20RUN%20IT%20FORWARD"
+ },
+ {
   "id": "rt-b4b931d987a7",
   "titleCn": "发球赛点第四集",
   "titleOrig": "SERVING MATCH POINT 4TH EP",
@@ -3664,7 +3725,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/2423/3947581564_2e82a40356_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 84,
+  "buzzIndex": 82,
   "summary": "泰国 Twitter/X 今日热搜：SERVING MATCH POINT 4TH EP",
   "tags": [],
   "timeRel": "",
@@ -3715,17 +3776,139 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=SERVING%20MATCH%20POINT%204TH%20EP"
  },
  {
+  "id": "rt-23669474e2b3",
+  "titleCn": "PERTHSANTA 清迈美容中心",
+  "titleOrig": "PERTHSANTA BEAUTY CHIANGMAI",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/5450/9479798436_61cf2c6b47_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 80,
+  "summary": "泰国 Twitter/X 今日热搜：PERTHSANTA BEAUTY CHIANGMAI",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=PERTHSANTA%20BEAUTY%20CHIANGMAI"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-17",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/5450/9479798436_61cf2c6b47_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-17",
+  "primaryUrl": "https://twitter.com/search?q=PERTHSANTA%20BEAUTY%20CHIANGMAI"
+ },
+ {
+  "id": "rt-23aca30fbad0",
+  "titleCn": "艾米博尼美丽无限",
+  "titleOrig": "EMIBONNIE BEAUTY INFINITY",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/5450/9479798436_61cf2c6b47_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 78,
+  "summary": "泰国 Twitter/X 今日热搜：EMIBONNIE BEAUTY INFINITY",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=EMIBONNIE%20BEAUTY%20INFINITY"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-17",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/5450/9479798436_61cf2c6b47_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-17",
+  "primaryUrl": "https://twitter.com/search?q=EMIBONNIE%20BEAUTY%20INFINITY"
+ },
+ {
   "id": "rt-4c199dc3cdf3",
   "titleCn": "只属于你的绽放 X JJ",
   "titleOrig": "TUI BLOOM SOLO X JJ",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
-  "stars": "🔥🔥",
+  "stars": "🔥",
   "cover": "https://live.staticflickr.com/2839/9157585500_5dc5e363f3_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 82,
+  "buzzIndex": 76,
   "summary": "泰国 Twitter/X 今日热搜：TUI BLOOM SOLO X JJ",
   "tags": [],
   "timeRel": "",
@@ -3776,128 +3959,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=TUI%20BLOOM%20SOLO%20X%20JJ"
  },
  {
-  "id": "rt-23669474e2b3",
-  "titleCn": "PERTHSANTA 清迈美容中心",
-  "titleOrig": "PERTHSANTA BEAUTY CHIANGMAI",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/b/be/%28Force%29_Jiratchapong_Srisang.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 80,
-  "summary": "泰国 Twitter/X 今日热搜：PERTHSANTA BEAUTY CHIANGMAI",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=PERTHSANTA%20BEAUTY%20CHIANGMAI"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-17",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/%28Force%29_Jiratchapong_Srisang.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=PERTHSANTA%20BEAUTY%20CHIANGMAI"
- },
- {
-  "id": "rt-23aca30fbad0",
-  "titleCn": "艾米博尼美丽无限",
-  "titleOrig": "EMIBONNIE BEAUTY INFINITY",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/0/07/%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C_%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 78,
-  "summary": "泰国 Twitter/X 今日热搜：EMIBONNIE BEAUTY INFINITY",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=EMIBONNIE%20BEAUTY%20INFINITY"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-17",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C_%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=EMIBONNIE%20BEAUTY%20INFINITY"
- },
- {
   "id": "rt-f554915302d5",
   "titleCn": "欧路德三周年",
   "titleOrig": "OUROAD 3rd Anniversary",
@@ -3905,10 +3966,10 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ive_-_I%27ve_Ive.png/960px-Ive_-_I%27ve_Ive.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 76,
+  "buzzIndex": 74,
   "summary": "泰国 Twitter/X 今日热搜：OUROAD 3rd Anniversary",
   "tags": [],
   "timeRel": "",
@@ -3922,8 +3983,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=OUROAD%203rd%20Anniversary"
    },
    {
-    "type": "wiki",
-    "name": "维基百科(IVE)",
+    "type": "openverse",
+    "name": "Openverse(IVE)",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -3945,201 +4006,18 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "维基百科(IVE)",
+  "imageSource": "Openverse(IVE)",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ive_-_I%27ve_Ive.png/960px-Ive_-_I%27ve_Ive.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科(IVE)",
+    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+    "source": "Openverse(IVE)",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
   "primaryUrl": "https://twitter.com/search?q=OUROAD%203rd%20Anniversary"
- },
- {
-  "id": "rt-f72a0d224f01",
-  "titleCn": "子玉向前奔跑",
-  "titleOrig": "ZIYU RUN IT FORWARD",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg/960px-Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 74,
-  "summary": "泰国 Twitter/X 今日热搜：ZIYU RUN IT FORWARD",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=ZIYU%20RUN%20IT%20FORWARD"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-17",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg/960px-Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=ZIYU%20RUN%20IT%20FORWARD"
- },
- {
-  "id": "rt-e44bfee343e9",
-  "titleCn": "因农萨是命运",
-  "titleOrig": "INNONGSA IS DESTINY",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3805/9076823153_e33a70fa5d_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 72,
-  "summary": "泰国 Twitter/X 今日热搜：INNONGSA IS DESTINY",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=INNONGSA%20IS%20DESTINY"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-17",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/3805/9076823153_e33a70fa5d_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=INNONGSA%20IS%20DESTINY"
- },
- {
-  "id": "rt-77794527c283",
-  "titleCn": "跑得更远",
-  "titleOrig": "THE RUNNING FURTHER",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/8159/28458942995_82eda5034c_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 70,
-  "summary": "泰国 Twitter/X 今日热搜：THE RUNNING FURTHER",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=THE%20RUNNING%20FURTHER"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-17",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/8159/28458942995_82eda5034c_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=THE%20RUNNING%20FURTHER"
  },
  {
   "id": "rt-655d97c1acce",
@@ -4152,7 +4030,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/182/486973290_df7fb88727_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 68,
+  "buzzIndex": 72,
   "summary": "泰国 Twitter/X 今日热搜：LOVEX3 FIRST EPISODE",
   "tags": [],
   "timeRel": "",
@@ -4203,6 +4081,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=LOVEX3%20FIRST%20EPISODE"
  },
  {
+  "id": "rt-e44bfee343e9",
+  "titleCn": "因农萨是命运",
+  "titleOrig": "INNONGSA IS DESTINY",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/3805/9076823153_e33a70fa5d_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 70,
+  "summary": "泰国 Twitter/X 今日热搜：INNONGSA IS DESTINY",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=INNONGSA%20IS%20DESTINY"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-17",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3805/9076823153_e33a70fa5d_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-17",
+  "primaryUrl": "https://twitter.com/search?q=INNONGSA%20IS%20DESTINY"
+ },
+ {
   "id": "rt-3a24ca29bf43",
   "titleCn": "许宁香之旅",
   "titleOrig": "XUNING FRAGRANCE JOURNEY",
@@ -4213,7 +4152,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2e/View_of_Kunming_from_Xuning_Temple_03.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 66,
+  "buzzIndex": 68,
   "summary": "泰国 Twitter/X 今日热搜：XUNING FRAGRANCE JOURNEY",
   "tags": [],
   "timeRel": "",
@@ -4262,6 +4201,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-17",
   "primaryUrl": "https://twitter.com/search?q=XUNING%20FRAGRANCE%20JOURNEY"
+ },
+ {
+  "id": "rt-77794527c283",
+  "titleCn": "跑得更远",
+  "titleOrig": "THE RUNNING FURTHER",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/8159/28458942995_82eda5034c_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 66,
+  "summary": "泰国 Twitter/X 今日热搜：THE RUNNING FURTHER",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=THE%20RUNNING%20FURTHER"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-17",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/8159/28458942995_82eda5034c_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-17",
+  "primaryUrl": "https://twitter.com/search?q=THE%20RUNNING%20FURTHER"
  },
  {
   "id": "rt-343a8d8948c5",
@@ -4325,128 +4325,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=PAVEL%20X%20LUMARIS"
  },
  {
-  "id": "rt-263fcc34921f",
-  "titleCn": "独奏家Renjun on TMEA",
-  "titleOrig": "SOLOIST RENJUN ON TMEA",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/2557/3730870251_c875ec8f80_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 62,
-  "summary": "泰国 Twitter/X 今日热搜：SOLOIST RENJUN ON TMEA",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=SOLOIST%20RENJUN%20ON%20TMEA"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-17",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/2557/3730870251_c875ec8f80_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=SOLOIST%20RENJUN%20ON%20TMEA"
- },
- {
-  "id": "rt-a4983d14c17d",
-  "titleCn": "名人 JUMMO CFT26 D2",
-  "titleOrig": "CELEB JUMMO CFT26 D2",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/65535/52268236333_ba2c76c3a2_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 60,
-  "summary": "泰国 Twitter/X 今日热搜：CELEB JUMMO CFT26 D2",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=CELEB%20JUMMO%20CFT26%20D2"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-17",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/65535/52268236333_ba2c76c3a2_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=CELEB%20JUMMO%20CFT26%20D2"
- },
- {
   "id": "rt-e15c191978fb",
   "titleCn": "沉没 OST DBTE",
   "titleOrig": "SUNK OST DBTE",
@@ -4457,7 +4335,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/4540/38661827036_7016827caf_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 58,
+  "buzzIndex": 62,
   "summary": "泰国 Twitter/X 今日热搜：SUNK OST DBTE",
   "tags": [],
   "timeRel": "",
@@ -4508,18 +4386,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=SUNK%20OST%20DBTE"
  },
  {
-  "id": "rt-9cc4aab094a2",
-  "titleCn": "我们与 LK 16 的旅程",
-  "titleOrig": "OUR JOURNEY WITH LK 16",
+  "id": "rt-263fcc34921f",
+  "titleCn": "独奏家Renjun on TMEA",
+  "titleOrig": "SOLOIST RENJUN ON TMEA",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/5109/5637317683_8c70603556_b.jpg",
+  "cover": "https://live.staticflickr.com/2557/3730870251_c875ec8f80_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 56,
-  "summary": "泰国 Twitter/X 今日热搜：OUR JOURNEY WITH LK 16",
+  "buzzIndex": 60,
+  "summary": "泰国 Twitter/X 今日热搜：SOLOIST RENJUN ON TMEA",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4529,7 +4407,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=OUR%20JOURNEY%20WITH%20LK%2016"
+    "url": "https://twitter.com/search?q=SOLOIST%20RENJUN%20ON%20TMEA"
    },
    {
     "type": "openverse",
@@ -4559,14 +4437,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/5109/5637317683_8c70603556_b.jpg",
+    "url": "https://live.staticflickr.com/2557/3730870251_c875ec8f80_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=OUR%20JOURNEY%20WITH%20LK%2016"
+  "primaryUrl": "https://twitter.com/search?q=SOLOIST%20RENJUN%20ON%20TMEA"
  },
  {
   "id": "rt-8c0d941bb633",
@@ -4579,7 +4457,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 58,
   "summary": "泰国 Twitter/X 今日热搜：MOONLIT RIVER WITH KONG",
   "tags": [],
   "timeRel": "",
@@ -4630,6 +4508,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=MOONLIT%20RIVER%20WITH%20KONG"
  },
  {
+  "id": "rt-19a4ad6183f7",
+  "titleCn": "德克斯",
+  "titleOrig": "DEXX",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/8461/8021884032_3d28a0725e_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 56,
+  "summary": "泰国 Twitter/X 今日热搜：DEXX",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=DEXX"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-17",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/8461/8021884032_3d28a0725e_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-17",
+  "primaryUrl": "https://twitter.com/search?q=DEXX"
+ },
+ {
   "id": "rt-7a70f4c682c9",
   "titleCn": "JOONGDUNK 天王星（KB）",
   "titleOrig": "JOONGDUNK URANUS IN KB",
@@ -4640,7 +4579,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/2886/33570800220_c826f1ccb6_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 52,
+  "buzzIndex": 54,
   "summary": "泰国 Twitter/X 今日热搜：JOONGDUNK URANUS IN KB",
   "tags": [],
   "timeRel": "",
@@ -4691,18 +4630,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=JOONGDUNK%20URANUS%20IN%20KB"
  },
  {
-  "id": "rt-00cb9d933cff",
-  "titleCn": "好孩子系列Q7",
-  "titleOrig": "GOOD BOY SERIES Q7",
+  "id": "rt-029d03117566",
+  "titleCn": "明尼苏达 x 霍纳利",
+  "titleOrig": "MN x HONAHLEE",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/2240/2193814688_37228d4de8_b.jpg",
+  "cover": "https://live.staticflickr.com/6083/6084189105_f4f5bc587d_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 50,
-  "summary": "泰国 Twitter/X 今日热搜：GOOD BOY SERIES Q7",
+  "buzzIndex": 52,
+  "summary": "泰国 Twitter/X 今日热搜：MN x HONAHLEE",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4712,7 +4651,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=GOOD%20BOY%20SERIES%20Q7"
+    "url": "https://twitter.com/search?q=MN%20x%20HONAHLEE"
    },
    {
     "type": "openverse",
@@ -4742,14 +4681,75 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2240/2193814688_37228d4de8_b.jpg",
+    "url": "https://live.staticflickr.com/6083/6084189105_f4f5bc587d_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=GOOD%20BOY%20SERIES%20Q7"
+  "primaryUrl": "https://twitter.com/search?q=MN%20x%20HONAHLEE"
+ },
+ {
+  "id": "rt-ae9cbc38b4fe",
+  "titleCn": "承诺美丽日",
+  "titleOrig": "JANJINGJING BEAUTY DAY",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f0/JingJing_Yu_2025-06-30.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 50,
+  "summary": "泰国 Twitter/X 今日热搜：JANJINGJING BEAUTY DAY",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=JANJINGJING%20BEAUTY%20DAY"
+   },
+   {
+    "type": "wiki",
+    "name": "维基百科词条图",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-17",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "维基百科词条图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/JingJing_Yu_2025-06-30.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-17",
+  "primaryUrl": "https://twitter.com/search?q=JANJINGJING%20BEAUTY%20DAY"
  },
  {
   "id": "rt-68c701cb2fbb",
@@ -4881,7 +4881,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/2325/1718853829_cfda841e1a_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Portrait_of_Charles_E._Odegaard_%28Prof._of_History%2C_1952-1958%3B_Dean_of_LS%26A_1952-1958%29.jpg/960px-Portrait_of_Charles_E._Odegaard_%28Prof._of_History%2C_1952-1958%3B_Dean_of_LS%26A_1952-1958%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 90,
@@ -4898,8 +4898,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Odegaard"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -4921,12 +4921,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2325/1718853829_cfda841e1a_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Portrait_of_Charles_E._Odegaard_%28Prof._of_History%2C_1952-1958%3B_Dean_of_LS%26A_1952-1958%29.jpg/960px-Portrait_of_Charles_E._Odegaard_%28Prof._of_History%2C_1952-1958%3B_Dean_of_LS%26A_1952-1958%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5003,7 +5003,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/3875/15220826391_0280c91597.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Arsenal-Supporters.jpg/960px-Arsenal-Supporters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 84,
@@ -5020,8 +5020,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=%23COYG"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5043,12 +5043,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/3875/15220826391_0280c91597.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Arsenal-Supporters.jpg/960px-Arsenal-Supporters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5125,7 +5125,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/5/56/Maresca_Championship_trophy_Leicester_%28cropped%29.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Enzo_maresca_chelsea_gent_2024_%28extracted%29.jpg/960px-Enzo_maresca_chelsea_gent_2024_%28extracted%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 80,
@@ -5142,8 +5142,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Maresca"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5165,12 +5165,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Maresca_Championship_trophy_Leicester_%28cropped%29.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Enzo_maresca_chelsea_gent_2024_%28extracted%29.jpg/960px-Enzo_maresca_chelsea_gent_2024_%28extracted%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5430,7 +5430,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/65535/48286572132_44bcab7e14_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Seal_of_Maine.svg/960px-Seal_of_Maine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 64,
@@ -5447,8 +5447,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=DR%20ALLY%20WITH%20OHM"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5470,12 +5470,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/65535/48286572132_44bcab7e14_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Seal_of_Maine.svg/960px-Seal_of_Maine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5674,7 +5674,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/4050/4351080843_d8200ab9bd.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e0/George_Percy%2C_Early_Percy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 56,
@@ -5691,8 +5691,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=PERCY%20MOMENTS%20WITH%20PREM"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5714,12 +5714,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/4050/4351080843_d8200ab9bd.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/George_Percy%2C_Early_Percy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5837,28 +5837,35 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=CWR%20PAINTING%20MEMORIES"
  },
  {
-  "id": "rt-32e1a603c0f0",
-  "titleCn": "你和我是截然相反第二季",
-  "titleOrig": "You and I Are Polar Opposites Season 2",
+  "id": "rt-77d7401b547c",
+  "titleCn": "搜搜不结冰",
+  "titleOrig": "Sousou no Frieren",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sousou_no_frieren.png",
   "coverType": "remote",
-  "credibilityScore": 88,
+  "credibilityScore": 80,
   "buzzIndex": 98,
-  "summary": "AniList 人气动漫第1：You and I Are Polar Opposites Season 2",
+  "summary": "MyAnimeList 人气动漫第1：Sousou no Frieren",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/210031"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -5877,42 +5884,49 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
-    "source": "AniList 封面图",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sousou_no_frieren.png",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/210031"
+  "primaryUrl": "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
  },
  {
-  "id": "rt-46b9cf893228",
-  "titleCn": "真的真的真的真的真的爱你的100个女朋友第三季",
-  "titleOrig": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+  "id": "rt-67e20815edbc",
+  "titleCn": "Re:从零开始的异世界生活 第四季",
+  "titleOrig": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
+  "cover": "https://live.staticflickr.com/3212/3145780296_a6dd024eaa_b.jpg",
   "coverType": "remote",
-  "credibilityScore": 88,
+  "credibilityScore": 80,
   "buzzIndex": 96,
-  "summary": "AniList 人气动漫第2：The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+  "summary": "MyAnimeList 人气动漫第2：Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/200637"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -5931,42 +5945,49 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
-    "source": "AniList 封面图",
+    "url": "https://live.staticflickr.com/3212/3145780296_a6dd024eaa_b.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/200637"
+  "primaryUrl": "https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season"
  },
  {
-  "id": "rt-2e25a83618e4",
-  "titleCn": "世界最强后卫",
-  "titleOrig": "The World's Strongest Rearguard",
+  "id": "rt-9c6785989e59",
+  "titleCn": "钢之炼金术师：兄弟会",
+  "titleOrig": "Fullmetal Alchemist: Brotherhood",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
+  "cover": "https://live.staticflickr.com/4106/4836636607_5bd619f8f8_b.jpg",
   "coverType": "remote",
-  "credibilityScore": 88,
+  "credibilityScore": 80,
   "buzzIndex": 94,
-  "summary": "AniList 人气动漫第3：The World's Strongest Rearguard",
+  "summary": "MyAnimeList 人气动漫第3：Fullmetal Alchemist: Brotherhood",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/198409"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -5985,42 +6006,49 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
-    "source": "AniList 封面图",
+    "url": "https://live.staticflickr.com/4106/4836636607_5bd619f8f8_b.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/198409"
+  "primaryUrl": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
  },
  {
-  "id": "rt-86f7df107061",
-  "titleCn": "暗影领域的恶魔",
-  "titleOrig": "Daemons of the Shadow Realm",
+  "id": "rt-81366fbfff9e",
+  "titleCn": "钢珠跑酷：JoJo 的金曜的冒险",
+  "titleOrig": "Steel Ball Run: JoJo no Kimyou na Bouken",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+  "cover": "https://live.staticflickr.com/2007/2361569853_45e0b16aa7.jpg",
   "coverType": "remote",
-  "credibilityScore": 88,
+  "credibilityScore": 80,
   "buzzIndex": 92,
-  "summary": "AniList 人气动漫第4：Daemons of the Shadow Realm",
+  "summary": "MyAnimeList 人气动漫第4：Steel Ball Run: JoJo no Kimyou na Bouken",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/195600"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -6039,42 +6067,49 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
-    "source": "AniList 封面图",
+    "url": "https://live.staticflickr.com/2007/2361569853_45e0b16aa7.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/195600"
+  "primaryUrl": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken"
  },
  {
-  "id": "rt-5d5ea7a1c9cf",
-  "titleCn": "关于我转生变成史莱姆第四季",
-  "titleOrig": "That Time I Got Reincarnated as a Slime Season 4",
+  "id": "rt-1c08366d602b",
+  "titleCn": "命运石之门",
+  "titleOrig": "Steins;Gate",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+  "cover": "https://live.staticflickr.com/6133/5977089483_5c4735b7d4_b.jpg",
   "coverType": "remote",
-  "credibilityScore": 88,
+  "credibilityScore": 80,
   "buzzIndex": 90,
-  "summary": "AniList 人气动漫第5：That Time I Got Reincarnated as a Slime Season 4",
+  "summary": "MyAnimeList 人气动漫第5：Steins;Gate",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/182205"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/9253/Steins_Gate"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "多市场",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -6093,42 +6128,42 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
-    "source": "AniList 封面图",
+    "url": "https://live.staticflickr.com/6133/5977089483_5c4735b7d4_b.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/182205"
+  "primaryUrl": "https://myanimelist.net/anime/9253/Steins_Gate"
  },
  {
-  "id": "rt-956713bb7a79",
-  "titleCn": "死神：千年血战 - 灾难",
-  "titleOrig": "BLEACH: Thousand-Year Blood War - The Calamity",
+  "id": "rt-5bcc47188bee",
+  "titleCn": "电锯男电影：Reze-hen",
+  "titleOrig": "Chainsaw Man Movie: Reze-hen",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 88,
-  "summary": "AniList 人气动漫第6：BLEACH: Thousand-Year Blood War - The Calamity",
+  "summary": "MyAnimeList 人气动漫第6：Chainsaw Man Movie: Reze-hen",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/185874"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/57555/Chainsaw_Man_Movie__Reze-hen"
    }
   ],
   "sourceBreadth": {
@@ -6147,42 +6182,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/185874"
+  "primaryUrl": "https://myanimelist.net/anime/57555/Chainsaw_Man_Movie__Reze-hen"
  },
  {
-  "id": "rt-c4edf1b7e015",
-  "titleCn": "海贼王",
-  "titleOrig": "ONE PIECE",
+  "id": "rt-d5ad274b7de1",
+  "titleCn": "银魂：结局",
+  "titleOrig": "Gintama: The Final",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 86,
-  "summary": "AniList 人气动漫第7：ONE PIECE",
+  "summary": "MyAnimeList 人气动漫第7：Gintama: The Final",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/21"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/39486/Gintama__The_Final"
    }
   ],
   "sourceBreadth": {
@@ -6201,42 +6230,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/21"
+  "primaryUrl": "https://myanimelist.net/anime/39486/Gintama__The_Final"
  },
  {
-  "id": "rt-41577dacd25e",
-  "titleCn": "富家女保姆：我是这所富家子学校最受欢迎女孩的保姆",
-  "titleOrig": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+  "id": "rt-790cc157fc62",
+  "titleCn": "银魂°",
+  "titleOrig": "Gintama°",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 84,
-  "summary": "AniList 人气动漫第8：Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+  "summary": "MyAnimeList 人气动漫第8：Gintama°",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/201514"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/28977/Gintama°"
    }
   ],
   "sourceBreadth": {
@@ -6255,42 +6278,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/201514"
+  "primaryUrl": "https://myanimelist.net/anime/28977/Gintama°"
  },
  {
-  "id": "rt-7dfe73dee4b4",
-  "titleCn": "明天的火花",
-  "titleOrig": "Sparks of Tomorrow",
+  "id": "rt-ca4007eba58a",
+  "titleCn": "《新剧之狂人》第 3 季第 2 部分",
+  "titleOrig": "Shingeki no Kyojin Season 3 Part 2",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 82,
-  "summary": "AniList 人气动漫第9：Sparks of Tomorrow",
+  "summary": "MyAnimeList 人气动漫第9：Shingeki no Kyojin Season 3 Part 2",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/103303"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2"
    }
   ],
   "sourceBreadth": {
@@ -6309,42 +6326,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/103303"
+  "primaryUrl": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2"
  },
  {
-  "id": "rt-717fe123e1d0",
-  "titleCn": "黑色火炬",
-  "titleOrig": "BLACK TORCH",
+  "id": "rt-eb152e9f5655",
+  "titleCn": "漂白剂：Sennen Kessen-hen - Kashin-tan",
+  "titleOrig": "Bleach: Sennen Kessen-hen - Kashin-tan",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 80,
-  "summary": "AniList 人气动漫第10：BLACK TORCH",
+  "summary": "MyAnimeList 人气动漫第10：Bleach: Sennen Kessen-hen - Kashin-tan",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/187538"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/60636/Bleach__Sennen_Kessen-hen_-_Kashin-tan"
    }
   ],
   "sourceBreadth": {
@@ -6363,42 +6374,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/187538"
+  "primaryUrl": "https://myanimelist.net/anime/60636/Bleach__Sennen_Kessen-hen_-_Kashin-tan"
  },
  {
-  "id": "rt-c971c150c30b",
-  "titleCn": "漂白",
-  "titleOrig": "Bleach",
+  "id": "rt-8df4fb1d3441",
+  "titleCn": "猎人×猎人 (2011)",
+  "titleOrig": "Hunter x Hunter (2011)",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 78,
-  "summary": "AniList 人气动漫第11：Bleach",
+  "summary": "MyAnimeList 人气动漫第11：Hunter x Hunter (2011)",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/269"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
    }
   ],
   "sourceBreadth": {
@@ -6417,42 +6422,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/269"
+  "primaryUrl": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
  },
  {
-  "id": "rt-e62d24050a0f",
-  "titleCn": "武食转生：无业转生 第三季",
-  "titleOrig": "Mushoku Tensei: Jobless Reincarnation Season 3",
+  "id": "rt-94f9e924c5d0",
+  "titleCn": "银河英雄传说",
+  "titleOrig": "Ginga Eiyuu Densetsu",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 76,
-  "summary": "AniList 人气动漫第12：Mushoku Tensei: Jobless Reincarnation Season 3",
+  "summary": "MyAnimeList 人气动漫第12：Ginga Eiyuu Densetsu",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/178789"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu"
    }
   ],
   "sourceBreadth": {
@@ -6471,42 +6470,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/178789"
+  "primaryUrl": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu"
  },
  {
-  "id": "rt-5b2f6cf9bcb3",
-  "titleCn": "贾杜加尔：蒙古女巫",
-  "titleOrig": "Jaadugar: A Witch in Mongolia",
+  "id": "rt-be63763fccdf",
+  "titleCn": "银魂'",
+  "titleOrig": "Gintama&#039;",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 74,
-  "summary": "AniList 人气动漫第13：Jaadugar: A Witch in Mongolia",
+  "summary": "MyAnimeList 人气动漫第13：Gintama&#039;",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/190569"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/9969/Gintama"
    }
   ],
   "sourceBreadth": {
@@ -6525,42 +6518,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/190569"
+  "primaryUrl": "https://myanimelist.net/anime/9969/Gintama"
  },
  {
-  "id": "rt-e61868d64061",
-  "titleCn": "Re：从零开始的异世界生活第4季",
-  "titleOrig": "Re:ZERO -Starting Life in Another World- Season 4",
+  "id": "rt-0729bb82d6fa",
+  "titleCn": "银魂：Enchausn",
+  "titleOrig": "Gintama&#039;: Enchousen",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 72,
-  "summary": "AniList 人气动漫第14：Re:ZERO -Starting Life in Another World- Season 4",
+  "summary": "MyAnimeList 人气动漫第14：Gintama&#039;: Enchousen",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/189046"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/15417/Gintama__Enchousen"
    }
   ],
   "sourceBreadth": {
@@ -6579,42 +6566,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/189046"
+  "primaryUrl": "https://myanimelist.net/anime/15417/Gintama__Enchousen"
  },
  {
-  "id": "rt-e9b53ae3d178",
-  "titleCn": "虽然我是个无能的恶棍",
-  "titleOrig": "Though I Am an Inept Villainess",
+  "id": "rt-4c7a36ce1dfd",
+  "titleCn": "一封粉丝信",
+  "titleOrig": "One Piece Fan Letter",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 70,
-  "summary": "AniList 人气动漫第15：Though I Am an Inept Villainess",
+  "summary": "MyAnimeList 人气动漫第15：One Piece Fan Letter",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/188139"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/60022/One_Piece_Fan_Letter"
    }
   ],
   "sourceBreadth": {
@@ -6633,42 +6614,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/188139"
+  "primaryUrl": "https://myanimelist.net/anime/60022/One_Piece_Fan_Letter"
  },
  {
-  "id": "rt-8172e8532822",
-  "titleCn": "地狱模式：铁杆玩家通过垃圾平衡第二季称霸异世界",
-  "titleOrig": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+  "id": "rt-7ba579587d63",
+  "titleCn": "漂白剂：Sennen Kessen-hen",
+  "titleOrig": "Bleach: Sennen Kessen-hen",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 68,
-  "summary": "AniList 人气动漫第16：HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+  "summary": "MyAnimeList 人气动漫第16：Bleach: Sennen Kessen-hen",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/209983"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/41467/Bleach__Sennen_Kessen-hen"
    }
   ],
   "sourceBreadth": {
@@ -6687,42 +6662,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/209983"
+  "primaryUrl": "https://myanimelist.net/anime/41467/Bleach__Sennen_Kessen-hen"
  },
  {
-  "id": "rt-4a8e8952db02",
-  "titleCn": "花织桑来生仍想战斗",
-  "titleOrig": "Hanaori-san Still Wants to Fight in the Next Life",
+  "id": "rt-2231cfabc859",
+  "titleCn": "银魂。",
+  "titleOrig": "Gintama.",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 66,
-  "summary": "AniList 人气动漫第17：Hanaori-san Still Wants to Fight in the Next Life",
+  "summary": "MyAnimeList 人气动漫第17：Gintama.",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/199066"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/34096/Gintama"
    }
   ],
   "sourceBreadth": {
@@ -6741,42 +6710,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/199066"
+  "primaryUrl": "https://myanimelist.net/anime/34096/Gintama"
  },
  {
-  "id": "rt-75922f004726",
-  "titleCn": "烟鬼猫",
-  "titleOrig": "Chainsmoker Cat",
+  "id": "rt-0a1ff7b527a2",
+  "titleCn": "Kaguya-sama wa Kokurasetai：超浪漫",
+  "titleOrig": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 64,
-  "summary": "AniList 人气动漫第18：Chainsmoker Cat",
+  "summary": "MyAnimeList 人气动漫第18：Kaguya-sama wa Kokurasetai: Ultra Romantic",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/207141"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic"
    }
   ],
   "sourceBreadth": {
@@ -6795,42 +6758,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/207141"
+  "primaryUrl": "https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic"
  },
  {
-  "id": "rt-4a049db4c7ed",
-  "titleCn": "书呆子的崛起：大公的养女",
-  "titleOrig": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+  "id": "rt-db56e33fa654",
+  "titleCn": "克兰纳德：故事之后",
+  "titleOrig": "Clannad: After Story",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 62,
-  "summary": "AniList 人气动漫第19：Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+  "summary": "MyAnimeList 人气动漫第19：Clannad: After Story",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/171110"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/4181/Clannad__After_Story"
    }
   ],
   "sourceBreadth": {
@@ -6849,42 +6806,36 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/171110"
+  "primaryUrl": "https://myanimelist.net/anime/4181/Clannad__After_Story"
  },
  {
-  "id": "rt-a709d54e1935",
-  "titleCn": "和你在超市后面抽烟",
-  "titleOrig": "Smoking Behind the Supermarket with You",
+  "id": "rt-3741e7bf5c3a",
+  "titleCn": "水果篮子：决赛",
+  "titleOrig": "Fruits Basket: The Final",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
   "buzzIndex": 60,
-  "summary": "AniList 人气动漫第20：Smoking Behind the Supermarket with You",
+  "summary": "MyAnimeList 人气动漫第20：Fruits Basket: The Final",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
   "sources": [
    {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
+    "type": "mal",
+    "name": "MyAnimeList 榜单",
     "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/196187"
+    "credibility": 80,
+    "url": "https://myanimelist.net/anime/42938/Fruits_Basket__The_Final"
    }
   ],
   "sourceBreadth": {
@@ -6903,18 +6854,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://anilist.co/anime/196187"
+  "primaryUrl": "https://myanimelist.net/anime/42938/Fruits_Basket__The_Final"
  },
  {
   "id": "rt-36f651746e29",
@@ -6924,8 +6869,8 @@ window.EVENTS_REALTIME = [
   "cat": "news",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/6148/6037511651_6990bfcfd7_b.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
   "summary": "泰国新闻：TrueVisions. . คิดว่าน่าจะเจอแมวที่ชอบแล้วนะ 🐈🐾 “เปย์รักด้วยแมวเลี้ยง” #CatForCashEP1 📍ทุกวันอังคาร เวลา 20:30 น. ▶️ รับชมพร้อมกันทาง TrueVisions NOW | รับชมฟรีอีพีแรก❗️ 📲 สมัครแพ็ค NOW Ent เพียง 199.-/เดือน เพื่อรับชม Ep.2 เป็นต้นไป : https://tvs-now.onelink.m - facebook.com",
@@ -6939,13 +6884,6 @@ window.EVENTS_REALTIME = [
     "region": "泰国",
     "credibility": 88,
     "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxNNGl2aFNjVzAxWmdhcmhfZloxdU9jQ3U5b2FjWm1nX19MRlNLbmY2eTNuMEJtT0k2SUwzTGxFM3EyX0NQUTE1cDRfTkFWQ3ZsWmJYUEdLYVJUU25uUXR5eXJKVnl3MGpJc1liaXJvVURFcl9iOHI1ckJCUVFMSklQZWFwaDBuUGVNeEltd21XRDhXYU5kQmx0RER0VjBfcXVVSVg2ZWNxcFVvWlVydVc4VHljY0pQVTlVaGR4Tko2OGlDbDktMmlTS1g1Rko0LTdEUFViaDRfZFRHM3pDbFRCMVJQOFRoNEhJNW5EU0xEUHRBRnhhWV81RVdxU1ZJS0ZtUGJaU2VxMmwzUzluSERfM2o4YmhObVVicTVJbzVybWMwT3REQzJHbHJ4LTRyWVpJd1hnSmt0OUMzeEVTNlRnWlRoQXlLVldCSHBZdmVCeHdMdDV6TkRKeVNVSWZDSWZsUGxiSlZCMVBRMmthZGozUmdaV2tjNXE0dWtZbUs4bU8tLVpvMmxadVAyQ1pESy1RZ25YMkVsQVpVNnNQZDJ5eWRjOFJsbzVRX3ZwQlhxTG50QjBPQnBhOEpURFFWNzVCNllYeWxNVFhYdWN2WE1NWTduaWoyMWY3aElPZlZMTUJHS2FYV2JmS2ZFSGxCUDJsdDFSSW5Zdkcxc2xEVGVreDdza3NRSGNwY0gzbm5Ec2Q1Mld1ZzVDLTBrOWs?oc=5"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -6964,15 +6902,9 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/6148/6037511651_6990bfcfd7_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
   "primaryUrl": "https://news.google.com/rss/articles/CBMinARBVV95cUxNNGl2aFNjVzAxWmdhcmhfZloxdU9jQ3U5b2FjWm1nX19MRlNLbmY2eTNuMEJtT0k2SUwzTGxFM3EyX0NQUTE1cDRfTkFWQ3ZsWmJYUEdLYVJUU25uUXR5eXJKVnl3MGpJc1liaXJvVURFcl9iOHI1ckJCUVFMSklQZWFwaDBuUGVNeEltd21XRDhXYU5kQmx0RER0VjBfcXVVSVg2ZWNxcFVvWlVydVc4VHljY0pQVTlVaGR4Tko2OGlDbDktMmlTS1g1Rko0LTdEUFViaDRfZFRHM3pDbFRCMVJQOFRoNEhJNW5EU0xEUHRBRnhhWV81RVdxU1ZJS0ZtUGJaU2VxMmwzUzluSERfM2o4YmhObVVicTVJbzVybWMwT3REQzJHbHJ4LTRyWVpJd1hnSmt0OUMzeEVTNlRnWlRoQXlLVldCSHBZdmVCeHdMdDV6TkRKeVNVSWZDSWZsUGxiSlZCMVBRMmthZGozUmdaV2tjNXE0dWtZbUs4bU8tLVpvMmxadVAyQ1pESy1RZ25YMkVsQVpVNnNQZDJ5eWRjOFJsbzVRX3ZwQlhxTG50QjBPQnBhOEpURFFWNzVCNllYeWxNVFhYdWN2WE1NWTduaWoyMWY3aElPZlZMTUJHS2FYV2JmS2ZFSGxCUDJsdDFSSW5Zdkcxc2xEVGVreDdza3NRSGNwY0gzbm5Ec2Q1Mld1ZzVDLTBrOWs?oc=5"
@@ -7123,7 +7055,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-498dda1aac26",
-  "titleCn": "有些人不同意最佳声音胜利，玛莎并不放在心上 - “选择的评审团，他们更明智......” - Gempak",
+  "titleCn": "有些人不同意最佳声乐胜利，玛莎并不放在心上 - “选择的评审团，他们更明智......” - Gempak",
   "titleOrig": "Ada Yang Kurang Setuju Dengan Kemenangan Vokal Terbaik, Marsha Tak Ambil Hati - “Juri Yang Memilih, Mereka Lebih Arif…” - Gempak",
   "catCn": "新闻热点",
   "cat": "news",
@@ -7170,9 +7102,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjg0TEl4dmRXdzlEb0VoM3M2aEJvck1HY0taRnhGTV9PRzdNNXhHNndNTC1OclhlTmg5WmN5Z1VNcFlLREllRFVnSmtwcW95azV0ZHFHbWh0dHFnZHA0NndEclRGNUplcUVjZXR6ZF90ME0zWUM3NFdxMUt4NXVIVnVCMFRGUXlmeDVNaTJqVTRFWkIxYXhvcHBjbjJSMlVOY0VuQ256OWlWUC0yamZjWWFETWpoRDd3WlNyaHNB?oc=5"
  },
  {
-  "id": "rt-750183805d0b",
-  "titleCn": "阿森纳顶级社区盾行动 - kosmo.com.my",
-  "titleOrig": "Arsenal ungguli aksi Perisai Komuniti - kosmo.com.my",
+  "id": "rt-9ef763b11969",
+  "titleCn": "阿森纳顶级社区盾行动 - Kosmo Digital",
+  "titleOrig": "Arsenal ungguli aksi Perisai Komuniti - Kosmo Digital",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7181,7 +7113,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Arsenal ungguli aksi Perisai Komuniti - kosmo.com.my",
+  "summary": "马来西亚新闻：Arsenal ungguli aksi Perisai Komuniti - Kosmo Digital",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7362,5 +7294,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWi0weVE0SWJHV193eU5XNngtUHdlYTdWRkcwN1RYT0J3aWVTZXBXT2Zub0FDdlZURmV2QW9Hc0J1NjVSOWIxamN6QmUxaUV1czVYMnRVQk9ZQjRETmdNM2RQS0lsdjBBOUpOTnhLcDBUem44RWV0cnpNSndIcGNRel9MSVpNLWNQeGhZSGpfUVVsaDdYRTQtdVd0WkdyOW1HUkE4cWFseDJyYS12TTRWdFdqS1BtVzNBZ1HSAb8BQVVfeXFMTzc2cl9WUHNsSkxKay1UdWpPaGNIbWxna2dYdnVoRnB6UXRPVXFPbWRDdnJ4TW85QzBjdjZFa0RoaHBBYlJkbFRqQ2dVeHkyVlgxUHVlRFBOYm9ndjBHdG1CUUd6cy1wOUlGVDVGNi1DdlhoV2d4YUxMVUJCMGxkZXRiSnc0clhIa2hEaHlyOXJCYmlEekpualV4NmRlZXViQ2V0MTJTRXVvRkl1V3Exc244dUwxM3dieUlUMDIwSFE?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-17T00:50:38";
+window.REALTIME_UPDATED = "2026-08-17T01:15:06";
 window.REALTIME_CARRIED = false;
