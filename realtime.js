@@ -379,7 +379,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-44747273d187",
-  "titleCn": "地狱潜水员™2",
+  "titleCn": "地狱潜水员™ 2",
   "titleOrig": "HELLDIVERS™ 2",
   "catCn": "游戏热度",
   "cat": "gaming",
@@ -865,7 +865,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-773f1237882c",
-  "titleCn": "这就是我所要求的（永远永远）-双关语",
+  "titleCn": "这就是我想要的一切（永远永远）-PUN",
   "titleOrig": "ขอแค่นี้ (Forever n ever) - PUN",
   "catCn": "音乐榜单",
   "cat": "music",
@@ -973,7 +973,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-9226c778dbe2",
-  "titleCn": "爱让你知道（证明）- PUN",
+  "titleCn": "爱让你知道（证明）-PUN",
   "titleOrig": "รักให้เธอได้รู้ (Proof.) - PUN",
   "catCn": "音乐榜单",
   "cat": "music",
@@ -3369,7 +3369,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/9/99/Por_Suppakarn_-_Duang_with_You_250702.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PROXIE_in_2025.jpg/960px-PROXIE_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 98,
@@ -3413,7 +3413,7 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Por_Suppakarn_-_Duang_with_You_250702.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PROXIE_in_2025.jpg/960px-PROXIE_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "source": "维基百科词条图",
     "caption": ""
    }
@@ -3430,7 +3430,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Collection_of_Royal_Chronicle_Vol_67_Troops_record%2C_Chaophraya_Bodin_BE_2380.jpg/960px-Collection_of_Royal_Chronicle_Vol_67_Troops_record%2C_Chaophraya_Bodin_BE_2380.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/6/68/Egyptian_lute_players_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 96,
@@ -3474,7 +3474,7 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Collection_of_Royal_Chronicle_Vol_67_Troops_record%2C_Chaophraya_Bodin_BE_2380.jpg/960px-Collection_of_Royal_Chronicle_Vol_67_Troops_record%2C_Chaophraya_Bodin_BE_2380.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Egyptian_lute_players_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "source": "维基百科词条图",
     "caption": ""
    }
@@ -4874,18 +4874,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Clara"
  },
  {
-  "id": "rt-aa0f878f0da1",
-  "titleCn": "#MatchPointSeriesEP4",
-  "titleOrig": "#MatchPointSeriesEP4",
+  "id": "rt-cfa5c2b45b96",
+  "titleCn": "#arestedbyemmie",
+  "titleOrig": "#arestedbyemmie",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/2342/1688909894_670067a0de_b.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 80,
-  "summary": "马来西亚 Twitter/X 今日热搜：#MatchPointSeriesEP4",
+  "buzzIndex": 82,
+  "summary": "马来西亚 Twitter/X 今日热搜：#arestedbyemmie",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4895,14 +4895,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23MatchPointSeriesEP4"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
+    "url": "https://twitter.com/search?q=%23arestedbyemmie"
    }
   ],
   "sourceBreadth": {
@@ -4921,18 +4914,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/2342/1688909894_670067a0de_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=%23MatchPointSeriesEP4"
+  "primaryUrl": "https://twitter.com/search?q=%23arestedbyemmie"
  },
  {
   "id": "rt-0ceb54677c7a",
@@ -4941,11 +4928,11 @@ window.EVENTS_REALTIME = [
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rennes_pl_Ch-Jacquet_DSCN1770.jpg",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aime_Jacquet_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 78,
+  "buzzIndex": 80,
   "summary": "马来西亚 Twitter/X 今日热搜：Jacquet",
   "tags": [],
   "timeRel": "",
@@ -4959,8 +4946,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Jacquet"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -4982,12 +4969,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rennes_pl_Ch-Jacquet_DSCN1770.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aime_Jacquet_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5003,7 +4990,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/5/56/Maresca_Championship_trophy_Leicester_%28cropped%29.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dr._Terry_Maresca_%286213637992%29.jpg/960px-Dr._Terry_Maresca_%286213637992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 76,
@@ -5020,8 +5007,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Maresca"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "commons",
+    "name": "维基共享资源图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5043,12 +5030,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基共享资源图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Maresca_Championship_trophy_Leicester_%28cropped%29.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dr._Terry_Maresca_%286213637992%29.jpg/960px-Dr._Terry_Maresca_%286213637992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "维基共享资源图",
     "caption": ""
    }
   ],
@@ -5064,7 +5051,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/2325/1718853829_cfda841e1a_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Portrait_of_Charles_E._Odegaard_%28Prof._of_History%2C_1952-1958%3B_Dean_of_LS%26A_1952-1958%29.jpg/960px-Portrait_of_Charles_E._Odegaard_%28Prof._of_History%2C_1952-1958%3B_Dean_of_LS%26A_1952-1958%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 74,
@@ -5081,8 +5068,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Odegaard"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5104,12 +5091,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2325/1718853829_cfda841e1a_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Portrait_of_Charles_E._Odegaard_%28Prof._of_History%2C_1952-1958%3B_Dean_of_LS%26A_1952-1958%29.jpg/960px-Portrait_of_Charles_E._Odegaard_%28Prof._of_History%2C_1952-1958%3B_Dean_of_LS%26A_1952-1958%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5179,67 +5166,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Tzolis"
  },
  {
-  "id": "rt-ec71f84101bd",
-  "titleCn": "林戈姆​​伊尔夫 ep9",
-  "titleOrig": "lingorm ilf ep9",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 68,
-  "summary": "马来西亚 Twitter/X 今日热搜：lingorm ilf ep9",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=lingorm%20ilf%20ep9"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse(LINGORM)",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-17",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse(LINGORM)",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
-    "source": "Openverse(LINGORM)",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=lingorm%20ilf%20ep9"
- },
- {
   "id": "rt-68c701cb2fbb",
   "titleCn": "兵工厂",
   "titleOrig": "Arsenal",
@@ -5247,7 +5173,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/26/46914328_60e966ef3e_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/1_arsenal_crystal_palace_epl_champions_2026.jpg/960px-1_arsenal_crystal_palace_epl_champions_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 66,
@@ -5264,8 +5190,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Arsenal"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5287,12 +5213,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/26/46914328_60e966ef3e_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/1_arsenal_crystal_palace_epl_champions_2026.jpg/960px-1_arsenal_crystal_palace_epl_champions_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5532,18 +5458,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=kcon"
  },
  {
-  "id": "rt-9327cec7e217",
-  "titleCn": "弗农",
-  "titleOrig": "vernon",
+  "id": "rt-d694486eb7ba",
+  "titleCn": "珀西与 PREM 的精彩瞬间",
+  "titleOrig": "PERCY MOMENTS WITH PREM",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/2462/3775456484_563f9b8e66.jpg",
+  "cover": "https://live.staticflickr.com/4050/4351080843_d8200ab9bd.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 52,
-  "summary": "马来西亚 Twitter/X 今日热搜：vernon",
+  "summary": "马来西亚 Twitter/X 今日热搜：PERCY MOMENTS WITH PREM",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5553,7 +5479,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=vernon"
+    "url": "https://twitter.com/search?q=PERCY%20MOMENTS%20WITH%20PREM"
    },
    {
     "type": "openverse",
@@ -5583,14 +5509,75 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2462/3775456484_563f9b8e66.jpg",
+    "url": "https://live.staticflickr.com/4050/4351080843_d8200ab9bd.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://twitter.com/search?q=vernon"
+  "primaryUrl": "https://twitter.com/search?q=PERCY%20MOMENTS%20WITH%20PREM"
+ },
+ {
+  "id": "rt-67c1eac35342",
+  "titleCn": "阿米尔·马斯迪",
+  "titleOrig": "amir masdi",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Amir_Masdi.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 50,
+  "summary": "马来西亚 Twitter/X 今日热搜：amir masdi",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=amir%20masdi"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-17",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Amir_Masdi.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-17",
+  "primaryUrl": "https://twitter.com/search?q=amir%20masdi"
  },
  {
   "id": "rt-e62d24050a0f",
@@ -6680,8 +6667,8 @@ window.EVENTS_REALTIME = [
   "cat": "news",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+  "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
   "summary": "泰国新闻：มันจะสนิทกันเกิน! 'โฟร์ท' ไลฟ์ฝากคอนเสิร์ตเดี่ยวครั้งแรก - 'ภูวินทร์' ร่วมแจมแต่แอบติดธุระ - Mint Magazine Thailand",
@@ -6695,6 +6682,13 @@ window.EVENTS_REALTIME = [
     "region": "泰国",
     "credibility": 88,
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGxkLUoyZHVIelNxWDlrR190QWhLTEJpUVpxYjgxQVc2WnBHcnF0TVRaTWZmN0RYYnJEZW16MmE4clBSRTFzX2o4VVh2d2NSZGNwTUhmYl94MXg0NngxeVVPSGVFODFNN1JWTUk5ZTh5azhETWJ1LUU2aGVTbUZxMXh5WQ?oc=5"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse(IVE)",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -6713,9 +6707,15 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse(IVE)",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+    "source": "Openverse(IVE)",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
   "primaryUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGxkLUoyZHVIelNxWDlrR190QWhLTEJpUVpxYjgxQVc2WnBHcnF0TVRaTWZmN0RYYnJEZW16MmE4clBSRTFzX2o4VVh2d2NSZGNwTUhmYl94MXg0NngxeVVPSGVFODFNN1JWTUk5ZTh5azhETWJ1LUU2aGVTbUZxMXh5WQ?oc=5"
@@ -6728,8 +6728,8 @@ window.EVENTS_REALTIME = [
   "cat": "news",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://live.staticflickr.com/6148/6037511651_6990bfcfd7_b.jpg",
+  "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
   "summary": "泰国新闻：TrueVisions. . คิดว่าน่าจะเจอแมวที่ชอบแล้วนะ 🐈🐾 “เปย์รักด้วยแมวเลี้ยง” #CatForCashEP1 📍ทุกวันอังคาร เวลา 20:30 น. ▶️ รับชมพร้อมกันทาง TrueVisions NOW | รับชมฟรีอีพีแรก❗️ 📲 สมัครแพ็ค NOW Ent เพียง 199.-/เดือน เพื่อรับชม Ep.2 เป็นต้นไป : https://tvs-now.onelink.m - facebook.com",
@@ -6743,6 +6743,13 @@ window.EVENTS_REALTIME = [
     "region": "泰国",
     "credibility": 88,
     "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxNNGl2aFNjVzAxWmdhcmhfZloxdU9jQ3U5b2FjWm1nX19MRlNLbmY2eTNuMEJtT0k2SUwzTGxFM3EyX0NQUTE1cDRfTkFWQ3ZsWmJYUEdLYVJUU25uUXR5eXJKVnl3MGpJc1liaXJvVURFcl9iOHI1ckJCUVFMSklQZWFwaDBuUGVNeEltd21XRDhXYU5kQmx0RER0VjBfcXVVSVg2ZWNxcFVvWlVydVc4VHljY0pQVTlVaGR4Tko2OGlDbDktMmlTS1g1Rko0LTdEUFViaDRfZFRHM3pDbFRCMVJQOFRoNEhJNW5EU0xEUHRBRnhhWV81RVdxU1ZJS0ZtUGJaU2VxMmwzUzluSERfM2o4YmhObVVicTVJbzVybWMwT3REQzJHbHJ4LTRyWVpJd1hnSmt0OUMzeEVTNlRnWlRoQXlLVldCSHBZdmVCeHdMdDV6TkRKeVNVSWZDSWZsUGxiSlZCMVBRMmthZGozUmdaV2tjNXE0dWtZbUs4bU8tLVpvMmxadVAyQ1pESy1RZ25YMkVsQVpVNnNQZDJ5eWRjOFJsbzVRX3ZwQlhxTG50QjBPQnBhOEpURFFWNzVCNllYeWxNVFhYdWN2WE1NWTduaWoyMWY3aElPZlZMTUJHS2FYV2JmS2ZFSGxCUDJsdDFSSW5Zdkcxc2xEVGVreDdza3NRSGNwY0gzbm5Ec2Q1Mld1ZzVDLTBrOWs?oc=5"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -6761,9 +6768,15 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/6148/6037511651_6990bfcfd7_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-08-17",
   "primaryUrl": "https://news.google.com/rss/articles/CBMinARBVV95cUxNNGl2aFNjVzAxWmdhcmhfZloxdU9jQ3U5b2FjWm1nX19MRlNLbmY2eTNuMEJtT0k2SUwzTGxFM3EyX0NQUTE1cDRfTkFWQ3ZsWmJYUEdLYVJUU25uUXR5eXJKVnl3MGpJc1liaXJvVURFcl9iOHI1ckJCUVFMSklQZWFwaDBuUGVNeEltd21XRDhXYU5kQmx0RER0VjBfcXVVSVg2ZWNxcFVvWlVydVc4VHljY0pQVTlVaGR4Tko2OGlDbDktMmlTS1g1Rko0LTdEUFViaDRfZFRHM3pDbFRCMVJQOFRoNEhJNW5EU0xEUHRBRnhhWV81RVdxU1ZJS0ZtUGJaU2VxMmwzUzluSERfM2o4YmhObVVicTVJbzVybWMwT3REQzJHbHJ4LTRyWVpJd1hnSmt0OUMzeEVTNlRnWlRoQXlLVldCSHBZdmVCeHdMdDV6TkRKeVNVSWZDSWZsUGxiSlZCMVBRMmthZGozUmdaV2tjNXE0dWtZbUs4bU8tLVpvMmxadVAyQ1pESy1RZ25YMkVsQVpVNnNQZDJ5eWRjOFJsbzVRX3ZwQlhxTG50QjBPQnBhOEpURFFWNzVCNllYeWxNVFhYdWN2WE1NWTduaWoyMWY3aElPZlZMTUJHS2FYV2JmS2ZFSGxCUDJsdDFSSW5Zdkcxc2xEVGVreDdza3NRSGNwY0gzbm5Ec2Q1Mld1ZzVDLTBrOWs?oc=5"
@@ -6818,7 +6831,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-498dda1aac26",
-  "titleCn": "有些人不同意最佳声乐胜利，玛莎并不放在心上 - “选择的评审团，他们更明智......” - Gempak",
+  "titleCn": "有些人不同意最佳声音胜利，玛莎并不放在心上 - “选择的评审团，他们更明智......” - Gempak",
   "titleOrig": "Ada Yang Kurang Setuju Dengan Kemenangan Vokal Terbaik, Marsha Tak Ambil Hati - “Juri Yang Memilih, Mereka Lebih Arif…” - Gempak",
   "catCn": "新闻热点",
   "cat": "news",
@@ -6865,9 +6878,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjg0TEl4dmRXdzlEb0VoM3M2aEJvck1HY0taRnhGTV9PRzdNNXhHNndNTC1OclhlTmg5WmN5Z1VNcFlLREllRFVnSmtwcW95azV0ZHFHbWh0dHFnZHA0NndEclRGNUplcUVjZXR6ZF90ME0zWUM3NFdxMUt4NXVIVnVCMFRGUXlmeDVNaTJqVTRFWkIxYXhvcHBjbjJSMlVOY0VuQ256OWlWUC0yamZjWWFETWpoRDd3WlNyaHNB?oc=5"
  },
  {
-  "id": "rt-5b9830ed4e43",
-  "titleCn": "维塞乌 1 - 1 圣克拉拉：比赛报告、统计数据、阵容和交锋 - 365Scores",
-  "titleOrig": "Viseu 1 - 1 Santa Clara: Laporan perlawanan, statistik, barisan pemain &amp; H2H - 365Scores",
+  "id": "rt-1c8e2059de5b",
+  "titleCn": "克拉拉·伯纳德斯 (Clara Bernadeth) 不想依赖对白，而是通过面部表情来传达 Badut Dondong 中“Arini”的性格 - Gempak",
+  "titleOrig": "Tak Mahu Bergantung Pada Dialog, Clara Bernadeth Pertaruhkan Ekspresi Wajah Untuk Sampaikan Watak ‘Arini’ Dalam Badut Gendong - Gempak",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -6876,7 +6889,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Viseu 1 - 1 Santa Clara: Laporan perlawanan, statistik, barisan pemain &amp; H2H - 365Scores",
+  "summary": "马来西亚新闻：Tak Mahu Bergantung Pada Dialog, Clara Bernadeth Pertaruhkan Ekspresi Wajah Untuk Sampaikan Watak ‘Arini’ Dalam Badut Gendong - Gempak",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6886,7 +6899,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbk9ERHVwOW5lVkM4SlBiMHdRVU1fNmhLUUZmRXhvbU51OWhhOWEyb0VJek01VDY1N3Btcm1TdHVGU2JFWWVuX0tPY2hrMlVxMElTYzBjcmRQRkwxZmFPb0ZOYV9hOFE1RFZ0anRTOGhOMnNuVFUzXzhacUlrN1RiS0RlU0hGUQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2RvZGh2NkdyTXhpMXp5T0NoX21NRktwUEpEaktoMl84U2Zod0pKcDRNemhwek9EUGQ5V1V6dVNTUGZHSm5fWXZmYWVpakRfZG9jbHFTNWl2NUJVRktRMGt3ajZXcWFoQWpSOHduLTUzcjhzcjBMWHA1VGhadkpYQkxpU2hlZXV0TG5GdDNuWnFFNHRZYXcweHV5SEcyQ21PWjlDeTBkWGwxY1Z0dktkWEFBYUkwejZqOEc1VkpUejU?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -6910,12 +6923,12 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbk9ERHVwOW5lVkM4SlBiMHdRVU1fNmhLUUZmRXhvbU51OWhhOWEyb0VJek01VDY1N3Btcm1TdHVGU2JFWWVuX0tPY2hrMlVxMElTYzBjcmRQRkwxZmFPb0ZOYV9hOFE1RFZ0anRTOGhOMnNuVFUzXzhacUlrN1RiS0RlU0hGUQ?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2RvZGh2NkdyTXhpMXp5T0NoX21NRktwUEpEaktoMl84U2Zod0pKcDRNemhwek9EUGQ5V1V6dVNTUGZHSm5fWXZmYWVpakRfZG9jbHFTNWl2NUJVRktRMGt3ajZXcWFoQWpSOHduLTUzcjhzcjBMWHA1VGhadkpYQkxpU2hlZXV0TG5GdDNuWnFFNHRZYXcweHV5SEcyQ21PWjlDeTBkWGwxY1Z0dktkWEFBYUkwejZqOEc1VkpUejU?oc=5"
  },
  {
-  "id": "rt-7b73c47c5c50",
-  "titleCn": "杜加里抨击利物浦向雅凯支付3.23亿令吉“疯狂” - Berita Harian",
-  "titleOrig": "Dugarry kecam Liverpool 'gila' bayar Jacquet RM323 juta - Berita Harian",
+  "id": "rt-81a838535408",
+  "titleCn": "利物浦表现不稳定，伊劳拉承认还有很多需要改进的地方 - RTM News Portal",
+  "titleOrig": "Liverpool belum konsisten, Iraola akui masih banyak perlu diperbaiki - Portal Berita RTM",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -6924,7 +6937,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Dugarry kecam Liverpool 'gila' bayar Jacquet RM323 juta - Berita Harian",
+  "summary": "马来西亚新闻：Liverpool belum konsisten, Iraola akui masih banyak perlu diperbaiki - Portal Berita RTM",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6934,7 +6947,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlUweEx1SDBsczlUMHpGRnQ2dmxjTzR1VEE3NXpLUjF3QkpIcGxTUUVzVmVnNVY5NnNRejl2Wk5FU3pwTnBtRXBxc3FYSmFzOGFQSzhfV3FaaHBwbmZ2QkhvOVc4TlVEZE0wWmY1UnliZm9tTnJUdEVlMnotNDdXSTNtQ01xOHZLZUZkbExoZVYwaldWbEpKVzc0WUd3VElVWXpTSG1ZRmF6MTjSAbABQVVfeXFMUGlETHJYaUNlTzhGcU9SRmpMaGJEeldlTVFRdTZGMVZvVHFid1huTUNxSkJ6eUQtb2ZJbmQzY0o2alZqM3J4YndYUndjN2hmTi1zRXBUVUNiQVlvLVFyZ1A5TkdwTVA3MzE3TEp0U00wSEpRZ1ZNZnkwLXcwaHJ5cVI0di1qWnpoVGxobmpwTGpmclE5Sy1FUVRMV1k0RThsVmxsaHNOMlI1TnJoZDVGOUM?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORWJ3eEtfWE9YMGlDWDdPWHNMbmt4a2dzcFRQdWc5U2ZwYW9Xc1N1NjI0c0JnMjBRY00yMklTTUJWOV94TmZlS1d4OHVmMENlNlRZNWZ5SjBlZS0yS1VqSHVfRzNwSmhpVWZrU2FtODI3cERmS0Nkbkw3cHVwVWJodVdrM0d6dDdkM2tWZUhObWVURU0xdG1BMjUySERpUEZaNjBjelllNFR4QmllNzJabVN1bjhmY1I4dTZZcWg3QjJPRi1mZzRmcFJWNmZ0c2RMdW00?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -6958,12 +6971,12 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlUweEx1SDBsczlUMHpGRnQ2dmxjTzR1VEE3NXpLUjF3QkpIcGxTUUVzVmVnNVY5NnNRejl2Wk5FU3pwTnBtRXBxc3FYSmFzOGFQSzhfV3FaaHBwbmZ2QkhvOVc4TlVEZE0wWmY1UnliZm9tTnJUdEVlMnotNDdXSTNtQ01xOHZLZUZkbExoZVYwaldWbEpKVzc0WUd3VElVWXpTSG1ZRmF6MTjSAbABQVVfeXFMUGlETHJYaUNlTzhGcU9SRmpMaGJEeldlTVFRdTZGMVZvVHFid1huTUNxSkJ6eUQtb2ZJbmQzY0o2alZqM3J4YndYUndjN2hmTi1zRXBUVUNiQVlvLVFyZ1A5TkdwTVA3MzE3TEp0U00wSEpRZ1ZNZnkwLXcwaHJ5cVI0di1qWnpoVGxobmpwTGpmclE5Sy1FUVRMV1k0RThsVmxsaHNOMlI1TnJoZDVGOUM?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORWJ3eEtfWE9YMGlDWDdPWHNMbmt4a2dzcFRQdWc5U2ZwYW9Xc1N1NjI0c0JnMjBRY00yMklTTUJWOV94TmZlS1d4OHVmMENlNlRZNWZ5SjBlZS0yS1VqSHVfRzNwSmhpVWZrU2FtODI3cERmS0Nkbkw3cHVwVWJodVdrM0d6dDdkM2tWZUhObWVURU0xdG1BMjUySERpUEZaNjBjelllNFR4QmllNzJabVN1bjhmY1I4dTZZcWg3QjJPRi1mZzRmcFJWNmZ0c2RMdW00?oc=5"
  },
  {
-  "id": "rt-77600e6d10a3",
-  "titleCn": "阿森纳赢得社区盾，马雷斯卡以失败开启曼城时代 - Harian Metro",
-  "titleOrig": "Arsenal juara Perisai Komuniti, Maresca mula era City dengan kekalahan - Harian Metro",
+  "id": "rt-71d07a336eb7",
+  "titleCn": "曼城继续积极寻找新球员 - 马雷斯卡 - Harian Metro",
+  "titleOrig": "City terus aktif buru pemain baharu - Maresca - Harian Metro",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -6972,7 +6985,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻：Arsenal juara Perisai Komuniti, Maresca mula era City dengan kekalahan - Harian Metro",
+  "summary": "马来西亚新闻：City terus aktif buru pemain baharu - Maresca - Harian Metro",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6982,7 +6995,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWi0weVE0SWJHV193eU5XNngtUHdlYTdWRkcwN1RYT0J3aWVTZXBXT2Zub0FDdlZURmV2QW9Hc0J1NjVSOWIxamN6QmUxaUV1czVYMnRVQk9ZQjRETmdNM2RQS0lsdjBBOUpOTnhLcDBUem44RWV0cnpNSndIcGNRel9MSVpNLWNQeGhZSGpfUVVsaDdYRTQtdVd0WkdyOW1HUkE4cWFseDJyYS12TTRWdFdqS1BtVzNBZ1HSAb8BQVVfeXFMTzc2cl9WUHNsSkxKay1UdWpPaGNIbWxna2dYdnVoRnB6UXRPVXFPbWRDdnJ4TW85QzBjdjZFa0RoaHBBYlJkbFRqQ2dVeHkyVlgxUHVlRFBOYm9ndjBHdG1CUUd6cy1wOUlGVDVGNi1DdlhoV2d4YUxMVUJCMGxkZXRiSnc0clhIa2hEaHlyOXJCYmlEekpualV4NmRlZXViQ2V0MTJTRXVvRkl1V3Exc244dUwxM3dieUlUMDIwSFE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0ZjTE9aeVdVdUh5WFVsVjVWbWd5Q1EzMUF3NlpFajlNOWtIVTlFQzlzTUdJT3lmZUdOVGpyRkVtV0hPLV9lTFdQcEQ3QXBheVlteWQ5QVVXYjZBTndZLXdTc3F3M2YxSW1qd01QM3IwQW1pTVN0VFEza2dZWE5GX2xpcHJ1QXBrZjlIUWd4Qi1abUdqV28yUWpiY3Jfbml6djRiQtIBqgFBVV95cUxOWGs2MkI0Z0pFVmhpOERtVV9ObV9kMXdpN1NTeE9kQ2N4YTZlWUJIYVFJd2R0X2JIMXVyTV83U3I2MmM5ZFVXMmhXd3c4M3MyemhWRGo3bXR6cnhGb1FOUi0zVl9FR1FBdk84aHFaN29zSm52bkw0SmFqZjNfM3JEcTZVSTlBX184b0tuR1JHa29pUEFWcG04ajZsUi1SX3NNemYzQW9ERTFqZw?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7006,8 +7019,8 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-17",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWi0weVE0SWJHV193eU5XNngtUHdlYTdWRkcwN1RYT0J3aWVTZXBXT2Zub0FDdlZURmV2QW9Hc0J1NjVSOWIxamN6QmUxaUV1czVYMnRVQk9ZQjRETmdNM2RQS0lsdjBBOUpOTnhLcDBUem44RWV0cnpNSndIcGNRel9MSVpNLWNQeGhZSGpfUVVsaDdYRTQtdVd0WkdyOW1HUkE4cWFseDJyYS12TTRWdFdqS1BtVzNBZ1HSAb8BQVVfeXFMTzc2cl9WUHNsSkxKay1UdWpPaGNIbWxna2dYdnVoRnB6UXRPVXFPbWRDdnJ4TW85QzBjdjZFa0RoaHBBYlJkbFRqQ2dVeHkyVlgxUHVlRFBOYm9ndjBHdG1CUUd6cy1wOUlGVDVGNi1DdlhoV2d4YUxMVUJCMGxkZXRiSnc0clhIa2hEaHlyOXJCYmlEekpualV4NmRlZXViQ2V0MTJTRXVvRkl1V3Exc244dUwxM3dieUlUMDIwSFE?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0ZjTE9aeVdVdUh5WFVsVjVWbWd5Q1EzMUF3NlpFajlNOWtIVTlFQzlzTUdJT3lmZUdOVGpyRkVtV0hPLV9lTFdQcEQ3QXBheVlteWQ5QVVXYjZBTndZLXdTc3F3M2YxSW1qd01QM3IwQW1pTVN0VFEza2dZWE5GX2xpcHJ1QXBrZjlIUWd4Qi1abUdqV28yUWpiY3Jfbml6djRiQtIBqgFBVV95cUxOWGs2MkI0Z0pFVmhpOERtVV9ObV9kMXdpN1NTeE9kQ2N4YTZlWUJIYVFJd2R0X2JIMXVyTV83U3I2MmM5ZFVXMmhXd3c4M3MyemhWRGo3bXR6cnhGb1FOUi0zVl9FR1FBdk84aHFaN29zSm52bkw0SmFqZjNfM3JEcTZVSTlBX184b0tuR1JHa29pUEFWcG04ajZsUi1SX3NNemYzQW9ERTFqZw?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-17T07:14:58";
+window.REALTIME_UPDATED = "2026-08-17T07:43:09";
 window.REALTIME_CARRIED = false;
