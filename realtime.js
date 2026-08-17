@@ -4944,67 +4944,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Hayden"
  },
  {
-  "id": "rt-b65ae37d2bf1",
-  "titleCn": "英雄",
-  "titleOrig": "Heroes",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/5339/17206918379_08f10476c5_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 82,
-  "summary": "马来西亚 Twitter/X 今日热搜：Heroes",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Heroes"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/5339/17206918379_08f10476c5_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=Heroes"
- },
- {
   "id": "rt-0384975b36e7",
   "titleCn": "恭喜金",
   "titleOrig": "CONGRATULATIONS JIN",
@@ -5015,7 +4954,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/7301/27450785356_a8ab9aea6b_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 80,
+  "buzzIndex": 82,
   "summary": "马来西亚 Twitter/X 今日热搜：CONGRATULATIONS JIN",
   "tags": [],
   "timeRel": "",
@@ -5064,6 +5003,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-18",
   "primaryUrl": "https://twitter.com/search?q=CONGRATULATIONS%20JIN"
+ },
+ {
+  "id": "rt-b65ae37d2bf1",
+  "titleCn": "英雄",
+  "titleOrig": "Heroes",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/5339/17206918379_08f10476c5_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 80,
+  "summary": "马来西亚 Twitter/X 今日热搜：Heroes",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Heroes"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/5339/17206918379_08f10476c5_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://twitter.com/search?q=Heroes"
  },
  {
   "id": "rt-757d033afe11",
@@ -5134,7 +5134,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/1/10/Cousteau1972_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "cover": "https://live.staticflickr.com/4046/4584214050_510c3c214c_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 74,
@@ -5149,128 +5149,6 @@ window.EVENTS_REALTIME = [
     "region": "马来西亚",
     "credibility": 80,
     "url": "https://twitter.com/search?q=Yves"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Cousteau1972_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=Yves"
- },
- {
-  "id": "rt-6bd9c5ab9e2a",
-  "titleCn": "$ANSEM",
-  "titleOrig": "$ANSEM",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Billy_Zane_Photo_Op_GalaxyCon_Raleigh_2025_%28cropped%29.jpg/960px-Billy_Zane_Photo_Op_GalaxyCon_Raleigh_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 70,
-  "summary": "马来西亚 Twitter/X 今日热搜：$ANSEM",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=%24ANSEM"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Billy_Zane_Photo_Op_GalaxyCon_Raleigh_2025_%28cropped%29.jpg/960px-Billy_Zane_Photo_Op_GalaxyCon_Raleigh_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=%24ANSEM"
- },
- {
-  "id": "rt-7577ce6a3c19",
-  "titleCn": "签署请愿书",
-  "titleOrig": "Sign the Petition",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3803/10242237204_4b96223f9c.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 66,
-  "summary": "马来西亚 Twitter/X 今日热搜：Sign the Petition",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Sign%20the%20Petition"
    },
    {
     "type": "openverse",
@@ -5300,75 +5178,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/3803/10242237204_4b96223f9c.jpg",
+    "url": "https://live.staticflickr.com/4046/4584214050_510c3c214c_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=Sign%20the%20Petition"
- },
- {
-  "id": "rt-9a938777465b",
-  "titleCn": "休息日",
-  "titleOrig": "DAY OFF",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cetonia_aurata_take_off_composition_05172009.jpg/960px-Cetonia_aurata_take_off_composition_05172009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 64,
-  "summary": "马来西亚 Twitter/X 今日热搜：DAY OFF",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=DAY%20OFF"
-   },
-   {
-    "type": "commons",
-    "name": "维基共享资源图",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "维基共享资源图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cetonia_aurata_take_off_composition_05172009.jpg/960px-Cetonia_aurata_take_off_composition_05172009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "维基共享资源图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=DAY%20OFF"
+  "primaryUrl": "https://twitter.com/search?q=Yves"
  },
  {
   "id": "rt-c713ab634820",
@@ -5381,7 +5198,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/5/56/Maresca_Championship_trophy_Leicester_%28cropped%29.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 62,
+  "buzzIndex": 68,
   "summary": "马来西亚 Twitter/X 今日热搜：Maresca",
   "tags": [],
   "timeRel": "",
@@ -5432,237 +5249,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Maresca"
  },
  {
-  "id": "rt-c55893d28b66",
-  "titleCn": "带d",
-  "titleOrig": "bring d",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_moon_in_silence%2C_gliding_through_the_darkness%2C_her_domain....her_silvered_shadow_sliding_swift_and_supple_as_her_name...._And_streaming_downwards_through_the_lace_of_tangled_boughs_and_limbs%2C_spools_of_light_bring_d_-_panoramio.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 60,
-  "summary": "马来西亚 Twitter/X 今日热搜：bring d",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=bring%20d"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_moon_in_silence%2C_gliding_through_the_darkness%2C_her_domain....her_silvered_shadow_sliding_swift_and_supple_as_her_name...._And_streaming_downwards_through_the_lace_of_tangled_boughs_and_limbs%2C_spools_of_light_bring_d_-_panoramio.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=bring%20d"
- },
- {
-  "id": "rt-6f94b68985a0",
-  "titleCn": "o。庆洙",
-  "titleOrig": "o. kyungsoo",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/7093/28062486916_4512983ff0_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 58,
-  "summary": "马来西亚 Twitter/X 今日热搜：o. kyungsoo",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=o.%20kyungsoo"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/7093/28062486916_4512983ff0_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=o.%20kyungsoo"
- },
- {
-  "id": "rt-cd495ad5e278",
-  "titleCn": "去马来西亚旅游",
-  "titleOrig": "tour to malaysia",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BTS_Arirang_Tour_logo.jpg/960px-BTS_Arirang_Tour_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 56,
-  "summary": "马来西亚 Twitter/X 今日热搜：tour to malaysia",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=tour%20to%20malaysia"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BTS_Arirang_Tour_logo.jpg/960px-BTS_Arirang_Tour_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=tour%20to%20malaysia"
- },
- {
-  "id": "rt-44f15926e78f",
-  "titleCn": "exo-ls 和 dandanies 联合起来",
-  "titleOrig": "exo-ls &amp; dandanies unite",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 80,
-  "buzzIndex": 54,
-  "summary": "马来西亚 Twitter/X 今日热搜：exo-ls &amp; dandanies unite",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=exo-ls%20%26%20dandanies%20unite"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=exo-ls%20%26%20dandanies%20unite"
- },
- {
   "id": "rt-af8e4bf26eb1",
   "titleCn": "TOMAFOX 3Y 永远",
   "titleOrig": "TOMAFOX 3Y FOREVER",
@@ -5673,7 +5259,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 52,
+  "buzzIndex": 66,
   "summary": "马来西亚 Twitter/X 今日热搜：TOMAFOX 3Y FOREVER",
   "tags": [],
   "timeRel": "",
@@ -5709,6 +5295,307 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-18",
   "primaryUrl": "https://twitter.com/search?q=TOMAFOX%203Y%20FOREVER"
+ },
+ {
+  "id": "rt-7577ce6a3c19",
+  "titleCn": "签署请愿书",
+  "titleOrig": "Sign the Petition",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/3803/10242237204_4b96223f9c.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 62,
+  "summary": "马来西亚 Twitter/X 今日热搜：Sign the Petition",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Sign%20the%20Petition"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3803/10242237204_4b96223f9c.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://twitter.com/search?q=Sign%20the%20Petition"
+ },
+ {
+  "id": "rt-81e20de88cb8",
+  "titleCn": "阿诺",
+  "titleOrig": "Arno",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 58,
+  "summary": "马来西亚 Twitter/X 今日热搜：Arno",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Arno"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://twitter.com/search?q=Arno"
+ },
+ {
+  "id": "rt-9a938777465b",
+  "titleCn": "休息日",
+  "titleOrig": "DAY OFF",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 56,
+  "summary": "马来西亚 Twitter/X 今日热搜：DAY OFF",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=DAY%20OFF"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://twitter.com/search?q=DAY%20OFF"
+ },
+ {
+  "id": "rt-a17277382799",
+  "titleCn": "贾迪第三次阳光",
+  "titleOrig": "JAIDEE 3RD SUNSHINE",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 54,
+  "summary": "马来西亚 Twitter/X 今日热搜：JAIDEE 3RD SUNSHINE",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=JAIDEE%203RD%20SUNSHINE"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://twitter.com/search?q=JAIDEE%203RD%20SUNSHINE"
+ },
+ {
+  "id": "rt-5650b2e2ed22",
+  "titleCn": "带D",
+  "titleOrig": "Bring D",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 52,
+  "summary": "马来西亚 Twitter/X 今日热搜：Bring D",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Bring%20D"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://twitter.com/search?q=Bring%20D"
+ },
+ {
+  "id": "rt-89fdf1a73e71",
+  "titleCn": "欧庆洙",
+  "titleOrig": "O. Kyungsoo",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 50,
+  "summary": "马来西亚 Twitter/X 今日热搜：O. Kyungsoo",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=O.%20Kyungsoo"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://twitter.com/search?q=O.%20Kyungsoo"
  },
  {
   "id": "rt-e62d24050a0f",
@@ -5873,60 +5760,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/21"
  },
  {
-  "id": "rt-6a1976f5ca1d",
-  "titleCn": "天哪，我对她的看法是错的吗",
-  "titleOrig": "Oh Boy, Was I Wrong About Her",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 92,
-  "summary": "AniList 人气动漫第4：Oh Boy, Was I Wrong About Her",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/169583"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://anilist.co/anime/169583"
- },
- {
   "id": "rt-3f25f31fe215",
   "titleCn": "碧海蓝梦第三季",
   "titleOrig": "Grand Blue Dreaming Season 3",
@@ -5937,8 +5770,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 90,
-  "summary": "AniList 人气动漫第5：Grand Blue Dreaming Season 3",
+  "buzzIndex": 92,
+  "summary": "AniList 人气动漫第4：Grand Blue Dreaming Season 3",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5991,8 +5824,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 88,
-  "summary": "AniList 人气动漫第6：Skeleton Knight in Another World Season 2",
+  "buzzIndex": 90,
+  "summary": "AniList 人气动漫第5：Skeleton Knight in Another World Season 2",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6033,6 +5866,60 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-18",
   "primaryUrl": "https://anilist.co/anime/185542"
+ },
+ {
+  "id": "rt-6a1976f5ca1d",
+  "titleCn": "天哪，我对她的看法是错的吗",
+  "titleOrig": "Oh Boy, Was I Wrong About Her",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 88,
+  "summary": "AniList 人气动漫第6：Oh Boy, Was I Wrong About Her",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/169583"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://anilist.co/anime/169583"
  },
  {
   "id": "rt-e8517c20dff5",
@@ -6143,60 +6030,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/169582"
  },
  {
-  "id": "rt-5d5ea7a1c9cf",
-  "titleCn": "关于我转生变成史莱姆第四季",
-  "titleOrig": "That Time I Got Reincarnated as a Slime Season 4",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 82,
-  "summary": "AniList 人气动漫第9：That Time I Got Reincarnated as a Slime Season 4",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/182205"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://anilist.co/anime/182205"
- },
- {
   "id": "rt-86f7df107061",
   "titleCn": "暗影领域的恶魔",
   "titleOrig": "Daemons of the Shadow Realm",
@@ -6207,8 +6040,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 80,
-  "summary": "AniList 人气动漫第10：Daemons of the Shadow Realm",
+  "buzzIndex": 82,
+  "summary": "AniList 人气动漫第9：Daemons of the Shadow Realm",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6251,18 +6084,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/195600"
  },
  {
-  "id": "rt-17a7c6181f16",
-  "titleCn": "骗子游戏",
-  "titleOrig": "LIAR GAME",
+  "id": "rt-5d5ea7a1c9cf",
+  "titleCn": "关于我转生变成史莱姆第四季",
+  "titleOrig": "That Time I Got Reincarnated as a Slime Season 4",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
-  "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+  "stars": "🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 78,
-  "summary": "AniList 人气动漫第11：LIAR GAME",
+  "buzzIndex": 80,
+  "summary": "AniList 人气动漫第10：That Time I Got Reincarnated as a Slime Season 4",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6272,7 +6105,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/197754"
+    "url": "https://anilist.co/anime/182205"
    }
   ],
   "sourceBreadth": {
@@ -6295,14 +6128,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://anilist.co/anime/197754"
+  "primaryUrl": "https://anilist.co/anime/182205"
  },
  {
   "id": "rt-32e1a603c0f0",
@@ -6315,8 +6148,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 76,
-  "summary": "AniList 人气动漫第12：You and I Are Polar Opposites Season 2",
+  "buzzIndex": 78,
+  "summary": "AniList 人气动漫第11：You and I Are Polar Opposites Season 2",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6359,6 +6192,114 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/210031"
  },
  {
+  "id": "rt-17a7c6181f16",
+  "titleCn": "骗子游戏",
+  "titleOrig": "LIAR GAME",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 76,
+  "summary": "AniList 人气动漫第12：LIAR GAME",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/197754"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://anilist.co/anime/197754"
+ },
+ {
+  "id": "rt-956713bb7a79",
+  "titleCn": "死神：千年血战 - 灾难",
+  "titleOrig": "BLEACH: Thousand-Year Blood War - The Calamity",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 74,
+  "summary": "AniList 人气动漫第13：BLEACH: Thousand-Year Blood War - The Calamity",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/185874"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://anilist.co/anime/185874"
+ },
+ {
   "id": "rt-c971c150c30b",
   "titleCn": "漂白",
   "titleOrig": "Bleach",
@@ -6369,8 +6310,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 74,
-  "summary": "AniList 人气动漫第13：Bleach",
+  "buzzIndex": 72,
+  "summary": "AniList 人气动漫第14：Bleach",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6423,8 +6364,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 72,
-  "summary": "AniList 人气动漫第14：Though I Am an Inept Villainess",
+  "buzzIndex": 70,
+  "summary": "AniList 人气动漫第15：Though I Am an Inept Villainess",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6467,72 +6408,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/188139"
  },
  {
-  "id": "rt-956713bb7a79",
-  "titleCn": "死神：千年血战 - 灾难",
-  "titleOrig": "BLEACH: Thousand-Year Blood War - The Calamity",
+  "id": "rt-c02ebea715de",
+  "titleCn": "被遗忘的圣女和她的异世界美食之旅",
+  "titleOrig": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 70,
-  "summary": "AniList 人气动漫第15：BLEACH: Thousand-Year Blood War - The Calamity",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/185874"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://anilist.co/anime/185874"
- },
- {
-  "id": "rt-46b9cf893228",
-  "titleCn": "真的真的真的真的真的爱你的100个女朋友第三季",
-  "titleOrig": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209504-yRxHWxKuNGtg.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 68,
-  "summary": "AniList 人气动漫第16：The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+  "summary": "AniList 人气动漫第16：The Forsaken Saintess and Her Foodie Roadtrip in Another World",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6542,7 +6429,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/200637"
+    "url": "https://anilist.co/anime/209504"
    }
   ],
   "sourceBreadth": {
@@ -6565,14 +6452,68 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209504-yRxHWxKuNGtg.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://anilist.co/anime/200637"
+  "primaryUrl": "https://anilist.co/anime/209504"
+ },
+ {
+  "id": "rt-e61868d64061",
+  "titleCn": "Re：从零开始的异世界生活第4季",
+  "titleOrig": "Re:ZERO -Starting Life in Another World- Season 4",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 66,
+  "summary": "AniList 人气动漫第17：Re:ZERO -Starting Life in Another World- Season 4",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/189046"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://anilist.co/anime/189046"
  },
  {
   "id": "rt-7dfe73dee4b4",
@@ -6585,8 +6526,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 66,
-  "summary": "AniList 人气动漫第17：Sparks of Tomorrow",
+  "buzzIndex": 64,
+  "summary": "AniList 人气动漫第18：Sparks of Tomorrow",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6627,60 +6568,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-18",
   "primaryUrl": "https://anilist.co/anime/103303"
- },
- {
-  "id": "rt-799c237b2efc",
-  "titleCn": "世界在跳舞",
-  "titleOrig": "The World Is Dancing",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 64,
-  "summary": "AniList 人气动漫第18：The World Is Dancing",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/206521"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://anilist.co/anime/206521"
  },
  {
   "id": "rt-717fe123e1d0",
@@ -6737,18 +6624,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/187538"
  },
  {
-  "id": "rt-e61868d64061",
-  "titleCn": "Re：从零开始的异世界生活第4季",
-  "titleOrig": "Re:ZERO -Starting Life in Another World- Season 4",
+  "id": "rt-799c237b2efc",
+  "titleCn": "世界在跳舞",
+  "titleOrig": "The World Is Dancing",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "AniList 人气动漫第20：Re:ZERO -Starting Life in Another World- Season 4",
+  "summary": "AniList 人气动漫第20：The World Is Dancing",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6758,7 +6645,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/189046"
+    "url": "https://anilist.co/anime/206521"
    }
   ],
   "sourceBreadth": {
@@ -6781,14 +6668,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://anilist.co/anime/189046"
+  "primaryUrl": "https://anilist.co/anime/206521"
  },
  {
   "id": "rt-75cec9a979ec",
@@ -6839,9 +6726,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5TelR2U2t4NDZBTndxXzdnMFRRbFgzTEkweVdTbV9BQzVQYnJhMkRrSl85cWx1aUstTnFN?oc=5"
  },
  {
-  "id": "rt-87d8c4e1e430",
-  "titleCn": "Muang Maraya 音乐剧 - thaiticketmajor.com",
-  "titleOrig": "เมืองมารยา เดอะมิวสิคัล - thaiticketmajor.com",
+  "id": "rt-eff025559be3",
+  "titleCn": "Muang Maraya 音乐剧 - thaiticketmajor",
+  "titleOrig": "เมืองมารยา เดอะมิวสิคัล - thaiticketmajor",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "泰国",
@@ -6850,7 +6737,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国新闻：เมืองมารยา เดอะมิวสิคัล - thaiticketmajor.com",
+  "summary": "泰国新闻：เมืองมารยา เดอะมิวสิคัล - thaiticketmajor",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6936,7 +6823,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-6a1b5668fdd2",
-  "titleCn": "我要疯了。 TRENINE 是真实的。我们一起走吧。 😭 TRENINE MUANGMAYA GALA #MuangmarayaxTree #NINENAPHATx玛丽亚市 - t.co",
+  "titleCn": "我要疯了。 TRENINE 是真实的。我们一起走吧。 😭 TRENINE MUANGMAYA GALA #MuangmarayaxTree #NINENAPHATxMaraya city - t.co",
   "titleOrig": "กุจะบ้า ตรีนายมีจริง เดินด้วยกัน 😭 TRENINE MUANGMAYA GALA #เมืองมารยาxตรี #NINENAPHATxเมืองมารยา - t.co",
   "catCn": "新闻热点",
   "cat": "news",
@@ -6983,9 +6870,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE4xVGtzalFMRlpOSDFYaUFMdjBHNV9GMXFIQmp6X1BiU1ItaG5VVXVEOVhUVm9EUkQyVW1j?oc=5"
  },
  {
-  "id": "rt-7a916975bcc3",
-  "titleCn": "安宁！ “Nuniw Chawarin”为 10 月 30 日在韩国正式出道进行倒计时 - Mint 杂志泰国",
-  "titleOrig": "อันยอง! 'นุนิว ชวรินทร์‘ นับถอยหลังเตรียมเดบิวต์เกาหลีอย่างเป็นทางการ 30 ตุลาคมนี้ - Mint Magazine Thailand",
+  "id": "rt-e47d8814460b",
+  "titleCn": "安宁！ “Nuniw Chawarin”正在倒计时，为 10 月 30 日在韩国正式出道做准备 - mintmagth.com",
+  "titleOrig": "อันยอง! 'นุนิว ชวรินทร์‘ นับถอยหลังเตรียมเดบิวต์เกาหลีอย่างเป็นทางการ 30 ตุลาคมนี้ - mintmagth.com",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "泰国",
@@ -6994,7 +6881,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国新闻：อันยอง! 'นุนิว ชวรินทร์‘ นับถอยหลังเตรียมเดบิวต์เกาหลีอย่างเป็นทางการ 30 ตุลาคมนี้ - Mint Magazine Thailand",
+  "summary": "泰国新闻：อันยอง! 'นุนิว ชวรินทร์‘ นับถอยหลังเตรียมเดบิวต์เกาหลีอย่างเป็นทางการ 30 ตุลาคมนี้ - mintmagth.com",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7079,54 +6966,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRVJNU1RTTVVVZkwwMDVkS1VjSWdfcUpqUWpuNHA3RVlwV0lxNm9HT2h0ZkwtS3FBNTRNSFRlOXhuTkJyQS1LV05DNGx4QnFidmFJMkRYTk5pUlhMb3lrTFFtWndmLVZyS1piUWdSR3JjYncySXhPRGhQN3p4bEpVY0ZMVElpMGFncHlubHdlaWZuNlZBd1Y1Vk1IUkk2Q3FXeGpV?oc=5"
  },
  {
-  "id": "rt-6e82dab88df9",
-  "titleCn": "《英雄》演员海顿·潘妮蒂尔去世 - 每日新闻",
-  "titleOrig": "Pelakon Heroes, Hayden Panettiere meninggal dunia - Berita Harian",
-  "catCn": "新闻热点",
-  "cat": "news",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "马来西亚新闻：Pelakon Heroes, Hayden Panettiere meninggal dunia - Berita Harian",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "马来西亚",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjloNFdrUnFhRHVKTlBteW1xd3FkbTd4YnVETTd1clhJbjNGWVRUZXpaWkFnUUVTMGJsRUE0WndJSnVUQUJWRTg5azVRdHJNTTBIZmN6ZlBNSUZ1c2tLbkdfaUdEVmZOOURDazVkSVh2bGl3MkJvanUteFZhb3dFQ2JjenJzWktoZWtzalRYOF93VmRVbmVsdEMwY1VvRjJOdTNpV0lEWkdaNzhCMUHSAbMBQVVfeXFMUENvYi1rV1h4OXVJR3VWNl9ZbVVhT3JhcmlCdURUck82VjdmVXVVcFNjWnI5TG9UNGtzNWNzUDZsMGRlS3JYVmcwVVhGYkFkSktrUi1KTFZ3UU9HUFVSNWktRVRIb2lLSXNoZVkxaWU0ZlpQWkt4MkRlSDA0SUJOakt3RG1vTEFjdW9NVnE0c2RYMVVJWEtnNURZeHh0ZzVwaFFGeEctaXdwTjRUb0hiUHlHbGs?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjloNFdrUnFhRHVKTlBteW1xd3FkbTd4YnVETTd1clhJbjNGWVRUZXpaWkFnUUVTMGJsRUE0WndJSnVUQUJWRTg5azVRdHJNTTBIZmN6ZlBNSUZ1c2tLbkdfaUdEVmZOOURDazVkSVh2bGl3MkJvanUteFZhb3dFQ2JjenJzWktoZWtzalRYOF93VmRVbmVsdEMwY1VvRjJOdTNpV0lEWkdaNzhCMUHSAbMBQVVfeXFMUENvYi1rV1h4OXVJR3VWNl9ZbVVhT3JhcmlCdURUck82VjdmVXVVcFNjWnI5TG9UNGtzNWNzUDZsMGRlS3JYVmcwVVhGYkFkSktrUi1KTFZ3UU9HUFVSNWktRVRIb2lLSXNoZVkxaWU0ZlpQWkt4MkRlSDA0SUJOakt3RG1vTEFjdW9NVnE0c2RYMVVJWEtnNURZeHh0ZzVwaFFGeEctaXdwTjRUb0hiUHlHbGs?oc=5"
- },
- {
   "id": "rt-12c0dc785636",
   "titleCn": "13人宣誓就任上议院议员 - 马来西亚储备银行",
   "titleOrig": "13 sworn in as Dewan Negara members - The Malaysian Reserve",
@@ -7175,8 +7014,56 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTnEyXzF1YUVmRWhnR2xmZHZPdmZ0NVk5Mm1Ib0RTaXp4aDN5dXdMNFlNajVab3FvNjU2cEEzWHJCYW5PT3pQZy1TUmZPVkJmekNKN2phZE1ra29wSXJUcmhaa0h5QzlHN1RiZmdfVkMtY1NIRTBOSzYzYm9KNFpoaEk3eFU5dw?oc=5"
  },
  {
+  "id": "rt-6e82dab88df9",
+  "titleCn": "《英雄》演员海顿·潘妮蒂尔去世 - 每日新闻",
+  "titleOrig": "Pelakon Heroes, Hayden Panettiere meninggal dunia - Berita Harian",
+  "catCn": "新闻热点",
+  "cat": "news",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "马来西亚新闻：Pelakon Heroes, Hayden Panettiere meninggal dunia - Berita Harian",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjloNFdrUnFhRHVKTlBteW1xd3FkbTd4YnVETTd1clhJbjNGWVRUZXpaWkFnUUVTMGJsRUE0WndJSnVUQUJWRTg5azVRdHJNTTBIZmN6ZlBNSUZ1c2tLbkdfaUdEVmZOOURDazVkSVh2bGl3MkJvanUteFZhb3dFQ2JjenJzWktoZWtzalRYOF93VmRVbmVsdEMwY1VvRjJOdTNpV0lEWkdaNzhCMUHSAbMBQVVfeXFMUENvYi1rV1h4OXVJR3VWNl9ZbVVhT3JhcmlCdURUck82VjdmVXVVcFNjWnI5TG9UNGtzNWNzUDZsMGRlS3JYVmcwVVhGYkFkSktrUi1KTFZ3UU9HUFVSNWktRVRIb2lLSXNoZVkxaWU0ZlpQWkt4MkRlSDA0SUJOakt3RG1vTEFjdW9NVnE0c2RYMVVJWEtnNURZeHh0ZzVwaFFGeEctaXdwTjRUb0hiUHlHbGs?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjloNFdrUnFhRHVKTlBteW1xd3FkbTd4YnVETTd1clhJbjNGWVRUZXpaWkFnUUVTMGJsRUE0WndJSnVUQUJWRTg5azVRdHJNTTBIZmN6ZlBNSUZ1c2tLbkdfaUdEVmZOOURDazVkSVh2bGl3MkJvanUteFZhb3dFQ2JjenJzWktoZWtzalRYOF93VmRVbmVsdEMwY1VvRjJOdTNpV0lEWkdaNzhCMUHSAbMBQVVfeXFMUENvYi1rV1h4OXVJR3VWNl9ZbVVhT3JhcmlCdURUck82VjdmVXVVcFNjWnI5TG9UNGtzNWNzUDZsMGRlS3JYVmcwVVhGYkFkSktrUi1KTFZ3UU9HUFVSNWktRVRIb2lLSXNoZVkxaWU0ZlpQWkt4MkRlSDA0SUJOakt3RG1vTEFjdW9NVnE0c2RYMVVJWEtnNURZeHh0ZzVwaFFGeEctaXdwTjRUb0hiUHlHbGs?oc=5"
+ },
+ {
   "id": "rt-4a62838ea45f",
-  "titleCn": "有钱的粉丝愿意为Seventeen成员正韩买一座心形岛 - mStar",
+  "titleCn": "有钱的粉丝愿意为Seventeen的郑涵买一座心形岛 - mStar",
   "titleOrig": "Peminat kaya sanggup beli pulau bentuk hati untuk Jeong Han Seventeen - mStar",
   "catCn": "新闻热点",
   "cat": "news",
@@ -7223,5 +7110,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWY5T0JobEFNX1V3WWJnYTZNMTlMeVJKa21CRWwybWowTUdTZ0RKUDZkVG15OXNaOThvdkxEb2FQQlllUVdGOXAwcUdZc3JHc1NxVTVPNm9lOEplUlZhQ1BITTZLelFKNV9PS2I1a196QjFyWHFRMjFoV2pFcDNDWUdzSnZQWjN1Z3hKNnpqYXphOVBXR3RSRWVJVS1JV0d0amsySEMzeU5aS0tvZ2ZnSlBZTUpQQ1JGRXNFLXpMazMwMkxKQ2pTUXh3?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-18T05:49:03";
+window.REALTIME_UPDATED = "2026-08-18T06:18:25";
 window.REALTIME_CARRIED = false;
