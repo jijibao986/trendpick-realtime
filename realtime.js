@@ -379,7 +379,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-44747273d187",
-  "titleCn": "地狱潜水员™2",
+  "titleCn": "地狱潜水员™ 2",
   "titleOrig": "HELLDIVERS™ 2",
   "catCn": "游戏热度",
   "cat": "gaming",
@@ -649,7 +649,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-824ae1586099",
-  "titleCn": "振奋人心（凌晨 3 点通话）[壮举。 BLVCKHEART] - 米尔",
+  "titleCn": "振作起来（凌晨 3 点通话）[壮举。 BLVCKHEART] - 米尔",
   "titleOrig": "ขึ้นใจ (3am call) [feat. BLVCKHEART] - Mirrr",
   "catCn": "音乐榜单",
   "cat": "music",
@@ -4806,7 +4806,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/190/453647466_9ab53e5b1a_m.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 86,
+  "buzzIndex": 88,
   "summary": "马来西亚 Twitter/X 今日热搜：Hayden",
   "tags": [],
   "timeRel": "",
@@ -5223,18 +5223,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=NUNEW%207TH%20SINGLE%20PRESS"
  },
  {
-  "id": "rt-72e87c7a8dad",
-  "titleCn": "与夏洛特一起17",
-  "titleOrig": "HERE WITH CHARLOTTE17",
+  "id": "rt-0384975b36e7",
+  "titleCn": "恭喜金",
+  "titleOrig": "CONGRATULATIONS JIN",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
+  "cover": "https://live.staticflickr.com/7301/27450785356_a8ab9aea6b_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 72,
-  "summary": "马来西亚 Twitter/X 今日热搜：HERE WITH CHARLOTTE17",
+  "summary": "马来西亚 Twitter/X 今日热搜：CONGRATULATIONS JIN",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5244,7 +5244,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE17"
+    "url": "https://twitter.com/search?q=CONGRATULATIONS%20JIN"
    },
    {
     "type": "openverse",
@@ -5274,14 +5274,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
+    "url": "https://live.staticflickr.com/7301/27450785356_a8ab9aea6b_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE17"
+  "primaryUrl": "https://twitter.com/search?q=CONGRATULATIONS%20JIN"
  },
  {
   "id": "rt-7577ce6a3c19",
@@ -5406,67 +5406,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=DAY%20OFF"
  },
  {
-  "id": "rt-0ceb54677c7a",
-  "titleCn": "双陆棋",
-  "titleOrig": "Jacquet",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rennes_pl_Ch-Jacquet_DSCN1770.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 66,
-  "summary": "马来西亚 Twitter/X 今日热搜：Jacquet",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Jacquet"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rennes_pl_Ch-Jacquet_DSCN1770.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=Jacquet"
- },
- {
   "id": "rt-c713ab634820",
   "titleCn": "马雷斯卡",
   "titleOrig": "Maresca",
@@ -5477,7 +5416,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/5/56/Maresca_Championship_trophy_Leicester_%28cropped%29.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 64,
+  "buzzIndex": 66,
   "summary": "马来西亚 Twitter/X 今日热搜：Maresca",
   "tags": [],
   "timeRel": "",
@@ -5528,67 +5467,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Maresca"
  },
  {
-  "id": "rt-0384975b36e7",
-  "titleCn": "恭喜金",
-  "titleOrig": "CONGRATULATIONS JIN",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/7301/27450785356_a8ab9aea6b_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 62,
-  "summary": "马来西亚 Twitter/X 今日热搜：CONGRATULATIONS JIN",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=CONGRATULATIONS%20JIN"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-18",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 1,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/7301/27450785356_a8ab9aea6b_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://twitter.com/search?q=CONGRATULATIONS%20JIN"
- },
- {
   "id": "rt-5650b2e2ed22",
   "titleCn": "带D",
   "titleOrig": "Bring D",
@@ -5599,7 +5477,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_moon_in_silence%2C_gliding_through_the_darkness%2C_her_domain....her_silvered_shadow_sliding_swift_and_supple_as_her_name...._And_streaming_downwards_through_the_lace_of_tangled_boughs_and_limbs%2C_spools_of_light_bring_d_-_panoramio.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 60,
+  "buzzIndex": 64,
   "summary": "马来西亚 Twitter/X 今日热搜：Bring D",
   "tags": [],
   "timeRel": "",
@@ -5660,7 +5538,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/7093/28062486916_4512983ff0_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 58,
+  "buzzIndex": 62,
   "summary": "马来西亚 Twitter/X 今日热搜：O. Kyungsoo",
   "tags": [],
   "timeRel": "",
@@ -5721,7 +5599,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3530/3737021567_392d635017.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 56,
+  "buzzIndex": 60,
   "summary": "马来西亚 Twitter/X 今日热搜：Tour to Malaysia",
   "tags": [],
   "timeRel": "",
@@ -5782,7 +5660,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/7276/6862347516_56144ab85d_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 58,
   "summary": "马来西亚 Twitter/X 今日热搜：EXO-Ls &amp; Dandanies Unite",
   "tags": [],
   "timeRel": "",
@@ -5843,7 +5721,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 52,
+  "buzzIndex": 56,
   "summary": "马来西亚 Twitter/X 今日热搜：TOMAFOX 3Y FOREVER",
   "tags": [],
   "timeRel": "",
@@ -5881,6 +5759,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=TOMAFOX%203Y%20FOREVER"
  },
  {
+  "id": "rt-72e87c7a8dad",
+  "titleCn": "与夏洛特一起17",
+  "titleOrig": "HERE WITH CHARLOTTE17",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 54,
+  "summary": "马来西亚 Twitter/X 今日热搜：HERE WITH CHARLOTTE17",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE17"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/5526/9048860809_cc26b240c3.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://twitter.com/search?q=HERE%20WITH%20CHARLOTTE17"
+ },
+ {
   "id": "rt-23aca30fbad0",
   "titleCn": "艾米博尼美丽无限",
   "titleOrig": "EMIBONNIE BEAUTY INFINITY",
@@ -5891,7 +5830,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/5450/9479798436_61cf2c6b47_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 50,
+  "buzzIndex": 52,
   "summary": "马来西亚 Twitter/X 今日热搜：EMIBONNIE BEAUTY INFINITY",
   "tags": [],
   "timeRel": "",
@@ -5940,6 +5879,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-18",
   "primaryUrl": "https://twitter.com/search?q=EMIBONNIE%20BEAUTY%20INFINITY"
+ },
+ {
+  "id": "rt-81e20de88cb8",
+  "titleCn": "阿诺",
+  "titleOrig": "Arno",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/7/8990682_9b29d533e1.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 50,
+  "summary": "马来西亚 Twitter/X 今日热搜：Arno",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Arno"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-18",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 1,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/7/8990682_9b29d533e1.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-18",
+  "primaryUrl": "https://twitter.com/search?q=Arno"
  },
  {
   "id": "rt-e62d24050a0f",
@@ -7022,9 +7022,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/177637"
  },
  {
-  "id": "rt-6524cfada620",
-  "titleCn": "开始了！ “Tle - First One”适合“You(r)tuber 系列：当我想成为一名 YouTuber 与我的前任竞争时” - LINE TODAY",
-  "titleOrig": "เริ่มแล้ว! “เติ้ล – เฟิร์สวัน” ฟิตติ้ง “You(r)tuber Series เมื่อผมอยากเป็นยูทูบเบอร์แข่งกับแฟนเก่า” - LINE TODAY",
+  "id": "rt-82f347f0f049",
+  "titleCn": "开始了！ “Tle - First One”适合“You(r)tuber 系列当我想成为一名 YouTuber 与我的前任竞争” - Today.line.me",
+  "titleOrig": "เริ่มแล้ว! “เติ้ล – เฟิร์สวัน” ฟิตติ้ง “You(r)tuber Series เมื่อผมอยากเป็นยูทูบเบอร์แข่งกับแฟนเก่า” - today.line.me",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "泰国",
@@ -7033,7 +7033,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国新闻：เริ่มแล้ว! “เติ้ล – เฟิร์สวัน” ฟิตติ้ง “You(r)tuber Series เมื่อผมอยากเป็นยูทูบเบอร์แข่งกับแฟนเก่า” - LINE TODAY",
+  "summary": "泰国新闻：เริ่มแล้ว! “เติ้ล – เฟิร์สวัน” ฟิตติ้ง “You(r)tuber Series เมื่อผมอยากเป็นยูทูบเบอร์แข่งกับแฟนเก่า” - today.line.me",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7070,9 +7070,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMci1VWDVJSnRkdFZnc2haVkNURWNQNzRyOEdfaGZDanJrNXEwaU1NSWJiZ0Fublp6X3ZoQTBOTVEwaHBSZEJHVncwVFNSemlXbWxYZ1lB?oc=5"
  },
  {
-  "id": "rt-cb29dd21ede9",
-  "titleCn": "[ 🔴 LIVE ] 年度最热门音乐剧《Mueang Maraya 音乐剧》首映 - t.co",
-  "titleOrig": "[ 🔴 LIVE ] รอบปฐมทัศน์ “เมืองมารยา เดอะมิวสิคัล” มิวสิคัลสุดแซ่บแห่งปี - t.co",
+  "id": "rt-eff025559be3",
+  "titleCn": "Muang Maraya 音乐剧 - thaiticketmajor",
+  "titleOrig": "เมืองมารยา เดอะมิวสิคัล - thaiticketmajor",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "泰国",
@@ -7081,7 +7081,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国新闻：[ 🔴 LIVE ] รอบปฐมทัศน์ “เมืองมารยา เดอะมิวสิคัล” มิวสิคัลสุดแซ่บแห่งปี - t.co",
+  "summary": "泰国新闻：เมืองมารยา เดอะมิวสิคัล - thaiticketmajor",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7091,7 +7091,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9NV0RNSmV6UnZYQmlpY0gwU19qWC1nQ1AwM3hyUU9BWm1uOWxpYi02SFRQa3lsSlo0cTJv?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0M3poMVk0cHNlXzFVNGJVNjQ5ZmRIU3BqSnJUVWdndHNzUHBJVk5HOEE5TXVtZldoRnRZdUFtTlB5c2U5d2NfUEYzcEpwZWxxMTItUHR1RGxQXzdJSFRNaUpqaThKXzFpRlpfX3psM2wzaEIxanNRag?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7115,7 +7115,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-18",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9NV0RNSmV6UnZYQmlpY0gwU19qWC1nQ1AwM3hyUU9BWm1uOWxpYi02SFRQa3lsSlo0cTJv?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0M3poMVk0cHNlXzFVNGJVNjQ5ZmRIU3BqSnJUVWdndHNzUHBJVk5HOEE5TXVtZldoRnRZdUFtTlB5c2U5d2NfUEYzcEpwZWxxMTItUHR1RGxQXzdJSFRNaUpqaThKXzFpRlpfX3psM2wzaEIxanNRag?oc=5"
  },
  {
   "id": "rt-6443a5ed9460",
@@ -7454,5 +7454,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMnRDSXJ6VzZMdURrcXA3QzJlbmJXbDZSSzFoSlJBMUF6WnFkem1KU1RDS2pGMG8zMWE5YW1ReUN5ZmZtOWN4Y0FEWVExWG5RcVBSYTREMGlJak1VM0JGOXpXSFphaGs0OWU4VzJkMzhnMkhVUnNmUVRmUHd3d3B5al9kWF91NFpTZnJnZmxQRS1HU1BCdVVXREhROVBVVFVPQU9hVS1OejFOSVhmUjV3MWE1bGN6Y3RZ?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-18T01:22:54";
+window.REALTIME_UPDATED = "2026-08-18T01:54:47";
 window.REALTIME_CARRIED = false;
