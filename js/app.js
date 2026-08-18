@@ -197,17 +197,34 @@
     if (_galleryIdx < _galleryImages.length - 1) switchGalleryImg(_galleryIdx + 1);
   };
 
-  // ---------- init ----------
-  function init() {
+  // ---------- 动态分类chips（基于EVENTS实际catCn，避免分类名不匹配导致点板块空白）----------
+  function renderCatChips() {
     const cc = document.getElementById("catChips");
-    cc.innerHTML = CATS.map((c) =>
-      `<button class="chip ${c.key === "all" ? "active" : ""}" data-cat="${c.key}">${c.icon} ${c.cn}</button>`
+    if (!cc) return;
+    const counts = {};
+    EVENTS.forEach((e) => { const c = e.catCn || "其他热搜"; counts[c] = (counts[c] || 0) + 1; });
+    const seen = new Set();
+    const ordered = [{ key: "all", cn: "全部", icon: "🌐", count: EVENTS.length }];
+    CATS.slice(1).forEach((c) => {
+      if (counts[c.cn]) { ordered.push({ key: c.cn, cn: c.cn, icon: c.icon, count: counts[c.cn] }); seen.add(c.cn); }
+    });
+    Object.entries(counts).sort((a, b) => b[1] - a[1]).forEach(([cn, n]) => {
+      if (!seen.has(cn)) { ordered.push({ key: cn, cn: cn, icon: CAT_EMOJI[cn] || "🔥", count: n }); seen.add(cn); }
+    });
+    if (state.cat !== "all" && !ordered.find((c) => c.key === state.cat)) state.cat = "all";
+    cc.innerHTML = ordered.map((c) =>
+      `<button class="chip ${c.key === state.cat ? "active" : ""}" data-cat="${c.key}">${c.icon} ${c.cn} <span style="opacity:.55;font-size:11px">${c.count}</span></button>`
     ).join("");
     cc.querySelectorAll(".chip").forEach((b) =>
       b.addEventListener("click", () => {
         cc.querySelectorAll(".chip").forEach((x) => x.classList.remove("active"));
         b.classList.add("active"); state.cat = b.dataset.cat; render();
       }));
+  }
+
+  // ---------- init ----------
+  function init() {
+    renderCatChips();
 
     document.querySelectorAll("#countryTabs .ctab").forEach((b) =>
       b.addEventListener("click", () => {
@@ -1119,6 +1136,7 @@
       rtUpdated = u || rtUpdated;
       rebuildEvents();
       renderHeroStats();
+      renderCatChips();
       render();
       // 右上角日期改为云端实时更新时间 + 下次更新倒计时
       const ud = document.getElementById("updatedDate");
@@ -1179,6 +1197,7 @@
         if (lu) lu.textContent = "最后更新：" + cur.replace("T", " ").slice(0, 16);
         if (ud) ud.textContent = cur.slice(0, 10);
         renderHeroStats();
+        renderCatChips();
         render();
         window.scrollTo(0, y);
         showToast("🔄 已更新至 " + cur.replace("T", " ").slice(0, 16) + "，共 " + EVENTS.length + " 条热点");
