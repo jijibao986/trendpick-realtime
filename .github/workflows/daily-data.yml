@@ -25,7 +25,7 @@ jobs:
       - name: 运行 build_daily_data.py（从 realtime.js 生成当日 data.js）
         run: python scripts/build_daily_data.py
 
-      - name: 提交并推送
+      - name: 提交并推送（含冲突重试）
         run: |
           git config user.name "realtime-bot"
           git config user.email "bot@trendpick.local"
@@ -34,5 +34,9 @@ jobs:
             echo "data.js 无变化，跳过提交"
           else
             git commit -m "daily(cloud): data.js 自动更新 $(date -u +'%Y-%m-%d')"
-            git push
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && exit 0
+              echo "第 $i 次重试（remote 可能领先）..." && sleep 5
+            done
+            echo "推送失败，明天再试"
           fi
