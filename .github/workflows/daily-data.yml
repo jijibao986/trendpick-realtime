@@ -1,0 +1,38 @@
+name: 印选 data.js 每日云端更新
+
+on:
+  schedule:
+    # UTC 0:00 = 北京时间 8:00，每天跑一次
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 运行 build_daily_data.py（从 realtime.js 生成当日 data.js）
+        run: python scripts/build_daily_data.py
+
+      - name: 提交并推送
+        run: |
+          git config user.name "realtime-bot"
+          git config user.email "bot@trendpick.local"
+          git add js/data.js
+          if git diff --cached --quiet; then
+            echo "data.js 无变化，跳过提交"
+          else
+            git commit -m "daily(cloud): data.js 自动更新 $(date -u +'%Y-%m-%d')"
+            git push
+          fi
