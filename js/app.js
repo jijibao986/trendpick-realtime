@@ -401,7 +401,8 @@
           </div>
           <h3>${escapeHtml(e.titleCn)}</h3>
           <div class="title-orig">${escapeHtml(e.titleOrig)}</div>
-          <div class="summary">${escapeHtml(e.summary)}</div>
+          <div class="summary">${escapeHtml(((e.description || e.summary) || "").slice(0, 140))}${(e.description || "").length > 140 ? "…" : ""}</div>
+          ${cardKwHtml(e)}
           <div class="card-foot">
             <span class="pt ${ptClass(e.printType)}">${e.printType}</span>
             <span class="risk ${riskClass(e.risk)}">${e.risk}</span>
@@ -859,6 +860,33 @@
           <ul class="kw-similar">${simHtml}</ul>
         </div>
       </div>`;
+  }
+
+  // ---------- 卡片正面用的轻量关键词/元素/色彩摘要 ----------
+  function cardKwHtml(e) {
+    if (!e) return "";
+    const a = keywordAnalysis(e);
+    const els = (Array.isArray(a.elements) ? a.elements : []).slice(0, 3);
+    const colArr = (a.colors && Array.isArray(a.colors.colors)) ? a.colors.colors.slice(0, 2) : [];
+    const slogan = (Array.isArray(a.slogans) && a.slogans[0] && a.slogans[0].cn) ? a.slogans[0].cn : "";
+    if (!els.length && !colArr.length && !slogan) return "";
+    let html = '<div class="card-kw">';
+    if (slogan) {
+      html += '<div class="card-kw-slogan">📝 ' + escapeHtml(slogan.slice(0, 44)) + (slogan.length > 44 ? "…" : "") + "</div>";
+    }
+    if (els.length) {
+      html += '<div class="card-kw-chips">';
+      els.forEach(function (el) { html += '<span class="card-kw-chip">' + escapeHtml(el) + "</span>"; });
+      html += "</div>";
+    }
+    if (colArr.length) {
+      html += '<div class="card-kw-colors">';
+      colArr.forEach(function (c) { html += '<span class="card-kw-color" style="background:linear-gradient(135deg,' + c + ')" title="' + escapeHtml(c) + '"></span>'; });
+      html += "</div>";
+    }
+    html += '<div class="card-kw-hint">点击查看完整印花分析 →</div>';
+    html += "</div>";
+    return html;
   }
 
   function suggestion(e) {
