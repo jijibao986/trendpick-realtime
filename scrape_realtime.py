@@ -79,7 +79,7 @@ SRC_NAME = {
     "mal": "MyAnimeList 榜单",
 }
 
-CAT_RANK = {"film_tv": 5, "gaming": 4, "music": 3, "news": 2, "platform_search": 2, "other": 1}
+CAT_RANK = {"film_tv": 5, "gaming": 4, "music": 3, "celebrity": 5, "concert_show": 4, "meme": 3, "sports": 3, "society": 2, "politics": 2, "ecommerce": 3, "festival": 4, "news": 2, "platform_search": 2, "other": 1}
 
 
 def make_event(source, title, *, url="", image="", country="多市场",
@@ -263,7 +263,7 @@ def src_mal(top=20):
     return evs
 
 
-def src_google_news(query, country_cn, hl, gl, ceid, limit=1):
+def src_google_news(query, country_cn, hl, gl, ceid, limit=1, cat="news", cat_cn="新闻热点"):
     """按关键词查 Google News RSS，返回带图新闻事件（作为独立数据源，也可被聚合借图）。"""
     evs = []
     try:
@@ -289,12 +289,49 @@ def src_google_news(query, country_cn, hl, gl, ceid, limit=1):
             evs.append(make_event(
                 "gnews", title,
                 url=link, image=img, country=country_cn,
-                cat="news", cat_cn="新闻热点",
-                summary=f"{country_cn}新闻：{title}",
+                cat=cat, cat_cn=cat_cn,
+                summary=f"{country_cn}{cat_cn}：{title}",
                 img_src="Google 新闻图" if img else "",
             ))
     except Exception as e:
         print(f"[gnews {query}] 失败: {e}")
+    return evs
+
+
+# ---------- 多分类 Google News 查询配置 ----------
+GNEWS_QUERIES = [
+    ("celebrity entertainment gossip", "celebrity", "明星八卦"),
+    ("movie film series drama", "film_tv", "影视剧"),
+    ("concert festival tour", "concert_show", "演唱会综艺"),
+    ("meme viral trending", "meme", "网络热梗"),
+    ("sports football match", "sports", "体育"),
+    ("society social community", "society", "社会民生"),
+    ("politics election government", "politics", "政党选举"),
+    ("ecommerce marketplace policy shop", "ecommerce", "电商政策"),
+]
+
+
+def src_holidays():
+    """泰马未来节日静态数据（含印花机会）。"""
+    holidays = [
+        ("母亲节（泰国母亲节）", "泰国", "母亲节（วันแม่）泰国皇后诞辰，康乃馨/母爱主题印花机会"),
+        ("圣纪节（回教先知诞辰）", "马来西亚", "圣纪节 Maulid Nabi，回教节日，绿色/新月主题"),
+        ("马来西亚国庆日", "马来西亚", "马来西亚独立日，国旗/爱国主题印花爆款"),
+        ("水灯节", "泰国", "水灯节 Loy Krathong，水灯/河灯/浪漫主题印花机会"),
+        ("国王诞辰（泰国）", "泰国", "国王诞辰，黄色/皇室主题"),
+        ("圣诞节", "多市场", "圣诞主题印花全球爆款"),
+        ("元旦", "多市场", "新年主题印花"),
+        ("春节", "马来西亚", "农历新年，红色/生肖主题印花（马来华人圈）"),
+    ]
+    evs = []
+    for title, country, summary in holidays:
+        evs.append(make_event(
+            "holiday", title,
+            url="", image="", country=country,
+            cat="festival", cat_cn="节日",
+            summary=summary,
+            img_src="",
+        ))
     return evs
 
 
@@ -596,7 +633,8 @@ def collect():
             + src_apple_music("th", "泰国")
             + src_apple_music("my", "马来西亚")
             + src_steam(12)
-            + src_anilist(20))
+            + src_anilist(20)
+            + src_holidays())
 
     # Google News：基于热搜词查带图新闻（既是数据源，也能给热搜借图）
     gnews_evs = []
@@ -605,6 +643,12 @@ def collect():
         hl, gl, ceid = ("th", "TH", "TH:th") if cc == "泰国" else ("ms", "MY", "MY:ms")
         gnews_evs += src_google_news(e["titleOrig"], cc, hl, gl, ceid, limit=1)
         time.sleep(0.15)
+
+    # 多分类 Google News：每分类查泰+马各3条，覆盖明星/影视/综艺/梗/体育/社会/政治/电商
+    for query, cat, cat_cn in GNEWS_QUERIES:
+        for cc, hl, gl, ceid in [("泰国", "th", "TH", "TH:th"), ("马来西亚", "ms", "MY", "MY:ms")]:
+            gnews_evs += src_google_news(query, cc, hl, gl, ceid, limit=3, cat=cat, cat_cn=cat_cn)
+            time.sleep(0.15)
 
     all_evs = base + gnews_evs
     all_evs = aggregate(all_evs)
