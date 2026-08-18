@@ -88,7 +88,17 @@ def make_event(source, title, *, url="", image="", country="多市场",
     if not title:
         return None
     title_cn = translate(title)
-    stars = "🔥🔥🔥" if (rank and rank <= 3) else ("🔥🔥" if (rank and rank <= 10) else "🔥")
+    if rank and rank <= 2:
+        _s = 5
+    elif rank and rank <= 5:
+        _s = 4
+    elif rank and rank <= 10:
+        _s = 3
+    elif rank and rank <= 20:
+        _s = 2
+    else:
+        _s = 1
+    stars = "🔥" * _s
     buzz = max(20, 100 - (rank or 20) * 2)
     cred = 88 if source in ("apple", "steam", "anilist", "gnews") else 80
     has_media = bool(image)
@@ -116,7 +126,7 @@ def make_event(source, title, *, url="", image="", country="多市场",
         "timeline": [{"date": now_iso()[:10], "desc": "实时榜单收录", "verified": False, "label": "收录"}],
         "printType": "文字款" if cat in ("platform_search", "music", "gaming", "film_tv", "news") else "",
         "risk": "低",
-        "hotDays": 1,
+        "hotDays": (7 if buzz >= 90 else 5 if buzz >= 80 else 3 if buzz >= 70 else 2 if buzz >= 50 else 1),
         "imageSource": (img_src or ("官方接口远程图" if has_media else "分类占位图（无自然配图）")),
         "hasMedia": has_media,
         "media": media,

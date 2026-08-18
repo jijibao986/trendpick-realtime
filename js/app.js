@@ -56,8 +56,8 @@
   function stars(n) {
     let v = Number(n);
     if (!isFinite(v) || v < 0) v = 0;
-    if (v > 4) v = 4;
-    return "★".repeat(v) + "☆".repeat(4 - v);
+    if (v > 5) v = 5;
+    return "★".repeat(v) + "☆".repeat(5 - v);
   }
   function ptClass(pt) {
     if (pt === "文字款") return "t1";
@@ -1071,7 +1071,7 @@
       const cnt = (s.match(/🔥|★/g) || []).length;
       s = cnt > 0 ? cnt : (parseInt(s, 10) || 3);
     }
-    e.stars = Math.max(0, Math.min(4, Number(s) || 0));
+    e.stars = Math.max(0, Math.min(5, Number(s) || 0));
     // country：中文 → 代码
     if (e.country === "泰国") e.country = "th";
     else if (e.country === "马来西亚") e.country = "my";
