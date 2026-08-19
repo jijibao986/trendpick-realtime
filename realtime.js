@@ -4787,9 +4787,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=THEEWAVE%20JOURNEY%20TOGETHER"
  },
  {
-  "id": "rt-a020bf4eb552",
-  "titleCn": "AA美宝莲唇膏",
-  "titleOrig": "AA MAYBELLINE LIP",
+  "id": "rt-bc785354e7ad",
+  "titleCn": "美宝莲唇部",
+  "titleOrig": "aa maybelline lip",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -4798,7 +4798,7 @@ window.EVENTS_REALTIME = [
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 62,
-  "summary": "泰国 Twitter/X 今日热搜：AA MAYBELLINE LIP",
+  "summary": "泰国 Twitter/X 今日热搜：aa maybelline lip",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4808,7 +4808,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=AA%20MAYBELLINE%20LIP"
+    "url": "https://twitter.com/search?q=aa%20maybelline%20lip"
    },
    {
     "type": "openverse",
@@ -4845,7 +4845,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-20",
-  "primaryUrl": "https://twitter.com/search?q=AA%20MAYBELLINE%20LIP"
+  "primaryUrl": "https://twitter.com/search?q=aa%20maybelline%20lip"
  },
  {
   "id": "rt-9cf29f5b7472",
@@ -7153,54 +7153,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/199111"
  },
  {
-  "id": "rt-77fa6b95dd2e",
-  "titleCn": "wujialin - t.co",
-  "titleOrig": "wujialin - t.co",
-  "catCn": "新闻热点",
-  "cat": "news",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国新闻热点：wujialin - t.co",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1xdXZ4cm5waTVVWUV5NUpSVEo2LS1ndDVJMXRxOU9MZnVQTkhLTlE3ZUo2LTdaRE5lTnpn?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-20",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-20",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1xdXZ4cm5waTVVWUV5NUpSVEo2LS1ndDVJMXRxOU9MZnVQTkhLTlE3ZUo2LTdaRE5lTnpn?oc=5"
- },
- {
   "id": "rt-77d2c6d5908a",
   "titleCn": "泰国演员 Keng Harit 与粉丝一起庆祝 27 岁生日 - t.co",
   "titleOrig": "Thai Actor Keng Harit Celebrates 27th Birthday with Fan Love - t.co",
@@ -7489,6 +7441,54 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UNEhmLU1WOW9KLVdiUUFyN0t0VlNJV3VWTXI2Q3F0VkVpUkttWllJdjJrOXc1c0FQckZHbE9rNjVIWGJ6QmsxX2VOc1c1RHpJR0J5b0ZEV1RvWndVcXZsT0NQMVNOM1hMZVJ2N3YxRi1VSndzUGFmenlR?oc=5"
  },
  {
+  "id": "rt-c13e160b12e6",
+  "titleCn": "反对派议员告诉武装部队军官，停止亲吻部长的手 - NST Online",
+  "titleOrig": "Stop kissing ministers' hands, opposition MP tells armed forces officers - NST Online",
+  "catCn": "新闻热点",
+  "cat": "news",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "马来西亚新闻热点：Stop kissing ministers' hands, opposition MP tells armed forces officers - NST Online",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFlIVUdvYXZxV2ZpQ2RNRE5mVjRtSTVyUjV6RF80ZU0yTlhfNEhRZzZGaU9zRS1XWUNiNm1OTHY4T0djN1FOalhrZmFBZzI2NFA2eUhuWlFpcHFUTjVlSWRDT0xJSUNqT3h0OWJlZ1RLVF9NajUyQ1JKOFFadGZEaGNoRkFUNC1xWmtEZUhSRnRWYU1fdk9MSDRKVkR1N1dyZ3dpR3plNnI4TTFQVmZtb3pYVVZZb2w1T3p6emZB0gHDAUFVX3lxTE9vc0ZMZ3o2SkhBN2VCZmRpTzdBUHV3VE5pRWtnczU3NkRuRWR2T3lzQWp2S0ZhX3cxcTBiUU1DUGZWQUpjSVdNYU1jby1zSnFBbjdiNDEtTkNMSTdQZEJfQ1NEc1I5QXhyVTdINFBJVUpGYlJJOFJXSS0yT21nbGwzaWtkNEZXUWM4UUgyZHUtTE1qd2ZnS3I2UmhZTGM2OVl5OUdFUklLbVdTVFRNSnljY3IwU3gtNjVOQ0JRNGxtQ1RqRQ?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-20",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-20",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFlIVUdvYXZxV2ZpQ2RNRE5mVjRtSTVyUjV6RF80ZU0yTlhfNEhRZzZGaU9zRS1XWUNiNm1OTHY4T0djN1FOalhrZmFBZzI2NFA2eUhuWlFpcHFUTjVlSWRDT0xJSUNqT3h0OWJlZ1RLVF9NajUyQ1JKOFFadGZEaGNoRkFUNC1xWmtEZUhSRnRWYU1fdk9MSDRKVkR1N1dyZ3dpR3plNnI4TTFQVmZtb3pYVVZZb2w1T3p6emZB0gHDAUFVX3lxTE9vc0ZMZ3o2SkhBN2VCZmRpTzdBUHV3VE5pRWtnczU3NkRuRWR2T3lzQWp2S0ZhX3cxcTBiUU1DUGZWQUpjSVdNYU1jby1zSnFBbjdiNDEtTkNMSTdQZEJfQ1NEc1I5QXhyVTdINFBJVUpGYlJJOFJXSS0yT21nbGwzaWtkNEZXUWM4UUgyZHUtTE1qd2ZnS3I2UmhZTGM2OVl5OUdFUklLbVdTVFRNSnljY3IwU3gtNjVOQ0JRNGxtQ1RqRQ?oc=5"
+ },
+ {
   "id": "rt-2e3a2cdb45ab",
   "titleCn": "安瓦尔支持中国军事利用台湾问题 台北动荡 - Malaysiakini",
   "titleOrig": "Anwar sokong China guna ketenteraan isu Taiwan, Taipei melenting - Malaysiakini",
@@ -7537,9 +7537,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tNF9TbHMxcUhFNXh4X2VnRXVoSldhWXc5Y1JwUWI0UHZabER6Q29IZzg5am5BU0VkdXlnS1EzY1dTZi1vZFRMRVZNeHFZSXI0TkE?oc=5"
  },
  {
-  "id": "rt-578657ae185c",
-  "titleCn": "纽卡斯尔正在谈判从曼城签下尼科·冈萨雷斯，以重建下赛季的中场。 - 越南.vn",
-  "titleOrig": "Newcastle sedang berbincang untuk membeli Nico Gonzalez dari Man City bagi membina semula bahagian tengah mereka untuk musim akan datang. - Vietnam.vn",
+  "id": "rt-4b0a0458e2dc",
+  "titleCn": "被控无护照进入沙巴，尼科获准保释 - sabahmedia.com",
+  "titleOrig": "Didakwa masuk Sabah tanpa pas, Nico dibenar ikat jamin - sabahmedia.com",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7548,7 +7548,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻热点：Newcastle sedang berbincang untuk membeli Nico Gonzalez dari Man City bagi membina semula bahagian tengah mereka untuk musim akan datang. - Vietnam.vn",
+  "summary": "马来西亚新闻热点：Didakwa masuk Sabah tanpa pas, Nico dibenar ikat jamin - sabahmedia.com",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7558,7 +7558,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONTRvNmYwY1lwczUxaFRhX0syTUdMTnVRSnRGb3ltYWxiN1dqeGhhaXc0WEJ3S2l3UW5uS3N4RUVzSkZaWUV6WXE0c1BqVy12bVRkWFotTXBZV2g3cFRGNHdpTW5IbzZQR1E2b2dsNE5wR25pYVhqcVBCRUVpOGJ4aUFLVnk2YUVLbWhpT01lOGpGelRWQ0lBUkRNS01ZNGJ5NERLcVlpVlZmVlNkN3puOQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWxpX3pLMjZtS1JpT2hKcnZxSHdPNFc3S202bGtlQmR1WjU4RnZLYmJ3aXBDdXBsbmpFVWtGNmxCeFNYeGxJM0RpR2tWTXFNMzQ1WnAwdG51dW1tWi1jbFJVUmV5bi16TGhad0pBN1RkTjdFTXQ4QldEQ2V6QXpfXzBnNnRWUDJfZzYxVEpoLVk0QQ?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7582,7 +7582,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-20",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONTRvNmYwY1lwczUxaFRhX0syTUdMTnVRSnRGb3ltYWxiN1dqeGhhaXc0WEJ3S2l3UW5uS3N4RUVzSkZaWUV6WXE0c1BqVy12bVRkWFotTXBZV2g3cFRGNHdpTW5IbzZQR1E2b2dsNE5wR25pYVhqcVBCRUVpOGJ4aUFLVnk2YUVLbWhpT01lOGpGelRWQ0lBUkRNS01ZNGJ5NERLcVlpVlZmVlNkN3puOQ?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWxpX3pLMjZtS1JpT2hKcnZxSHdPNFc3S202bGtlQmR1WjU4RnZLYmJ3aXBDdXBsbmpFVWtGNmxCeFNYeGxJM0RpR2tWTXFNMzQ1WnAwdG51dW1tWi1jbFJVUmV5bi16TGhad0pBN1RkTjdFTXQ4QldEQ2V6QXpfXzBnNnRWUDJfZzYxVEpoLVk0QQ?oc=5"
  },
  {
   "id": "rt-15a5b5538472",
@@ -7729,54 +7729,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CTFNhdThvaFRWRVlWZW5SR3pjQWtPeXpkaGlzd2RHZ0JnUWpuRzB4NE5menFqLS00MlVrM09OTFgtYXhDRUxJOG4zYWVvOUtK?oc=5"
  },
  {
-  "id": "rt-ab6de5a172fa",
-  "titleCn": "娱乐 - 名人八卦：2023 年 10 月 29 日 - Vanguard",
-  "titleOrig": "บันเทิง - Celebrity Gossip : 29 ตุลาคม 2566 - แนวหน้า",
-  "catCn": "明星八卦",
-  "cat": "celebrity",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国明星八卦：บันเทิง - Celebrity Gossip : 29 ตุลาคม 2566 - แนวหน้า",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jZ2ZYdzFUUzZqQ3M1Wk9kd21GQ2haT3lZTmVZcVJnQnpGeFpEb3NhclRnX2ZsazVEb3ozWENaRlBnQ09tZFJTRnJXVlV0dkRk?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-20",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-20",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jZ2ZYdzFUUzZqQ3M1Wk9kd21GQ2haT3lZTmVZcVJnQnpGeFpEb3NhclRnX2ZsazVEb3ozWENaRlBnQ09tZFJTRnJXVlV0dkRk?oc=5"
- },
- {
   "id": "rt-d84785edc2df",
   "titleCn": "娱乐 - 名人八卦：2023 年 9 月 17 日 - Vanguard",
   "titleOrig": "บันเทิง - Celebrity Gossip : 17 กันยายน 2566 - แนวหน้า",
@@ -7823,6 +7775,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-20",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95bThDVzRqSUpCLThLb3JoTkJUTnAzZHI1Y0dWdnBwc0pKa2pWaEFqVDM3MTFsb1F5MllncjNZR1R4S0hRQ0FIaWRwSTFBNWhZ?oc=5"
+ },
+ {
+  "id": "rt-ab6de5a172fa",
+  "titleCn": "娱乐 - 名人八卦：2023 年 10 月 29 日 - Vanguard",
+  "titleOrig": "บันเทิง - Celebrity Gossip : 29 ตุลาคม 2566 - แนวหน้า",
+  "catCn": "明星八卦",
+  "cat": "celebrity",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国明星八卦：บันเทิง - Celebrity Gossip : 29 ตุลาคม 2566 - แนวหน้า",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jZ2ZYdzFUUzZqQ3M1Wk9kd21GQ2haT3lZTmVZcVJnQnpGeFpEb3NhclRnX2ZsazVEb3ozWENaRlBnQ09tZFJTRnJXVlV0dkRk?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-20",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-20",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jZ2ZYdzFUUzZqQ3M1Wk9kd21GQ2haT3lZTmVZcVJnQnpGeFpEb3NhclRnX2ZsazVEb3ozWENaRlBnQ09tZFJTRnJXVlV0dkRk?oc=5"
  },
  {
   "id": "rt-8bdeef0dd32e",
@@ -8977,9 +8977,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zcWVXdnVaTGFpWXNLdmxMemZxZnhvU0tQUVU0NTdGTVdzOXNrcnhheVRxdkE1eExHRGM3R3J0QkhXZw?oc=5"
  },
  {
-  "id": "rt-83f3f7e43f61",
-  "titleCn": "曼城的哈兰德表示，赢得比赛才是最重要的 - Stadiumastro.com",
-  "titleOrig": "Winning games is all that matters, says Man City's Haaland - stadiumastro.com",
+  "id": "rt-4085360c4eb6",
+  "titleCn": "曼城的哈兰德表示，赢得比赛才是最重要的 - Stadium Astro",
+  "titleOrig": "Winning games is all that matters, says Man City's Haaland - Stadium Astro",
   "catCn": "体育",
   "cat": "sports",
   "country": "马来西亚",
@@ -8988,7 +8988,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚体育：Winning games is all that matters, says Man City's Haaland - stadiumastro.com",
+  "summary": "马来西亚体育：Winning games is all that matters, says Man City's Haaland - Stadium Astro",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -9313,6 +9313,54 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2dzOGZKRXhXUTBteTlCSHZZMmpoc1F5QWc4OEdqdDhSZ3QwUmZUb1NpeVdFQV9IaFNJSGRqUWNnQTh1SFlzU3dHbi1xdEpXenl0Q3gtbFpRNmdyVkp4RDNSZGM2ZG5iWUxnVFQySWt0eTJNMk9mdzFmQ0djbnhEazJ1ODNwaFY4Y2lMZlE3aDN4aUZVc1hhS0lpODNGMTdnbGxkRExuR1o4aFFJdmRnTGtTMUdwQXfSAbwBQVVfeXFMTXREUWk3YTcwMzFRSFBlM0VPd19rMlk1ZlM0VVV0X2pWZ3RIOWJZRHZtQUtJSEV0WkY3Y1Fmc293VzAwSmV5Qzg1LWYtbXVFZUdTZTd1SGZDYVlUZEZuRGdPUFdzVGtURUQybUUxWjg4UkVQSXNmSXN6RVpKeGdmYTlldEMzNTMta25JaGJkMlM1T01wTmo0eE1fenBUV0xyQU5fMEN4VEFrV3ZSUEpNZnFsMkxCQVhRcG91SjI?oc=5"
  },
  {
+  "id": "rt-91fbc4cdfdaa",
+  "titleCn": "与网络学校有关的 19 人下落不明 - 今日免费马来西亚",
+  "titleOrig": "19 people linked to Network School unaccounted for - Free Malaysia Today",
+  "catCn": "社会民生",
+  "cat": "society",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "马来西亚社会民生：19 people linked to Network School unaccounted for - Free Malaysia Today",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenJ5cS1fQWF0S2U5VnMxam5jN1NSWjN1VzRBQW81cU1ia0NZeUxVdnFoUnU4eUo4VWZDQVVOUXFnRE5XLXlSeXdVM3BlRjN1ZGU3eHljU3p2eUZqS1ZzNS1Od3FHQ1RndUxybERUdzVZVUtUMlRFZk5rb1dJYkpnSWlnS3R0UFJDYXZwY09ieFBYUnVHZV9TbEhBM2VpWS1keVVDM21tS3drR2g5eW9NdQ?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-20",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-20",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenJ5cS1fQWF0S2U5VnMxam5jN1NSWjN1VzRBQW81cU1ia0NZeUxVdnFoUnU4eUo4VWZDQVVOUXFnRE5XLXlSeXdVM3BlRjN1ZGU3eHljU3p2eUZqS1ZzNS1Od3FHQ1RndUxybERUdzVZVUtUMlRFZk5rb1dJYkpnSWlnS3R0UFJDYXZwY09ieFBYUnVHZV9TbEhBM2VpWS1keVVDM21tS3drR2g5eW9NdQ?oc=5"
+ },
+ {
   "id": "rt-b145ce639826",
   "titleCn": "公共住房急需改革遏制社会衰退 / 公共住房急需改革遏制社会衰退 -aliran.com",
   "titleOrig": "Perumahan awam perlukan pembaharuan segera untuk mencegah kemerosotan sosial / Public housing needs urgent reform to curb social decline - aliran.com",
@@ -9361,18 +9409,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTnpwWHp1ZEJaTVFET2hVSEdlb0N2NlVLd3ZDQ3J2MWg3dmtQQlh5MXFoUlRFaC1mX1lYZ05sVDRUWE1uTEFnVjM0VzN1OGFNdmFzUnhhMU1rZmlSUS1VblFOQnc1VTdKMkdFYlNtX1NFY2hhTUhVblZsT3BZd253ODBIWjVfZ1JJMl9xMVpucEhqdjR2SG9MTXR0eWc4aTI3dkJ5SExVQ3NvLXB6WHZkYVRaNG40RlJZd3BlVVJ3LTRqdDV3UFhkT3BJNVA2M0VKVG40UV9fMjQwbFdtNzFqd3RRZW1MaWFNQUdJSGhXSlRVNTZpeW1iOHBpUldMY3RHSFVXSQ?oc=5"
  },
  {
-  "id": "rt-a81060c3aaa7",
-  "titleCn": "通过 Pay It Forward Malaysia 用餐时分享、关怀和联系 - DagangNews",
-  "titleOrig": "Share, Care, and Connect Over a Meal With Pay It Forward Malaysia - DagangNews",
-  "catCn": "社会民生",
-  "cat": "society",
-  "country": "马来西亚",
+  "id": "rt-e9d5ec644c8c",
+  "titleCn": "民间社会网络敦促政党将环境正义纳入 2026 年选举周期之后的政策中 - greenpeace.org",
+  "titleOrig": "Civil society networks urge political parties to embed environmental justice in policy beyond the 2026 election cycle - greenpeace.org",
+  "catCn": "政党选举",
+  "cat": "politics",
+  "country": "泰国",
   "stars": "🔥",
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚社会民生：Share, Care, and Connect Over a Meal With Pay It Forward Malaysia - DagangNews",
+  "summary": "泰国政党选举：Civil society networks urge political parties to embed environmental justice in policy beyond the 2026 election cycle - greenpeace.org",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -9380,9 +9428,9 @@ window.EVENTS_REALTIME = [
    {
     "type": "gnews",
     "name": "Google 新闻",
-    "region": "马来西亚",
+    "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVYyb3ZlbUk0c2M3SGJRUEdvWk92RW1SSUY5LVlQZk12TzI5V0hGYzZGOGp5TllwUnZUa1ZmOEVaLXczY0VqU0JMd3J4VTY5SDhhdVdpLXFtcVVwRUdqRi1vMXg3NTVDdkgtY3lmdlRPYi1CeXlMVV9FRC1pbVFHTmtnbGs0NTNXcUdaWlhnakxKdDZrU3QybVFhUG1vN3JzVW1nemU2T2s?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdS0wUVdpSDNIcXFQYU5TTmFpS3VVcUVhZGNHSDJfdS15TENkWjRQbkhmZ0RZRkR5T3cxVHpJYkNyQUYzOG9VYUg5cnUteUl3MXJ2bnBsNVVkaVF2TmsxdHZscndjeEU2M0paMnhEMkNJZzctUldCOWQtLWd4REt0QlFsOGpVdjJrbWJFb2VKU190YjloZFNVSFBnMGNhLTdGNmlLY1g1SmQ3RDBYX205eW04c09KMkpCYjJqOXpiSmg1YnBIY2g5MmJSdURsNXJDbUNPR1RBTE52LTNuVXRwMkU4QUtnUmdwb2x2eVctWGNsbTU2WmRwLTFRbGdzZw?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -9406,7 +9454,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-20",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVYyb3ZlbUk0c2M3SGJRUEdvWk92RW1SSUY5LVlQZk12TzI5V0hGYzZGOGp5TllwUnZUa1ZmOEVaLXczY0VqU0JMd3J4VTY5SDhhdVdpLXFtcVVwRUdqRi1vMXg3NTVDdkgtY3lmdlRPYi1CeXlMVV9FRC1pbVFHTmtnbGs0NTNXcUdaWlhnakxKdDZrU3QybVFhUG1vN3JzVW1nemU2T2s?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdS0wUVdpSDNIcXFQYU5TTmFpS3VVcUVhZGNHSDJfdS15TENkWjRQbkhmZ0RZRkR5T3cxVHpJYkNyQUYzOG9VYUg5cnUteUl3MXJ2bnBsNVVkaVF2TmsxdHZscndjeEU2M0paMnhEMkNJZzctUldCOWQtLWd4REt0QlFsOGpVdjJrbWJFb2VKU190YjloZFNVSFBnMGNhLTdGNmlLY1g1SmQ3RDBYX205eW04c09KMkpCYjJqOXpiSmg1YnBIY2g5MmJSdURsNXJDbUNPR1RBTE52LTNuVXRwMkU4QUtnUmdwb2x2eVctWGNsbTU2WmRwLTFRbGdzZw?oc=5"
  },
  {
   "id": "rt-272fa8c8be05",
@@ -9505,54 +9553,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMixwdBVV95cUxOUkdHWHN1bkZlcHJTeGxrQ3ZoZnBMX1Z6ZEhTYWVYQ3lXb0pqaXRwRElucjExUFhiRUltbEpyQlZDYV9tdHNLalM1aC0yMk5MNzgzZUdldnpub1VtcWg4ZHczWnNkeUxvZ1lxWVlfTWxub0JfSlZfdktoSF9SOS1tejBBblFKMWoyM18xTS1OWXdxdzRPTzhZcFAxWURpcXE0b1VUbERXdE10bDdVQWdNTnc1NmJ1bHBIUWtrRkZmZzFJZlZkTFpRWElCVWo5Z2FzR3Rtd0FTVlJxWVRtQk1jdi1kemZscTBpZllYdFFYMGpCekF3cUxHa1ZCRGttaktsdEkydU9EV292alpXRUY2emZGcEhWMzZQRkIwRkR1MmtkTEFMRUR1Z1hWeFpZVGV5aE9md3NKU0RxZFB6NEpaUjBwUDQwcUVlSXBOZElhczJNbnlYYkd1em5PSWFkZlVkOUE2amFUZ283Q2psem9ZSElaM05GY3djT2FVSU1ZeWpyNnVRcUljZnZHQ1d3TUY2X1pRSWxRS01fY0U2YXgwMmtzalIyZVhjSkh3TlNJdldmcjUzR2F2SHNTLXU4OXFzX0FSeUZBVDZac3hOOVItSTdHWUdUZF9oSGpCaUFJU2NtdE9XV0RKWUcwbVZoc0V1VUZhVlRhbHBVdTZ2dkozWGEtMEkySXBRLVM1eVhSNjVCTFBheFBOWFhfZ2FRNkFuWDhHaldKVlVRTWVyRlVjZnptZ1RTQk5zVHdyM1dCcmxUenpkMGJwaVFJTHRrUThkV2l1ZFc3ZnpmN3hBRW9VY1lLZGpCUktCcDZBT0RZMDdLNHdXQ3A2RS1VNWVNTTd2LUVGVEJDT1d6RGVKSERreHdhYnRvTGhrcUJnWlJ6NkRRQjFlb0dubmZPcWFGeDNpRnlLNm1iRDZueU1udzNxMElIaFBUcWNYQ2RJZW55cFgyNEFmYmdXTXM4OUJxY3hUQkZBRk9BbzZJWDAtenJuRWIydnhXREx5c01VUWxwTVJrWW83cFdldktkdS02UDJPak5XaWhWZlJkeXNvT09yNlRabkJaSGxMaXExM1RlVlk3X2pvSnI1NWtQU2c0dnlFVmJodHZrR3BDS1JRcDVKenMyQVRLTVMzWlZOUTI0TXkwN1dFRlNfUGtzbmJtMFUzeTlOWmdwOV9XUXRjZ0hVMjhvbHhvc1hBTlZBdDRqc012R3hmaDFmX0RndGtIRnJFX3dzOVZzM0t4Y0hmODhaRjd2a01OT0IyeWRpOTJhbmlUdGwyTU5r?oc=5"
  },
  {
-  "id": "rt-e9d5ec644c8c",
-  "titleCn": "民间社会网络敦促政党将环境正义纳入 2026 年选举周期之后的政策中 - greenpeace.org",
-  "titleOrig": "Civil society networks urge political parties to embed environmental justice in policy beyond the 2026 election cycle - greenpeace.org",
-  "catCn": "政党选举",
-  "cat": "politics",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国政党选举：Civil society networks urge political parties to embed environmental justice in policy beyond the 2026 election cycle - greenpeace.org",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdS0wUVdpSDNIcXFQYU5TTmFpS3VVcUVhZGNHSDJfdS15TENkWjRQbkhmZ0RZRkR5T3cxVHpJYkNyQUYzOG9VYUg5cnUteUl3MXJ2bnBsNVVkaVF2TmsxdHZscndjeEU2M0paMnhEMkNJZzctUldCOWQtLWd4REt0QlFsOGpVdjJrbWJFb2VKU190YjloZFNVSFBnMGNhLTdGNmlLY1g1SmQ3RDBYX205eW04c09KMkpCYjJqOXpiSmg1YnBIY2g5MmJSdURsNXJDbUNPR1RBTE52LTNuVXRwMkU4QUtnUmdwb2x2eVctWGNsbTU2WmRwLTFRbGdzZw?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-20",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-20",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdS0wUVdpSDNIcXFQYU5TTmFpS3VVcUVhZGNHSDJfdS15TENkWjRQbkhmZ0RZRkR5T3cxVHpJYkNyQUYzOG9VYUg5cnUteUl3MXJ2bnBsNVVkaVF2TmsxdHZscndjeEU2M0paMnhEMkNJZzctUldCOWQtLWd4REt0QlFsOGpVdjJrbWJFb2VKU190YjloZFNVSFBnMGNhLTdGNmlLY1g1SmQ3RDBYX205eW04c09KMkpCYjJqOXpiSmg1YnBIY2g5MmJSdURsNXJDbUNPR1RBTE52LTNuVXRwMkU4QUtnUmdwb2x2eVctWGNsbTU2WmRwLTFRbGdzZw?oc=5"
- },
- {
   "id": "rt-e8f70c9d3f24",
   "titleCn": "公正党议员表示，行动党退出将削弱政府并使选举更加接近 - Sinar Daily",
   "titleOrig": "DAP’s exit will weaken government and bring election closer, says PKR lawmaker - Sinar Daily",
@@ -9649,9 +9649,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaDRGd2hZYW9TSGtyQVd5WHJCdF9KSE1HX2lOLU5mUURROU1KRU4taUV4SmNUQmc2UjZnMldBZHNjNUZ4Rk1OMjB3YmQyTTcyYUxwTDhDNlBST2pXY3ktMy1USkJLMlFGT1A2STlHaDZHaUd2VFFROHlQS0ZaMzBTeXA1bVRMZzdkZ3ozcGo0eFZGTy0wYXJvMW9oeW5FYS1XbXVFNy1UdXZiMkdDMnZtYXdSMkVrYVJvcllhVTM2ZXp0aHlYMUJKa00yQzI3SGZlQzdJ?oc=5"
  },
  {
-  "id": "rt-c2db63d251e5",
-  "titleCn": "森美兰选举胜利后国阵承诺负责任、包容性施政 - theedgemalaysia.com",
-  "titleOrig": "BN pledges responsible, inclusive governance following Negeri Sembilan election victory - theedgemalaysia.com",
+  "id": "rt-05ed2bb27a33",
+  "titleCn": "森美兰选举胜利后国阵承诺负责任、包容性施政 - The Edge Malaysia",
+  "titleOrig": "BN pledges responsible, inclusive governance following Negeri Sembilan election victory - The Edge Malaysia",
   "catCn": "政党选举",
   "cat": "politics",
   "country": "马来西亚",
@@ -9660,7 +9660,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚政党选举：BN pledges responsible, inclusive governance following Negeri Sembilan election victory - theedgemalaysia.com",
+  "summary": "马来西亚政党选举：BN pledges responsible, inclusive governance following Negeri Sembilan election victory - The Edge Malaysia",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -9745,5 +9745,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96UURNUW1wWno2aVpKUkVyQXhiUzdHdE5pY3ZxdlZEd3BCaVZQRkp3a0diaWNUWGZEQThCeU5Ra1YxbEdjX0FTSE1zUm40TXpQV0VSdGdCVlVOWHd2QzlGTVRCeHpYRmlDckFmUUZhR0U?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-20T05:20:20";
+window.REALTIME_UPDATED = "2026-08-20T05:49:42";
 window.REALTIME_CARRIED = false;
