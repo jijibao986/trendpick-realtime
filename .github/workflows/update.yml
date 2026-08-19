@@ -24,9 +24,18 @@ jobs:
       - name: 运行实时爬虫
         run: python scrape_realtime.py
 
-      - name: 提交并推送
+      - name: 提交并推送（含冲突重试）
         run: |
           git config user.name "realtime-bot"
           git config user.email "bot@trendpick.local"
           git add realtime.js index.html
-          git diff --cached --quiet && echo "内容无变化，跳过提交" || (git commit -m "realtime: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" && git push)
+          if git diff --cached --quiet; then
+            echo "内容无变化，跳过提交"
+          else
+            git commit -m "realtime: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && exit 0
+              echo "第 $i 次重试（remote 可能领先）..." && sleep 5
+            done
+            echo "推送失败，下个周期再试"
+          fi
