@@ -5,35 +5,43 @@
 
   const CATS = [
     { key: "all", cn: "全部", icon: "🌐" },
+    { key: "平台热搜", cn: "平台热搜", icon: "🔍" },
+    { key: "音乐榜单", cn: "音乐榜单", icon: "🎵" },
+    { key: "游戏热度", cn: "游戏热度", icon: "🎮" },
+    { key: "动漫热度", cn: "动漫热度", icon: "🌸" },
+    { key: "新闻热点", cn: "新闻热点", icon: "📰" },
     { key: "明星八卦", cn: "明星八卦", icon: "🌟" },
-    { key: "演唱会综艺", cn: "演唱会综艺", icon: "🎤" },
     { key: "影视剧", cn: "影视剧", icon: "🎬" },
-    { key: "游戏电竞", cn: "游戏电竞", icon: "🎮" },
+    { key: "演唱会综艺", cn: "演唱会综艺", icon: "🎤" },
     { key: "网络热梗", cn: "网络热梗", icon: "😂" },
-    { key: "其他热搜", cn: "其他热搜", icon: "🔥" },
-    { key: "社会民生", cn: "社会民生", icon: "🏘" },
     { key: "体育", cn: "体育", icon: "⚽" },
+    { key: "社会民生", cn: "社会民生", icon: "🏘" },
     { key: "政党选举", cn: "政党选举", icon: "🗳" },
     { key: "电商政策", cn: "电商政策", icon: "📦" },
-    { key: "平台热搜", cn: "平台热搜", icon: "🔍" },
+    { key: "节日", cn: "节日", icon: "🎉" },
   ];
   const CAT_EMOJI = {
-    "明星八卦": "🌟", "演唱会综艺": "🎤", "影视剧": "🎬", "游戏电竞": "🎮",
-    "网络热梗": "😂", "其他热搜": "🔥", "社会民生": "🏘", "体育": "⚽", "政党选举": "🗳",
-    "电商政策": "📦", "平台热搜": "🔍",
+    "平台热搜": "🔍", "音乐榜单": "🎵", "游戏热度": "🎮", "动漫热度": "🌸", "新闻热点": "📰",
+    "明星八卦": "🌟", "影视剧": "🎬", "演唱会综艺": "🎤", "网络热梗": "😂",
+    "体育": "⚽", "社会民生": "🏘", "政党选举": "🗳", "电商政策": "📦", "节日": "🎉",
+    "其他热搜": "🔥",
   };
   const CAT_GRAD = {
+    "平台热搜": "linear-gradient(135deg,#8b5cf6,#d946ef)",
+    "音乐榜单": "linear-gradient(135deg,#ec4899,#f43f5e)",
+    "游戏热度": "linear-gradient(135deg,#10b981,#06b6d4)",
+    "动漫热度": "linear-gradient(135deg,#f472b6,#a855f7)",
+    "新闻热点": "linear-gradient(135deg,#0ea5e9,#6366f1)",
     "明星八卦": "linear-gradient(135deg,#f472b6,#a855f7)",
-    "演唱会综艺": "linear-gradient(135deg,#f59e0b,#ef4444)",
     "影视剧": "linear-gradient(135deg,#6366f1,#8b5cf6)",
-    "游戏电竞": "linear-gradient(135deg,#10b981,#06b6d4)",
+    "演唱会综艺": "linear-gradient(135deg,#f59e0b,#ef4444)",
     "网络热梗": "linear-gradient(135deg,#fbbf24,#f97316)",
-    "其他热搜": "linear-gradient(135deg,#ef4444,#ec4899)",
     "社会民生": "linear-gradient(135deg,#14b8a6,#0ea5e9)",
     "体育": "linear-gradient(135deg,#22c55e,#16a34a)",
     "政党选举": "linear-gradient(135deg,#64748b,#475569)",
     "电商政策": "linear-gradient(135deg,#0ea5e9,#6366f1)",
-    "平台热搜": "linear-gradient(135deg,#8b5cf6,#d946ef)",
+    "节日": "linear-gradient(135deg,#f43f5e,#f59e0b)",
+    "其他热搜": "linear-gradient(135deg,#ef4444,#ec4899)",
   };
   const TYPE_ICON = {
     social: "💬", chart: "📊", streaming: "🎧", news: "📰", film: "🎬",
@@ -85,7 +93,11 @@
     "明星八卦": { bg1:"#f472b6", bg2:"#a855f7", icon:"⭐", pattern:"stars" },
     "演唱会综艺": { bg1:"#f59e0b", bg2:"#ef4444", icon:"🎤", pattern:"wave" },
     "影视剧": { bg1:"#6366f1", bg2:"#8b5cf6", icon:"🎬", pattern:"clapper" },
-    "游戏电竞": { bg1:"#10b981", bg2:"#06b6d4", icon:"🎮", pattern:"gamepad" },
+    "游戏热度": { bg1:"#10b981", bg2:"#06b6d4", icon:"🎮", pattern:"gamepad" },
+    "音乐榜单": { bg1:"#ec4899", bg2:"#f43f5e", icon:"🎵", pattern:"wave" },
+    "动漫热度": { bg1:"#f472b6", bg2:"#a855f7", icon:"🌸", pattern:"stars" },
+    "新闻热点": { bg1:"#0ea5e9", bg2:"#6366f1", icon:"📰", pattern:"search" },
+    "节日": { bg1:"#f43f5e", bg2:"#f59e0b", icon:"🎉", pattern:"flame" },
     "网络热梗": { bg1:"#fbbf24", bg2:"#f97316", icon:"😂", pattern:"zap" },
     "其他热搜": { bg1:"#ef4444", bg2:"#ec4899", icon:"🔥", pattern:"flame" },
     "社会民生": { bg1:"#14b8a6", bg2:"#0ea5e9", icon:"🏘", pattern:"home" },
@@ -267,17 +279,15 @@
 
   // ---------- filtering ----------
   function todayBatch() {
-    const u = window.SITE_UPDATED || "";
-    const d = u.slice(0, 10);
-    return d ? "daily-" + d : "";
+    return "daily";
   }
   function filtered() {
     return EVENTS.filter((e) => {
-      if (state.country !== "all" && e.country !== state.country) return false;
+      if (state.country !== "all" && e.country !== state.country && e.country !== "multi") return false;
       if (state.cat !== "all" && e.catCn !== state.cat) return false;
       if (state.stars !== "all" && e.stars < Number(state.stars)) return false;
       if (state.risk !== "all" && !e.risk.startsWith(state.risk)) return false;
-      if (state.days !== "all" && e.hotDays > Number(state.days)) return false;
+      if (state.days !== "all" && e.hotDays > Number(state.days)) return false; // 还热：保留 hotDays<=N 的事件（N天内仍热）
       if (state.media && !e.hasMedia) return false;
       if (state.local && !e.localFlag) return false;
       if (state.daily && e.batch !== todayBatch()) return false;
@@ -1184,7 +1194,7 @@
         const mm = mt.match(/SITE_META\s*=\s*(\{[^}]*\})/);
         if (!mm) return;
         const meta = JSON.parse(mm[1]);
-        if (!meta.updated || meta.updated === cur) return;
+        if (!meta.updated || meta.updated <= cur) return;
         const dres = await fetch("js/data.js?_=" + Date.now(), { cache: "no-store" });
         const dt = await dres.text();
         const parsed = parseDataJs(dt);

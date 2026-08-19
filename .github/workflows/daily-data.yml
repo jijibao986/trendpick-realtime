@@ -29,7 +29,7 @@ jobs:
         run: |
           git config user.name "realtime-bot"
           git config user.email "bot@trendpick.local"
-          git add js/data.js
+          git add js/data.js js/meta.js
           if git diff --cached --quiet; then
             echo "data.js 无变化，跳过提交"
           else

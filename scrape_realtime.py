@@ -126,7 +126,9 @@ def make_event(source, title, *, url="", image="", country="多市场",
         "timeline": [{"date": now_iso()[:10], "desc": "实时榜单收录", "verified": False, "label": "收录"}],
         "printType": "文字款" if cat in ("platform_search", "music", "gaming", "film_tv", "news") else "",
         "risk": "低",
-        "hotDays": (7 if buzz >= 90 else 5 if buzz >= 80 else 3 if buzz >= 70 else 2 if buzz >= 50 else 1),
+        # 热度持续天数：让 3/7/14 天筛选各自独立且递进。
+        # buzz>=88 → 14天(超热门·横跨两周)；80-87→7天；72-79→5天；62-71→3天；其余→1-2天。
+        "hotDays": (14 if buzz >= 88 else 7 if buzz >= 80 else 5 if buzz >= 72 else 3 if buzz >= 62 else 2 if buzz >= 50 else 1),
         "imageSource": (img_src or ("官方接口远程图" if has_media else "分类占位图（无自然配图）")),
         "hasMedia": has_media,
         "media": media,

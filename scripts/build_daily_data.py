@@ -64,6 +64,8 @@ def main():
         eid = hashlib.md5(title.encode("utf-8")).hexdigest()[:24]
         ne = {
             "id": eid,
+            "batch": "daily",
+            "fresh": True,
             "country": ev.get("country", "th"),
             "cat": ev.get("cat", "other"),
             "catCn": ev.get("catCn", "其他热搜"),
@@ -98,7 +100,11 @@ def main():
         lines.append("  " + json.dumps(ne, ensure_ascii=False) + sep)
     lines.append("];")
     open(DATA_PATH, "w", encoding="utf-8").write("\n".join(lines) + "\n")
-    print("OK: %d events -> %s" % (len(cand), DATA_PATH))
+    # 同步更新 meta.js，供前端 checkMeta 判断是否出现新日报（仅当 meta 更新时间更新时才重载，避免无谓轮询）
+    meta_path = os.path.join(ROOT, "js", "meta.js")
+    with open(meta_path, "w", encoding="utf-8") as f:
+        f.write('window.SITE_META = {"updated": "%s", "count": %d};\n' % (now, len(cand)))
+    print("OK: %d events -> %s ; meta -> %s" % (len(cand), DATA_PATH, meta_path))
 
 
 if __name__ == "__main__":
