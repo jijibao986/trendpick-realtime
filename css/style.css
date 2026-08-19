@@ -25,17 +25,23 @@ body{
 a{color:inherit;text-decoration:none}
 
 /* Topbar */
-.topbar{display:flex;align-items:center;justify-content:space-between;padding:14px 28px;background:var(--surface);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:50;}
+.topbar{display:flex;align-items:center;justify-content:space-between;padding:14px 28px;background:var(--surface);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:50;flex-wrap:wrap;gap:10px;}
 .brand{display:flex;align-items:center;gap:12px}
 .logo{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;background:linear-gradient(135deg,var(--brand),var(--brand2));color:#fff;font-size:22px;font-weight:800;box-shadow:var(--shadow-h);}
 .brand-text h1{font-size:19px;font-weight:800;letter-spacing:.3px}
 .brand-text h1 .en{font-size:13px;font-weight:600;color:var(--brand);background:#eef2ff;padding:1px 6px;border-radius:6px;margin-left:4px}
 .brand-text h1 .ver{font-size:10px;font-weight:800;color:#fff;background:linear-gradient(135deg,#f59e0b,#ef4444);padding:1px 6px;border-radius:6px;vertical-align:middle;margin-left:4px}
 .brand-text p{font-size:12px;color:var(--muted);margin-top:1px}
-.topbar-right{display:flex;align-items:center;gap:18px}
+.topbar-right{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
 .updated{font-size:13px;color:var(--muted)}
 .updated b{color:var(--text)}
 .badge-note{font-size:12px;color:var(--green);font-weight:600;background:#ecfdf5;padding:5px 10px;border-radius:8px}
+/* 实时刷新倒计时横幅 */
+#countdownBanner{background:linear-gradient(135deg,#4f46e5,#7c3aed);color:#fff;padding:14px 28px}
+#countdownBanner .cb-inner{max-width:1320px;margin:0 auto;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+#countdownBanner .cb-label{font-size:14px;font-weight:700;display:flex;align-items:center;gap:6px}
+#countdownBanner .cb-time{font-size:28px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:1px;line-height:1;background:rgba(255,255,255,.14);padding:4px 14px;border-radius:10px}
+#countdownBanner .cb-sub{font-size:12px;opacity:.85;margin-left:auto}
 
 /* Hero */
 .hero{display:flex;justify-content:space-between;align-items:center;gap:24px;padding:26px 28px;max-width:1320px;margin:0 auto;}
@@ -86,7 +92,7 @@ main{max-width:1320px;margin:0 auto;padding:8px 28px 40px}
 #resultCount{font-size:15px;font-weight:700}
 .resultbar .hint{font-size:12px;color:var(--muted)}
 
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(320px,100%),1fr));gap:16px}
 .card{background:var(--surface);border:1px solid var(--border);border-radius:16px;overflow:hidden;cursor:pointer;transition:.18s;display:flex;flex-direction:column;box-shadow:var(--shadow);position:relative;}
 .card:hover{transform:translateY(-3px);box-shadow:var(--shadow-h);border-color:#d7d9ff}
 .sens-flag{position:absolute;top:0;right:0;z-index:3;background:var(--red);color:#fff;font-size:10px;font-weight:700;padding:3px 8px;border-bottom-left-radius:8px}
@@ -178,7 +184,7 @@ main{max-width:1320px;margin:0 auto;padding:8px 28px 40px}
 .tl-day{border-left:3px solid var(--brand);padding-left:18px;margin-left:8px;position:relative;padding-bottom:18px}
 .tl-day::before{content:"";position:absolute;left:-7px;top:4px;width:11px;height:11px;border-radius:50%;background:var(--brand);border:2px solid #fff;box-shadow:var(--shadow)}
 .tl-date{font-weight:700;font-size:14px;margin-bottom:10px}
-.tl-items{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.tl-items{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(300px,100%),1fr));gap:12px}
 
 /* Gallery */
 .gallery{max-width:1320px;margin:0 auto;padding:24px 28px 10px}
@@ -264,10 +270,13 @@ main{max-width:1320px;margin:0 auto;padding:8px 28px 40px}
   .row1{gap:10px}
   .search{order:3;flex-basis:100%}
   .safe-toggle{margin-left:0}
+  #countdownBanner{padding:12px 16px}
+  #countdownBanner .cb-time{font-size:22px}
+  #countdownBanner .cb-sub{margin-left:0;flex-basis:100%}
 }
 
 /* ========== 印花关键词分析板块 ========== */
-.m-kw-section{background:linear-gradient(135deg,#f8fafc-10%,#f1f5f9-10%);border-radius:14px;border:1px solid #e2e8f0;overflow:hidden}
+.m-kw-section{background:linear-gradient(135deg,#f8fafc 0%,#f1f5f9 100%);border-radius:14px;border:1px solid #e2e8f0;overflow:hidden}
 .kw-block{padding:16px 18px;border-bottom:1px solid #e2e8f0}
 .kw-block:last-child{border-bottom:none}
 .kw-block-title{font-size:13.5px;font-weight:700;color:#334155;margin-bottom:10px;display:flex;align-items:center;gap:6px}
@@ -292,7 +301,9 @@ main{max-width:1320px;margin:0 auto;padding:8px 28px 40px}
 .kw-color-desc{font-size:12px;color:#64748b;line-height:1.5}
 
 /* 客群 & 定价 - 双列布局 */
-.kw-block-half{display:inline-block;width:calc(50% - 1px);vertical-align:top;border-right:1px solid #e2e8f0;border-bottom:1px solid #e2e8f0}
+.kw-half-row{display:flex;flex-wrap:wrap}
+.kw-block-half{flex:1 1 calc(50% - 6px);min-width:240px;border-bottom:1px solid #e2e8f0}
+.kw-half-row .kw-block-half:nth-child(odd){border-right:1px solid #e2e8f0}
 .kw-audience div{font-size:12.5px;color:#475569;line-height:1.7;margin-bottom:2px}
 .kw-pricing{font-size:12.5px;color:#475569;line-height:1.7}
 .kw-price-range{font-size:18px;font-weight:800;color:#0f172a;margin:6px 0 4px;background:#f1f5f9;display:inline-block;padding:4px 12px;border-radius:8px}

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<!-- 实时层数据源（云端榜单，关电脑也更新）：创建 GitHub 仓库 trendpick-realtime 并开通 Pages 后，把下面用户名替换成你的 -->
-<meta name="realtime-src" content="https://jijibao986.github.io/trendpick-realtime/realtime.js" />
+<!-- 实时层数据源（云端榜单，关电脑也更新）：相对路径，随站点根目录部署，改名/fork 均无需改动 -->
+<meta name="realtime-src" content="realtime.js" />
 <title>印选 · 泰马热点选品雷达 v2</title>
 <link rel="stylesheet" href="css/style.css" />
 </head>
@@ -24,6 +24,14 @@
     <span class="badge-note daily-note">🔥 已补充 8/13 每日热点日报（67 条泰马双市场热点）</span>
   </div>
 </header>
+
+<section id="countdownBanner">
+  <div class="cb-inner">
+    <span class="cb-label">⚡ 实时榜单 · 距下次云端刷新</span>
+    <span class="cb-time" id="rtCountdown">--:--:--</span>
+    <span class="cb-sub">每 30 分钟自动更新 · 数据由 AI 实时研究生成</span>
+  </div>
+</section>
 
 <section class="hero">
   <div class="hero-left">

@@ -62,7 +62,7 @@
 <div class="wrap">
   <header>
     <h1>印选 TrendPick · 热点事件总览与总结</h1>
-    <p>泰马双市场印花 T 恤选品库 v2（2026-08 数据快照）｜ 共 <b id="cnt">0</b> 条热点 · 每条含真实配图/描述/属性 · 文末附双市场总结</p>
+    <p><a href="index.html" style="color:var(--my);text-decoration:none;">← 返回主站</a> ｜ 泰马双市场印花 T 恤选品雷达 ｜ 当前实时榜单共 <b id="cnt">0</b> 条热点 · 每条含真实配图/描述/属性 · 文末附双市场总结</p>
   </header>
 
   <div class="stats" id="stats"></div>
@@ -71,6 +71,7 @@
 
   <h2 class="sec-title">总体总结</h2>
   <div class="summary">
+    <p style="font-size:12px;color:var(--sub);margin:-4px 0 16px;">说明：上方统计卡片基于当前实时榜单（realtime.js）动态计算；以下文字为 2026-08 周期的编辑性市场分析快照，供选品方向参考。</p>
     <h3>1. 市场整体态势</h3>
     <ul>
       <li>本期泰马双市场共采集 <b>257</b> 条有效热点，其中 <b>159</b> 条具备 ★4 爆款潜力（占比 62%），两个市场的内容热度与印花转化机会都处于高位。</li>
@@ -102,7 +103,7 @@
     <ul>
       <li><b>硬红线（已自动屏蔽）</b>：泰国/马来王室、宗教敏感符号（佛像/经文/先知像）、政治人物不进任何印花设计。</li>
       <li><b>节日仅作商业提示</b>：母亲节(8/12)、先知诞辰(8/25)、国庆日(8/31) 等只在选品库作机会标注，不出现人物肖像/姓名/徽章/经文。</li>
-      <li><b>真实配图</b>：256/257 条已有真实配图（99.6%覆盖率），来源包括维基媒体、MyDramaList、Wikimedia Commons、og:image 等多源聚合。</li>
+      <li><b>真实配图</b>：绝大多数热点已配真实配图（实时覆盖率见上方统计卡片），来源包括维基媒体、MyDramaList、Wikimedia Commons、og:image 等多源聚合。</li>
       <li><b>版权提示</b>：明星/影视/动漫类印花需自行评估授权风险，本报告仅作趋势参考。</li>
     </ul>
   </div>
@@ -110,70 +111,99 @@
   <div class="foot">本报告由印选 TrendPick 数据自动汇总 · 数据源为公开平台实时研究（非转载 TrendTee 等聚合站）</div>
 </div>
 
-<script src="js/data.js"></script>
 <script>
-  const CATS = ["明星八卦","演唱会综艺","影视剧","游戏电竞","网络热梗","其他热搜","社会民生","体育","政党选举"];
-  const FLAG = { th:"🇹🇭", my:"🇲🇾" };
-  const CAT_EMOJI = { "明星八卦":"📰","演唱会综艺":"🎤","影视剧":"🎬","游戏电竞":"🎮","网络热梗":"🔥","其他热搜":"🔍","社会民生":"🏙","体育":"⚽","政党选举":"🗳" };
-
-  function renderStats() {
-    const total = EVENTS.length;
-    const th = EVENTS.filter(e=>e.country==="th").length;
-    const my = EVENTS.filter(e=>e.country==="my").length;
-    const s4 = EVENTS.filter(e=>e.stars>=4).length;
-    const local = EVENTS.filter(e=>e.localFlag).length;
-    const real = EVENTS.filter(e=>e.coverType==="real").length;
-    document.getElementById("cnt").textContent = total;
-    const cards = [
-      {n: total, l:"热点总数"},
-      {n: th, l:"🇹🇭 泰国", c:"th"},
-      {n: my, l:"🇲🇾 马来西亚", c:"my"},
-      {n: s4, l:"★4 爆款候选", c:"g"},
-      {n: local, l:"🇹🇭🇲🇾 含本地媒体"},
-      {n: real, l:"🖼 有真实配图", c:"ok"},
-    ];
-    document.getElementById("stats").innerHTML = cards.map(c=>
-      `<div class="stat"><div class="n ${c.c||''}">${c.n}</div><div class="l">${c.l}</div></div>`).join("");
+  // 动态加载实时全量榜单（优先）与今日日报（回退），并加缓存戳避免读旧
+  const TS = Date.now();
+  function loadScript(src, cb) {
+    const s = document.createElement("script");
+    s.src = src + (src.indexOf("?") >= 0 ? "&" : "?") + "_=" + TS;
+    s.onload = cb; s.onerror = cb;
+    document.head.appendChild(s);
   }
+  let _step = 0;
+  function _after() {
+    if (++_step < 2) return;
+    const EVENTS = (window.EVENTS_REALTIME && window.EVENTS_REALTIME.length)
+      ? window.EVENTS_REALTIME
+      : (window.EVENTS || []);
 
-  function renderFilters() {
-    const counts = {};
-    CATS.forEach(c=> counts[c]=EVENTS.filter(e=>e.catCn===c).length);
-    let html = `<div class="chip active" data-cat="all">全部 (${EVENTS.length})</div>`;
-    CATS.forEach(c=> { if(counts[c]) html += `<div class="chip" data-cat="${c}">${c} (${counts[c]})</div>`; });
-    const box = document.getElementById("filters");
-    box.innerHTML = html;
-    box.querySelectorAll(".chip").forEach(ch=> ch.onclick = ()=>{
-      box.querySelectorAll(".chip").forEach(x=>x.classList.remove("active"));
-      ch.classList.add("active");
-      renderGrid(ch.dataset.cat);
-    });
+    function normalizeCountry(c) {
+      if (c === "th" || c === "my" || c === "multi") return c;
+      if (c === "泰国") return "th";
+      if (c === "马来西亚") return "my";
+      if (c === "多市场") return "multi";
+      return c || "multi";
+    }
+    const FLAG = { th:"🇹🇭", my:"🇲🇾", multi:"🌏", "泰国":"🇹🇭", "马来西亚":"🇲🇾", "多市场":"🌏" };
+    const CAT_EMOJI = { "明星八卦":"📰","演唱会综艺":"🎤","影视剧":"🎬","游戏电竞":"🎮","游戏热度":"🎮","动漫热度":"🌸","音乐榜单":"🎵","平台热搜":"🔍","网络热梗":"🔥","新闻热点":"📰","电影热搜":"🎬","电视剧热搜":"📺","明星热搜":"⭐","潮流联名":"👕","电商政策":"🛒","节日":"🎉","其他热搜":"🔍","社会民生":"🏙","体育":"⚽","政党选举":"🗳" };
+
+    // 动态类别（按出现频率排序），不再硬编码旧 9 类
+    const CATS = [...new Set(EVENTS.map(e => e.catCn).filter(Boolean))]
+      .sort((a, b) => EVENTS.filter(e => e.catCn === b).length - EVENTS.filter(e => e.catCn === a).length);
+
+    function renderStats() {
+      const total = EVENTS.length;
+      const th = EVENTS.filter(e => normalizeCountry(e.country) === "th").length;
+      const my = EVENTS.filter(e => normalizeCountry(e.country) === "my").length;
+      const s4 = EVENTS.filter(e => (e.stars || 0) >= 4).length;
+      const local = EVENTS.filter(e => e.localFlag).length;
+      const real = EVENTS.filter(e => (e.coverType === "remote" || e.coverType === "real") && e.cover).length;
+      const ce = document.getElementById("cnt"); if (ce) ce.textContent = total;
+      const cards = [
+        { n: total, l: "热点总数" },
+        { n: th, l: "🇹🇭 泰国", c: "th" },
+        { n: my, l: "🇲🇾 马来西亚", c: "my" },
+        { n: s4, l: "★4 爆款候选", c: "g" },
+        { n: local, l: "🇹🇭🇲🇾 含本地媒体" },
+        { n: real, l: "🖼 有真实配图", c: "ok" },
+      ];
+      document.getElementById("stats").innerHTML = cards.map(c =>
+        `<div class="stat"><div class="n ${c.c || ''}">${c.n}</div><div class="l">${c.l}</div></div>`).join("");
+    }
+
+    function renderFilters() {
+      const counts = {};
+      CATS.forEach(c => counts[c] = EVENTS.filter(e => e.catCn === c).length);
+      let html = `<div class="chip active" data-cat="all">全部 (${EVENTS.length})</div>`;
+      CATS.forEach(c => { if (counts[c]) html += `<div class="chip" data-cat="${c}">${c} (${counts[c]})</div>`; });
+      const box = document.getElementById("filters");
+      box.innerHTML = html;
+      box.querySelectorAll(".chip").forEach(ch => ch.onclick = () => {
+        box.querySelectorAll(".chip").forEach(x => x.classList.remove("active"));
+        ch.classList.add("active");
+        renderGrid(ch.dataset.cat);
+      });
+    }
+
+    function renderGrid(cat = "all") {
+      const list = cat === "all" ? EVENTS : EVENTS.filter(e => e.catCn === cat);
+      const sorted = [...list].sort((a, b) => (b.stars || 0) - (a.stars || 0) || normalizeCountry(a.country).localeCompare(normalizeCountry(b.country)));
+      document.getElementById("grid").innerHTML = sorted.map(e => {
+        const hasCover = (e.coverType === "remote" || e.coverType === "real") && e.cover;
+        const cover = hasCover
+          ? `<div class="cover"><img src="${e.cover}" alt="" onerror="this.parentNode.classList.add('none');this.remove();"/><span class="badge real">🖼 真实配图</span></div>`
+          : `<div class="cover none"><span class="ph">${CAT_EMOJI[e.catCn] || "🔥"}</span><span class="badge">暂无真实配图</span></div>`;
+        const tags = (e.tags || []).map(t => `<span class="tag${e.localFlag ? ' local' : ''}">${t}</span>`).join("");
+        const local = e.localFlag ? `<span class="tag local">🇹🇭🇲🇾 本地</span>` : "";
+        const flag = FLAG[e.country] || FLAG[normalizeCountry(e.country)] || "";
+        return `<div class="ev">
+          ${cover}
+          <span class="flag">${flag}</span>
+          <div class="body">
+            <div class="ttl">${e.titleCn || e.titleOrig || ""} <span class="stars">${"★".repeat(e.stars || 0)}</span></div>
+            <div class="orig">${e.titleOrig || ""}</div>
+            <div class="desc" onclick="this.classList.toggle('expanded')">${e.description || e.summary || ""}
+                <span class="desc-more">点击展开/收起 ▼</span></div>
+            <div class="meta">${tags}${local}</div>
+          </div>
+        </div>`;
+      }).join("");
+    }
+
+    renderStats(); renderFilters(); renderGrid();
   }
-
-  function renderGrid(cat="all") {
-    const list = cat==="all" ? EVENTS : EVENTS.filter(e=>e.catCn===cat);
-    const sorted = [...list].sort((a,b)=> b.stars-a.stars || a.country.localeCompare(b.country));
-    document.getElementById("grid").innerHTML = sorted.map(e=>{
-      const cover = e.coverType==="real"
-        ? `<div class="cover"><img src="${e.cover}" alt=""/><span class="badge real">🖼 真实配图</span></div>`
-        : `<div class="cover none"><span class="ph">${CAT_EMOJI[e.catCn]||"🔥"}</span><span class="badge">暂无真实配图</span></div>`;
-      const tags = (e.tags||[]).map(t=>`<span class="tag${e.localFlag&&/本地|泰|马/.test(t)?' local':''}">${t}</span>`).join("");
-      const local = e.localFlag ? `<span class="tag local">🇹🇭🇲🇾 本地</span>` : "";
-      return `<div class="ev">
-        ${cover}
-        <span class="flag">${FLAG[e.country]}</span>
-        <div class="body">
-          <div class="ttl">${e.titleCn} <span class="stars">${"★".repeat(e.stars)}</span></div>
-          <div class="orig">${e.titleOrig||""}</div>
-          <div class="desc" onclick="this.classList.toggle('expanded')">${e.description||e.summary||""}
-              <span class="desc-more">点击展开/收起 ▼</span></div>
-          <div class="meta">${tags}${local}</div>
-        </div>
-      </div>`;
-    }).join("");
-  }
-
-  renderStats(); renderFilters(); renderGrid();
+  loadScript("realtime.js", _after);
+  loadScript("js/data.js", _after);
 </script>
 </body>
 </html>

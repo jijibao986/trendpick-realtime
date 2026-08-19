@@ -84,6 +84,21 @@
   function getTypeIcon(t) { return TYPE_ICON[t] || "🔗"; }
   function getRegionFlag(r) { return r === "th" ? "🇹🇭" : r === "my" ? "🇲🇾" : "🌐"; }
   function catGradient(c) { return CAT_GRAD[c] || "linear-gradient(135deg,#94a3b8,#64748b)"; }
+  function normalizeCountry(c) {
+    if (c === "th" || c === "my" || c === "multi") return c;
+    if (c === "泰国") return "th";
+    if (c === "马来西亚") return "my";
+    if (c === "多市场") return "multi";
+    return c;
+  }
+  function breadthLabel(b) {
+    b = b || {};
+    const parts = [];
+    if (b.local) parts.push("本地来源");
+    if (b.global) parts.push("全球来源");
+    if (b.social_only && !b.global) parts.push("社媒独家");
+    return parts.length ? parts.join(" + ") : "来源未标注";
+  }
   function meter(label, score, color) {
     return `<div class="meter"><span class="meter-l">${label}</span><span class="meter-bar"><i style="width:${score}%;background:${color}"></i></span><span class="meter-v">${score}</span></div>`;
   }
@@ -170,7 +185,7 @@
   function buildImgStrip(images, maxShow) {
     maxShow = maxShow || 5;
     if (images.length <= 1) return "";
-    const thumbs = images.slice(0, maxShow).map((img, i) =>
+    let thumbs = images.slice(0, maxShow).map((img, i) =>
       img.isSvg
         ? `<div class="thumb more" onclick="event.stopPropagation();switchGalleryImg(${i})">🖼${images.length}</div>`
         : `<img class="thumb${i===0?' active':''}" src="${escapeHtml(img.url)}" alt="" loading="lazy" onclick="event.stopPropagation();switchGalleryImg(${i})" />`
@@ -283,7 +298,8 @@
   }
   function filtered() {
     return EVENTS.filter((e) => {
-      if (state.country !== "all" && e.country !== state.country && e.country !== "multi") return false;
+      const ec = normalizeCountry(e.country);
+      if (state.country !== "all" && ec !== state.country && ec !== "multi") return false;
       if (state.cat !== "all" && e.catCn !== state.cat) return false;
       if (state.stars !== "all" && e.stars < Number(state.stars)) return false;
       if (state.risk !== "all" && !e.risk.startsWith(state.risk)) return false;
@@ -302,7 +318,7 @@
     if (state.sort === "stars") return b.stars - a.stars || b.hotDays - a.hotDays;
     if (state.sort === "hot") return b.hotDays - a.hotDays || b.stars - a.stars;
     if (state.sort === "buzz") return b.buzzIndex - a.buzzIndex || b.stars - a.stars;
-    if (state.sort === "new") return (b.timeAbs || "").localeCompare(a.timeAbs || "");
+    if (state.sort === "new") return (b.buzzIndex - a.buzzIndex) || (b.timeAbs || "").localeCompare(a.timeAbs || "") || (b.hotDays - a.hotDays);
     return 0;
   }
 
@@ -439,7 +455,7 @@
             ${meter("可信", e.credibilityScore, credColor(e.credibilityScore))}
             ${meter("热度", e.buzzIndex, buzzColor(e.buzzIndex))}
           </div>
-          <div class="card-src">📡 ${e.sources.length} 来源 · 本地 ${e.sourceBreadth.local} / 全球 ${e.sourceBreadth.global}</div>
+          <div class="card-src">📡 ${e.sources.length} 来源 · ${breadthLabel(e.sourceBreadth)}</div>
         </div>
       </div>`).join("");
   }
@@ -470,8 +486,8 @@
   }
 
   function renderHeroStats() {
-    const th = EVENTS.filter((e) => e.country === "th").length;
-    const my = EVENTS.filter((e) => e.country === "my").length;
+    const th = EVENTS.filter((e) => normalizeCountry(e.country) === "th").length;
+    const my = EVENTS.filter((e) => normalizeCountry(e.country) === "my").length;
     const top = EVENTS.filter((e) => e.stars >= 4).length;
     const media = EVENTS.filter((e) => e.hasMedia).length;
     const local = EVENTS.filter((e) => e.localFlag).length;
@@ -696,6 +712,7 @@
   }
 
   function generateElements(e, cat) {
+    if (cat === "游戏热度") cat = "游戏电竞";
     const elMap = {
       "明星八卦": ["人物剪影/侧脸轮廓", "名字艺术字设计", "生日年份数字", "星座符号", "粉丝团Logo元素", "签名风格字体"],
       "演唱会综艺": ["舞台灯光效果", "Tour日期城市列表", "麦克风/乐器图标", "门票票根设计", "乐队/歌手Logo", "霓虹灯管风格"],
@@ -709,6 +726,7 @@
   }
 
   function generateColors(e, cat, stars) {
+    if (cat === "游戏热度") cat = "游戏电竞";
     const highStars = stars >= 3;
     const colorPalettes = {
       "明星八卦": { name: "星光渐变系", colors: ["#FF6B9D → #C44569", "#E84393 → #6C5CE7", "#FD79A8 → #FDCB6E"], desc: "粉紫渐变为主，符合粉丝经济调性" },
@@ -724,6 +742,7 @@
   }
 
   function generateAudience(e, cat, country) {
+    if (cat === "游戏热度") cat = "游戏电竞";
     const audMap = {
       "明星八卦": { primary: "18-30岁女性粉丝", secondary: "追星族/偶像团体粉丝", th: "泰国K-pop/BLKpop粉丝圈", my: "马来西亚韩流/泰流粉丝" },
       "演唱会综艺": { primary: "16-35岁音乐爱好者", secondary: "现场观众/巡演收藏者", th: "泰国Concert常客/KKBox用户", my: "大马演唱会人群/Spotify MY" },
@@ -731,6 +750,7 @@
       "游戏电竞": { primary: "16-28岁男性玩家", secondary: "Steam/Mobile Gamer", th: "泰国Steam/Garena玩家", my: "马来西亚Mobile Legends/PUBG玩家" },
       "网络热梗": { primary: "15-30岁Z世代", secondary: "TikTok/Twitter重度用户", th: "泰国Twitter/TikTok网民", my: "马来西亚TikTok/IG用户" },
       "体育": { primary: "18-45岁体育迷", secondary: "球迷/健身人群", th: "泰国足球迷/拳击迷", my: "马来西亚足球/羽球爱好者" },
+      "其他热搜": { primary: "18-40岁泛兴趣人群", secondary: "热点围观者/社交平台用户", th: "泰国社媒活跃用户", my: "马来西亚社媒用户" },
     };
     return audMap[cat] || audMap["其他热搜"];
   }
@@ -792,6 +812,7 @@
   }
 
   function generateSimilarTrends(cat, country) {
+    if (cat === "游戏热度") cat = "游戏电竞";
     const trends = {
       "明星八卦": ["同组合/剧团其他成员周边", "同期选秀/综艺衍生", "明星联名潮牌合作款", "粉丝应援色系T恤"],
       "演唱会综艺": ["音乐节通用款(Summer Sonic/Big Mountain)", "DJ/Producer系列", "乐器品牌联名(Fender/Gibson)", "Live House巡演地图"],
@@ -799,6 +820,7 @@
       "游戏电竞": ["同IP手游/端游联动", "电竞赛事战队周边", "主播/Streamer联名", "游戏外设品牌联名"],
       "网络热梗": ["同类meme变体延展", "TikTok挑战赛关联", "表情包系列(Blind Box概念)", "时事梗后续跟进"],
       "体育": ["国家队/俱乐部主场客场", "传奇球员退役纪念", "奥运会/世界杯周期", "极限运动跨界"],
+      "其他热搜": ["同主题延展周边", "跨平台联动款", "时事/节日周期款", "KOL 种草同款"],
     };
     return trends[cat] || trends["其他热搜"];
   }
@@ -1000,7 +1022,7 @@
       <div class="m-summary">${escapeHtml(e.summary)}</div>
 
       <div class="m-section">
-        <h4>📡 数据来源分析 <span class="m-sub">${e.sources.length} 个来源 · 本地 ${e.sourceBreadth.local} / 全球 ${e.sourceBreadth.global} / 社媒 ${e.sourceBreadth.social_only}</span></h4>
+        <h4>📡 数据来源分析 <span class="m-sub">${e.sources.length} 个来源 · ${breadthLabel(e.sourceBreadth)}</span></h4>
         <div class="src-list">${sourcesHtml}</div>
       </div>
 
@@ -1015,7 +1037,7 @@
     ${e.imageSource ? `<div class="m-imgsrc">🖼 配图来源：${escapeHtml(e.imageSource)}</div>` : ""}
       <div class="m-meta">
         <div>🔥 还热 <b>${e.hotDays}</b> 天</div>
-        <div>🕒 ${escapeHtml(e.timeRel)}</div>
+        <div>🕒 ${escapeHtml(e.timeRel || e.timeAbs || "实时收录")}</div>
         <div>📰 ${e.sources.length} 来源</div>
       </div>
       <div class="m-tags">${e.tags.map((t) => `<span>${escapeHtml(t)}</span>`).join("")}</div>
@@ -1119,10 +1141,16 @@
   function rebuildEvents() {
     const base = (window.EVENTS || []).map(normalizeEvent);
     const rt = (window.EVENTS_REALTIME || []).map(normalizeEvent);
-    const seen = new Set();
+    const seenId = new Set();
+    const seenTitle = new Set();
     const out = [];
+    // base（今日日报）优先：同标题事件保留日报版本，避免实时层重复卡片、计数虚增
     for (const e of base.concat(rt)) {
-      if (e && e.id && !seen.has(e.id)) { seen.add(e.id); out.push(e); }
+      if (!e || !e.id) continue;
+      const tk = (e.titleCn || "").trim().toLowerCase();
+      if (seenId.has(e.id) || (tk && seenTitle.has(tk))) continue;
+      seenId.add(e.id); if (tk) seenTitle.add(tk);
+      out.push(e);
     }
     EVENTS = out;
     return out.length;
@@ -1133,7 +1161,7 @@
     const s = document.createElement("script");
     s.src = REALTIME_SRC + "?_=" + Date.now();
     s.onload = function () { try { cb && cb(); } catch (e) {} };
-    s.onerror = function () {};
+    s.onerror = function () { console.warn("[TrendPick] 实时榜单 realtime.js 加载失败，将仅使用今日日报数据"); };
     document.head.appendChild(s);
   }
 
@@ -1153,14 +1181,17 @@
       const lu = document.getElementById("lastUpdate");
       if (ud && rtUpdated) ud.textContent = rtUpdated.slice(0, 10);
       if (lu) {
-        lu.textContent = "🔄 实时榜单：" + (rtUpdated || "").replace("T", " ").slice(0, 16) + " · 每30分钟自动刷新";
+        lu.textContent = "🔄 实时榜单：" + (rtUpdated || "").replace("T", " ").slice(0, 16) + " · 每30分钟云端刷新 · 本页5分钟检测";
         // 显示下次预计更新（约30分钟后）
         const nextEl = document.getElementById("nextUpdate");
         if (nextEl && rtUpdated) {
           try {
-            const last = new Date(rtUpdated);
+            // REALTIME_UPDATED 由云端以 UTC 写出但无时区后缀，必须补 Z 按 UTC 解析，再按本地时区显示（避免早 8 小时）
+            const last = new Date(rtUpdated + "Z");
             const next = new Date(last.getTime() + 30 * 60 * 1000);
-            nextEl.textContent = "⏰ 下次约 " + next.toISOString().replace("T", " ").slice(0, 16) + " 更新";
+            const pad = (n) => String(n).padStart(2, "0");
+            const fmt = next.getFullYear() + "-" + pad(next.getMonth() + 1) + "-" + pad(next.getDate()) + " " + pad(next.getHours()) + ":" + pad(next.getMinutes());
+            nextEl.textContent = "⏰ 下次约 " + fmt + " 更新";
             nextEl.style.display = "";
           } catch(e) { nextEl.style.display = "none"; }
         }
@@ -1236,7 +1267,40 @@
     t._timer = setTimeout(() => t.classList.remove("show"), 4000);
   }
   // 兼容静态加载与动态注入：动态加载时 DOM 已 ready，DOMContentLoaded 不会再触发，故用 readyState 判断
-  function boot() { init(); setupLiveUpdate(); }
+  // 实时榜单刷新倒计时（每 30 分钟云端重生一次）：锚定 REALTIME_UPDATED + 30min，自动规避时区 bug
+  function startRealtimeCountdown() {
+    const el = document.getElementById("rtCountdown");
+    if (!el) return;
+    const REFRESH_MS = 30 * 60 * 1000;
+    function anchor() {
+      const u = window.REALTIME_UPDATED;
+      if (u) {
+        const t = new Date(u + "Z").getTime(); // 云端以 UTC 写出，按 UTC 解析
+        if (!isNaN(t)) return t;
+      }
+      // 降级：对齐到下一个 UTC :00/:30 边界（realtime.js 尚未载入时）
+      const now = new Date();
+      const mins = now.getUTCMinutes();
+      const nb = new Date(now.getTime());
+      nb.setUTCMinutes(mins < 30 ? 30 : 60, 0, 0);
+      return nb.getTime() - REFRESH_MS;
+    }
+    function tick() {
+      const next = anchor() + REFRESH_MS;
+      let remain = next - Date.now();
+      if (remain <= 0) { el.textContent = "刷新中…"; return; }
+      const h = Math.floor(remain / 3600000);
+      const m = Math.floor((remain % 3600000) / 60000);
+      const s = Math.floor((remain % 60000) / 1000);
+      const pad = (n) => String(n).padStart(2, "0");
+      el.textContent = (h > 0 ? pad(h) + ":" : "") + pad(m) + ":" + pad(s);
+    }
+    tick();
+    setInterval(tick, 1000);
+    document.addEventListener("visibilitychange", function () { if (!document.hidden) tick(); });
+  }
+
+  function boot() { init(); setupLiveUpdate(); startRealtimeCountdown(); }
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", boot);
   } else {

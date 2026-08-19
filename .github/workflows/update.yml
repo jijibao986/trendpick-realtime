@@ -24,11 +24,6 @@ jobs:
       - name: 运行实时爬虫
         run: python scrape_realtime.py
 
-      - name: 更新前端缓存版本号（防浏览器缓存旧 app.js/data.js）
-        run: |
-          TS=$(date +%Y%m%d%H%M)
-          sed -i -E "s#js/(app|data)\.js([?]v=[0-9]+)?\"#js/\1.js?v=${TS}\"#g" index.html
-
       - name: 提交并推送
         run: |
           git config user.name "realtime-bot"
