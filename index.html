@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<!-- 实时层数据源（云端榜单，关电脑也更新）：相对路径，随站点根目录部署，改名/fork 均无需改动 -->
-<meta name="realtime-src" content="realtime.js" />
+<!-- 实时层数据源（云端榜单，关电脑也更新）：创建 GitHub 仓库 trendpick-realtime 并开通 Pages 后，把下面用户名替换成你的 -->
+<meta name="realtime-src" content="https://jijibao986.github.io/trendpick-realtime/realtime.js" />
 <title>印选 · 泰马热点选品雷达 v2</title>
 <link rel="stylesheet" href="css/style.css" />
 </head>
@@ -18,20 +18,11 @@
     </div>
   </div>
   <div class="topbar-right">
-    <div class="updated">数据更新：<b id="updatedDate">2026-08-13</b> <span id="lastUpdate" class="badge-note"></span></div>
-    <div id="nextUpdate" class="badge-note" style="display:none;color:#64748b;font-size:12px"></div>
+    <div class="updated">数据更新：<b id="updatedDate">2026-08-21</b> <span id="lastUpdate" class="badge-note"></span></div>
     <span class="badge-note">🌐 全类目开放 · 无任何内容屏蔽</span>
-    <span class="badge-note daily-note">🔥 已补充 8/13 每日热点日报（67 条泰马双市场热点）</span>
+    <span class="badge-note daily-note">🔥 已补充 8/21 每日热点日报（36 条泰马双市场热点）</span>
   </div>
 </header>
-
-<section id="countdownBanner">
-  <div class="cb-inner">
-    <span class="cb-label">⚡ 实时榜单 · 距下次云端刷新</span>
-    <span class="cb-time" id="rtCountdown">--:--:--</span>
-    <span class="cb-sub">每 30 分钟自动更新 · 数据由 AI 实时研究生成</span>
-  </div>
-</section>
 
 <section class="hero">
   <div class="hero-left">
@@ -65,11 +56,8 @@
     <div class="filtergroup">
       <span class="flabel">印花指数</span>
       <button class="fbtn active" data-f="stars" data-v="all">全部</button>
-      <button class="fbtn" data-f="stars" data-v="1">★1+</button>
-      <button class="fbtn" data-f="stars" data-v="2">★2+</button>
       <button class="fbtn" data-f="stars" data-v="3">★3+</button>
-      <button class="fbtn" data-f="stars" data-v="4">★4+</button>
-      <button class="fbtn" data-f="stars" data-v="5">★5</button>
+      <button class="fbtn" data-f="stars" data-v="4">★4</button>
     </div>
     <div class="filtergroup">
       <span class="flabel">风险</span>
@@ -81,9 +69,9 @@
     <div class="filtergroup">
       <span class="flabel">还热</span>
       <button class="fbtn active" data-f="days" data-v="all">全部</button>
+      <button class="fbtn" data-f="days" data-v="1">1天内</button>
       <button class="fbtn" data-f="days" data-v="3">3天内</button>
       <button class="fbtn" data-f="days" data-v="7">7天内</button>
-      <button class="fbtn" data-f="days" data-v="14">14天内</button>
     </div>
     <div class="filtergroup">
       <span class="flabel">排序</span>
@@ -126,20 +114,7 @@
   <img id="lbImg" src="" alt="" />
 </div>
 
-<!-- 动态加载脚本并强制带时间戳，彻底绕过浏览器/CDN 对 js/app.js、js/data.js 的缓存（避免一直显示旧版本黑块） -->
-<script>
-  (function () {
-    var t = Date.now();
-    var s1 = document.createElement("script");
-    s1.src = "js/data.js?_=" + t;
-    // data.js 无论成功失败都继续加载 app.js，避免页面空白
-    s1.onload = s1.onerror = function () {
-      var s2 = document.createElement("script");
-      s2.src = "js/app.js?_=" + t;
-      document.head.appendChild(s2);
-    };
-    document.head.appendChild(s1);
-  })();
-</script>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
