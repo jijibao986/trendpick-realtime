@@ -2,10 +2,15 @@
 # -*- coding: utf-8 -*-
 """
 印选 data.js 每日自动生成（每日 8:00 由 automation 触发）
-从 realtime.js 当前事件按 buzzIndex+stars 取前 30 条，写入 js/data.js。
-每事件含 description 模板字段（含来源数/热度/印花建议/风险/跨境溢价）。
+
+v2 升级后改为【合并】模式：
+- 保留 site/js/data.js（即本地 site/ 同步过来的「印选 v2 每日热点」全量 curated 事件）不动；
+- 仅把 realtime.js 当前按 buzzIndex+stars 取前 30 条作为「实时层」补充追加进 data.js（去重，不覆盖 curated 事件）；
+- 更新 SITE_UPDATED 与 meta.js 的 count，使前端感知到更新。
+
+这样每日本地自动化同步的 curated 事件不会被云端实时管线覆盖掉。
 """
-import json, datetime, hashlib, os, sys
+import json, datetime, hashlib, os, sys, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RT_PATH = os.path.join(ROOT, 'realtime.js')
@@ -44,10 +49,28 @@ def mk_desc(e):
     )
 
 
+def load_existing():
+    if not os.path.exists(DATA_PATH):
+        return []
+    raw = open(DATA_PATH, encoding="utf-8").read()
+    m = re.search(r'window\.EVENTS\s*=\s*(\[.*\]);', raw, re.S)
+    if not m:
+        return []
+    try:
+        return json.loads(m.group(1))
+    except Exception:
+        return []
+
+
 def main():
     if not os.path.exists(RT_PATH):
         print("ERROR: %s 不存在" % RT_PATH, file=sys.stderr)
         sys.exit(1)
+
+    existing = load_existing()
+    seen_titles = {e.get("titleCn", "").strip().lower() for e in existing}
+    seen_ids = {e.get("id") for e in existing}
+
     raw = open(RT_PATH, encoding="utf-8").read()
     s, e = raw.index("["), raw.rindex("]")
     rt = json.loads(raw[s:e + 1])
@@ -56,15 +79,19 @@ def main():
     cand = rt_sorted[:30]
 
     now = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
-    lines = ['window.SITE_UPDATED = "%s";' % now, "window.EVENTS = ["]
-    for i, ev in enumerate(cand):
+    added = 0
+    for ev in cand:
         title = (ev.get("titleCn") or ev.get("titleOrig") or "").strip()
         if not title:
             continue
+        if title.lower() in seen_titles:
+            continue
         eid = hashlib.md5(title.encode("utf-8")).hexdigest()[:24]
+        if eid in seen_ids:
+            continue
         ne = {
             "id": eid,
-            "batch": "daily",
+            "batch": "realtime",
             "fresh": True,
             "country": ev.get("country", "th"),
             "cat": ev.get("cat", "other"),
@@ -96,15 +123,22 @@ def main():
             "sourceBreadth": ev.get("sourceBreadth", {"local": False, "global": True, "social_only": False}),
             "sourceCount": len(ev.get("sources", [])),
         }
-        sep = "," if i < len(cand) - 1 else ""
-        lines.append("  " + json.dumps(ne, ensure_ascii=False) + sep)
+        existing.append(ne)
+        seen_titles.add(title.lower())
+        seen_ids.add(eid)
+        added += 1
+
+    lines = ['window.SITE_UPDATED = "%s";' % now, "window.EVENTS = ["]
+    for i, ev in enumerate(existing):
+        sep = "," if i < len(existing) - 1 else ""
+        lines.append("  " + json.dumps(ev, ensure_ascii=False) + sep)
     lines.append("];")
     open(DATA_PATH, "w", encoding="utf-8").write("\n".join(lines) + "\n")
-    # 同步更新 meta.js，供前端 checkMeta 判断是否出现新日报（仅当 meta 更新时间更新时才重载，避免无谓轮询）
+
     meta_path = os.path.join(ROOT, "js", "meta.js")
     with open(meta_path, "w", encoding="utf-8") as f:
-        f.write('window.SITE_META = {"updated": "%s", "count": %d};\n' % (now, len(cand)))
-    print("OK: %d events -> %s ; meta -> %s" % (len(cand), DATA_PATH, meta_path))
+        f.write('window.SITE_META = {"updated": "%s", "count": %d};\n' % (now, len(existing)))
+    print("OK: merged +%d realtime -> total %d events ; meta -> %s" % (added, len(existing), meta_path))
 
 
 if __name__ == "__main__":
