@@ -48,6 +48,45 @@
     gaming: "🎮", trends: "📈", forum: "💡", official: "🏛", music: "🎵",
   };
 
+  // ---------- 类目合并：稀疏子类 → 统一大类，避免 chip 过多过碎 ----------
+  const CAT_GROUPS = {
+    "明星八卦": { cn: "明星八卦", icon: "🌟", grad: "linear-gradient(135deg,#f472b6,#a855f7)" },
+    "演唱会综艺": { cn: "演唱会综艺", icon: "🎤", grad: "linear-gradient(135deg,#f59e0b,#ef4444)" },
+    "影视剧": { cn: "影视剧", icon: "🎬", grad: "linear-gradient(135deg,#6366f1,#8b5cf6)" },
+    "动漫热度": { cn: "动漫热度", icon: "🌸", grad: "linear-gradient(135deg,#f472b6,#a855f7)" },
+    "游戏热度": { cn: "游戏热度", icon: "🎮", grad: "linear-gradient(135deg,#10b981,#06b6d4)" },
+    "音乐榜单": { cn: "音乐榜单", icon: "🎵", grad: "linear-gradient(135deg,#ec4899,#f43f5e)" },
+    "网络热梗": { cn: "网络热梗", icon: "😂", grad: "linear-gradient(135deg,#fbbf24,#f97316)" },
+    "节日": { cn: "节日", icon: "🎉", grad: "linear-gradient(135deg,#f43f5e,#f59e0b)" },
+    "时装联名": { cn: "时装联名", icon: "👕", grad: "linear-gradient(135deg,#ec4899,#8b5cf6)" },
+    "平台热搜": { cn: "平台热搜", icon: "🔍", grad: "linear-gradient(135deg,#8b5cf6,#d946ef)" },
+    "新闻时事": { cn: "新闻时事", icon: "📰", grad: "linear-gradient(135deg,#0ea5e9,#6366f1)" },
+    "体育": { cn: "体育", icon: "⚽", grad: "linear-gradient(135deg,#22c55e,#16a34a)" },
+    "电商政策": { cn: "电商政策", icon: "📦", grad: "linear-gradient(135deg,#0ea5e9,#6366f1)" },
+    "其他热搜": { cn: "其他热搜", icon: "🔥", grad: "linear-gradient(135deg,#ef4444,#ec4899)" },
+  };
+  // 原始 catCn 子类 → 统一大类
+  const GROUP_BY_RAW = {
+    "明星/CP": "明星八卦", "明星/演唱会": "明星八卦",
+    "演唱会": "演唱会综艺", "演唱会/CP": "演唱会综艺",
+    "电视剧": "影视剧", "电影": "影视剧", "影视/泰腐BL": "影视剧", "电视剧/CP新剧": "影视剧", "电影/马来Tamil": "影视剧",
+    "动漫": "动漫热度",
+    "游戏电竞": "游戏热度", "游戏/联动跨界": "游戏热度", "游戏/手游": "游戏热度", "游戏": "游戏热度",
+    "音乐榜单/T-pop": "音乐榜单", "音乐/演唱会": "音乐榜单", "TikTok趋势/音乐": "音乐榜单",
+    "热梗": "网络热梗",
+    "节日/水灯节": "节日", "节日/屠妖节": "节日", "节日/国庆": "节日",
+    "联名款/本地潮牌": "时装联名", "联名款/服饰": "时装联名", "时装趋势": "时装联名", "时装/球衣风潮": "时装联名",
+    "新闻热点": "新闻时事", "社会民生": "新闻时事", "政党选举": "新闻时事",
+    "科技体育/机器人": "体育", "体育/足球": "体育", "体育/篮球": "体育",
+    "电商活动": "电商政策",
+  };
+  function catGroup(raw) {
+    if (!raw) return "其他热搜";
+    if (CAT_GROUPS[raw]) return raw;
+    return GROUP_BY_RAW[raw] || raw;
+  }
+  function groupMeta(key) { return CAT_GROUPS[catGroup(key)] || CAT_GROUPS["其他热搜"]; }
+
   const state = {
     country: "all", cat: "all", stars: "all", risk: "all", days: "all",
     sort: "stars", search: "", safe: false, view: "grid", media: false, local: false,
@@ -83,7 +122,7 @@
   function credClass(c) { return c === "高" ? "high" : c === "中" ? "mid" : "low"; }
   function getTypeIcon(t) { return TYPE_ICON[t] || "🔗"; }
   function getRegionFlag(r) { return r === "th" ? "🇹🇭" : r === "my" ? "🇲🇾" : "🌐"; }
-  function catGradient(c) { return CAT_GRAD[c] || "linear-gradient(135deg,#94a3b8,#64748b)"; }
+  function catGradient(c) { return groupMeta(c).grad; }
   function normalizeCountry(c) {
     if (c === "th" || c === "my" || c === "multi") return c;
     if (c === "泰国") return "th";
@@ -208,7 +247,7 @@
     if (main && _galleryImages[idx]) {
       const img = _galleryImages[idx];
       if (img.isSvg) {
-        main.outerHTML = `<div class="m-gallery-none" id="mGalleryMain" style="--cg:${catGradient(img.catCn || '')}"><span>${CAT_EMOJI[img.catCn] || '🔥'}</span></div>`;
+        main.outerHTML = `<div class="m-gallery-none" id="mGalleryMain" style="--cg:${catGradient(img.catCn || '')}"><span>${groupMeta(img.catCn).icon}</span></div>`;
       } else {
         main.outerHTML = `<img class="m-gallery-main" id="mGalleryMain" src="${escapeHtml(img.url)}" onclick="openLightbox('${escapeHtml(img.url)}')" />`;
       }
@@ -228,16 +267,17 @@
   function renderCatChips() {
     const cc = document.getElementById("catChips");
     if (!cc) return;
+    // 按统一大类聚合计数（避免子类过多过碎）
     const counts = {};
-    EVENTS.forEach((e) => { const c = e.catCn || "其他热搜"; counts[c] = (counts[c] || 0) + 1; });
-    const seen = new Set();
+    EVENTS.forEach((e) => { const g = catGroup(e.catCn); counts[g] = (counts[g] || 0) + 1; });
     const ordered = [{ key: "all", cn: "全部", icon: "🌐", count: EVENTS.length }];
-    CATS.slice(1).forEach((c) => {
-      if (counts[c.cn]) { ordered.push({ key: c.cn, cn: c.cn, icon: c.icon, count: counts[c.cn] }); seen.add(c.cn); }
-    });
-    Object.entries(counts).sort((a, b) => b[1] - a[1]).forEach(([cn, n]) => {
-      if (!seen.has(cn)) { ordered.push({ key: cn, cn: cn, icon: CAT_EMOJI[cn] || "🔥", count: n }); seen.add(cn); }
-    });
+    Object.keys(CAT_GROUPS)
+      .filter((k) => counts[k])
+      .sort((a, b) => counts[b] - counts[a])
+      .forEach((k) => {
+        const m = CAT_GROUPS[k];
+        ordered.push({ key: k, cn: m.cn, icon: m.icon, count: counts[k] });
+      });
     if (state.cat !== "all" && !ordered.find((c) => c.key === state.cat)) state.cat = "all";
     cc.innerHTML = ordered.map((c) =>
       `<button class="chip ${c.key === state.cat ? "active" : ""}" data-cat="${c.key}">${c.icon} ${c.cn} <span style="opacity:.55;font-size:11px">${c.count}</span></button>`
@@ -300,7 +340,7 @@
     return EVENTS.filter((e) => {
       const ec = normalizeCountry(e.country);
       if (state.country !== "all" && ec !== state.country && ec !== "multi") return false;
-      if (state.cat !== "all" && e.catCn !== state.cat) return false;
+      if (state.cat !== "all" && catGroup(e.catCn) !== state.cat) return false;
       if (state.stars !== "all" && e.stars < Number(state.stars)) return false;
       if (state.risk !== "all" && !e.risk.startsWith(state.risk)) return false;
       if (state.days !== "all" && e.hotDays > Number(state.days)) return false; // 还热：保留 hotDays<=N 的事件（N天内仍热）
@@ -308,7 +348,7 @@
       if (state.local && !e.localFlag) return false;
       if (state.daily && e.batch !== todayBatch()) return false;
       if (state.search) {
-        const hay = (e.titleCn + " " + e.titleOrig + " " + e.summary + " " + e.tags.join(" ")).toLowerCase();
+        const hay = (e.titleCn + " " + e.titleOrig + " " + e.summary + " " + (e.tags || []).join(" ")).toLowerCase();
         if (!hay.includes(state.search)) return false;
       }
       return true;
@@ -439,7 +479,7 @@
         ${coverHtml(e)}
         <div class="card-body">
           <div class="card-top">
-            <span class="cat-tag">${e.catCn}</span>
+            <span class="cat-tag">${groupMeta(e.catCn).cn}</span>
             <span class="stars">${stars(e.stars)}</span>
           </div>
           <h3>${escapeHtml(e.titleCn)}</h3>
@@ -463,17 +503,17 @@
   function renderTimeline(list) {
     const t = document.getElementById("timelineView");
     const groups = {};
-    list.forEach((e) => { (groups[e.catCn] = groups[e.catCn] || []).push(e); });
+    list.forEach((e) => { const g = catGroup(e.catCn); (groups[g] = groups[g] || []).push(e); });
     const cats = Object.keys(groups).sort((a, b) => groups[b].length - groups[a].length);
     if (!cats.length) { t.innerHTML = `<div style="padding:40px;text-align:center;color:#9aa1ac">没有匹配的热点</div>`; return; }
     t.innerHTML = cats.map((c) => `
       <div class="tl-day">
-        <div class="tl-date">${CAT_EMOJI[c] || "🔥"} ${c} <span style="color:#9aa1ac;font-weight:500;font-size:13px">（${groups[c].length} 条）</span></div>
+        <div class="tl-date">${groupMeta(c).icon} ${groupMeta(c).cn} <span style="color:#9aa1ac;font-weight:500;font-size:13px">（${groups[c].length} 条）</span></div>
         <div class="tl-items">
           ${groups[c].map((e) => `
             <div class="card" onclick="openModal('${e.id}')">
               ${e.fresh ? '<div class="fresh-flag">🔥 今日日报</div>' : ""}
-              <div class="card-top"><span class="cat-tag">${e.catCn}</span><span class="stars">${stars(e.stars)}</span></div>
+              <div class="card-top"><span class="cat-tag">${groupMeta(e.catCn).cn}</span><span class="stars">${stars(e.stars)}</span></div>
               <h3>${escapeHtml(e.titleCn)}</h3>
               <div class="card-foot">
                 <span class="pt ${ptClass(e.printType)}">${e.printType}</span>
@@ -504,8 +544,8 @@
 
   // ---------- 印花关键词分析引擎 ----------
   function keywordAnalysis(e) {
-    const t = (e.titleCn || "") + " " + (e.titleOrig || "") + " " + (e.summary || "") + " " + (e.tags.join(" "));
-    const cat = e.catCn || "其他热搜";
+    const t = (e.titleCn || "") + " " + (e.titleOrig || "") + " " + (e.summary || "") + " " + ((e.tags || []).join(" "));
+    const cat = catGroup(e.catCn || "其他热搜");
     const country = e.country || "multi";
     const isTh = country === "th";
     const isMy = country === "my";
@@ -1040,7 +1080,7 @@
         <div>🕒 ${escapeHtml(e.timeRel || e.timeAbs || "实时收录")}</div>
         <div>📰 ${e.sources.length} 来源</div>
       </div>
-      <div class="m-tags">${e.tags.map((t) => `<span>${escapeHtml(t)}</span>`).join("")}</div>
+      <div class="m-tags">${(e.tags || []).map((t) => `<span>${escapeHtml(t)}</span>`).join("")}</div>
       <div class="m-suggest">💡 印花建议：${suggestion(e)}</div>
     `;
   }
@@ -1300,7 +1340,7 @@
     document.addEventListener("visibilitychange", function () { if (!document.hidden) tick(); });
   }
 
-  function boot() { init(); setupLiveUpdate(); startRealtimeCountdown(); }
+  function boot() { rebuildEvents(); init(); setupLiveUpdate(); startRealtimeCountdown(); }
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", boot);
   } else {
