@@ -87,6 +87,81 @@
   }
   function groupMeta(key) { return CAT_GROUPS[catGroup(key)] || CAT_GROUPS["其他热搜"]; }
 
+  // ---------- 热点说明语境表：把"机械榜单注脚"改写成普通人能懂的背景/原因/影响 ----------
+  // 每个统一大类给出：what(它本质上是什么) / why(为什么现在火) / impact(对印花选品意味着什么)
+  const EXPLAIN_CTX = {
+    "游戏热度": {
+      what: "是一款在 Steam、Garena 等平台人气很高的电子游戏",
+      why: "它在游戏畅销/热门榜上排名靠前，泰国和马来西亚的玩家都在玩、在讨论，相关直播和短视频也很多。",
+      impact: "游戏里的角色、logo、经典台词都很适合做成图案款 T 恤，是游戏玩家和年轻男生的常青题材。",
+    },
+    "音乐榜单": {
+      what: "是一首在泰国 / 马来西亚音乐榜单上排名靠前的歌曲（或歌手）",
+      why: "它正在流媒体和榜单上走红，粉丝在社交平台大量二创、跟唱和分享。",
+      impact: "歌手形象、歌词金句、专辑视觉都适合做图案或文字款 T 恤，粉丝应援和周边需求很强。",
+    },
+    "动漫热度": {
+      what: "是一部在动画榜单和社群里人气很高的动漫作品",
+      why: "它正在热播或刚完结，角色和名场面在社群里被大量讨论、二创。",
+      impact: "动漫角色、经典台词、名场面最适合做图案款 T 恤，是二次元受众的高溢价题材。",
+    },
+    "影视剧": {
+      what: "是一部在泰国 / 马来西亚热播或热议的影视剧（含泰腐 BL、韩剧等）",
+      why: "它正在热播、完结或引发讨论，角色关系和名场面在粉丝圈持续发酵。",
+      impact: "剧中 CP、主角、经典台词和名场面适合做图案或文字款 T 恤，粉丝应援需求强（注意肖像与 IP 授权）。",
+    },
+    "明星八卦": {
+      what: "是泰国 / 马来西亚或跨境的明星、网红或 CP 组合相关话题",
+      why: "明星动态和 CP 互动在社交平台自带流量，粉丝讨论和二创非常活跃。",
+      impact: "明星 / CP 形象、应援口号适合做粉丝向 T 恤，但务必注意肖像权和 IP 授权，不要直接搬运。",
+    },
+    "演唱会综艺": {
+      what: "是歌手演唱会、巡演或综艺节目相关热点",
+      why: "演唱会 / 巡演开票、现场名场面和综艺梗在粉丝圈持续刷屏。",
+      impact: "巡演视觉、舞台造型、应援口号适合做周边 T 恤，粉丝现场应援和日常穿搭都好用。",
+    },
+    "网络热梗": {
+      what: "是近期在社交平台爆火的网络梗、表情包或挑战",
+      why: "它以搞笑、共鸣或魔性的形式快速传播，被大量模仿和二创。",
+      impact: "梗图、魔性表情、谐音梗文字最适合做趣味图案款 T 恤，传播性强、试水成本低。",
+    },
+    "节日": {
+      what: "是泰国 / 马来西亚即将到来或正在进行的节日",
+      why: "节日临近时，相关主题的商品和祝福需求会集中释放，应景消费明显。",
+      impact: "康乃馨、蜡烛、民族纹样等节日元素适合做应景图案款 T 恤，适合节前提前备货。",
+    },
+    "时装联名": {
+      what: "是潮流服饰、联名款或时尚风格相关热点",
+      why: "联名和潮牌自带话题，穿搭示范在社媒上被大量种草和跟风。",
+      impact: "潮流 logo、联名视觉、风格元素适合做有时尚感的 T 恤，契合年轻潮人审美。",
+    },
+    "平台热搜": {
+      what: "是泰国 / 马来西亚社交平台或电商平台的当日热搜话题",
+      why: "它在 Twitter/X、TikTok 或 Shopee/Lazada 等平台冲上热搜，短期声量很高。",
+      impact: "热搜词和话题元素适合快速做成应景 T 恤，抓住短期流量窗口（注意时效）。",
+    },
+    "新闻时事": {
+      what: "是泰国 / 马来西亚当地或全球受到关注的新闻事件",
+      why: "它因突发或持续进展被媒体广泛报道，公众讨论度高。",
+      impact: "相关符号、标语可做时事向 T 恤，但务必留意敏感性，避免卷入争议或触碰红线。",
+    },
+    "体育": {
+      what: "是泰国 / 马来西亚受到关注的体育赛事、球队或运动员",
+      why: "比赛、夺冠或球星动态会带动球迷讨论和应援，赛事期间热度集中。",
+      impact: "球队 logo、球星、号码和口号适合做球迷向 T 恤，赛事周期性强，注意把握节点。",
+    },
+    "电商政策": {
+      what: "是东南亚电商平台（如 TikTok Shop、Shopee、Lazada）的新政策、费率或活动变化",
+      why: "它直接影响卖家的成本、流量和合规要求，是运营必须关注的实用信息。",
+      impact: "对选品的意义在于：据此调整定价、备货和合规策略，规避扣分清零等经营风险。",
+    },
+    "其他热搜": {
+      what: "是近期在泰马市场受到关注的热点话题",
+      why: "它因特定原因在社交平台或媒体上获得较高讨论度。",
+      impact: "可结合具体主题判断印花机会，先小批量试水验证市场反应。",
+    },
+  };
+
   const state = {
     country: "all", cat: "all", stars: "all", risk: "all", days: "all",
     sort: "stars", search: "", safe: false, view: "grid", media: false, local: false,
@@ -484,7 +559,7 @@
           </div>
           <h3>${escapeHtml(e.titleCn)}</h3>
           <div class="title-orig">${escapeHtml(e.titleOrig)}</div>
-          <div class="summary">${escapeHtml(((e.description || e.summary) || "").slice(0, 140))}${(e.description || "").length > 140 ? "…" : ""}</div>
+          <div class="summary">${escapeHtml(cardBlurb(e))}</div>
           ${cardKwHtml(e)}
           <div class="card-foot">
             <span class="pt ${ptClass(e.printType)}">${e.printType}</span>
@@ -994,21 +1069,95 @@
   }
 
   // 用通俗语言把结构化字段拼成一段"一眼看懂"的速读，避免详情过于简略/晦涩
+  // 一句话结论（卡片/速读用，纯通俗）
+  function countryText(e) {
+    const c = normalizeCountry(e.country);
+    if (c === "th") return "泰国";
+    if (c === "my") return "马来西亚";
+    return "泰国和马来西亚双市场";
+  }
+  function starText(n) {
+    n = Number(n) || 0;
+    if (n >= 5) return "爆款潜力极高，是优先开发对象";
+    if (n === 4) return "爆款潜力高，值得重点开发";
+    if (n === 3) return "有一定潜力，可以小批量试水";
+    return "潜力一般，适合低成本试水看看";
+  }
+  function buzzText(b) {
+    b = Number(b) || 50;
+    if (b >= 85) return "讨论极其热烈，几乎全网都在聊";
+    if (b >= 70) return "讨论很热，社交平台和媒体都在跟进";
+    if (b >= 50) return "有一定讨论热度";
+    return "热度相对平稳";
+  }
+  // 把原始 summary 清理成"可被中文读者看懂"的补充信息；机械排名/泰文原文则丢弃
+  function cleanSummary(s) {
+    s = (s || "").trim();
+    if (!s) return "";
+    s = s.replace(/^(泰国|马来西亚|多市场)?(新闻热点|明星八卦|影视剧|游戏热度|音乐榜单|网络热梗|体育|社会民生|政党选举|电商政策|平台热搜|动漫热度|演唱会综艺|节日)[：:]\s*/, "");
+    if (s.length < 15) return "";
+    if (/[฀-๿]/.test(s)) return ""; // 含泰文原文，中文读者难懂
+    if (/(第\s*\d+\s*[：:]|热搜[：:]|榜单第|最热门|畅销榜)/.test(s)) return ""; // 机械排名复述，已被类目说明覆盖
+    return escapeHtml(s);
+  }
   function plainSummary(e) {
-    const cat = groupMeta(e.catCn).cn;
-    const country = e.country === "th" ? "泰国" : e.country === "my" ? "马来西亚" : "泰国与马来西亚双市场";
-    const starTxt = e.stars >= 4 ? "爆款潜力很高" : e.stars === 3 ? "有一定爆款潜力" : "潜力一般，更适合低成本试水";
-    const buzzTxt = e.buzzIndex >= 75 ? "讨论非常热烈" : e.buzzIndex >= 50 ? "讨论热度中等" : "讨论热度偏低";
-    let txt = `「${e.titleCn}」${e.titleOrig ? `（${e.titleOrig}）` : ""}是${country}市场的<b>${cat}</b>类热点。`;
-    txt += `它目前${starTxt}、${buzzTxt}，预计还能火大约 <b>${e.hotDays}</b> 天`;
-    if (e.localFlag) txt += `，且有泰国 / 马来西亚本地媒体在持续报道`;
-    txt += `。`;
-    const ptTxt = e.printType === "文字款" ? "适合做成「文字口号款」T 恤" : e.printType === "图案款" ? "适合做成「图案视觉款」T 恤" : "适合做「文字 + 图案」组合款 T 恤";
-    txt += `从印花角度看：${ptTxt}；`;
-    if (e.risk.startsWith("低")) txt += `整体风险较低，可放心开发。`;
-    else if (e.risk.startsWith("中")) txt += `风险中等，注意图案避免直接搬运原 IP 或明星肖像。`;
-    else txt += `风险偏高，涉及争议或敏感内容，请先核定授权与合规再决定是否上架。`;
-    return txt;
+    const grp = groupMeta(e.catCn).cn;
+    const country = countryText(e);
+    const st = Number(e.stars) >= 4 ? "爆款潜力高" : Number(e.stars) === 3 ? "有一定潜力" : "潜力一般";
+    const bt = buzzText(Number(e.buzzIndex) || 50);
+    return `「<b>${escapeHtml(e.titleCn)}</b>」是${country}的${grp}类热点，<b>${st}</b>、${bt}，预计还能火约 <b>${e.hotDays}</b> 天。`;
+  }
+
+  // 卡片上一句话预览（纯文本，无 HTML）
+  function cardBlurb(e) {
+    const grp = groupMeta(e.catCn).cn;
+    const st = Number(e.stars) >= 4 ? "爆款潜力高" : Number(e.stars) === 3 ? "有潜力" : "潜力一般";
+    return `【${grp}】${st} · 预计还火约 ${Number(e.hotDays) || 0} 天`;
+  }
+
+  // 三段式通俗热点说明：背景 / 为什么受关注 / 对选品的影响
+  function exBlock(h, body, mod) {
+    return `<div class="ex-block ${mod}">
+      <div class="ex-h"><span class="ex-ico">${h.split(" ")[0]}</span>${escapeHtml(h.replace(/^[^ ]+ /, ""))}</div>
+      <div class="ex-b">${body}</div>
+    </div>`;
+  }
+  function explainEvent(e) {
+    const grp = groupMeta(e.catCn).cn;
+    const ctx = EXPLAIN_CTX[catGroup(e.catCn)] || EXPLAIN_CTX["其他热搜"];
+    const country = countryText(e);
+    const stars = Number(e.stars) || 0;
+    const buzz = Number(e.buzzIndex) || 50;
+    const sourcesN = (e.sources || []).length;
+
+    // —— 背景：它是什么 ——
+    let bg = `「<b>${escapeHtml(e.titleCn)}</b>」${e.titleOrig ? `（${escapeHtml(e.titleOrig)}）` : ""}是${country}的${grp}类热点，本质上${ctx.what}。`;
+    const raw = cleanSummary(e.summary);
+    if (raw) bg += ` 具体来看：${raw}。`;
+
+    // —— 为什么受关注 ——
+    let why = `当前它${buzzText(buzz)}`;
+    if (stars >= 4) why += `，印花指数高达 <b>${stars}</b> 星`;
+    else if (stars === 3) why += `，印花指数 <b>${stars}</b> 星`;
+    if (e.hotDays && e.hotDays >= 1) why += `，预计还能火约 <b>${e.hotDays}</b> 天`;
+    if (sourcesN >= 3) why += `；目前已有 <b>${sourcesN}</b> 个来源在报道，覆盖面广`;
+    else if (sourcesN > 0) why += `；已有 ${sourcesN} 个来源在报道`;
+    if (e.localFlag) why += `，且有泰国 / 马来西亚本地媒体持续跟进`;
+    why += `。${ctx.why}`;
+
+    // —— 对选品的影响 ——
+    let imp = `从印花选品角度看：${starText(stars)}；`;
+    const ptTxt = e.printType === "文字款" ? "适合做「文字口号款」T 恤" : e.printType === "图案款" ? "适合做「图案视觉款」T 恤" : "适合做「文字 + 图案」组合款 T 恤";
+    imp += `${ptTxt}；${ctx.impact}`;
+    if (e.risk.startsWith("低")) imp += " 整体风险较低，可以放心开发。";
+    else if (e.risk.startsWith("中")) imp += " 风险中等，注意图案不要直接照搬原 IP 或明星肖像，避免侵权。";
+    else imp += " 风险偏高，涉及争议或敏感内容，请先确认授权与合规再决定是否上架。";
+
+    return `<div class="m-explain">
+      ${exBlock("📖 背景", bg, "ex-bg")}
+      ${exBlock("🔥 为什么受关注", why, "ex-why")}
+      ${exBlock("🎯 对选品的影响", imp, "ex-imp")}
+    </div>`;
   }
 
   function modalHtml(e) {
@@ -1078,7 +1227,10 @@
         ${meter("来源可信度", e.credibilityScore, credColor(e.credibilityScore))}
         ${meter("讨论热度", e.buzzIndex, buzzColor(e.buzzIndex))}
       </div>
-      <div class="m-summary"><span class="m-summary-label">📌 平台概况：</span>${escapeHtml(e.summary) || "（平台暂未提供文字概况，以上速读已综合各来源整理）"}</div>
+      <div class="m-explain-wrap">
+        <div class="m-explain-title">📝 热点说明</div>
+        ${explainEvent(e)}
+      </div>
 
       <div class="m-section">
         <h4>📡 数据来源分析 <span class="m-sub">${e.sources.length} 个来源 · ${breadthLabel(e.sourceBreadth)}</span></h4>
