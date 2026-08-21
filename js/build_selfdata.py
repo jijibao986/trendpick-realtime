@@ -261,7 +261,7 @@ RAW = [
 ("th","其他热搜",3,"文字款","低风险",20,"Coldplay/Jess Glynne神曲","Coldplay / Jess Glynne TikTok Hits（TikTok神曲）","全球BGM，文字款。",3,"TikTok、Spotify",["全球","BGM"],False),
 ("my","体育",4,"文字款","低风险",30,"Euro 2026/世界杯预选","Euro 2026 / World Cup Qualifiers（欧洲杯/世界杯预选）","足球热，运动风文字款。",4,"FIFA、ESPN",["全球","足球"],False),
 ("my","其他热搜",4,"图案","低风险",25,"超级马里奥银河电影","Super Mario Galaxy Movie（超级马里奥银河电影）","任天堂IP，星星图案。",5,"任天堂、Box Office",["全球","任天堂"],False),
-# ===================== 节日商业机会 (5, 部分sensitive) =====================
+# ===================== 节日商业机会 (5) =====================
 ("th","其他热搜",4,"图案","高风险",5,"母亲节8/12","วันแม่ Mother's Day（母亲节8/12）","泰王后诞辰全国庆，茉莉花/感恩文字款；不出现王后肖像/姓名/徽章。",5,"publicholidays.asia",["节庆","母亲节"],True),
 ("my","其他热搜",3,"文字款","高风险",18,"先知诞辰8/25","Maulidur Rasul（先知穆罕默德诞辰8/25）","宗教日全国假；仅文字祝福款，不出现先知像/经文/清真寺具象。",3,"malaysiapublicholiday.my",["节庆","宗教"],True),
 ("my","其他热搜",3,"图案","中风险",24,"国庆日8/31","Merdeka Day（国庆日8/31）","1957独立，Jalur Gemilang国旗色块/独立口号，规避政治人物肖像。",3,"malaysiapublicholiday.my",["节庆","爱国"],False),
@@ -561,7 +561,7 @@ for t in RAW:
         "timeRel": f"{now[:10]} 研究",
         "timeAbs": now[:10].replace("-", "/")[2:] + now[10:],
         "tags": tags,
-        "sensitive": bool(sensitive),
+        "sensitive": False,  # 全类目开放，不做屏蔽（由用户自行判断是否采用）
 
         # === v2 新字段 ===
         "sources": src_list,

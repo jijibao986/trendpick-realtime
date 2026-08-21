@@ -19,7 +19,7 @@
 | titleOrig | string | 原文标题（含外语括号中文翻译） |
 | summary | string | 摘要 |
 | tags | string[] | 标签数组 |
-| sensitive | bool | 红线标记 |
+| sensitive | bool | 敏感标记（全类目开放，默认 false，不做屏蔽） |
 
 ### 改造字段（v2 升级）
 | 字段 | 类型 | 说明 |

@@ -12,21 +12,6 @@ ROOT = os.path.dirname(os.path.dirname(SCRIPT_DIR))  # .../automation-claw-.../
 MEM = os.path.join(ROOT, ".workbuddy", "memory")
 DEFAULT_OUT = os.path.join(SCRIPT_DIR, "data.js")
 
-# sensitive categories to flag (royalty / politics / religion) — per red-line policy
-SENSITIVE_CATS = {"政党选举"}  # politics
-SENSITIVE_KW = ["王室", "国王", "王后", "公主", "王子", "太后", "พระราช", "ในหลวง",
-                "清真", "佛", "寺", "僧", "伊斯兰教", "基督", "มัสยิด", "วัด", "พระสงฆ์",
-                "苏丹", "最高元首", "杨", "陛下"]
-
-def is_sensitive(e):
-    if e.get("cat_cn") in SENSITIVE_CATS:
-        return True
-    blob = (e.get("title_cn", "") + " " + e.get("title_orig", "") + " " + e.get("summary", ""))
-    for kw in SENSITIVE_KW:
-        if kw in blob:
-            return True
-    return False
-
 def find_latest_src():
     # 今天优先，否则最近的 _tmp_YYYYMMDD
     ymd = time.strftime("%Y%m%d")
@@ -81,7 +66,6 @@ def main():
             "sourceCount": e.get("source_count") or 0,
             "sources": e.get("sources") or "",
             "tags": e.get("tags") or [],
-            "sensitive": is_sensitive(e),
         }
         out_list.append(rec)
 
@@ -98,7 +82,6 @@ def main():
     print("unique events:", len(out_list))
     print("th:", sum(1 for x in out_list if x["country"] == "th"),
           "my:", sum(1 for x in out_list if x["country"] == "my"))
-    print("sensitive:", sum(1 for x in out_list if x["sensitive"]))
     print("written:", out)
 
 if __name__ == "__main__":
