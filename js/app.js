@@ -408,9 +408,6 @@
   }
 
   // ---------- filtering ----------
-  function todayBatch() {
-    return "daily";
-  }
   function filtered() {
     return EVENTS.filter((e) => {
       const ec = normalizeCountry(e.country);
@@ -421,7 +418,7 @@
       if (state.days !== "all" && (e.freshDays === undefined ? 999 : e.freshDays) > Number(state.days)) return false; // X天内：保留最近 N 天仍出现的事件
       if (state.media && !e.hasMedia) return false;
       if (state.local && !e.localFlag) return false;
-      if (state.daily && e.batch !== todayBatch()) return false;
+      if (state.daily && !(e.batch || "").startsWith("daily")) return false; // 日报批次形如 daily-YYYY-MM-DD（含历史每日批次）
       if (state.search) {
         const hay = (e.titleCn + " " + e.titleOrig + " " + e.summary + " " + (e.tags || []).join(" ")).toLowerCase();
         if (!hay.includes(state.search)) return false;
@@ -442,7 +439,7 @@
     const list = filtered().sort(sortFn);
     document.getElementById("resultCount").textContent = `共 ${list.length} 条热点`;
     const dt = document.getElementById("dailyToggle");
-    if (dt) { const dn = EVENTS.filter((e) => e.batch === todayBatch()).length; dt.textContent = "🔥 今日日报(" + dn + ")"; }
+    if (dt) { const dn = EVENTS.filter((e) => (e.batch || "").startsWith("daily")).length; dt.textContent = "🔥 今日日报(" + dn + ")"; }
     document.getElementById("statMedia").textContent = list.filter((e) => e.hasMedia).length;
     document.getElementById("statLocal").textContent = list.filter((e) => e.localFlag).length;
     if (state.view === "grid") renderGrid(list);
