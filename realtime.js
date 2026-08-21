@@ -3619,7 +3619,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 78,
+  "buzzIndex": 76,
   "summary": "马来西亚 Twitter/X 今日热搜：#แฮปปี้แทท",
   "tags": [],
   "timeRel": "",
@@ -5130,6 +5130,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=%23ClassCrushCrisisEP5"
  },
  {
+  "id": "rt-f8cb72487a96",
+  "titleCn": "佐利斯",
+  "titleOrig": "Tzolis",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Christos_Tzolis_2020.png",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 88,
+  "summary": "马来西亚 Twitter/X 今日热搜：Tzolis",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Tzolis"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Christos_Tzolis_2020.png",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-22",
+  "primaryUrl": "https://twitter.com/search?q=Tzolis"
+ },
+ {
   "id": "rt-25a14a19f2e0",
   "titleCn": "埃利亚斯",
   "titleOrig": "Elias",
@@ -5140,7 +5201,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/8074/8282659297_017c1f6171.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 88,
+  "buzzIndex": 86,
   "summary": "马来西亚 Twitter/X 今日热搜：Elias",
   "tags": [],
   "timeRel": "",
@@ -5176,7 +5237,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 14,
+  "hotDays": 7,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
@@ -5191,67 +5252,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Elias"
  },
  {
-  "id": "rt-2ee138490651",
-  "titleCn": "HAPPITAT 开幕式上免费",
-  "titleOrig": "FREEN AT THE HAPPITAT OPENING",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/1/16/Freen_Sarocha_Chankimha_2023-01-20.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 82,
-  "summary": "马来西亚 Twitter/X 今日热搜：FREEN AT THE HAPPITAT OPENING",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=FREEN%20AT%20THE%20HAPPITAT%20OPENING"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-22",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 7,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Freen_Sarocha_Chankimha_2023-01-20.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-22",
-  "primaryUrl": "https://twitter.com/search?q=FREEN%20AT%20THE%20HAPPITAT%20OPENING"
- },
- {
   "id": "rt-0235054487fc",
   "titleCn": "伊森",
   "titleOrig": "Ethan",
@@ -5262,7 +5262,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3874/15252449192_9c7d806899_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 80,
+  "buzzIndex": 84,
   "summary": "马来西亚 Twitter/X 今日热搜：Ethan",
   "tags": [],
   "timeRel": "",
@@ -5313,6 +5313,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Ethan"
  },
  {
+  "id": "rt-2ee138490651",
+  "titleCn": "HAPPITAT 开幕式上免费",
+  "titleOrig": "FREEN AT THE HAPPITAT OPENING",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/1/16/Freen_Sarocha_Chankimha_2023-01-20.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 78,
+  "summary": "马来西亚 Twitter/X 今日热搜：FREEN AT THE HAPPITAT OPENING",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=FREEN%20AT%20THE%20HAPPITAT%20OPENING"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Freen_Sarocha_Chankimha_2023-01-20.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-22",
+  "primaryUrl": "https://twitter.com/search?q=FREEN%20AT%20THE%20HAPPITAT%20OPENING"
+ },
+ {
   "id": "rt-58f3ae81fb2c",
   "titleCn": "#OneAndOnlyLEO",
   "titleOrig": "#OneAndOnlyLEO",
@@ -5323,7 +5384,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/4133/5027132895_7bfe3a643d_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 76,
+  "buzzIndex": 74,
   "summary": "马来西亚 Twitter/X 今日热搜：#OneAndOnlyLEO",
   "tags": [],
   "timeRel": "",
@@ -5374,79 +5435,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=%23OneAndOnlyLEO"
  },
  {
-  "id": "rt-3cc956bf7bf5",
-  "titleCn": "24号 温柔地爱着狮子座",
-  "titleOrig": "24TH LOVING LEO TENDERLY",
+  "id": "rt-6edfc3639eff",
+  "titleCn": "米洛",
+  "titleOrig": "Milo",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/5165/5381853972_cb45c83770_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 74,
-  "summary": "马来西亚 Twitter/X 今日热搜：24TH LOVING LEO TENDERLY",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=24TH%20LOVING%20LEO%20TENDERLY"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-22",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 5,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/5165/5381853972_cb45c83770_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-22",
-  "primaryUrl": "https://twitter.com/search?q=24TH%20LOVING%20LEO%20TENDERLY"
- },
- {
-  "id": "rt-1bf43327d788",
-  "titleCn": "玲·火花·奥姆·莱萨莎",
-  "titleOrig": "ling sparkle orm lesasha",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/3240/2353217775_6bee580ee3_b.jpg",
+  "cover": "https://live.staticflickr.com/4127/4999106005_3cb021ded5_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 72,
-  "summary": "马来西亚 Twitter/X 今日热搜：ling sparkle orm lesasha",
+  "summary": "马来西亚 Twitter/X 今日热搜：Milo",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5456,7 +5456,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=ling%20sparkle%20orm%20lesasha"
+    "url": "https://twitter.com/search?q=Milo"
    },
    {
     "type": "openverse",
@@ -5486,14 +5486,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/3240/2353217775_6bee580ee3_b.jpg",
+    "url": "https://live.staticflickr.com/4127/4999106005_3cb021ded5_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-22",
-  "primaryUrl": "https://twitter.com/search?q=ling%20sparkle%20orm%20lesasha"
+  "primaryUrl": "https://twitter.com/search?q=Milo"
  },
  {
   "id": "rt-5e2dfe1fb418",
@@ -5557,17 +5557,322 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Buddy"
  },
  {
+  "id": "rt-3cc956bf7bf5",
+  "titleCn": "24号 温柔地爱着狮子座",
+  "titleOrig": "24TH LOVING LEO TENDERLY",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/5165/5381853972_cb45c83770_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 68,
+  "summary": "马来西亚 Twitter/X 今日热搜：24TH LOVING LEO TENDERLY",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=24TH%20LOVING%20LEO%20TENDERLY"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/5165/5381853972_cb45c83770_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-22",
+  "primaryUrl": "https://twitter.com/search?q=24TH%20LOVING%20LEO%20TENDERLY"
+ },
+ {
+  "id": "rt-1bf43327d788",
+  "titleCn": "玲·火花·奥姆·莱萨莎",
+  "titleOrig": "ling sparkle orm lesasha",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/3240/2353217775_6bee580ee3_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 66,
+  "summary": "马来西亚 Twitter/X 今日热搜：ling sparkle orm lesasha",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=ling%20sparkle%20orm%20lesasha"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3240/2353217775_6bee580ee3_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-22",
+  "primaryUrl": "https://twitter.com/search?q=ling%20sparkle%20orm%20lesasha"
+ },
+ {
+  "id": "rt-b5929e08362e",
+  "titleCn": "芬恩",
+  "titleOrig": "Finn",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/8239/8459720442_0baa415a46_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 64,
+  "summary": "马来西亚 Twitter/X 今日热搜：Finn",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Finn"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/8239/8459720442_0baa415a46_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-22",
+  "primaryUrl": "https://twitter.com/search?q=Finn"
+ },
+ {
+  "id": "rt-68c701cb2fbb",
+  "titleCn": "兵工厂",
+  "titleOrig": "Arsenal",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/26/46914328_60e966ef3e_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 62,
+  "summary": "马来西亚 Twitter/X 今日热搜：Arsenal",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Arsenal"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/26/46914328_60e966ef3e_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-22",
+  "primaryUrl": "https://twitter.com/search?q=Arsenal"
+ },
+ {
+  "id": "rt-a9cc4aa1adbc",
+  "titleCn": "考文垂",
+  "titleOrig": "Coventry",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/10/15907234_5efe40ddfb_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 58,
+  "summary": "马来西亚 Twitter/X 今日热搜：Coventry",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Coventry"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/10/15907234_5efe40ddfb_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-22",
+  "primaryUrl": "https://twitter.com/search?q=Coventry"
+ },
+ {
   "id": "rt-81346d2ee542",
   "titleCn": "纽纽在 lsa26",
   "titleOrig": "nunew at lsa26",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
-  "stars": "🔥🔥",
+  "stars": "🔥",
   "cover": "https://upload.wikimedia.org/wikipedia/commons/2/27/NuNew_at_Thailand_Music_Countdown_press_conference%2C_May_9%2C_2024_02.png",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 64,
+  "buzzIndex": 54,
   "summary": "马来西亚 Twitter/X 今日热搜：nunew at lsa26",
   "tags": [],
   "timeRel": "",
@@ -5603,7 +5908,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 3,
+  "hotDays": 2,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
@@ -5624,11 +5929,11 @@ window.EVENTS_REALTIME = [
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
-  "stars": "🔥🔥",
+  "stars": "🔥",
   "cover": "https://live.staticflickr.com/2795/4384657905_5c9dc18ce4_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 62,
+  "buzzIndex": 52,
   "summary": "马来西亚 Twitter/X 今日热搜：DONT TOUCH DONT KISS",
   "tags": [],
   "timeRel": "",
@@ -5664,7 +5969,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 3,
+  "hotDays": 2,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
@@ -5685,11 +5990,11 @@ window.EVENTS_REALTIME = [
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
-  "stars": "🔥🔥",
+  "stars": "🔥",
   "cover": "https://live.staticflickr.com/2929/14183686277_8f0bb3e08f_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 60,
+  "buzzIndex": 50,
   "summary": "马来西亚 Twitter/X 今日热搜：LENA AT FIRST FRAME PREMIERE",
   "tags": [],
   "timeRel": "",
@@ -5738,176 +6043,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-22",
   "primaryUrl": "https://twitter.com/search?q=LENA%20AT%20FIRST%20FRAME%20PREMIERE"
- },
- {
-  "id": "rt-4624bd5a42e0",
-  "titleCn": "FAYEATOM 全球冉冉升起的偶像",
-  "titleOrig": "FAYEATOM GLOBAL RISING ICONS",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/79/221657119_30ef63753b_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 58,
-  "summary": "马来西亚 Twitter/X 今日热搜：FAYEATOM GLOBAL RISING ICONS",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=FAYEATOM%20GLOBAL%20RISING%20ICONS"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-22",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/79/221657119_30ef63753b_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-22",
-  "primaryUrl": "https://twitter.com/search?q=FAYEATOM%20GLOBAL%20RISING%20ICONS"
- },
- {
-  "id": "rt-aefa7755c33e",
-  "titleCn": "恐龙",
-  "titleOrig": "Dino",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/10/13548614_8e96a03d62.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 54,
-  "summary": "马来西亚 Twitter/X 今日热搜：Dino",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Dino"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-22",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/10/13548614_8e96a03d62.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-22",
-  "primaryUrl": "https://twitter.com/search?q=Dino"
- },
- {
-  "id": "rt-7d2184fa26da",
-  "titleCn": "佳索",
-  "titleOrig": "chiasoh",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 80,
-  "buzzIndex": 50,
-  "summary": "马来西亚 Twitter/X 今日热搜：chiasoh",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=chiasoh"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-22",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-22",
-  "primaryUrl": "https://twitter.com/search?q=chiasoh"
  },
  {
   "id": "rt-5d5ea7a1c9cf",
@@ -7167,8 +7302,8 @@ window.EVENTS_REALTIME = [
   "cat": "news",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://live.staticflickr.com/3829/12800490244_2b92cc0889_b.jpg",
+  "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
   "summary": "泰国新闻热点：ใบเหลือง - สถิติSanta Clara สำหรับLiga Portugal 2026/2027 - FotMob",
@@ -7182,6 +7317,13 @@ window.EVENTS_REALTIME = [
     "region": "泰国",
     "credibility": 88,
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHI1UzBjc1ZDRmVJVkJvNWx5aTR4bS03d3R4cUtWb2NMbEJpUVlsZ0FXbXBJeG1zVnA3amtQUC11RU85V1hMQmhqVVI5QjI2NnVfMnp2cXpXMWNmMTNJUGZBa0szTzFvZ3dfUGlfaTlWTXNCZVRnNmVGNjZuSTBfWWpkQVRYeWJOTjhHZWJGN0J2TllVLUVBYUdSUXBqRkJtMmdyeTB2cmY?oc=5"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -7200,9 +7342,15 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3829/12800490244_2b92cc0889_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-08-22",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHI1UzBjc1ZDRmVJVkJvNWx5aTR4bS03d3R4cUtWb2NMbEJpUVlsZ0FXbXBJeG1zVnA3amtQUC11RU85V1hMQmhqVVI5QjI2NnVfMnp2cXpXMWNmMTNJUGZBa0szTzFvZ3dfUGlfaTlWTXNCZVRnNmVGNjZuSTBfWWpkQVRYeWJOTjhHZWJGN0J2TllVLUVBYUdSUXBqRkJtMmdyeTB2cmY?oc=5"
@@ -7215,8 +7363,8 @@ window.EVENTS_REALTIME = [
   "cat": "news",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://live.staticflickr.com/152/390510460_55fef6f5c3.jpg",
+  "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
   "summary": "泰国新闻热点：The Voice Kids 2026 : ลีลา ลูกสาวของ Jamel Debbouze และ Mélissa Theuriau จะขึ้นเวทีร้องเพลงในวันเสาร์ที่ 22 สิงหาคมนี้ - Sortir à Paris",
@@ -7230,6 +7378,13 @@ window.EVENTS_REALTIME = [
     "region": "泰国",
     "credibility": 88,
     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMXJUd3ZjX2VmUWdHV0Zpc2J0c3B6REotMGRXanU2X1ltVWFrNnRYSWlEdW40SXhQNl93SWxZNmNhbVB3SU9YM0tVeFliaEY3WTlxdDllWm1DZ2l1emcwcmpIaHpGTFlYekt4VmJfdDlIRXBobC1nUWFvWlJHaTBlYTl3SmpwX210SEl5d01jOHJUZzFXYXpxUm83ZDV5TDVsTC1kQ0ExNHV3eVBOZTFaYmlhOVJvd3JUR0JZV2lUSHM5aDJCNG12RDY2YjcyOHYydGticFVHZGVWZVcyX2VwMWxZODk0dlFTMEdDYmVyNVYxTTRpMkUtWnRZLVlGcUdtamhtVHBLX1paS0tmRnV2UmYzMmw5VkRMZnFPNnh0aDFWSUs5Y1ludi15NVZHVG8?oc=5"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -7248,9 +7403,15 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/152/390510460_55fef6f5c3.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-08-22",
   "primaryUrl": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMXJUd3ZjX2VmUWdHV0Zpc2J0c3B6REotMGRXanU2X1ltVWFrNnRYSWlEdW40SXhQNl93SWxZNmNhbVB3SU9YM0tVeFliaEY3WTlxdDllWm1DZ2l1emcwcmpIaHpGTFlYekt4VmJfdDlIRXBobC1nUWFvWlJHaTBlYTl3SmpwX210SEl5d01jOHJUZzFXYXpxUm83ZDV5TDVsTC1kQ0ExNHV3eVBOZTFaYmlhOVJvd3JUR0JZV2lUSHM5aDJCNG12RDY2YjcyOHYydGticFVHZGVWZVcyX2VwMWxZODk0dlFTMEdDYmVyNVYxTTRpMkUtWnRZLVlGcUdtamhtVHBLX1paS0tmRnV2UmYzMmw5VkRMZnFPNnh0aDFWSUs5Y1ludi15NVZHVG8?oc=5"
@@ -7352,9 +7513,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEp2bmhHQU9ScDNrT0o5bjEyYzJ3WFVwbHFlRGx3Wl9SVnQyS0dnODRDdlZXd2ZFRzdPTWExVlotaDY4VzI3a0M4OWtJZXlJRHdnMnNHWWN6NEh6eHVnRzUwVVdwN3dhbjRCbXVQZmp0T2dCMmxhT3FVMUUyUHpQMXlPNTNKN0VFYWpLNnRyejVMUQ?oc=5"
  },
  {
-  "id": "rt-56ded05d7fd5",
-  "titleCn": "比卡莉拉曼子性交被称为两年一射|每日射线 - 每日射线",
-  "titleOrig": "Bi Ka Lila Man amang seksual kanak-kanak dijel dua tahun, satu sebatan | Sinar Harian - Sinar Harian",
+  "id": "rt-24bd2f317fc7",
+  "titleCn": "政府需要系统地管理难民，以避免更大的危机 - Lila Ruzaini - MalaysiaGazette",
+  "titleOrig": "Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - MalaysiaGazette",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7363,7 +7524,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻热点：Bi Ka Lila Man amang seksual kanak-kanak dijel dua tahun, satu sebatan | Sinar Harian - Sinar Harian",
+  "summary": "马来西亚新闻热点：Kerajaan perlu urus pelarian secara sistematik, elak krisis lebih besar – Lila Ruzaini - MalaysiaGazette",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7373,7 +7534,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUxXUzlMSzIzV25ObEFPU3Q1WmZPcldXNmcyN01rUmwyV3NLYS1aenJHSkx4MXZDclhGS0k1Sk9XWUJjZEVLYkZwNW45SmlWalBBVTgyWmRKUHkyOVJSZnItMXhGMWRWM1Nnb2pRRl95X1pPY01JczB4VUlDWlNyeGI3c3oxUzRlemNESlBiSmtpdkJBZXhHUG42ZjctanEtVS1ueU1JWjRzaVh6bEtSY0hwUTF2V01tcXllY21KdXZvTWRvVzdXTNIBXEFVX3lxTFB2MGRHaUhOZ3gzRnB2ZXNpZmxsM21WNjNaOUU1Qmt3ekZ4QS00ZEpteGJiNTlCajhkSlFxcTkyZzlSVzZiSVU1WjEyZEZFbVpPWUFXMXQ4R2NUX25i?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlJKOW1iRWt2VmVlenc3b3RLdzNENGg1RmFjS3dlUVpoRWZIOENfMG41SUswVjdKNzRUWHM0S3JvTGhtdm5kQnRPbUF1NzBnQjJCcF9nX1BuTDllSVRWUC1mcUwxSjFxNlh0OHlfNVphR190Y2F0VEYwX3ljWDZSYVZWbjhaek5tSHhhRDZ4WC1FbElPcFN5OWpYaXEyRnVuVTJxZjJ2bGNlV1ZXSXNnODF2N3gtWVR0RVNnQjdkWlI?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7397,7 +7558,55 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-22",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUxXUzlMSzIzV25ObEFPU3Q1WmZPcldXNmcyN01rUmwyV3NLYS1aenJHSkx4MXZDclhGS0k1Sk9XWUJjZEVLYkZwNW45SmlWalBBVTgyWmRKUHkyOVJSZnItMXhGMWRWM1Nnb2pRRl95X1pPY01JczB4VUlDWlNyeGI3c3oxUzRlemNESlBiSmtpdkJBZXhHUG42ZjctanEtVS1ueU1JWjRzaVh6bEtSY0hwUTF2V01tcXllY21KdXZvTWRvVzdXTNIBXEFVX3lxTFB2MGRHaUhOZ3gzRnB2ZXNpZmxsM21WNjNaOUU1Qmt3ekZ4QS00ZEpteGJiNTlCajhkSlFxcTkyZzlSVzZiSVU1WjEyZEZFbVpPWUFXMXQ4R2NUX25i?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlJKOW1iRWt2VmVlenc3b3RLdzNENGg1RmFjS3dlUVpoRWZIOENfMG41SUswVjdKNzRUWHM0S3JvTGhtdm5kQnRPbUF1NzBnQjJCcF9nX1BuTDllSVRWUC1mcUwxSjFxNlh0OHlfNVphR190Y2F0VEYwX3ljWDZSYVZWbjhaek5tSHhhRDZ4WC1FbElPcFN5OWpYaXEyRnVuVTJxZjJ2bGNlV1ZXSXNnODF2N3gtWVR0RVNnQjdkWlI?oc=5"
+ },
+ {
+  "id": "rt-452299e72057",
+  "titleCn": "佐利斯、道曼成为阿森纳新宝石 - 每日新闻",
+  "titleOrig": "Tzolis, Dowman permata baharu Arsenal - Berita Harian",
+  "catCn": "新闻热点",
+  "cat": "news",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "马来西亚新闻热点：Tzolis, Dowman permata baharu Arsenal - Berita Harian",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTBHeGp0TnpzSEVsSkl6MGVHNlVwSU50WEtrUDVuamo5NkFNaFpMRVhSempYTE5vSFo0dW12SFFBb2x6Nm93aFdhN1F6bVRLT1RfcG5jdkNhdWpVZkdSVFpHZU1mcHExT1ZvMnltODI3X1UybHFPZ3dpYi1ISnctUDBoZ0pOUXNwOEJPWTdCcWtNT25K0gGaAUFVX3lxTE5ZM0ctZWVXOWlqQjhRWHBBZ1c1M1g5VWFVWEpQQUdya0haSmVnb3JycExuRDdlcXZ4aUNmNFBMUmpkaTRmdEJfNFJUcFV1OFlWV05yUVNqWWxPYTdaTXdiQ2JwVU9LZ0EyVHdDS01fd2paaXgzaFBXVVVNLTRXQnpETzhwRWJUU2pIZUlENXZkVEZxSm1mcWFxalE?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-22",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTBHeGp0TnpzSEVsSkl6MGVHNlVwSU50WEtrUDVuamo5NkFNaFpMRVhSempYTE5vSFo0dW12SFFBb2x6Nm93aFdhN1F6bVRLT1RfcG5jdkNhdWpVZkdSVFpHZU1mcHExT1ZvMnltODI3X1UybHFPZ3dpYi1ISnctUDBoZ0pOUXNwOEJPWTdCcWtNT25K0gGaAUFVX3lxTE5ZM0ctZWVXOWlqQjhRWHBBZ1c1M1g5VWFVWEpQQUdya0haSmVnb3JycExuRDdlcXZ4aUNmNFBMUmpkaTRmdEJfNFJUcFV1OFlWV05yUVNqWWxPYTdaTXdiQ2JwVU9LZ0EyVHdDS01fd2paaXgzaFBXVVVNLTRXQnpETzhwRWJUU2pIZUlENXZkVEZxSm1mcWFxalE?oc=5"
  },
  {
   "id": "rt-240d951181c6",
@@ -7448,9 +7657,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0dXWGVmSGpUNXZ1aVNnM3VHOFhKN0IydU44bFNQbGpFNnBFaUt2VWJ3ZHYxY2hnWFp6RnEya21OUm5BeERtVDBOT002MnBjSS1jbVJKeVB2REFsZVFaT2hIaGVsdkhPS05wdWFsZ2lYdkRScmdqVUc2R1NBbXBkQlh6Nzg4NVhHSUk0Nnp1a2JXbjR0QkhEMGlGdHd5RGZW0gGmAUFVX3lxTE1RV09fVDJaRk9sMVZGZTcwN0dTeV92SGduQXZaN3lKXzhQOXd5dnkxaVJKOC1xUVh1MHNpT0I4NFBiR3Y0V05XY3JDcVZFV1ljMDNZNFhETnJxSXNMS2gtSG84Wi1UNV9BUHpsQzJIWnJ1ajlwby1sejU4NTFTQ01ndEc2MWFvMjVuMml1LUZOWjdPNFlIa1V6bmJ6RmZ4SW1vSlNlWWc?oc=5"
  },
  {
-  "id": "rt-147cca516ba4",
-  "titleCn": "阿森纳只同意在 2026/27 赛季将才华横溢的中场球员伊桑·恩瓦内里租借给纽卡斯尔。 - 越南.vn",
-  "titleOrig": "Arsenal hanya bersetuju untuk meminjamkan pemain tengah berbakat Ethan Nwaneri ke Newcastle untuk musim 2026/27. - Vietnam.vn",
+  "id": "rt-3fbd4110309f",
+  "titleCn": "伊桑·恩瓦内里 (Ethan Nwaneri) 在阿森纳的未来正处于十字路口，陷入了 PSR 困境和上场时间的前景之间。 - 越南.vn",
+  "titleOrig": "Masa depan Ethan Nwaneri di Arsenal berada di persimpangan jalan, tersekat antara dilema PSR dan prospek masa bermain. - Vietnam.vn",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7459,7 +7668,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻热点：Arsenal hanya bersetuju untuk meminjamkan pemain tengah berbakat Ethan Nwaneri ke Newcastle untuk musim 2026/27. - Vietnam.vn",
+  "summary": "马来西亚新闻热点：Masa depan Ethan Nwaneri di Arsenal berada di persimpangan jalan, tersekat antara dilema PSR dan prospek masa bermain. - Vietnam.vn",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7469,7 +7678,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEctMGJlQ0ZLWU1RUFA5YUQ1bEFJT0gweG9JdTJ6dEltSFc3UjJybkZiS1d5ZDc1MTdmT2ViNjBqTlU5QmNPY3NxZjhLcW12b2NCOWJaSEZOMDVHVnY0UU9QOXJobUNVVVNHU3BYSzh3aTZDSmQxSldNVUxoYjA5U1hWRnNmQ0JYUVRieXBtYm4zN2hnX2tpa3lLU044ZTRmRUtvNlk2WjYzcDh5OUZ4c283VFNwdTVE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcW1sNVNCOC1QbGFYWExNVDZFazY2QUVFdFdmTU1DU1p3c0hmdEgtejBTZzd6OWlZSG5TYUM1ejlEN0kxazkyYWtsLWtHUkJJZWR6OUNsQUdkd0d5UC1Ka1ppYTg1Tm5GMGJkMWNoSXd1NzQ5UkQ5V0JzeGVvYS1YUXU5RFM5TE1pZDR3YWhNdUltWUJOYjg2cnRMRm1NcXRXTXcwSmZlMkw4UE5LcUhHTWt1b2djRWE5R21PWHRialhNUQ?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7493,7 +7702,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-22",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEctMGJlQ0ZLWU1RUFA5YUQ1bEFJT0gweG9JdTJ6dEltSFc3UjJybkZiS1d5ZDc1MTdmT2ViNjBqTlU5QmNPY3NxZjhLcW12b2NCOWJaSEZOMDVHVnY0UU9QOXJobUNVVVNHU3BYSzh3aTZDSmQxSldNVUxoYjA5U1hWRnNmQ0JYUVRieXBtYm4zN2hnX2tpa3lLU044ZTRmRUtvNlk2WjYzcDh5OUZ4c283VFNwdTVE?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcW1sNVNCOC1QbGFYWExNVDZFazY2QUVFdFdmTU1DU1p3c0hmdEgtejBTZzd6OWlZSG5TYUM1ejlEN0kxazkyYWtsLWtHUkJJZWR6OUNsQUdkd0d5UC1Ka1ppYTg1Tm5GMGJkMWNoSXd1NzQ5UkQ5V0JzeGVvYS1YUXU5RFM5TE1pZDR3YWhNdUltWUJOYjg2cnRMRm1NcXRXTXcwSmZlMkw4UE5LcUhHTWt1b2djRWE5R21PWHRialhNUQ?oc=5"
  },
  {
   "id": "rt-6b8a64fed242",
@@ -8120,54 +8329,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS2Z3ZGRUTktLTnJndW5jX0hwNjV6MTF4ODUtQ1NzSkdQR2RNODhPWnhoaVpXcVc2eW9oSFdNOWRRaXJYejFTaGNJc2hNbmdIMEpMLXdVVWpVM0tMWDFfcG9ZbEdYSlpwSHNucXIzTERmWk5oOVFzS1dtcmJBVjREdVFIZ0VKV3UtUThmM2NQLVdJcEpjSmRNRU5DSFRJd1RsNE1ORXNJTXM2LTJ1clZEN09YSEdUS1FibGVCWDdaZlpxZFJoRHE1aVQyTk5uNmNSZTIxVW5Na0ZaRzRGOWlFaFl1NnhCUWhZTnFWbVJCM19MYk9DQVFfcDNuV2hLQQ?oc=5"
  },
  {
-  "id": "rt-bb0ff567110c",
-  "titleCn": "凯蒂·佩里 (KATY PERRY) 发行了史诗般的演唱会电影《THE LIFETIMES TOUR – LIVE FROM PARIS》，将于 9 月 2 日起在全球 IMAX 系统上放映！ -workpointtoday.com",
-  "titleOrig": "KATY PERRY ส่งภาพยนตร์คอนเสิร์ตสุดยิ่งใหญ่ THE LIFETIMES TOUR – LIVE FROM PARIS ฉายในระบบ IMAX ทั่วโลก เริ่ม 2 กันยายนนี้! - workpointtoday.com",
-  "catCn": "演唱会综艺",
-  "cat": "concert_show",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国演唱会综艺：KATY PERRY ส่งภาพยนตร์คอนเสิร์ตสุดยิ่งใหญ่ THE LIFETIMES TOUR – LIVE FROM PARIS ฉายในระบบ IMAX ทั่วโลก เริ่ม 2 กันยายนนี้! - workpointtoday.com",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81Tmd0YjJ5ci1ka0VrQjU2Zk50VUM3dTNmZjVfUmtqLUlSOGVjQ3d1YTdmTHJodVg0WUJqaWJfXzk1cjdhNTNZM1N6MV9rUGlSelJpanJCTQ?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-22",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-22",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81Tmd0YjJ5ci1ka0VrQjU2Zk50VUM3dTNmZjVfUmtqLUlSOGVjQ3d1YTdmTHJodVg0WUJqaWJfXzk1cjdhNTNZM1N6MV9rUGlSelJpanJCTQ?oc=5"
- },
- {
   "id": "rt-cf1e2f01c2f8",
   "titleCn": "XG 世界巡回演唱会：曼谷的核心 - thaiticketmajor",
   "titleOrig": "XG WORLD TOUR : THE CORE IN BANGKOK - thaiticketmajor",
@@ -8214,6 +8375,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-22",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOalhiU2lKY1pIZjY5ZjFuVWxmcnNldEd0Z1pmS3pnVFZqZVBmekdqTW1telEyU3plb3ZYckg5S0VpRks5TWFxZlRzb1BBazRxTHlzWVdQdDNfcVBSQlU2b0dMeDJlRE4yeFcwdTFIUHp3bGNtZFYxblJSNWJRbFNucC13?oc=5"
+ },
+ {
+  "id": "rt-b69e093e4012",
+  "titleCn": "BIGBANG庆祝Rajamangala出道20周年世界巡回演唱会日程公布 - Sanook",
+  "titleOrig": "เปิดผัง BIGBANG เวิลด์ทัวร์คอนเสิร์ตฉลองครบรอบ 20 ปีปักหมุดราชมังคลาฯ - Sanook",
+  "catCn": "演唱会综艺",
+  "cat": "concert_show",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国演唱会综艺：เปิดผัง BIGBANG เวิลด์ทัวร์คอนเสิร์ตฉลองครบรอบ 20 ปีปักหมุดราชมังคลาฯ - Sanook",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiOHlscVFLVDFUcG14Z3UzNTUzRkJGWUVLOERlSTlQOC1qNVM0Y2Yxcmt4V1JZOFp4ajdkUWU3dnN0N0NrVGtHLTBQN3hBUQ?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-22",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiOHlscVFLVDFUcG14Z3UzNTUzRkJGWUVLOERlSTlQOC1qNVM0Y2Yxcmt4V1JZOFp4ajdkUWU3dnN0N0NrVGtHLTBQN3hBUQ?oc=5"
  },
  {
   "id": "rt-aca99e4119c4",
@@ -8840,6 +9049,54 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSW04WThHbzIzQ1RGZXJQMEhnRjJqbVEwa3RtUGdkRFVYQm5ibGluS21WSzZMX3o4RWlGV2hPREx1SS1WeEJoUE5hYWVQREV3Y3pJQ2FIQ0RYVlE0V3J6dVhONUNNTTlmNy1Sa2RYajFONDhlUG5mbExHbVE0c2hxekotZGRUQUxoX2pLOE9DU2M3SkkyZDFvWlNLSGZaOFZVaXVPY3JMcEdxZEVMMndzLUVFLUVIUTA2VWtVeXM5R2Z5RGFBbjJyT0RtNmg?oc=5"
  },
  {
+  "id": "rt-dafa4e1089ed",
+  "titleCn": "加拿大和南非将迎来历史性的世界杯淘汰赛 - 马来西亚太阳报",
+  "titleOrig": "Canada and South Africa set for historic World Cup knockout clash - The Sun Malaysia",
+  "catCn": "体育",
+  "cat": "sports",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "马来西亚体育：Canada and South Africa set for historic World Cup knockout clash - The Sun Malaysia",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXZhZWN1cE5lQnNIcG1lT01lb1FDNVlVSHBGNk9vcVNZUW5LYURGb3RyRW9PV0hMMEZucTBNRTJrT0ZmTDFZNG5oa1JuTmVIZEhaa283UTdMejQxR2txMXA4Nk95NmRjSGRQNzEyRmJvZWdtU0pweHV0NXpWM2pjVkstY2JPUk11bzZjVkFrTG92cmpYQjRITWQtNzBMTHlaRmc?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-22",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXZhZWN1cE5lQnNIcG1lT01lb1FDNVlVSHBGNk9vcVNZUW5LYURGb3RyRW9PV0hMMEZucTBNRTJrT0ZmTDFZNG5oa1JuTmVIZEhaa283UTdMejQxR2txMXA4Nk95NmRjSGRQNzEyRmJvZWdtU0pweHV0NXpWM2pjVkstY2JPUk11bzZjVkFrTG92cmpYQjRITWQtNzBMTHlaRmc?oc=5"
+ },
+ {
   "id": "rt-fc6d78a0ecd3",
   "titleCn": "切尔西将在今年 8 月的 SSI 季前赛中迎战 JDT - LOTGAIN多语言阅读平台",
   "titleOrig": "Chelsea To Face JDT In Pre-Season Fixture This August At SSI - bernama",
@@ -8886,54 +9143,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-22",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJbzNEdF9uNVRsal91aEp6NTdpZVd6bnFFakRiWk8xdUx0aXBOY2FkR09wWWgwcWk1ZzVRVHFmMWtIbjVmT3l6WlI3bDNfci04T2NZQw?oc=5"
- },
- {
-  "id": "rt-eab6bd1e2a2d",
-  "titleCn": "为什么足球和妈妈文化齐头并进 - 今日自由马来西亚",
-  "titleOrig": "Why football and mamak culture go hand-in-hand - Free Malaysia Today",
-  "catCn": "体育",
-  "cat": "sports",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "马来西亚体育：Why football and mamak culture go hand-in-hand - Free Malaysia Today",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "马来西亚",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVdtNmQ4bFQ5c0ZwZ0lnVkNGcXdjMDRCOUJpV2R0WjNsSVNZT0YxSlByWjB6VFdEQzdUMGg5eFYzUGdBTzgzbkpUX1kzbTNyODdnTDNMYWNlTFVwUlBHaURaSUZqMWJrOHlWazF5ZVQtTzQ1VXZuMjNVNjNlSEZKMkRIRUttSXpTYTcyclI4NlhXSThCTnhoRkNiR2JPYlk4Q3ZHZ0tvM2tJN1hy?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-22",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-22",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVdtNmQ4bFQ5c0ZwZ0lnVkNGcXdjMDRCOUJpV2R0WjNsSVNZT0YxSlByWjB6VFdEQzdUMGg5eFYzUGdBTzgzbkpUX1kzbTNyODdnTDNMYWNlTFVwUlBHaURaSUZqMWJrOHlWazF5ZVQtTzQ1VXZuMjNVNjNlSEZKMkRIRUttSXpTYTcyclI4NlhXSThCTnhoRkNiR2JPYlk4Q3ZHZ0tvM2tJN1hy?oc=5"
  },
  {
   "id": "rt-a659acf6de81",
@@ -9608,5 +9817,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Vd18yX09XWkZjYkI4eHZpZFpJRWkzbzNjMjRUY0p6UFJDWmRWN3puQ240TXIxMVpLVTZ0aVJSQVlMVFJ3N09kQlJicmFaQWN0c3ZiUDlwb1c?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-22T04:19:32";
+window.REALTIME_UPDATED = "2026-08-22T04:48:34";
 window.REALTIME_CARRIED = false;
