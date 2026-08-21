@@ -211,6 +211,9 @@ main{max-width:1320px;margin:0 auto;padding:8px 28px 40px}
 .modal .m-orig{font-size:14px;color:var(--muted);font-style:italic;margin-bottom:14px}
 .modal .m-badges{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:16px}
 .modal .m-summary{font-size:14.5px;color:#374151;line-height:1.7;background:#f8f9fb;border-radius:12px;padding:14px 16px;margin-bottom:16px}
+.modal .m-summary-label{font-weight:800;color:var(--brand)}
+.modal .m-read{font-size:15px;color:#1f2937;line-height:1.85;background:linear-gradient(135deg,#fff7ed,#fef2f2);border:1px solid #fed7aa;border-radius:12px;padding:15px 17px;margin-bottom:14px}
+.modal .m-read b{color:#b45309}
 .modal .m-meta{display:flex;gap:18px;flex-wrap:wrap;margin:16px 0;font-size:13px}
 .modal .m-meta div b{color:var(--text)}
 .modal .m-tags{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}

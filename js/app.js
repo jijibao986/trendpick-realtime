@@ -343,7 +343,7 @@
       if (state.cat !== "all" && catGroup(e.catCn) !== state.cat) return false;
       if (state.stars !== "all" && e.stars < Number(state.stars)) return false;
       if (state.risk !== "all" && !e.risk.startsWith(state.risk)) return false;
-      if (state.days !== "all" && e.hotDays > Number(state.days)) return false; // 还热：保留 hotDays<=N 的事件（N天内仍热）
+      if (state.days !== "all" && (e.freshDays === undefined ? 999 : e.freshDays) > Number(state.days)) return false; // X天内：保留最近 N 天仍出现的事件
       if (state.media && !e.hasMedia) return false;
       if (state.local && !e.localFlag) return false;
       if (state.daily && e.batch !== todayBatch()) return false;
@@ -993,6 +993,24 @@
     return s;
   }
 
+  // 用通俗语言把结构化字段拼成一段"一眼看懂"的速读，避免详情过于简略/晦涩
+  function plainSummary(e) {
+    const cat = groupMeta(e.catCn).cn;
+    const country = e.country === "th" ? "泰国" : e.country === "my" ? "马来西亚" : "泰国与马来西亚双市场";
+    const starTxt = e.stars >= 4 ? "爆款潜力很高" : e.stars === 3 ? "有一定爆款潜力" : "潜力一般，更适合低成本试水";
+    const buzzTxt = e.buzzIndex >= 75 ? "讨论非常热烈" : e.buzzIndex >= 50 ? "讨论热度中等" : "讨论热度偏低";
+    let txt = `「${e.titleCn}」${e.titleOrig ? `（${e.titleOrig}）` : ""}是${country}市场的<b>${cat}</b>类热点。`;
+    txt += `它目前${starTxt}、${buzzTxt}，预计还能火大约 <b>${e.hotDays}</b> 天`;
+    if (e.localFlag) txt += `，且有泰国 / 马来西亚本地媒体在持续报道`;
+    txt += `。`;
+    const ptTxt = e.printType === "文字款" ? "适合做成「文字口号款」T 恤" : e.printType === "图案款" ? "适合做成「图案视觉款」T 恤" : "适合做「文字 + 图案」组合款 T 恤";
+    txt += `从印花角度看：${ptTxt}；`;
+    if (e.risk.startsWith("低")) txt += `整体风险较低，可放心开发。`;
+    else if (e.risk.startsWith("中")) txt += `风险中等，注意图案避免直接搬运原 IP 或明星肖像。`;
+    else txt += `风险偏高，涉及争议或敏感内容，请先核定授权与合规再决定是否上架。`;
+    return txt;
+  }
+
   function modalHtml(e) {
     const sourcesHtml = e.sources.map((s) => {
       const link = s.url
@@ -1052,14 +1070,15 @@
       <span class="m-cat">${escapeHtml(e.catCn)} · ${e.country === "th" ? "🇹🇭 泰国" : e.country === "my" ? "🇲🇾 马来西亚" : "🌏 多市场"}${e.localFlag ? " · 🇹🇭🇲🇾 含本地媒体" : ""}</span>
       <h2>${escapeHtml(e.titleCn)}</h2>
       <div class="m-orig">${escapeHtml(e.titleOrig)}</div>
+      <div class="m-read">${plainSummary(e)}</div>
       <div class="m-badges">
-        <span class="stars" style="font-size:16px">${stars(e.stars)} 印花指数</span>
+        <span class="stars" style="font-size:16px" title="印花指数：综合热度与爆款潜力的打分（★越多越值得做）">${stars(e.stars)} 印花指数</span>
         <span class="pt ${ptClass(e.printType)}">${escapeHtml(e.printType)}</span>
-        <span class="risk ${riskClass(e.risk)}">${escapeHtml(e.risk)}</span>
-        ${meter("可信度", e.credibilityScore, credColor(e.credibilityScore))}
+        <span class="risk ${riskClass(e.risk)}">${escapeHtml(e.risk)}风险</span>
+        ${meter("来源可信度", e.credibilityScore, credColor(e.credibilityScore))}
         ${meter("讨论热度", e.buzzIndex, buzzColor(e.buzzIndex))}
       </div>
-      <div class="m-summary">${escapeHtml(e.summary)}</div>
+      <div class="m-summary"><span class="m-summary-label">📌 平台概况：</span>${escapeHtml(e.summary) || "（平台暂未提供文字概况，以上速读已综合各来源整理）"}</div>
 
       <div class="m-section">
         <h4>📡 数据来源分析 <span class="m-sub">${e.sources.length} 个来源 · ${breadthLabel(e.sourceBreadth)}</span></h4>
@@ -1134,6 +1153,42 @@
   let rtUpdated = window.REALTIME_UPDATED || "";
   let rtFirst = true;
 
+  // 把日期字符串解析为 Date（支持 2026-08-21 与 26/08/10 两种格式）
+  function parseYMD(s) {
+    if (!s) return null;
+    let m = /^(\d{4})-(\d{2})-(\d{2})/.exec(s);
+    if (m) {
+      const d = new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3]));
+      return isNaN(d.getTime()) ? null : d;
+    }
+    m = /^(\d{2})\/(\d{2})\/(\d{2})/.exec(s); // 26/08/10
+    if (m) {
+      const d = new Date(2000 + Number(m[1]), Number(m[2]) - 1, Number(m[3]));
+      return isNaN(d.getTime()) ? null : d;
+    }
+    return null;
+  }
+
+  // 计算新鲜度：事件最近一次出现距今天数（用于"X天内"筛选）。
+  // 取 batch 日期（采集批次）与 timeline 最新日期中较近者；都无则用 timeAbs；仍无视为实时最新(0)。
+  function computeFreshDays(e) {
+    const now = new Date();
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    let ref = null;
+    const bm = /(\d{4}-\d{2}-\d{2})/.exec(e.batch || "");
+    if (bm) { const d = parseYMD(bm[1]); if (d && (!ref || d > ref)) ref = d; }
+    if (Array.isArray(e.timeline) && e.timeline.length) {
+      e.timeline.forEach((n) => {
+        const d = parseYMD(n.date);
+        if (d && (!ref || d > ref)) ref = d;
+      });
+    }
+    if (!ref && e.timeAbs) { const d = parseYMD(e.timeAbs); if (d) ref = d; }
+    if (!ref) return 0; // 无法判定 → 视为最新（实时收录）
+    const days = Math.floor((today - ref) / 86400000);
+    return days < 0 ? 0 : days;
+  }
+
   // 把任意来源的事件规范成统一结构，避免缺字段导致渲染/弹窗崩溃
   function normalizeEvent(e) {
     if (!e || typeof e !== "object") return e;
@@ -1174,6 +1229,7 @@
     if (typeof e.timeRel !== "string") e.timeRel = "";
     if (typeof e.timeAbs !== "string") e.timeAbs = "";
     if (typeof e.imageSource !== "string") e.imageSource = "";
+    e.freshDays = computeFreshDays(e); // 新鲜度（最近出现距今天数），供"X天内"筛选
     if (typeof e.primaryUrl !== "string") e.primaryUrl = "";
     return e;
   }
