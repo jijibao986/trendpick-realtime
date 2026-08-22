@@ -5480,6 +5480,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=ChiaSoh"
  },
  {
+  "id": "rt-fd38cc16b072",
+  "titleCn": "布伦特福德",
+  "titleOrig": "Brentford",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥🔥",
+  "cover": "https://live.staticflickr.com/7436/16519054825_d594bf5b9e_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 86,
+  "summary": "马来西亚 Twitter/X 今日热搜：Brentford",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Brentford"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/7436/16519054825_d594bf5b9e_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://twitter.com/search?q=Brentford"
+ },
+ {
   "id": "rt-74c76f4eb952",
   "titleCn": "爱的起始轨道",
   "titleOrig": "STARTING ORBIT OF LOVE",
@@ -5490,7 +5551,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3410/3661466756_8169b448e0_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 86,
+  "buzzIndex": 84,
   "summary": "马来西亚 Twitter/X 今日热搜：STARTING ORBIT OF LOVE",
   "tags": [],
   "timeRel": "",
@@ -5551,7 +5612,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/2174/2184458971_df11f5497b_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 84,
+  "buzzIndex": 82,
   "summary": "马来西亚 Twitter/X 今日热搜：#WEIRDO101SeriesEP2",
   "tags": [],
   "timeRel": "",
@@ -5612,7 +5673,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 82,
+  "buzzIndex": 80,
   "summary": "马来西亚 Twitter/X 今日热搜：#LingOrmxMegaWecareMitment",
   "tags": [],
   "timeRel": "",
@@ -5673,7 +5734,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/5497/11073322476_410426ec59_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 78,
+  "buzzIndex": 76,
   "summary": "马来西亚 Twitter/X 今日热搜：#iKON_FOUREVERinKL",
   "tags": [],
   "timeRel": "",
@@ -5734,7 +5795,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3289/2615979645_1c7b91f503_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 76,
+  "buzzIndex": 74,
   "summary": "马来西亚 Twitter/X 今日热搜：Hull",
   "tags": [],
   "timeRel": "",
@@ -5795,7 +5856,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/8737/17141104290_748e52fbfd_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 74,
+  "buzzIndex": 72,
   "summary": "马来西亚 Twitter/X 今日热搜：Carrick",
   "tags": [],
   "timeRel": "",
@@ -5856,7 +5917,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/0/01/Patrick_Dorgu_Como-Lecce_30_Dec_2024.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 72,
+  "buzzIndex": 70,
   "summary": "马来西亚 Twitter/X 今日热搜：Dorgu",
   "tags": [],
   "timeRel": "",
@@ -5892,7 +5953,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 5,
+  "hotDays": 3,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
@@ -5907,18 +5968,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Dorgu"
  },
  {
-  "id": "rt-e72a876a9f3b",
-  "titleCn": "马奎尔",
-  "titleOrig": "Maguire",
+  "id": "rt-25ed507bff98",
+  "titleCn": "热刺",
+  "titleOrig": "Spurs",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/8117/8778333517_b70e7a5bd0_b.jpg",
+  "cover": "https://live.staticflickr.com/3293/2603714251_d116a38eb6.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 70,
-  "summary": "马来西亚 Twitter/X 今日热搜：Maguire",
+  "buzzIndex": 68,
+  "summary": "马来西亚 Twitter/X 今日热搜：Spurs",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5928,7 +5989,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=Maguire"
+    "url": "https://twitter.com/search?q=Spurs"
    },
    {
     "type": "openverse",
@@ -5958,28 +6019,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/8117/8778333517_b70e7a5bd0_b.jpg",
+    "url": "https://live.staticflickr.com/3293/2603714251_d116a38eb6.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=Maguire"
+  "primaryUrl": "https://twitter.com/search?q=Spurs"
  },
  {
-  "id": "rt-2ee138490651",
-  "titleCn": "HAPPITAT 开幕式上免费",
-  "titleOrig": "FREEN AT THE HAPPITAT OPENING",
+  "id": "rt-2a36b5574193",
+  "titleCn": "托特纳姆热刺",
+  "titleOrig": "Tottenham",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/1/16/Freen_Sarocha_Chankimha_2023-01-20.jpg",
+  "cover": "https://live.staticflickr.com/8344/8227815954_89a36edcbd_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 66,
-  "summary": "马来西亚 Twitter/X 今日热搜：FREEN AT THE HAPPITAT OPENING",
+  "summary": "马来西亚 Twitter/X 今日热搜：Tottenham",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5989,7 +6050,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=FREEN%20AT%20THE%20HAPPITAT%20OPENING"
+    "url": "https://twitter.com/search?q=Tottenham"
    },
    {
     "type": "openverse",
@@ -6019,75 +6080,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Freen_Sarocha_Chankimha_2023-01-20.jpg",
+    "url": "https://live.staticflickr.com/8344/8227815954_89a36edcbd_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=FREEN%20AT%20THE%20HAPPITAT%20OPENING"
- },
- {
-  "id": "rt-c2e80059d2a3",
-  "titleCn": "蒂勒曼斯",
-  "titleOrig": "Tielemans",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Youri_Tielemans_USMNT_v_Belgium_Mar_28_2026-20_%28cropped%29.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 64,
-  "summary": "马来西亚 Twitter/X 今日热搜：Tielemans",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Tielemans"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Youri_Tielemans_USMNT_v_Belgium_Mar_28_2026-20_%28cropped%29.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=Tielemans"
+  "primaryUrl": "https://twitter.com/search?q=Tottenham"
  },
  {
   "id": "rt-d5ca2cd5126a",
@@ -6100,7 +6100,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/2798/4082149538_4bf24546e8_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 60,
+  "buzzIndex": 64,
   "summary": "马来西亚 Twitter/X 今日热搜：Orihime",
   "tags": [],
   "timeRel": "",
@@ -6136,7 +6136,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 2,
+  "hotDays": 3,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
@@ -6151,6 +6151,128 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Orihime"
  },
  {
+  "id": "rt-2ee138490651",
+  "titleCn": "HAPPITAT 开幕式上免费",
+  "titleOrig": "FREEN AT THE HAPPITAT OPENING",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/1/16/Freen_Sarocha_Chankimha_2023-01-20.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 60,
+  "summary": "马来西亚 Twitter/X 今日热搜：FREEN AT THE HAPPITAT OPENING",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=FREEN%20AT%20THE%20HAPPITAT%20OPENING"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Freen_Sarocha_Chankimha_2023-01-20.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://twitter.com/search?q=FREEN%20AT%20THE%20HAPPITAT%20OPENING"
+ },
+ {
+  "id": "rt-e72a876a9f3b",
+  "titleCn": "马奎尔",
+  "titleOrig": "Maguire",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/8117/8778333517_b70e7a5bd0_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 58,
+  "summary": "马来西亚 Twitter/X 今日热搜：Maguire",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Maguire"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/8117/8778333517_b70e7a5bd0_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://twitter.com/search?q=Maguire"
+ },
+ {
   "id": "rt-0235054487fc",
   "titleCn": "伊森",
   "titleOrig": "Ethan",
@@ -6161,7 +6283,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3874/15252449192_9c7d806899_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 58,
+  "buzzIndex": 54,
   "summary": "马来西亚 Twitter/X 今日热搜：Ethan",
   "tags": [],
   "timeRel": "",
@@ -6212,67 +6334,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Ethan"
  },
  {
-  "id": "rt-e150e5e2c19c",
-  "titleCn": "曼联",
-  "titleOrig": "Man Utd",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d8/600px_Man_Utd_stylized.svg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 56,
-  "summary": "马来西亚 Twitter/X 今日热搜：Man Utd",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Man%20Utd"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/600px_Man_Utd_stylized.svg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=Man%20Utd"
- },
- {
   "id": "rt-acb2e8567cdd",
   "titleCn": "chenle",
   "titleOrig": "chenle",
@@ -6283,7 +6344,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Zhong_chenle_9thgaon.png",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 52,
   "summary": "马来西亚 Twitter/X 今日热搜：chenle",
   "tags": [],
   "timeRel": "",
@@ -6344,7 +6405,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 52,
+  "buzzIndex": 50,
   "summary": "马来西亚 Twitter/X 今日热搜：SKYNANI HONGKONG SNIVERSE",
   "tags": [],
   "timeRel": "",
@@ -6393,67 +6454,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-23",
   "primaryUrl": "https://twitter.com/search?q=SKYNANI%20HONGKONG%20SNIVERSE"
- },
- {
-  "id": "rt-25a14a19f2e0",
-  "titleCn": "埃利亚斯",
-  "titleOrig": "Elias",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/8074/8282659297_017c1f6171.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 50,
-  "summary": "马来西亚 Twitter/X 今日热搜：Elias",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Elias"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/8074/8282659297_017c1f6171.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=Elias"
  },
  {
   "id": "rt-77d7401b547c",
@@ -7743,9 +7743,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamR1TEtXVnNKUlNVSVBBQ1IySVFyYlVKSjZqZEtzdHhPb21lY0tGX3hTdW1MeDNnZGdHQnFqMi0tN2tMMG5iVzR4SXFkTEJrQmlYSWZCZFJ6ZFpybVNCU2ZIYk0wdkFwZE1UbGRVeW40S1MtUFhldUl1TkV2eDY0eks2ZnBCU3phaUt0bDdlYm8zZGdYNklNZWRmUmxmX01Xa0ZGakhDdEFGbHB6eVg0eUg4TzB6bUlMaWFMVDBlT3dFaXM?oc=5"
  },
  {
-  "id": "rt-d2ca1949e6b6",
-  "titleCn": "曼联在英超首秀中被赫尔城羞辱 - Berita Harian",
-  "titleOrig": "United dimalukan Hull dalam aksi sulung EPL - Berita Harian",
+  "id": "rt-6de2a0615b56",
+  "titleCn": "布伦特福德保留了许多老球员；托特纳姆热刺队购买新球员 - beritaharian.sg",
+  "titleOrig": "Brentford kekalkan ramai pemain lama; Tottenham beli pemain baru - beritaharian.sg",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7754,7 +7754,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻热点：United dimalukan Hull dalam aksi sulung EPL - Berita Harian",
+  "summary": "马来西亚新闻热点：Brentford kekalkan ramai pemain lama; Tottenham beli pemain baru - beritaharian.sg",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7764,7 +7764,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdW5mR0loMDhZX2RPdy0yV0ZGV1RBOU4tOGFEa09iMFhydmJmenJBRnRVWFAzdU9pWTNyODd0eXl4WUs0bFdqYk9DOVhzU0s3b2tQQjZ5X1BrVDBqdlJKQndobUpDLUJ4emtVTnhiOG1pOGNUV2JKbXk3a0QtTjkxYmphTC1zVlR3eVEzQXFCb0lVbG1RRTBUZVZXei0tQQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWVBzdzVqS0hrelY0TmJUUWcyRzhnRUpyWS04Y0Qwdi01c1haSkVPYnZ1X2ZDcldQUUVDTzRteTFWRVZaa24wRjJFZW85NWZMX0JaWkNaSXQtMkRXVS1lY2RFZmFvMlBQZEhLdTAzZUNJMzY5bDFVRHl6U1lCYXhydHQ1ckg0VzZFMFp3SXhjdUxaMVJrRzJzOE5GSnNOQQ?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7788,7 +7788,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdW5mR0loMDhZX2RPdy0yV0ZGV1RBOU4tOGFEa09iMFhydmJmenJBRnRVWFAzdU9pWTNyODd0eXl4WUs0bFdqYk9DOVhzU0s3b2tQQjZ5X1BrVDBqdlJKQndobUpDLUJ4emtVTnhiOG1pOGNUV2JKbXk3a0QtTjkxYmphTC1zVlR3eVEzQXFCb0lVbG1RRTBUZVZXei0tQQ?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWVBzdzVqS0hrelY0TmJUUWcyRzhnRUpyWS04Y0Qwdi01c1haSkVPYnZ1X2ZDcldQUUVDTzRteTFWRVZaa24wRjJFZW85NWZMX0JaWkNaSXQtMkRXVS1lY2RFZmFvMlBQZEhLdTAzZUNJMzY5bDFVRHl6U1lCYXhydHQ1ckg0VzZFMFp3SXhjdUxaMVJrRzJzOE5GSnNOQQ?oc=5"
  },
  {
   "id": "rt-6b8a64fed242",
@@ -8367,6 +8367,54 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2xTWURjWkFrbG9OVTlKNWJULVRfMElibEdyNi1ualJJSEJUT3dJU0NYVExqeGdtVGJVRDRUdmdRVEFoNE5pTmNhQjJBbGZfZ1VLVkR6LUZaaGZFY2hPdXVIV0E1NFNjcTJoOVFjRDl1SERtSjRPMlpkNmg2ODA4WXZVMzJ0ZHdDRXV2TXdSQlBlNzlaME81bUFLWVVidWJTUlBOLW1ITC1LeVBNUDhoUE93?oc=5"
  },
  {
+  "id": "rt-805d55f5e0c2",
+  "titleCn": "凯蒂·佩里 (Katy Perry) ：她的 The Prismatic 世界巡回演唱会可在 France 4 - Sortir à Paris 上观看。",
+  "titleOrig": "Katy Perry : คอนเสิร์ตทัวร์ The Prismatic World Tour ของเธอ ชมได้ทาง France 4 - Sortir à Paris",
+  "catCn": "演唱会综艺",
+  "cat": "concert_show",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国演唱会综艺：Katy Perry : คอนเสิร์ตทัวร์ The Prismatic World Tour ของเธอ ชมได้ทาง France 4 - Sortir à Paris",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS2Z3ZGRUTktLTnJndW5jX0hwNjV6MTF4ODUtQ1NzSkdQR2RNODhPWnhoaVpXcVc2eW9oSFdNOWRRaXJYejFTaGNJc2hNbmdIMEpMLXdVVWpVM0tMWDFfcG9ZbEdYSlpwSHNucXIzTERmWk5oOVFzS1dtcmJBVjREdVFIZ0VKV3UtUThmM2NQLVdJcEpjSmRNRU5DSFRJd1RsNE1ORXNJTXM2LTJ1clZEN09YSEdUS1FibGVCWDdaZlpxZFJoRHE1aVQyTk5uNmNSZTIxVW5Na0ZaRzRGOWlFaFl1NnhCUWhZTnFWbVJCM19MYk9DQVFfcDNuV2hLQQ?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS2Z3ZGRUTktLTnJndW5jX0hwNjV6MTF4ODUtQ1NzSkdQR2RNODhPWnhoaVpXcVc2eW9oSFdNOWRRaXJYejFTaGNJc2hNbmdIMEpMLXdVVWpVM0tMWDFfcG9ZbEdYSlpwSHNucXIzTERmWk5oOVFzS1dtcmJBVjREdVFIZ0VKV3UtUThmM2NQLVdJcEpjSmRNRU5DSFRJd1RsNE1ORXNJTXM2LTJ1clZEN09YSEdUS1FibGVCWDdaZlpxZFJoRHE1aVQyTk5uNmNSZTIxVW5Na0ZaRzRGOWlFaFl1NnhCUWhZTnFWbVJCM19MYk9DQVFfcDNuV2hLQQ?oc=5"
+ },
+ {
   "id": "rt-73cc04060943",
   "titleCn": "看看著名艺术家的巡回演唱会的收入。一次旅行的价值相当于一些国家的GDP - Marketeer Online",
   "titleOrig": "ส่องรายได้ทัวร์คอนเสิร์ตศิลปินดัง ทัวร์ครั้งเดียวมูลค่าเท่า GDP บางประเทศ - Marketeer Online",
@@ -8461,54 +8509,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-23",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOalhiU2lKY1pIZjY5ZjFuVWxmcnNldEd0Z1pmS3pnVFZqZVBmekdqTW1telEyU3plb3ZYckg5S0VpRks5TWFxZlRzb1BBazRxTHlzWVdQdDNfcVBSQlU2b0dMeDJlRE4yeFcwdTFIUHp3bGNtZFYxblJSNWJRbFNucC13?oc=5"
- },
- {
-  "id": "rt-b97394b67cf3",
-  "titleCn": "BIGBANG回归泰国！ Pin Rajamangala 庆祝 XX 世界巡回演唱会出道 20 周年：COSMOS 11 月 7 日 - korseries.com",
-  "titleOrig": "BIGBANG คัมแบ็กประเทศไทย! ปักหมุดราชมังคลาฯ ฉลองเดบิวต์ครบ 20 ปีในเวิลด์ทัวร์ XX : COSMOS 7 พ.ย.นี้ - korseries.com",
-  "catCn": "演唱会综艺",
-  "cat": "concert_show",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国演唱会综艺：BIGBANG คัมแบ็กประเทศไทย! ปักหมุดราชมังคลาฯ ฉลองเดบิวต์ครบ 20 ปีในเวิลด์ทัวร์ XX : COSMOS 7 พ.ย.นี้ - korseries.com",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcjJ0ckItWG42RTZEaVpFejQ5ckc0M0tmWHpfWWhRalg4SFFqSVB3V2lpMkpjMjVpREtOYVEzakp0Z0JfckpWOE5JcGEyLTA2N2E1YVRhMThJUWs5NUNpMDFtZURxbk91NEVKSElkU3BlOFZqSXFVV3ZGeFhjdldWYXh3?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcjJ0ckItWG42RTZEaVpFejQ5ckc0M0tmWHpfWWhRalg4SFFqSVB3V2lpMkpjMjVpREtOYVEzakp0Z0JfckpWOE5JcGEyLTA2N2E1YVRhMThJUWs5NUNpMDFtZURxbk91NEVKSElkU3BlOFZqSXFVV3ZGeFhjdldWYXh3?oc=5"
  },
  {
   "id": "rt-aca99e4119c4",
@@ -9232,7 +9232,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-a659acf6de81",
-  "titleCn": "微软-亚太经社会-CCDKM-STOU-depa联合举办“人工智能社会影响”培训，以增强民间社会的人工智能技能。准备在数字时代拓展可持续工作 - Source Asia - Microsoft Source",
+  "titleCn": "微软-亚太经社会-CCDKM-STOU-depa联合举办“AI for Social Impact”培训，以增强民间社会的AI技能。准备在数字时代拓展可持续工作 - Source Asia - Microsoft Source",
   "titleOrig": "ไมโครซอฟท์ – ESCAP – CCDKM – มสธ. – depa ร่วมจัดอบรม “AI for Social Impact” เสริมทักษะเอไอให้ภาคประชาสังคม พร้อมต่อยอดสู่การทำงานยุคดิจิทัลอย่างยั่งยืน - Source Asia - Microsoft Source",
   "catCn": "社会民生",
   "cat": "society",
@@ -9472,7 +9472,7 @@ window.EVENTS_REALTIME = [
  },
  {
   "id": "rt-b04da0437b24",
-  "titleCn": "开学第一天的悲剧，中三学生死亡#MGFlash 瓜拉丁加奴巴东米丁国家中学（SMK）的一名中三学生在第一天学习知识的兴奋以悲剧告终。 - facebook.com",
+  "titleCn": "开学第一天的悲剧，中三学生死亡#MGFlash 瓜拉丁加奴巴东米丁国立中学（SMK）的一名中三学生在第一天学习知识的兴奋以悲剧告终。 - facebook.com",
   "titleOrig": "Tragedi Hari Pertama Sekolah, Pelajar Tingkatan 3 Maut #MGFlash Keterujaan seorang pelajar tingkatan tiga Sekolah Menengah Kebangsaan (SMK) Padang Midin, Kuala Terengganu untuk menimba ilmu pada hari pertama berakhir dengan tregedi. - facebook.com",
   "catCn": "社会民生",
   "cat": "society",
@@ -9567,54 +9567,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CeHFCcTdDVEtwTTVyMW1JdmdTWnpWc1NIMVR3OE5lUE82ODR0MkJVQzBWZHQtWE54QWRrbUFNY1BBMXpsNXFoSFdoUDZzWEtMQ2hyZUZnX09heW9uR3oxWWVpVHBNUEpN?oc=5"
  },
  {
-  "id": "rt-1e9920cce036",
-  "titleCn": "与拉加曼加拉理工大学伊桑孔敬校区合作开展提高公民素质的活动 - 新闻/活动 - 公民参与中心 4 - ect.go.th",
-  "titleOrig": "กิจกรรมเสริมสร้างความเป็นพลเมืองคุณภาพ ร่วมกับมหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน วิทยาเขตขอนแก่น - ข่าว/กิจกรรม - Civic Participation Center 4 - ect.go.th",
-  "catCn": "政党选举",
-  "cat": "politics",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国政党选举：กิจกรรมเสริมสร้างความเป็นพลเมืองคุณภาพ ร่วมกับมหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน วิทยาเขตขอนแก่น - ข่าว/กิจกรรม - Civic Participation Center 4 - ect.go.th",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SbEVfZ18tamVfX2RzTTNDeXBrS3BDU3p1eXdGbzJrVTRmVzgxNENSLTk4MWNxV3Y5NTR1Z0ZWTEtQRnpMRmw4SmRPQlZ0R0Z5aUN1YXFYR2tvNW5MSUVpRFpEX2w?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SbEVfZ18tamVfX2RzTTNDeXBrS3BDU3p1eXdGbzJrVTRmVzgxNENSLTk4MWNxV3Y5NTR1Z0ZWTEtQRnpMRmw4SmRPQlZ0R0Z5aUN1YXFYR2tvNW5MSUVpRFpEX2w?oc=5"
- },
- {
   "id": "rt-eed052132ad2",
   "titleCn": "INN通讯社：innnews。 。 PDRC-候补参议员侵入选举委员会，要求华欣案取得进展。恳请速送法院：19-08-69 | iNN 热门故事 #ปท #alternativessaw #ECT #huaswaws 案例 #iNNTopStory #INNNEWS - facebook.com",
   "titleOrig": "สำนักข่าวไอเอ็นเอ็น : innnews. . คปท.-สว.สำรอง บุก กกต. ทวงถามคืบหน้าคดีฮั้ว จี้เร่งส่งศาล : 19-08-69 | iNN Top Story #คปท #สวสำรอง #กกต #คดีฮั้วสว #iNNTopStory #INNNEWS - facebook.com",
@@ -9661,6 +9613,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-23",
   "primaryUrl": "https://news.google.com/rss/articles/CBMi4wVBVV95cUxQMW0xZWpJTnhHc1FvUFNlUjNCbHRxRmMxdnpfbGJna21ZOXNXR1p1Z0steWowdEZkSlpSTm95T01DUDNIMDg0LTJtYmpOeGE0WTlhVG9IQXlicXp5Q2hHYXNDdWZyOWpRTG9rcjF0ME9VclVYbTVEN1pDSk9qcEMxalVPMlFUU2V1bWRHdTRuSG8yWWtnQ1lvU0N4TkFSRHpYLUJxb0UtUm9jQmo2cjBzZ0JsOXlqQW9yQzRNMDVQQlhyc2FoTDBxS1phSy1pcEdkN2VCVmt6NUI0VkFKVC1OTzdHQ2FHd2dnZ3hKSkVZUTItUDV6bm5WSElJYzIwV3liYVo4UndWcDZMbGF2UEFiYTcwODB2ZlVsSnZkWlQxQ1dSc2NSdFZsd3NsQ3BkeXVVQ29sdWxXc2JqdVRJTkVTRUxVeFhtcmg1YnJBSi1ZX21FVUFoYmJMeDIyX0NxaU9kbTByRVJUT1FSTS1mQ2FNYjItQlpSdkxPZUV6LXNjMGZRWmtZdFlKNFZWMHhjNkNCcTZyanRVNW5KVXBtSVE2amFmUnJTZWdfX05raTVZYmxlb29QVWRuelJaVEdST3JYQVotMXVkTHkwY3dZYTNrc1o1cHA3WlhBZEplQkNsWWhzcmxKd2FCS1RjaHdWc2ZybVJIQjM3TzA1Z3VvSEY3MzV5eHJ6MjNRd1RRVUFnNng2NW1lVnQ3V3M2MW9icDFEajVtMDJSMzJ2Q25NM01nY0l3ZjN1UGFyeU05UDJNUEcxdGJkZXZILWNfdUxDUV9jVDFzWWdZLWEyOGF1Q2ZxeU5CNHFnLU9sWmVqRHBYYzRmZlNGSFdNVDd0bXNKYWptZTNSZFZZQVV6ajR3X29WTXoxeVFtcFdWY3RETm12M1ViOTh2ZC0wYmQ5R1FUTzA2clBuQkU0OHM3UjZyX05ZSDVUZE9reS1vbnZ6TlBMTUgtNWVvTVFMSERYWHM4aGhqZExr?oc=5"
+ },
+ {
+  "id": "rt-755d2817fb5e",
+  "titleCn": "“Anutin”嘲笑反对派输掉选举！ Tee Peep 提出质疑并表示他必须接受规则。不要置身事外 - spacebar.th",
+  "titleOrig": "‘อนุทิน’ เย้ยฝ่ายค้าน แพ้เลือกตั้ง! ตีปี๊บซักฟอก ชี้ต้องยอมรับกติกา อย่าอยู่นอกเกม - spacebar.th",
+  "catCn": "政党选举",
+  "cat": "politics",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国政党选举：‘อนุทิน’ เย้ยฝ่ายค้าน แพ้เลือกตั้ง! ตีปี๊บซักฟอก ชี้ต้องยอมรับกติกา อย่าอยู่นอกเกม - spacebar.th",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXZCQzl3OVI3dWxBNWlvSkhNcHhZUEttLTdEQnRUaExhYi1UbDF1X3lOZnJvYUlMbGtDUXRPbWE4VmN4RGsxODBaRTk1VjRzS1ItbFcxVUdaNUt1RWNaNE1jbTRqSXIxdkhJTV96cWUwRXQ0OWxDMUgtVThEcGIxdkRMZTRTSXNKd0gtSmE4bEhvYjZGODB1N21wMHlXTjVwNDFLRWd3WFhyYjhsSkhHbktreU4xUXNnNmU2MnZHdThLd1Z2Y1RSZg?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXZCQzl3OVI3dWxBNWlvSkhNcHhZUEttLTdEQnRUaExhYi1UbDF1X3lOZnJvYUlMbGtDUXRPbWE4VmN4RGsxODBaRTk1VjRzS1ItbFcxVUdaNUt1RWNaNE1jbTRqSXIxdkhJTV96cWUwRXQ0OWxDMUgtVThEcGIxdkRMZTRTSXNKd0gtSmE4bEhvYjZGODB1N21wMHlXTjVwNDFLRWd3WFhyYjhsSkhHbktreU4xUXNnNmU2MnZHdThLd1Z2Y1RSZg?oc=5"
  },
  {
   "id": "rt-19d87df530d6",
@@ -9951,5 +9951,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSFhXRzhJTGdDWkRaaXpjOEx1WTl6eVYwQkpvZU9RUzBMQnBSa2F4VFBqVERtZjRiLWFNMjhGcElDanNfQzF3a051a0liZERlZUVMNmdMeFNIVlJjWTc3RElOUTFraEQ1d2V2WmNOVlVKYVh1eW8xZnZTc1pCWDZFOTBad2lCczFQd2JQeWNMekbSAZYBQVVfeXFMT29ETWZIWGFxalJPR05GamFWa3F6cDNPRjRja0p2TlZYRW5pWFo3aUYwZkozSENoaXlDbVBlYWpvZGVpYWgtLW8yNnY0ZGNQNElDRTlZNm4xU1RBS3NGcHZnakxNU2Q2VTFoMmpGT3lmNTVOVVVONkdpTVFRZmJXZlZ6VW93NEJGaFU2SHA3enNnT0FKcVpn?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-23T01:45:35";
+window.REALTIME_UPDATED = "2026-08-23T02:20:26";
 window.REALTIME_CARRIED = false;
