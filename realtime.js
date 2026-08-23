@@ -3763,7 +3763,7 @@ window.EVENTS_REALTIME = [
   "cat": "festival",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kung_Hei_Fat_Choi%21_%286834861529%29.jpg/960px-Kung_Hei_Fat_Choi%21_%286834861529%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://live.staticflickr.com/7346/16570223485_4a1b76d3cf_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 60,
@@ -3780,8 +3780,8 @@ window.EVENTS_REALTIME = [
     "url": ""
    },
    {
-    "type": "wiki",
-    "name": "维基百科词条图",
+    "type": "openverse",
+    "name": "Openverse 共享图库",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -3803,12 +3803,12 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "维基百科词条图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kung_Hei_Fat_Choi%21_%286834861529%29.jpg/960px-Kung_Hei_Fat_Choi%21_%286834861529%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
+    "url": "https://live.staticflickr.com/7346/16570223485_4a1b76d3cf_b.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
@@ -3824,7 +3824,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joong_Archen_in_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "cover": "https://live.staticflickr.com/4088/4834424182_610505da58_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 98,
@@ -3841,8 +3841,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=%23PondPhuwinConcertD3"
    },
    {
-    "type": "wiki",
-    "name": "维基百科词条图",
+    "type": "openverse",
+    "name": "Openverse 共享图库",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -3864,12 +3864,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 14,
-  "imageSource": "维基百科词条图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joong_Archen_in_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "source": "维基百科词条图",
+    "url": "https://live.staticflickr.com/4088/4834424182_610505da58_b.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
@@ -3885,7 +3885,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Balitanghali_Anchor.jpg/960px-Balitanghali_Anchor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://live.staticflickr.com/6086/6065473389_4e80e9506e_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 96,
@@ -3902,8 +3902,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=%23TIMA2026xNUNEW"
    },
    {
-    "type": "wiki",
-    "name": "维基百科词条图",
+    "type": "openverse",
+    "name": "Openverse 共享图库",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -3925,12 +3925,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 14,
-  "imageSource": "维基百科词条图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Balitanghali_Anchor.jpg/960px-Balitanghali_Anchor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
+    "url": "https://live.staticflickr.com/6086/6065473389_4e80e9506e_b.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
@@ -3946,7 +3946,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ive_at_the_40th_Golden_Disc_Awards%2C_January_10%2C_2026_%282%29.png/960px-Ive_at_the_40th_Golden_Disc_Awards%2C_January_10%2C_2026_%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 94,
@@ -3963,8 +3963,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=%23MissUniverseThailand2026"
    },
    {
-    "type": "wiki",
-    "name": "维基百科(IVE)",
+    "type": "openverse",
+    "name": "Openverse(IVE)",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -3986,12 +3986,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 14,
-  "imageSource": "维基百科(IVE)",
+  "imageSource": "Openverse(IVE)",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ive_at_the_40th_Golden_Disc_Awards%2C_January_10%2C_2026_%282%29.png/960px-Ive_at_the_40th_Golden_Disc_Awards%2C_January_10%2C_2026_%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科(IVE)",
+    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+    "source": "Openverse(IVE)",
     "caption": ""
    }
   ],
@@ -4292,78 +4292,17 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=LINGORM%20ILF%20EP10"
  },
  {
-  "id": "rt-a247cf688557",
-  "titleCn": "PREM FAN MEETING IN NYC",
-  "titleOrig": "PREM FAN MEETING IN NYC",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Prem_Tinsulanonda_%28Cropped%29.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 80,
-  "summary": "泰国 Twitter/X 今日热搜：PREM FAN MEETING IN NYC",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=PREM%20FAN%20MEETING%20IN%20NYC"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-24",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 7,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Prem_Tinsulanonda_%28Cropped%29.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-24",
-  "primaryUrl": "https://twitter.com/search?q=PREM%20FAN%20MEETING%20IN%20NYC"
- },
- {
   "id": "rt-2db0613f2836",
   "titleCn": "TAY FOURTH SAN NHOO AT SF",
   "titleOrig": "TAY FOURTH SAN NHOO AT SF",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
-  "stars": "🔥🔥",
+  "stars": "🔥🔥🔥",
   "cover": "https://live.staticflickr.com/47/137629783_82001c783b_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 78,
+  "buzzIndex": 80,
   "summary": "泰国 Twitter/X 今日热搜：TAY FOURTH SAN NHOO AT SF",
   "tags": [],
   "timeRel": "",
@@ -4399,7 +4338,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 5,
+  "hotDays": 7,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
@@ -4412,6 +4351,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-24",
   "primaryUrl": "https://twitter.com/search?q=TAY%20FOURTH%20SAN%20NHOO%20AT%20SF"
+ },
+ {
+  "id": "rt-a247cf688557",
+  "titleCn": "PREM FAN MEETING IN NYC",
+  "titleOrig": "PREM FAN MEETING IN NYC",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Prem_Tinsulanonda_%28Cropped%29.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 78,
+  "summary": "泰国 Twitter/X 今日热搜：PREM FAN MEETING IN NYC",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=PREM%20FAN%20MEETING%20IN%20NYC"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-24",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Prem_Tinsulanonda_%28Cropped%29.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-24",
+  "primaryUrl": "https://twitter.com/search?q=PREM%20FAN%20MEETING%20IN%20NYC"
  },
  {
   "id": "rt-968357462277",
@@ -4902,9 +4902,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=ENGFA%20OUR%20HEART23"
  },
  {
-  "id": "rt-537f727ccc16",
-  "titleCn": "MXBS X KATANYU",
-  "titleOrig": "MXBS X KATANYU",
+  "id": "rt-853c70c04dfc",
+  "titleCn": "mxbs x katanyu",
+  "titleOrig": "mxbs x katanyu",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -4913,7 +4913,7 @@ window.EVENTS_REALTIME = [
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 60,
-  "summary": "泰国 Twitter/X 今日热搜：MXBS X KATANYU",
+  "summary": "泰国 Twitter/X 今日热搜：mxbs x katanyu",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4923,7 +4923,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=MXBS%20X%20KATANYU"
+    "url": "https://twitter.com/search?q=mxbs%20x%20katanyu"
    },
    {
     "type": "openverse",
@@ -4960,7 +4960,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-08-24",
-  "primaryUrl": "https://twitter.com/search?q=MXBS%20X%20KATANYU"
+  "primaryUrl": "https://twitter.com/search?q=mxbs%20x%20katanyu"
  },
  {
   "id": "rt-6d2918b632bd",
@@ -5207,18 +5207,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=PARK%20BIRTHDAY%20CELEBRATION"
  },
  {
-  "id": "rt-20e9b81c1d35",
-  "titleCn": "ZIYU NEW MUSICAL CHAPTER",
-  "titleOrig": "ZIYU NEW MUSICAL CHAPTER",
+  "id": "rt-9a8144d01cdd",
+  "titleCn": "ROYP-100-FREE44",
+  "titleOrig": "ROYP-100-FREE44",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/4136/4781984363_f0b55a2a20_b.jpg",
+  "cover": "https://live.staticflickr.com/65535/52512457645_a6ac3c8fbf_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 50,
-  "summary": "泰国 Twitter/X 今日热搜：ZIYU NEW MUSICAL CHAPTER",
+  "summary": "泰国 Twitter/X 今日热搜：ROYP-100-FREE44",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5228,7 +5228,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=ZIYU%20NEW%20MUSICAL%20CHAPTER"
+    "url": "https://twitter.com/search?q=ROYP-100-FREE44"
    },
    {
     "type": "openverse",
@@ -5258,14 +5258,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/4136/4781984363_f0b55a2a20_b.jpg",
+    "url": "https://live.staticflickr.com/65535/52512457645_a6ac3c8fbf_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-24",
-  "primaryUrl": "https://twitter.com/search?q=ZIYU%20NEW%20MUSICAL%20CHAPTER"
+  "primaryUrl": "https://twitter.com/search?q=ROYP-100-FREE44"
  },
  {
   "id": "rt-82a1fe510fb6",
@@ -5336,7 +5336,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Nanon_GMMTV_2020.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joong_Archen_in_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 94,
@@ -5353,8 +5353,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=%23StarMagicxGMMTV"
    },
    {
-    "type": "openverse",
-    "name": "Openverse(GMMTV)",
+    "type": "wiki",
+    "name": "维基百科(GMMTV)",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5376,12 +5376,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 14,
-  "imageSource": "Openverse(GMMTV)",
+  "imageSource": "维基百科(GMMTV)",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Nanon_GMMTV_2020.jpg",
-    "source": "Openverse(GMMTV)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joong_Archen_in_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科(GMMTV)",
     "caption": ""
    }
   ],
@@ -5458,7 +5458,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/249/446825336_e103c0b9d2_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg/960px-Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 86,
@@ -5475,8 +5475,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Wirtz"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5498,12 +5498,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 7,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/249/446825336_e103c0b9d2_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg/960px-Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5580,7 +5580,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/3882/14498339346_590e092814_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/2/27/CS_Lewis_photo_on_dust_jacket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 82,
@@ -5597,8 +5597,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Lewis"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5620,12 +5620,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 7,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/3882/14498339346_590e092814_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/CS_Lewis_photo_on_dust_jacket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5702,7 +5702,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/4052/4319732135_5981f68544_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Joe_Lando_in_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 78,
@@ -5719,8 +5719,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Lando"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5742,12 +5742,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 5,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/4052/4319732135_5981f68544_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Joe_Lando_in_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -5763,7 +5763,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/1602/25009486672_41bd0ee6cf_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Newcastle%2C_New_South_Wales_Harbour.jpg/960px-Newcastle%2C_New_South_Wales_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 74,
@@ -5780,8 +5780,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=Newcastle"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "commons",
+    "name": "维基共享资源图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5803,12 +5803,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 5,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基共享资源图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/1602/25009486672_41bd0ee6cf_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Newcastle%2C_New_South_Wales_Harbour.jpg/960px-Newcastle%2C_New_South_Wales_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "维基共享资源图",
     "caption": ""
    }
   ],
@@ -5824,7 +5824,7 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/1/17/2023_Indonesia_Open_MD_Semifinal_Rambitan-Riyanto_vs_Soh-Chia.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2023_Indonesia_Open_MD_Semifinal_Rambitan-Riyanto_vs_Soh-Chia.jpg/960px-2023_Indonesia_Open_MD_Semifinal_Rambitan-Riyanto_vs_Soh-Chia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 72,
@@ -5841,8 +5841,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=ChiaSoh"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "commons",
+    "name": "维基共享资源图",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5864,12 +5864,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 5,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基共享资源图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/2023_Indonesia_Open_MD_Semifinal_Rambitan-Riyanto_vs_Soh-Chia.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2023_Indonesia_Open_MD_Semifinal_Rambitan-Riyanto_vs_Soh-Chia.jpg/960px-2023_Indonesia_Open_MD_Semifinal_Rambitan-Riyanto_vs_Soh-Chia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "维基共享资源图",
     "caption": ""
    }
   ],
@@ -7631,9 +7631,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9IT2V3dlJsbnRabDZoTzhfNC1ROXE5MEtnLUdqY2NmT0Jzd3hmU3NLSGMtNjlkbXpvcTd3?oc=5"
  },
  {
-  "id": "rt-7ae10c54544e",
-  "titleCn": "Potter puji peningkatan prestasi gandingan Isak, Gyokeres - Harian Metro",
-  "titleOrig": "Potter puji peningkatan prestasi gandingan Isak, Gyokeres - Harian Metro",
+  "id": "rt-7826ed5e8d68",
+  "titleCn": "Isak boleh bantu Liverpool buru tiket Liga Juara-Juara - Berita Harian",
+  "titleOrig": "Isak boleh bantu Liverpool buru tiket Liga Juara-Juara - Berita Harian",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7642,7 +7642,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻热点：Potter puji peningkatan prestasi gandingan Isak, Gyokeres - Harian Metro",
+  "summary": "马来西亚新闻热点：Isak boleh bantu Liverpool buru tiket Liga Juara-Juara - Berita Harian",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7652,7 +7652,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjdCc0VVcE0xb1U1Tm9xU1FnWi1GXzBfcTBub0pyTXJuOVVZTmo2aGhOTXBBdzctaHpBNldUdWpYZWdzN19zQXlJbTFMODIxcngtZDhZMl8xeE1xSDNlRU1NTmxYV1JPOFB2NUpfQndjQWFUcXZIT1ZOekxZYnFUbHk5dE56RnkzNVZ0RlZQekx6eG5IUW40YUU5cDVkMms5N1dZMjZPSVVNWURzZ3E1UU93VDRIUQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOblNBaFdTVVdRVjh1elRxeEtzUXREUlJhemJGOXZER2JqRDV0REcyTExlZldRaDVhY0dzaUNGcVdNTEdYNFVJaGZqb2JPcHVlMzhCOERLMThqTmZxeXRsNURVbG5QVndVeFpmUzE3Ul9takJOejJWNmNLZEtUeDdJYUM1cXJ5Z25rWURndUQ3b3lKT2ZmNHlzRUhaVkxxS3BqMmdhM1ZweDBDaWNN0gGyAUFVX3lxTE9IdmJCcTZzbTRjN0pCZ2hxY3dLR3lmajdBYVpuQWVTV0dFaHpiTHRyeXNVVjBmaVZuUzRQN0VWM0VSQ0tIc052ZVhmT0U0cFIyQ1Zwc2ZvbkdjZ2JNRi1wTUJOcjgwZmFsS1hjVGdrTnZtSWkxTTdsQUVaOTdUQUlsSGVZZTQ4bllCV043ZUV0RGZUd2txMHhsREFWY2l5MDl4bmdnb2h5M3FWQ29mS3pSQmc?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7676,7 +7676,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-24",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjdCc0VVcE0xb1U1Tm9xU1FnWi1GXzBfcTBub0pyTXJuOVVZTmo2aGhOTXBBdzctaHpBNldUdWpYZWdzN19zQXlJbTFMODIxcngtZDhZMl8xeE1xSDNlRU1NTmxYV1JPOFB2NUpfQndjQWFUcXZIT1ZOekxZYnFUbHk5dE56RnkzNVZ0RlZQekx6eG5IUW40YUU5cDVkMms5N1dZMjZPSVVNWURzZ3E1UU93VDRIUQ?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOblNBaFdTVVdRVjh1elRxeEtzUXREUlJhemJGOXZER2JqRDV0REcyTExlZldRaDVhY0dzaUNGcVdNTEdYNFVJaGZqb2JPcHVlMzhCOERLMThqTmZxeXRsNURVbG5QVndVeFpmUzE3Ul9takJOejJWNmNLZEtUeDdJYUM1cXJ5Z25rWURndUQ3b3lKT2ZmNHlzRUhaVkxxS3BqMmdhM1ZweDBDaWNN0gGyAUFVX3lxTE9IdmJCcTZzbTRjN0pCZ2hxY3dLR3lmajdBYVpuQWVTV0dFaHpiTHRyeXNVVjBmaVZuUzRQN0VWM0VSQ0tIc052ZVhmT0U0cFIyQ1Zwc2ZvbkdjZ2JNRi1wTUJOcjgwZmFsS1hjVGdrTnZtSWkxTTdsQUVaOTdUQUlsSGVZZTQ4bllCV043ZUV0RGZUd2txMHhsREFWY2l5MDl4bmdnb2h5M3FWQ29mS3pSQmc?oc=5"
  },
  {
   "id": "rt-46411bfd28c2",
@@ -10031,5 +10031,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSFhXRzhJTGdDWkRaaXpjOEx1WTl6eVYwQkpvZU9RUzBMQnBSa2F4VFBqVERtZjRiLWFNMjhGcElDanNfQzF3a051a0liZERlZUVMNmdMeFNIVlJjWTc3RElOUTFraEQ1d2V2WmNOVlVKYVh1eW8xZnZTc1pCWDZFOTBad2lCczFQd2JQeWNMekbSAZYBQVVfeXFMT29ETWZIWGFxalJPR05GamFWa3F6cDNPRjRja0p2TlZYRW5pWFo3aUYwZkozSENoaXlDbVBlYWpvZGVpYWgtLW8yNnY0ZGNQNElDRTlZNm4xU1RBS3NGcHZnakxNU2Q2VTFoMmpGT3lmNTVOVVVONkdpTVFRZmJXZlZ6VW93NEJGaFU2SHA3enNnT0FKcVpn?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-24T05:17:26";
+window.REALTIME_UPDATED = "2026-08-24T05:46:11";
 window.REALTIME_CARRIED = false;
