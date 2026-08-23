@@ -3342,67 +3342,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=%23%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%AB%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%8834"
  },
  {
-  "id": "rt-56b1db9a09fc",
-  "titleCn": "#วาดฝันวันวิวาห์EP10",
-  "titleOrig": "#วาดฝันวันวิวาห์EP10",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Michael_Nesmith_EP.jpg/960px-Michael_Nesmith_EP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 94,
-  "summary": "马来西亚 Twitter/X 今日热搜：#วาดฝันวันวิวาห์EP10",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP10"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 14,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Michael_Nesmith_EP.jpg/960px-Michael_Nesmith_EP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP10"
- },
- {
   "id": "rt-0b6755600eab",
   "titleCn": "母亲节（泰国母亲节）",
   "titleOrig": "母亲节（泰国母亲节）",
@@ -3519,8 +3458,8 @@ window.EVENTS_REALTIME = [
   "cat": "festival",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dataran_Merdeka_%2818359791323%29.jpg/960px-Dataran_Merdeka_%2818359791323%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 60,
   "summary": "马来西亚独立日，国旗/爱国主题印花爆款",
@@ -3533,6 +3472,13 @@ window.EVENTS_REALTIME = [
     "name": "holiday",
     "region": "马来西亚",
     "credibility": 80,
+    "url": ""
+   },
+   {
+    "type": "commons",
+    "name": "维基共享资源图",
+    "region": "马来西亚",
+    "credibility": 82,
     "url": ""
    }
   ],
@@ -3552,9 +3498,15 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "维基共享资源图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dataran_Merdeka_%2818359791323%29.jpg/960px-Dataran_Merdeka_%2818359791323%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "维基共享资源图",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-08-23",
   "primaryUrl": ""
@@ -3567,7 +3519,7 @@ window.EVENTS_REALTIME = [
   "cat": "festival",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/8342/8242383955_c51e65fe19_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chiang_Mai%2C_Krathong_Festival%2C_Thailand.jpg/960px-Chiang_Mai%2C_Krathong_Festival%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 60,
@@ -3584,8 +3536,8 @@ window.EVENTS_REALTIME = [
     "url": ""
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "commons",
+    "name": "维基共享资源图",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -3607,12 +3559,12 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基共享资源图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/8342/8242383955_c51e65fe19_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chiang_Mai%2C_Krathong_Festival%2C_Thailand.jpg/960px-Chiang_Mai%2C_Krathong_Festival%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "维基共享资源图",
     "caption": ""
    }
   ],
@@ -5313,7 +5265,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/0/08/Cwr_lake_facade2.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 98,
+  "buzzIndex": 96,
   "summary": "马来西亚 Twitter/X 今日热搜：CWR ON TIMA26 STAGE",
   "tags": [],
   "timeRel": "",
@@ -5364,79 +5316,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=CWR%20ON%20TIMA26%20STAGE"
  },
  {
-  "id": "rt-587a160bcb35",
-  "titleCn": "#PondPhuwinConcertD2",
-  "titleOrig": "#PondPhuwinConcertD2",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/4088/4834424182_610505da58_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 96,
-  "summary": "马来西亚 Twitter/X 今日热搜：#PondPhuwinConcertD2",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=%23PondPhuwinConcertD2"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 14,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/4088/4834424182_610505da58_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=%23PondPhuwinConcertD2"
- },
- {
-  "id": "rt-1ea655c18f79",
-  "titleCn": "LINGORM ILF EP10",
-  "titleOrig": "LINGORM ILF EP10",
+  "id": "rt-80f6a18666bc",
+  "titleCn": "PONDPHUWIN SOUL ODYSSEY",
+  "titleOrig": "PONDPHUWIN SOUL ODYSSEY",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
+  "cover": "https://live.staticflickr.com/28/96868565_50ee6fa6c4_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 92,
-  "summary": "马来西亚 Twitter/X 今日热搜：LINGORM ILF EP10",
+  "buzzIndex": 94,
+  "summary": "马来西亚 Twitter/X 今日热搜：PONDPHUWIN SOUL ODYSSEY",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5446,68 +5337,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=LINGORM%20ILF%20EP10"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse(LINGORM)",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 14,
-  "imageSource": "Openverse(LINGORM)",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
-    "source": "Openverse(LINGORM)",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=LINGORM%20ILF%20EP10"
- },
- {
-  "id": "rt-06ae22c29338",
-  "titleCn": "wonwoo",
-  "titleOrig": "wonwoo",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Wonwoo_Follow_240330.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 84,
-  "summary": "马来西亚 Twitter/X 今日热搜：wonwoo",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=wonwoo"
+    "url": "https://twitter.com/search?q=PONDPHUWIN%20SOUL%20ODYSSEY"
    },
    {
     "type": "openverse",
@@ -5532,19 +5362,80 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 7,
+  "hotDays": 14,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Wonwoo_Follow_240330.jpg",
+    "url": "https://live.staticflickr.com/28/96868565_50ee6fa6c4_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=wonwoo"
+  "primaryUrl": "https://twitter.com/search?q=PONDPHUWIN%20SOUL%20ODYSSEY"
+ },
+ {
+  "id": "rt-757d033afe11",
+  "titleCn": "jeonghan",
+  "titleOrig": "jeonghan",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jeonghan_Follow_240330.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 92,
+  "summary": "马来西亚 Twitter/X 今日热搜：jeonghan",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=jeonghan"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jeonghan_Follow_240330.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://twitter.com/search?q=jeonghan"
  },
  {
   "id": "rt-8f100e68d1ca",
@@ -5557,7 +5448,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/7208/6788001664_754494f065_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 82,
+  "buzzIndex": 84,
   "summary": "马来西亚 Twitter/X 今日热搜：#OtherworldParade",
   "tags": [],
   "timeRel": "",
@@ -5606,6 +5497,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-23",
   "primaryUrl": "https://twitter.com/search?q=%23OtherworldParade"
+ },
+ {
+  "id": "rt-dda4ab489193",
+  "titleCn": "#JossGawin",
+  "titleOrig": "#JossGawin",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥🔥",
+  "cover": "https://live.staticflickr.com/66/171543606_3a1033443d_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 82,
+  "summary": "马来西亚 Twitter/X 今日热搜：#JossGawin",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=%23JossGawin"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/66/171543606_3a1033443d_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://twitter.com/search?q=%23JossGawin"
  },
  {
   "id": "rt-d5ca2cd5126a",
@@ -5669,18 +5621,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Orihime"
  },
  {
-  "id": "rt-12198e787a62",
-  "titleCn": "renjun",
-  "titleOrig": "renjun",
+  "id": "rt-15b3fff3d0b8",
+  "titleCn": "#iKON_FOUREVERinKL",
+  "titleOrig": "#iKON_FOUREVERinKL",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Huang_Renjun_at_24th_Dream_Concert_02.png",
+  "cover": "https://live.staticflickr.com/5497/11073322476_410426ec59_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 78,
-  "summary": "马来西亚 Twitter/X 今日热搜：renjun",
+  "summary": "马来西亚 Twitter/X 今日热搜：#iKON_FOUREVERinKL",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5690,7 +5642,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=renjun"
+    "url": "https://twitter.com/search?q=%23iKON_FOUREVERinKL"
    },
    {
     "type": "openverse",
@@ -5720,14 +5672,75 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Huang_Renjun_at_24th_Dream_Concert_02.png",
+    "url": "https://live.staticflickr.com/5497/11073322476_410426ec59_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=renjun"
+  "primaryUrl": "https://twitter.com/search?q=%23iKON_FOUREVERinKL"
+ },
+ {
+  "id": "rt-06ae22c29338",
+  "titleCn": "wonwoo",
+  "titleOrig": "wonwoo",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Wonwoo_Follow_240330.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "summary": "马来西亚 Twitter/X 今日热搜：wonwoo",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=wonwoo"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Wonwoo_Follow_240330.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://twitter.com/search?q=wonwoo"
  },
  {
   "id": "rt-74c76f4eb952",
@@ -5740,7 +5753,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3410/3661466756_8169b448e0_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 76,
+  "buzzIndex": 74,
   "summary": "马来西亚 Twitter/X 今日热搜：STARTING ORBIT OF LOVE",
   "tags": [],
   "timeRel": "",
@@ -5801,7 +5814,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/3289/2615979645_1c7b91f503_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 74,
+  "buzzIndex": 72,
   "summary": "马来西亚 Twitter/X 今日热搜：Hull",
   "tags": [],
   "timeRel": "",
@@ -5850,67 +5863,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-23",
   "primaryUrl": "https://twitter.com/search?q=Hull"
- },
- {
-  "id": "rt-e6f9880d64fd",
-  "titleCn": "jeno",
-  "titleOrig": "jeno",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/1492/24421535964_10aff810e8_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 72,
-  "summary": "马来西亚 Twitter/X 今日热搜：jeno",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=jeno"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 5,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/1492/24421535964_10aff810e8_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=jeno"
  },
  {
   "id": "rt-745af475eec6",
@@ -5974,67 +5926,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=jisung"
  },
  {
-  "id": "rt-a873b14dfbb6",
-  "titleCn": "jungkook",
-  "titleOrig": "jungkook",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jungkook_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting%2C_15_March_2019_07_%28cropped%29.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 68,
-  "summary": "马来西亚 Twitter/X 今日热搜：jungkook",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=jungkook"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jungkook_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting%2C_15_March_2019_07_%28cropped%29.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=jungkook"
- },
- {
   "id": "rt-acb2e8567cdd",
   "titleCn": "chenle",
   "titleOrig": "chenle",
@@ -6045,7 +5936,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Zhong_chenle_9thgaon.png",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 66,
+  "buzzIndex": 68,
   "summary": "马来西亚 Twitter/X 今日热搜：chenle",
   "tags": [],
   "timeRel": "",
@@ -6096,18 +5987,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=chenle"
  },
  {
-  "id": "rt-b9a6b23227e1",
-  "titleCn": "LENAMIU HELLO SINGAPORE",
-  "titleOrig": "LENAMIU HELLO SINGAPORE",
+  "id": "rt-428c59ff0c95",
+  "titleCn": "jaemin",
+  "titleOrig": "jaemin",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Miu_Natsha_Taechamongkalapiwat_at_LenaMiu_Fan_Meeting_in_Taiwan_2026-03-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "cover": "https://live.staticflickr.com/7271/7486559176_3766dfbe7f_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 64,
-  "summary": "马来西亚 Twitter/X 今日热搜：LENAMIU HELLO SINGAPORE",
+  "buzzIndex": 66,
+  "summary": "马来西亚 Twitter/X 今日热搜：jaemin",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6117,7 +6008,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=LENAMIU%20HELLO%20SINGAPORE"
+    "url": "https://twitter.com/search?q=jaemin"
    },
    {
     "type": "openverse",
@@ -6147,14 +6038,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Miu_Natsha_Taechamongkalapiwat_at_LenaMiu_Fan_Meeting_in_Taiwan_2026-03-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "url": "https://live.staticflickr.com/7271/7486559176_3766dfbe7f_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=LENAMIU%20HELLO%20SINGAPORE"
+  "primaryUrl": "https://twitter.com/search?q=jaemin"
  },
  {
   "id": "rt-fa18ca20b4e4",
@@ -6167,7 +6058,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://live.staticflickr.com/8737/17141104290_748e52fbfd_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 62,
+  "buzzIndex": 64,
   "summary": "马来西亚 Twitter/X 今日热搜：Carrick",
   "tags": [],
   "timeRel": "",
@@ -6218,18 +6109,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Carrick"
  },
  {
-  "id": "rt-428c59ff0c95",
-  "titleCn": "jaemin",
-  "titleOrig": "jaemin",
+  "id": "rt-b9a6b23227e1",
+  "titleCn": "LENAMIU HELLO SINGAPORE",
+  "titleOrig": "LENAMIU HELLO SINGAPORE",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/7271/7486559176_3766dfbe7f_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Miu_Natsha_Taechamongkalapiwat_at_LenaMiu_Fan_Meeting_in_Taiwan_2026-03-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 60,
-  "summary": "马来西亚 Twitter/X 今日热搜：jaemin",
+  "buzzIndex": 62,
+  "summary": "马来西亚 Twitter/X 今日热搜：LENAMIU HELLO SINGAPORE",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6239,7 +6130,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=jaemin"
+    "url": "https://twitter.com/search?q=LENAMIU%20HELLO%20SINGAPORE"
    },
    {
     "type": "openverse",
@@ -6264,19 +6155,19 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 2,
+  "hotDays": 3,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/7271/7486559176_3766dfbe7f_b.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Miu_Natsha_Taechamongkalapiwat_at_LenaMiu_Fan_Meeting_in_Taiwan_2026-03-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=jaemin"
+  "primaryUrl": "https://twitter.com/search?q=LENAMIU%20HELLO%20SINGAPORE"
  },
  {
   "id": "rt-1ea786dedf15",
@@ -6285,11 +6176,11 @@ window.EVENTS_REALTIME = [
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
-  "stars": "🔥",
+  "stars": "🔥🔥",
   "cover": "https://upload.wikimedia.org/wikipedia/commons/0/01/Patrick_Dorgu_Como-Lecce_30_Dec_2024.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 58,
+  "buzzIndex": 60,
   "summary": "马来西亚 Twitter/X 今日热搜：Dorgu",
   "tags": [],
   "timeRel": "",
@@ -6340,18 +6231,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Dorgu"
  },
  {
-  "id": "rt-2f316531164e",
-  "titleCn": "HOSHI",
-  "titleOrig": "HOSHI",
+  "id": "rt-12198e787a62",
+  "titleCn": "renjun",
+  "titleOrig": "renjun",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/123/340163897_0d1b4ac607.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Huang_Renjun_at_24th_Dream_Concert_02.png",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 56,
-  "summary": "马来西亚 Twitter/X 今日热搜：HOSHI",
+  "buzzIndex": 58,
+  "summary": "马来西亚 Twitter/X 今日热搜：renjun",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6361,7 +6252,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=HOSHI"
+    "url": "https://twitter.com/search?q=renjun"
    },
    {
     "type": "openverse",
@@ -6391,14 +6282,136 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/123/340163897_0d1b4ac607.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Huang_Renjun_at_24th_Dream_Concert_02.png",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://twitter.com/search?q=HOSHI"
+  "primaryUrl": "https://twitter.com/search?q=renjun"
+ },
+ {
+  "id": "rt-e6f9880d64fd",
+  "titleCn": "jeno",
+  "titleOrig": "jeno",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/1492/24421535964_10aff810e8_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 56,
+  "summary": "马来西亚 Twitter/X 今日热搜：jeno",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=jeno"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/1492/24421535964_10aff810e8_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://twitter.com/search?q=jeno"
+ },
+ {
+  "id": "rt-615f93f0131f",
+  "titleCn": "GEMINI IN F1A DUTCH GP 2026",
+  "titleOrig": "GEMINI IN F1A DUTCH GP 2026",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/2490/3851510126_c85140c31c_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 54,
+  "summary": "马来西亚 Twitter/X 今日热搜：GEMINI IN F1A DUTCH GP 2026",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=GEMINI%20IN%20F1A%20DUTCH%20GP%202026"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/2490/3851510126_c85140c31c_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://twitter.com/search?q=GEMINI%20IN%20F1A%20DUTCH%20GP%202026"
  },
  {
   "id": "rt-5acab4e8a1a3",
@@ -6411,7 +6424,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 52,
   "summary": "马来西亚 Twitter/X 今日热搜：Chiasoh",
   "tags": [],
   "timeRel": "",
@@ -6459,7 +6472,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 52,
+  "buzzIndex": 50,
   "summary": "马来西亚 Twitter/X 今日热搜：Yhwach",
   "tags": [],
   "timeRel": "",
@@ -7584,8 +7597,8 @@ window.EVENTS_REALTIME = [
   "cat": "news",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cardi_B_at_2026_Essence_Festival_of_Culture_02_%28cropped%29_%28cropped%29.jpg/960px-Cardi_B_at_2026_Essence_Festival_of_Culture_02_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
   "summary": "泰国新闻热点：WHAT'S IN MY BAG - เปิดกระเป๋า 'ขุนพล' - 'ฮาร์ท' จาก BUS! - Vogue Thailand",
@@ -7599,13 +7612,6 @@ window.EVENTS_REALTIME = [
     "region": "泰国",
     "credibility": 88,
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qMzdLdTF0ekt3RWNlRE9JRndVWjlLZ3Juc1hudE9OdmlPUlRLY2Q2N25yS0VxZklYa3VQWGN0RHRHVzZvNHdfLTI4SVllZm0tY3BnTEwyQUhFMHNmVkN3NkdEa1RVbFdJY2tObDhvc0YzVjJn?oc=5"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -7624,32 +7630,26 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cardi_B_at_2026_Essence_Festival_of_Culture_02_%28cropped%29_%28cropped%29.jpg/960px-Cardi_B_at_2026_Essence_Festival_of_Culture_02_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-23",
   "primaryUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qMzdLdTF0ekt3RWNlRE9JRndVWjlLZ3Juc1hudE9OdmlPUlRLY2Q2N25yS0VxZklYa3VQWGN0RHRHVzZvNHdfLTI4SVllZm0tY3BnTEwyQUhFMHNmVkN3NkdEa1RVbFdJY2tObDhvc0YzVjJn?oc=5"
  },
  {
-  "id": "rt-89df522875f2",
-  "titleCn": "Remaja Ini Hasilkan Siri Anime K-Drama Sendiri Bersama Idolanya, Jeon Wonwoo Seventeen - remaja.my",
-  "titleOrig": "Remaja Ini Hasilkan Siri Anime K-Drama Sendiri Bersama Idolanya, Jeon Wonwoo Seventeen - remaja.my",
+  "id": "rt-4a62838ea45f",
+  "titleCn": "Peminat kaya sanggup beli pulau bentuk hati untuk Jeong Han Seventeen - mStar",
+  "titleOrig": "Peminat kaya sanggup beli pulau bentuk hati untuk Jeong Han Seventeen - mStar",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gelanggang_Remaja_Transjakarta_BRT_Station%2C_January_2024.jpg/960px-Gelanggang_Remaja_Transjakarta_BRT_Station%2C_January_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻热点：Remaja Ini Hasilkan Siri Anime K-Drama Sendiri Bersama Idolanya, Jeon Wonwoo Seventeen - remaja.my",
+  "summary": "马来西亚新闻热点：Peminat kaya sanggup beli pulau bentuk hati untuk Jeong Han Seventeen - mStar",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7659,14 +7659,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeTZMZjVfREFEUGxxNk1ndzBoaUxGeTJOWlpqYkFkTjZQQ21pMDZhVlBzQldRN3IzUm5GU0ttczJzekdRd1hyVV9WaktPYXBsdU5fUTM0ZC1vbnJnREdfaWtmSUNla2pXb1BwbTdRSXI2eEV3aW5IaDAyYXEtak1GTE1DUHpsdDlkWm5ZSmZOSUR5YUlucjlHekI1Q3BkY1JiUGFGejJNRE5UUGRl0gGyAUFVX3lxTE5QODJQMDV6MEpmVkp5RVU5a1BGY1pEbzN5eUhEbERBSWVodjl2OUQ2S0Mtb29tdXdvTVpydkl5OEdGbzhDc012eVlRV2lQWTRGU3EtSHNwS0ZLenZYZ3lrX0tiRTRMZGhmOTQ3eGFHZ0dZX1NxUEJxNHlMekJlYmg2Uzd0LVVXU1NrUndFdUc4S1Rsemc3ZjZjRHcyX1JrNy0weW1CREVzMU9WbmpMbzBPdmc?oc=5"
-   },
-   {
-    "type": "commons",
-    "name": "维基共享资源图",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWY5T0JobEFNX1V3WWJnYTZNMTlMeVJKa21CRWwybWowTUdTZ0RKUDZkVG15OXNaOThvdkxEb2FQQlllUVdGOXAwcUdZc3JHc1NxVTVPNm9lOEplUlZhQ1BITTZLelFKNV9PS2I1a196QjFyWHFRMjFoV2pFcDNDWUdzSnZQWjN1Z3hKNnpqYXphOVBXR3RSRWVJVS1JV0d0amsySEMzeU5aS0tvZ2ZnSlBZTUpQQ1JGRXNFLXpMazMwMkxKQ2pTUXh3?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7685,18 +7678,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "维基共享资源图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gelanggang_Remaja_Transjakarta_BRT_Station%2C_January_2024.jpg/960px-Gelanggang_Remaja_Transjakarta_BRT_Station%2C_January_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "维基共享资源图",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeTZMZjVfREFEUGxxNk1ndzBoaUxGeTJOWlpqYkFkTjZQQ21pMDZhVlBzQldRN3IzUm5GU0ttczJzekdRd1hyVV9WaktPYXBsdU5fUTM0ZC1vbnJnREdfaWtmSUNla2pXb1BwbTdRSXI2eEV3aW5IaDAyYXEtak1GTE1DUHpsdDlkWm5ZSmZOSUR5YUlucjlHekI1Q3BkY1JiUGFGejJNRE5UUGRl0gGyAUFVX3lxTE5QODJQMDV6MEpmVkp5RVU5a1BGY1pEbzN5eUhEbERBSWVodjl2OUQ2S0Mtb29tdXdvTVpydkl5OEdGbzhDc012eVlRV2lQWTRGU3EtSHNwS0ZLenZYZ3lrX0tiRTRMZGhmOTQ3eGFHZ0dZX1NxUEJxNHlMekJlYmg2Uzd0LVVXU1NrUndFdUc4S1Rsemc3ZjZjRHcyX1JrNy0weW1CREVzMU9WbmpMbzBPdmc?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWY5T0JobEFNX1V3WWJnYTZNMTlMeVJKa21CRWwybWowTUdTZ0RKUDZkVG15OXNaOThvdkxEb2FQQlllUVdGOXAwcUdZc3JHc1NxVTVPNm9lOEplUlZhQ1BITTZLelFKNV9PS2I1a196QjFyWHFRMjFoV2pFcDNDWUdzSnZQWjN1Z3hKNnpqYXphOVBXR3RSRWVJVS1JV0d0amsySEMzeU5aS0tvZ2ZnSlBZTUpQQ1JGRXNFLXpMazMwMkxKQ2pTUXh3?oc=5"
  },
  {
   "id": "rt-a36cee423a60",
@@ -7747,9 +7734,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5WNHN1NzFjbUE0dVMyNEROTUZrZ3RiUC1yVkszQU5VVnFBdGs1TUlZMS1TQ0lnV0g5STVBUXY3UXo?oc=5"
  },
  {
-  "id": "rt-ba1cc82b12e9",
-  "titleCn": "Anggota NCT buat kejutan, berhabis lebih RM3,000 untuk peminat sempena Hari Kekasih - mStar",
-  "titleOrig": "Anggota NCT buat kejutan, berhabis lebih RM3,000 untuk peminat sempena Hari Kekasih - mStar",
+  "id": "rt-89df522875f2",
+  "titleCn": "Remaja Ini Hasilkan Siri Anime K-Drama Sendiri Bersama Idolanya, Jeon Wonwoo Seventeen - remaja.my",
+  "titleOrig": "Remaja Ini Hasilkan Siri Anime K-Drama Sendiri Bersama Idolanya, Jeon Wonwoo Seventeen - remaja.my",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7758,7 +7745,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻热点：Anggota NCT buat kejutan, berhabis lebih RM3,000 untuk peminat sempena Hari Kekasih - mStar",
+  "summary": "马来西亚新闻热点：Remaja Ini Hasilkan Siri Anime K-Drama Sendiri Bersama Idolanya, Jeon Wonwoo Seventeen - remaja.my",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7768,7 +7755,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSVNLNmxqYTNxN1NZS3N2LTlhME1wb2gwZ0pRVE1YMXlRYlF5OVI5TDF0Y3hRakRsUXV5UDJTRmRwbXJmQy05cnNDVDAzMC0xUGN3RVljdllWem9kaUtTUVh3cUNwLUEyUXdtNmY5NWo5YUhBQW85QkVrdWwtcFdUUFlNSF8ySmxWVHFET1QyYXczWVdRS3ZzSThobWF3ZjROa1BvRDJMb2tMblA5V1FzY1B4M2J1dzZkdWZ0UmdJeU8ybFczYnlzNk45ZVU1Q1RnRkhXS1Jsd04yUQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeTZMZjVfREFEUGxxNk1ndzBoaUxGeTJOWlpqYkFkTjZQQ21pMDZhVlBzQldRN3IzUm5GU0ttczJzekdRd1hyVV9WaktPYXBsdU5fUTM0ZC1vbnJnREdfaWtmSUNla2pXb1BwbTdRSXI2eEV3aW5IaDAyYXEtak1GTE1DUHpsdDlkWm5ZSmZOSUR5YUlucjlHekI1Q3BkY1JiUGFGejJNRE5UUGRl0gGyAUFVX3lxTE5QODJQMDV6MEpmVkp5RVU5a1BGY1pEbzN5eUhEbERBSWVodjl2OUQ2S0Mtb29tdXdvTVpydkl5OEdGbzhDc012eVlRV2lQWTRGU3EtSHNwS0ZLenZYZ3lrX0tiRTRMZGhmOTQ3eGFHZ0dZX1NxUEJxNHlMekJlYmg2Uzd0LVVXU1NrUndFdUc4S1Rsemc3ZjZjRHcyX1JrNy0weW1CREVzMU9WbmpMbzBPdmc?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7792,7 +7779,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSVNLNmxqYTNxN1NZS3N2LTlhME1wb2gwZ0pRVE1YMXlRYlF5OVI5TDF0Y3hRakRsUXV5UDJTRmRwbXJmQy05cnNDVDAzMC0xUGN3RVljdllWem9kaUtTUVh3cUNwLUEyUXdtNmY5NWo5YUhBQW85QkVrdWwtcFdUUFlNSF8ySmxWVHFET1QyYXczWVdRS3ZzSThobWF3ZjROa1BvRDJMb2tMblA5V1FzY1B4M2J1dzZkdWZ0UmdJeU8ybFczYnlzNk45ZVU1Q1RnRkhXS1Jsd04yUQ?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeTZMZjVfREFEUGxxNk1ndzBoaUxGeTJOWlpqYkFkTjZQQ21pMDZhVlBzQldRN3IzUm5GU0ttczJzekdRd1hyVV9WaktPYXBsdU5fUTM0ZC1vbnJnREdfaWtmSUNla2pXb1BwbTdRSXI2eEV3aW5IaDAyYXEtak1GTE1DUHpsdDlkWm5ZSmZOSUR5YUlucjlHekI1Q3BkY1JiUGFGejJNRE5UUGRl0gGyAUFVX3lxTE5QODJQMDV6MEpmVkp5RVU5a1BGY1pEbzN5eUhEbERBSWVodjl2OUQ2S0Mtb29tdXdvTVpydkl5OEdGbzhDc012eVlRV2lQWTRGU3EtSHNwS0ZLenZYZ3lrX0tiRTRMZGhmOTQ3eGFHZ0dZX1NxUEJxNHlMekJlYmg2Uzd0LVVXU1NrUndFdUc4S1Rsemc3ZjZjRHcyX1JrNy0weW1CREVzMU9WbmpMbzBPdmc?oc=5"
  },
  {
   "id": "rt-6b8a64fed242",
@@ -8083,54 +8070,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjRVQzE2Y0FIRmhUUThsakIzTDJJcExiVF9tSFlwWDR5V1pjVVRkR0gwdzI2WnhWVnJYYzhxUGpiMUFyMk1YMUFSQXE5Vm4tSUVid0RCMDhHT242d2xUZFZ4RzRyQ3dYRFg1dW9VYUtBV1J2NEkwWDVwSFhmQ3ZZOGVBUVJTb1l6VGNvQXpKcWRNMXRWX0NWaWdJSQ?oc=5"
  },
  {
-  "id": "rt-0cdd1760e898",
-  "titleCn": "EP.7 (5/7) ทะเลลวง - Marcus Theatres",
-  "titleOrig": "EP.7 (5/7) ทะเลลวง - Marcus Theatres",
-  "catCn": "影视剧",
-  "cat": "film_tv",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国影视剧：EP.7 (5/7) ทะเลลวง - Marcus Theatres",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOXlEQlRfTF9odk1wRDRpTlR4bDdaUEhKNWY4d285b1VXd0ZuTDdRaVg0T1ZvdmFTbXBBWlZwZEdfN05FWWp1Z01vRGdVSlVmZWpFVUc5bW5NdF9qVjUxc1YxXzc?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOXlEQlRfTF9odk1wRDRpTlR4bDdaUEhKNWY4d285b1VXd0ZuTDdRaVg0T1ZvdmFTbXBBWlZwZEdfN05FWWp1Z01vRGdVSlVmZWpFVUc5bW5NdF9qVjUxc1YxXzc?oc=5"
- },
- {
   "id": "rt-5361c7229f37",
   "titleCn": "Check out this list of Japanese series &amp; movies! Level up your language skills while you binge-watch. - spu.ac.th",
   "titleOrig": "Check out this list of Japanese series &amp; movies! Level up your language skills while you binge-watch. - spu.ac.th",
@@ -8177,6 +8116,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-23",
   "primaryUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbWxiTkxYNmFwTXQyS1R5bWQ5bXZ4bmY0QjY0SUNpZVlXSFlZdVhmSmF6UllQYnlLMnhIU0VxemthWXA1OW9YeFF3dXNzRlpoajktVDJJVld2R0E3MW1pOXJZWFI2NWx0WWY2bWVWYTNrdjJTYm1OcUowSHBKSW5ySlE3UGRjbmFfdnhtSGFSdXJQTWhhUXlpY3k1eTNlYVI5V1dGSmhkWlZPNHd3d2tJNnAxbl9RQ29UZmc2eFdsODdpc3plUFNDdnZ6Rkd3Wm1BbnRsZ3ZsMng4S00?oc=5"
+ },
+ {
+  "id": "rt-c9bc5d312cd2",
+  "titleCn": "THE RHYTHM OF REVENGE EP.2 - 747live.bet",
+  "titleOrig": "THE RHYTHM OF REVENGE EP.2 - 747live.bet",
+  "catCn": "影视剧",
+  "cat": "film_tv",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国影视剧：THE RHYTHM OF REVENGE EP.2 - 747live.bet",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01WVI1NjhhTkNVU3hraHZiSDN2eVBMUi16VW4tZVlmNExyUjhUdGR1SzluSmJvbklmMUVlNjhlV204WmhjdGZlbXBSdXJpSEJ1NzJtdWd2MlNraDZlVm4tLVVWQTVYZFp1cGl0R0dLcw?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01WVI1NjhhTkNVU3hraHZiSDN2eVBMUi16VW4tZVlmNExyUjhUdGR1SzluSmJvbklmMUVlNjhlV204WmhjdGZlbXBSdXJpSEJ1NzJtdWd2MlNraDZlVm4tLVVWQTVYZFp1cGl0R0dLcw?oc=5"
  },
  {
   "id": "rt-075c557d5dd4",
@@ -8371,54 +8358,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2xTWURjWkFrbG9OVTlKNWJULVRfMElibEdyNi1ualJJSEJUT3dJU0NYVExqeGdtVGJVRDRUdmdRVEFoNE5pTmNhQjJBbGZfZ1VLVkR6LUZaaGZFY2hPdXVIV0E1NFNjcTJoOVFjRDl1SERtSjRPMlpkNmg2ODA4WXZVMzJ0ZHdDRXV2TXdSQlBlNzlaME81bUFLWVVidWJTUlBOLW1ITC1LeVBNUDhoUE93?oc=5"
  },
  {
-  "id": "rt-805d55f5e0c2",
-  "titleCn": "Katy Perry : คอนเสิร์ตทัวร์ The Prismatic World Tour ของเธอ ชมได้ทาง France 4 - Sortir à Paris",
-  "titleOrig": "Katy Perry : คอนเสิร์ตทัวร์ The Prismatic World Tour ของเธอ ชมได้ทาง France 4 - Sortir à Paris",
-  "catCn": "演唱会综艺",
-  "cat": "concert_show",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国演唱会综艺：Katy Perry : คอนเสิร์ตทัวร์ The Prismatic World Tour ของเธอ ชมได้ทาง France 4 - Sortir à Paris",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS2Z3ZGRUTktLTnJndW5jX0hwNjV6MTF4ODUtQ1NzSkdQR2RNODhPWnhoaVpXcVc2eW9oSFdNOWRRaXJYejFTaGNJc2hNbmdIMEpMLXdVVWpVM0tMWDFfcG9ZbEdYSlpwSHNucXIzTERmWk5oOVFzS1dtcmJBVjREdVFIZ0VKV3UtUThmM2NQLVdJcEpjSmRNRU5DSFRJd1RsNE1ORXNJTXM2LTJ1clZEN09YSEdUS1FibGVCWDdaZlpxZFJoRHE1aVQyTk5uNmNSZTIxVW5Na0ZaRzRGOWlFaFl1NnhCUWhZTnFWbVJCM19MYk9DQVFfcDNuV2hLQQ?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-08-23",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS2Z3ZGRUTktLTnJndW5jX0hwNjV6MTF4ODUtQ1NzSkdQR2RNODhPWnhoaVpXcVc2eW9oSFdNOWRRaXJYejFTaGNJc2hNbmdIMEpMLXdVVWpVM0tMWDFfcG9ZbEdYSlpwSHNucXIzTERmWk5oOVFzS1dtcmJBVjREdVFIZ0VKV3UtUThmM2NQLVdJcEpjSmRNRU5DSFRJd1RsNE1ORXNJTXM2LTJ1clZEN09YSEdUS1FibGVCWDdaZlpxZFJoRHE1aVQyTk5uNmNSZTIxVW5Na0ZaRzRGOWlFaFl1NnhCUWhZTnFWbVJCM19MYk9DQVFfcDNuV2hLQQ?oc=5"
- },
- {
   "id": "rt-73cc04060943",
   "titleCn": "ส่องรายได้ทัวร์คอนเสิร์ตศิลปินดัง ทัวร์ครั้งเดียวมูลค่าเท่า GDP บางประเทศ - Marketeer Online",
   "titleOrig": "ส่องรายได้ทัวร์คอนเสิร์ตศิลปินดัง ทัวร์ครั้งเดียวมูลค่าเท่า GDP บางประเทศ - Marketeer Online",
@@ -8465,6 +8404,54 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-08-23",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13RS1FY29SUWdZeEtPeGdnV19OaUtJaGRDWVUzMVV4Sk9YdHN6OTZzTEpZZzRBcUNnNEswYXF1QmdqZEZ4RGV6cGFyWVVKOTM2TTMyag?oc=5"
+ },
+ {
+  "id": "rt-805d55f5e0c2",
+  "titleCn": "Katy Perry : คอนเสิร์ตทัวร์ The Prismatic World Tour ของเธอ ชมได้ทาง France 4 - Sortir à Paris",
+  "titleOrig": "Katy Perry : คอนเสิร์ตทัวร์ The Prismatic World Tour ของเธอ ชมได้ทาง France 4 - Sortir à Paris",
+  "catCn": "演唱会综艺",
+  "cat": "concert_show",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国演唱会综艺：Katy Perry : คอนเสิร์ตทัวร์ The Prismatic World Tour ของเธอ ชมได้ทาง France 4 - Sortir à Paris",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS2Z3ZGRUTktLTnJndW5jX0hwNjV6MTF4ODUtQ1NzSkdQR2RNODhPWnhoaVpXcVc2eW9oSFdNOWRRaXJYejFTaGNJc2hNbmdIMEpMLXdVVWpVM0tMWDFfcG9ZbEdYSlpwSHNucXIzTERmWk5oOVFzS1dtcmJBVjREdVFIZ0VKV3UtUThmM2NQLVdJcEpjSmRNRU5DSFRJd1RsNE1ORXNJTXM2LTJ1clZEN09YSEdUS1FibGVCWDdaZlpxZFJoRHE1aVQyTk5uNmNSZTIxVW5Na0ZaRzRGOWlFaFl1NnhCUWhZTnFWbVJCM19MYk9DQVFfcDNuV2hLQQ?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-08-23",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS2Z3ZGRUTktLTnJndW5jX0hwNjV6MTF4ODUtQ1NzSkdQR2RNODhPWnhoaVpXcVc2eW9oSFdNOWRRaXJYejFTaGNJc2hNbmdIMEpMLXdVVWpVM0tMWDFfcG9ZbEdYSlpwSHNucXIzTERmWk5oOVFzS1dtcmJBVjREdVFIZ0VKV3UtUThmM2NQLVdJcEpjSmRNRU5DSFRJd1RsNE1ORXNJTXM2LTJ1clZEN09YSEdUS1FibGVCWDdaZlpxZFJoRHE1aVQyTk5uNmNSZTIxVW5Na0ZaRzRGOWlFaFl1NnhCUWhZTnFWbVJCM19MYk9DQVFfcDNuV2hLQQ?oc=5"
  },
  {
   "id": "rt-cf1e2f01c2f8",
@@ -8611,9 +8598,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82dVhPVnVDYmE2Y2FSM0hFUElTS3JJMFZwdDM5WG9NR3VER1hBQjZud2VMNWt0UHNxYmozZTlHbGg0czNYNkE1Q1JCUTR4RkVZbFJGa0hydC0?oc=5"
  },
  {
-  "id": "rt-a8c18ee88e1a",
-  "titleCn": "2026 Hualien Summer Carnival Taiwan's Premier Summer Music Festival - DagangNews",
-  "titleOrig": "2026 Hualien Summer Carnival Taiwan's Premier Summer Music Festival - DagangNews",
+  "id": "rt-2fcfd5ddba26",
+  "titleCn": "BANDSINTOWN POWERS CONCERT LISTINGS ON APPLE MUSIC WITH THE RELEASE OF IOS 26.4 - Kosmo Digital",
+  "titleOrig": "BANDSINTOWN POWERS CONCERT LISTINGS ON APPLE MUSIC WITH THE RELEASE OF IOS 26.4 - Kosmo Digital",
   "catCn": "演唱会综艺",
   "cat": "concert_show",
   "country": "马来西亚",
@@ -8622,7 +8609,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚演唱会综艺：2026 Hualien Summer Carnival Taiwan's Premier Summer Music Festival - DagangNews",
+  "summary": "马来西亚演唱会综艺：BANDSINTOWN POWERS CONCERT LISTINGS ON APPLE MUSIC WITH THE RELEASE OF IOS 26.4 - Kosmo Digital",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -8632,7 +8619,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmROREg5MExrcmk4anBXTXpJNzBkUERmR0dBeG9Idy1mMllMRnFTZzlGS2Q2MG1BYmR2MmR4aExlQVhoV19zTS1ISGt5bWRWNFpYRnBPSFFJN3o3Wmw3Z0JNeXVhUlpJbHVUTmVLVHd1QXNEbENwQk96YzNvaWRCcWpDd2J3NXNQQndWd3NFdmYta2RVbFhDeDBnWkpMamZ2aFFhRVYyaEg0M1AxTUVsSVBOVjhqSHU5RnRLazNHLTNiaXc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFh4NG1UZjZaZzJ3Zlp3WGhJR09kdXFGWTF4cjQtNy1DOFVUNHpFNFFxc1huZmZOY0E3bjh1aWZwM1E1M1B3d3U1MDFsSk1NWTBRa0xLOVhUUGVIQ01RSTJDdzhBMFJBZVJpZE10dkdieVVlVVFoQU16NjJTVEFmUnNoRTdwdkN6bGRQYS1DX0FaMVMyLS1hRGFrMEQ4dVh4cHZaZUFxa3FPSjNqc09rVWw2cVdRTnM?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -8656,7 +8643,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-08-23",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmROREg5MExrcmk4anBXTXpJNzBkUERmR0dBeG9Idy1mMllMRnFTZzlGS2Q2MG1BYmR2MmR4aExlQVhoV19zTS1ISGt5bWRWNFpYRnBPSFFJN3o3Wmw3Z0JNeXVhUlpJbHVUTmVLVHd1QXNEbENwQk96YzNvaWRCcWpDd2J3NXNQQndWd3NFdmYta2RVbFhDeDBnWkpMamZ2aFFhRVYyaEg0M1AxTUVsSVBOVjhqSHU5RnRLazNHLTNiaXc?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFh4NG1UZjZaZzJ3Zlp3WGhJR09kdXFGWTF4cjQtNy1DOFVUNHpFNFFxc1huZmZOY0E3bjh1aWZwM1E1M1B3d3U1MDFsSk1NWTBRa0xLOVhUUGVIQ01RSTJDdzhBMFJBZVJpZE10dkdieVVlVVFoQU16NjJTVEFmUnNoRTdwdkN6bGRQYS1DX0FaMVMyLS1hRGFrMEQ4dVh4cHZaZUFxa3FPSjNqc09rVWw2cVdRTnM?oc=5"
  },
  {
   "id": "rt-1843a78a9ed1",
@@ -9955,5 +9942,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSFhXRzhJTGdDWkRaaXpjOEx1WTl6eVYwQkpvZU9RUzBMQnBSa2F4VFBqVERtZjRiLWFNMjhGcElDanNfQzF3a051a0liZERlZUVMNmdMeFNIVlJjWTc3RElOUTFraEQ1d2V2WmNOVlVKYVh1eW8xZnZTc1pCWDZFOTBad2lCczFQd2JQeWNMekbSAZYBQVVfeXFMT29ETWZIWGFxalJPR05GamFWa3F6cDNPRjRja0p2TlZYRW5pWFo3aUYwZkozSENoaXlDbVBlYWpvZGVpYWgtLW8yNnY0ZGNQNElDRTlZNm4xU1RBS3NGcHZnakxNU2Q2VTFoMmpGT3lmNTVOVVVONkdpTVFRZmJXZlZ6VW93NEJGaFU2SHA3enNnT0FKcVpn?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-08-23T19:17:01";
+window.REALTIME_UPDATED = "2026-08-23T19:45:54";
 window.REALTIME_CARRIED = false;
