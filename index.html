@@ -118,7 +118,8 @@
 </div>
 
 <!-- Lightbox -->
-<div class="lb-mask" id="lbMask" onclick="if(event.target===this)closeLightbox()">
+<div class="lb-mask" id="lbMask" onclick="closeLightbox()">
+  <button class="lb-close" type="button" aria-label="关闭大图" onclick="event.stopPropagation();closeLightbox()">×</button>
   <img id="lbImg" src="" alt="" />
 </div>
 

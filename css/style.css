@@ -275,6 +275,9 @@ main{max-width:1320px;margin:0 auto;padding:8px 28px 40px}
 .lb-mask{position:fixed;inset:0;background:rgba(16,24,40,.82);display:none;align-items:center;justify-content:center;z-index:200;padding:24px;cursor:zoom-out}
 .lb-mask.open{display:flex}
 .lb-mask img{max-width:92vw;max-height:92vh;border-radius:12px;box-shadow:0 24px 60px rgba(0,0,0,.5)}
+.lb-close{position:fixed;top:18px;right:18px;width:44px;height:44px;border-radius:50%;border:none;background:rgba(255,255,255,.92);color:#1f2733;font-size:26px;line-height:1;font-weight:700;cursor:pointer;z-index:210;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 16px rgba(0,0,0,.35);transition:transform .12s,background .12s}
+.lb-close:hover{background:#fff;transform:scale(1.06)}
+.lb-close:active{transform:scale(.94)}
 
 @media(max-width:760px){
   .hero{flex-direction:column;align-items:flex-start}

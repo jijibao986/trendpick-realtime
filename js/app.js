@@ -1368,6 +1368,10 @@
     if (typeof e.hotDays !== "number") e.hotDays = Number(e.hotDays) || 1;
     if (typeof e.hasMedia !== "boolean") e.hasMedia = !!e.hasMedia;
     if (typeof e.localFlag !== "boolean") e.localFlag = !!e.localFlag;
+    // 兜底：实时层常不带 localFlag，但 sourceBreadth.local 为真时同样视作含本地媒体，避免「含本地媒体」开关形同虚设
+    if (!e.localFlag && e.sourceBreadth && (e.sourceBreadth.local === true || e.sourceBreadth.local > 0)) e.localFlag = true;
+    // fresh（今日日报徽标）以 batch 是否日报批次为准：realtime 批次并非日报，避免全部卡片误标「今日日报」
+    e.fresh = (e.batch || "").startsWith("daily");
     if (typeof e.cover !== "string") e.cover = "";
     if (typeof e.coverType !== "string") e.coverType = "placeholder";
     if (typeof e.printType !== "string") e.printType = "文字+图案";
