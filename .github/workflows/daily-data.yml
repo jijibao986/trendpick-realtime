@@ -1,5 +1,9 @@
 name: 印选 data.js 每日云端更新
 
+# 已停用：职责由 daily-curated.yml 单一写者吸收（避免双 workflow 抢改 data.js）
+# 保留文件仅作历史参考；如恢复请删除下行。
+if: false
+
 on:
   schedule:
     # UTC 0:00 = 北京时间 8:00，每天跑一次
