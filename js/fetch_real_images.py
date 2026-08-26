@@ -597,7 +597,7 @@ def get_local(img_url, eid):
     min_b = 6000 if ("wikipedia" not in img_url and "anilist" not in img_url) else 3000
     path = os.path.join(REAL_DIR, eid + ".jpg")
     if download(img_url, path, min_b):
-        rel = f"real/{eid}.jpg"
+        rel = f"img/real/{eid}.jpg"
         CACHE_URL[img_url] = rel
         return rel
     return None
