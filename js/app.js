@@ -1549,7 +1549,69 @@
     document.addEventListener("visibilitychange", function () { if (!document.hidden) tick(); });
   }
 
-  function boot() { rebuildEvents(); init(); setupLiveUpdate(); startRealtimeCountdown(); }
+  // ---------- 天气：泰国·马来西亚（Open-Meteo，免费公开、支持跨域）----------
+  const WEATHER_CITIES = [
+    { cn: "曼谷", country: "🇹🇭 泰国", lat: 13.7563, lon: 100.5018, tz: "Asia/Bangkok" },
+    { cn: "清迈", country: "🇹🇭 泰国", lat: 18.7883, lon: 98.9853, tz: "Asia/Bangkok" },
+    { cn: "吉隆坡", country: "🇲🇾 马来西亚", lat: 3.1390, lon: 101.6869, tz: "Asia/Kuala_Lumpur" },
+    { cn: "槟城", country: "🇲🇾 马来西亚", lat: 5.4164, lon: 100.3327, tz: "Asia/Kuala_Lumpur" },
+    { cn: "亚庇", country: "🇲🇾 马来西亚", lat: 5.9804, lon: 116.0735, tz: "Asia/Kuala_Lumpur" },
+  ];
+  const WMO = {
+    0: ["☀️", "晴"], 1: ["🌤️", "大致晴朗"], 2: ["⛅", "局部多云"], 3: ["☁️", "阴"],
+    45: ["🌫️", "雾"], 48: ["🌫️", "雾凇"], 51: ["🌦️", "毛毛雨"], 53: ["🌦️", "毛毛雨"], 55: ["🌦️", "毛毛雨"],
+    56: ["🌧️", "冻毛毛雨"], 57: ["🌧️", "冻毛毛雨"], 61: ["🌧️", "小雨"], 63: ["🌧️", "中雨"], 65: ["🌧️", "大雨"],
+    66: ["🌧️", "冻雨"], 67: ["🌧️", "冻雨"], 71: ["🌨️", "小雪"], 73: ["🌨️", "中雪"], 75: ["❄️", "大雪"], 77: ["🌨️", "雪粒"],
+    80: ["🌦️", "阵雨"], 81: ["🌧️", "阵雨"], 82: ["⛈️", "强阵雨"], 85: ["🌨️", "阵雪"], 86: ["🌨️", "阵雪"],
+    95: ["⛈️", "雷暴"], 96: ["⛈️", "雷暴冰雹"], 99: ["⛈️", "雷暴冰雹"],
+  };
+  function wmo(code) { return WMO[code] || ["🌡️", "未知"]; }
+  const WDAY_LABEL = ["今天", "明天", "后天", "大后天"];
+  function weatherHint(cur, daily) {
+    const maxP = Math.max(0, ...(daily.precipitation_probability_max || [0]).slice(1, 4));
+    const t = cur.temperature_2m;
+    if (maxP >= 70) return "☔ 未来降雨概率高：雨具 / 防水 / 乌云·雨滴题材可上，物流注意防潮";
+    if (t >= 34) return "🔥 高温炎热：清凉夏款、冰饮·海岛题材更吃香";
+    if (t <= 22) return "🍃 凉爽舒适：长袖过渡款、暖色系可布局";
+    return "🌿 天气平稳：常规题材按计划推进即可";
+  }
+  function loadWeather() {
+    const grid = document.getElementById("weatherGrid");
+    if (!grid) return;
+    grid.innerHTML = WEATHER_CITIES.map((c) =>
+      `<div class="wcard"><div class="wcity">${c.cn}</div><div class="wcountry">${c.country}</div><div class="wloading">加载中…</div></div>`
+    ).join("");
+    WEATHER_CITIES.forEach((c, i) => {
+      const url = `https://api.open-meteo.com/v1/forecast?latitude=${c.lat}&longitude=${c.lon}` +
+        `&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m` +
+        `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max` +
+        `&timezone=${encodeURIComponent(c.tz)}&forecast_days=4`;
+      fetch(url).then((r) => r.json()).then((d) => {
+        if (!d || !d.current) throw new Error("no data");
+        const cur = d.current, daily = d.daily;
+        const [ico, desc] = wmo(cur.weather_code);
+        const fc = [];
+        for (let k = 1; k < Math.min(4, daily.time.length); k++) {
+          const [di] = wmo(daily.weather_code[k]);
+          fc.push(`<div class="wday"><span>${WDAY_LABEL[k] || "第" + k + "天"}</span><span class="wdi">${di}</span>` +
+            `<span class="wt">${Math.round(daily.temperature_2m_max[k])}°</span><span class="wb">${Math.round(daily.temperature_2m_min[k])}°</span></div>`);
+        }
+        const html = `<div class="wcity">${c.cn}</div><div class="wcountry">${c.country}</div>` +
+          `<div class="wcur"><span class="wico">${ico}</span><span class="wtemp">${Math.round(cur.temperature_2m)}°</span>` +
+          `<span class="wdesc">${desc}<br>体感 ${Math.round(cur.apparent_temperature)}°</span></div>` +
+          `<div class="wmeta"><span>💧 湿度 <b>${cur.relative_humidity_2m}%</b></span><span>💨 风 <b>${Math.round(cur.wind_speed_10m)} km/h</b></span></div>` +
+          `<div class="wfc">${fc.join("")}</div>` +
+          `<div class="whint">${weatherHint(cur, daily)}</div>`;
+        const cards = grid.querySelectorAll(".wcard");
+        if (cards[i]) cards[i].innerHTML = html;
+      }).catch((err) => {
+        const cards = grid.querySelectorAll(".wcard");
+        if (cards[i]) cards[i].innerHTML = `<div class="wcity">${c.cn}</div><div class="wcountry">${c.country}</div><div class="werr">天气获取失败，请检查网络</div>`;
+      });
+    });
+  }
+
+  function boot() { rebuildEvents(); init(); setupLiveUpdate(); startRealtimeCountdown(); loadWeather(); }
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", boot);
   } else {

@@ -350,3 +350,27 @@ main{max-width:1320px;margin:0 auto;padding:8px 28px 40px}
   .kw-similar{grid-template-columns:1fr}
   .kw-slogan-row{flex-direction:column;align-items:flex-start}
 }
+
+/* Weather (泰国·马来天气参考) */
+.weather{max-width:1320px;margin:0 auto;padding:18px 28px 6px}
+.weather-head{display:flex;align-items:baseline;gap:12px;margin-bottom:12px;flex-wrap:wrap}
+.weather-head h2{font-size:18px;font-weight:800}
+.weather-sub{font-size:12px;color:var(--muted)}
+.wgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.wcard{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:14px 16px;box-shadow:var(--shadow)}
+.wcity{font-size:16px;font-weight:800}
+.wcountry{font-size:11px;color:var(--muted);margin-bottom:6px}
+.wcur{display:flex;align-items:center;gap:10px;margin:4px 0}
+.wcur .wico{font-size:34px;line-height:1}
+.wcur .wtemp{font-size:28px;font-weight:800}
+.wcur .wdesc{font-size:13px;color:var(--muted)}
+.wmeta{display:flex;gap:10px;font-size:12px;color:var(--muted);margin:2px 0 8px;flex-wrap:wrap}
+.wmeta b{color:var(--text);font-weight:700}
+.wfc{display:flex;gap:6px;margin-top:6px;border-top:1px dashed var(--border);padding-top:8px}
+.wday{flex:1;text-align:center;font-size:11px;color:var(--muted);line-height:1.5}
+.wday .wdi{font-size:18px;display:block}
+.wday .wt{color:var(--text);font-weight:700;font-size:11px}
+.wday .wb{font-size:10px}
+.whint{margin-top:8px;font-size:11px;background:#eef2ff;color:#4338ca;padding:5px 8px;border-radius:8px;line-height:1.45}
+.wloading,.werr{font-size:13px;color:var(--muted);padding:10px 2px}
+.werr{color:var(--red)}
