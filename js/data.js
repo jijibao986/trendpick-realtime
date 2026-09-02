@@ -1,4 +1,4 @@
-window.SITE_UPDATED = "2026-09-01T09:33:35";
+window.SITE_UPDATED = "2026-09-02T10:28:11";
 window.EVENTS = [
  {
   "id": "eb8a9cfd0f3b4edaa410f165",
@@ -133179,6 +133179,25272 @@ window.EVENTS = [
    "social_only": 0
   },
   "batch": "daily-2026-09-01",
+  "fresh": true
+ },
+ {
+  "id": "f2045d6288a6f90569a1e3d2",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 4,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰剧《Mr.Kill》第9集播出",
+  "titleOrig": "MrKillSeriesEP9（Mr.Kill 系列第9集）",
+  "summary": "泰国X上全天稳居热搜榜首的泰剧《Mr.Kill》当日更新第9集，讨论量在泰国与马来西亚同时登顶。该剧凭借强剧情与高人气主创积累大量忠实观众，每集播出均引爆社交话题，是泰版T恤印花围绕剧集名与名台词做联名款的热门素材。",
+  "tags": [
+   "Mr.Kill",
+   "泰剧",
+   "热播剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 663
+   },
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 620
+   },
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 580
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 90,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "播出日",
+    "desc": "《Mr.Kill》第9集播出，泰国、马来西亚热搜双榜登顶"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰剧《Mr.Kill》第9集播出",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "528581e64e7a73cdafa37df7",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰星 Tle 单曲《Tle First One》发布",
+  "titleOrig": "TleFirstone（Tle 首支单曲）",
+  "summary": "泰国艺人Tle的新单曲《Tle First One》在9月2日登上泰国X热搜，相关标签#เติ้ลเฟิร์สวัน（Tle首支）持续在榜。歌曲发布带动MV播放与粉丝应援，歌词金句适合做粉丝向文字款T恤，配合艺人形象可开发联名印花款。",
+  "tags": [
+   "Tle",
+   "新单曲",
+   "粉丝应援"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 604
+   },
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 550
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 75,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "发行热度日",
+    "desc": "新单曲话题登上泰国热搜前列"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/08a104123bb94d65af43289e.jpg",
+    "caption": "泰星 Tle 单曲《Tle First One》发布",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/08a104123bb94d65af43289e.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "174bcb30f759ae2a2da8a072",
+  "country": "th",
+  "cat": "ecommerce",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "Shopee 与 TeeteePor 首次直播合作",
+  "titleOrig": "Shopee Live x TeeteePor（Shopee 直播×TeeteePor）",
+  "summary": "电商平台Shopee与泰国艺人TeeteePor的首次合作直播（SHOPEE FIRSTDATE TEETEEPOR）在泰国X热搜上高热，体现品牌与明星联动带货的热潮。直播过程中推出的限定周边、纪念T恤成为粉丝收藏热点，适合作为电商联名款的营销节点。",
+  "tags": [
+   "Shopee",
+   "直播带货",
+   "明星联动"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 660
+   },
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 500
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "直播日",
+    "desc": "Shopee×TeeteePor首次合作直播上线"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4cbf3f2c5dbf6126f7c1cd98.jpg",
+    "caption": "Shopee 与 TeeteePor 首次直播合作",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/4cbf3f2c5dbf6126f7c1cd98.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "52a6891eb7f1b4130b0e154c",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "Orm 代言 Lesasha 与 DECORTÉ 品牌活动",
+  "titleOrig": "ORM X DECORTÉ LIPOSOME / ORM PRESENTER LESASHA（Orm 代言 DECORTÉ 与 Lesasha）",
+  "summary": "泰国人气女星Orm Kornnaphat当日接连代言美妆品牌DECORTÉ（黛珂）与Lesasha，相关话题在泰国和马来西亚X热搜上同频发酵。Orm作为泰国BL/GL圈的顶流演员，其商业活动自带高粉丝转化，品牌联名款、口号款T恤潜力大。",
+  "tags": [
+   "Orm",
+   "美妆代言",
+   "品牌联名"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 420
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 380
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "品牌宣发日",
+    "desc": "Orm代言Lesasha、DECORTÉ话题双榜在列"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e6d83b3767d0b43730c63113.jpg",
+    "caption": "Orm 代言 Lesasha 与 DECORTÉ 品牌活动",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/e6d83b3767d0b43730c63113.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "43a6eeb02b014b0df1659b0d",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "Engfa《The Beloved Star》剧集热播",
+  "titleOrig": "ENGFA THE BELOVED STAR（Engfa 之《挚爱之星》）",
+  "summary": "泰国女星Engfa（Engfa Waraha）主演剧集《The Beloved Star》在9月2日登上泰国与马来西亚热搜，成为Englot粉丝圈关注焦点。剧集热度带动Engfa个人形象与角色台词成为T恤印花素材，适合做粉丝纪念款。",
+  "tags": [
+   "Engfa",
+   "泰剧",
+   "Englot"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 400
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 300
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集讨论日",
+    "desc": "《The Beloved Star》话题双榜在列"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4e0e8d708a584e1fb971551f.jpg",
+    "caption": "Engfa《The Beloved Star》剧集热播",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4e0e8d708a584e1fb971551f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3deeeb162791c15e5b44cc57",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "JimmySea 亮相 Blackmores 帕拉功活动",
+  "titleOrig": "JIMMYSEA BLACKMORES PARAGON（JimmySea×Blackmores 帕拉功站）",
+  "summary": "GMMTV人气BL搭档JimmySea在曼谷Siam Paragon出席保健品牌Blackmores（百澳克）活动，话题登上泰国热搜。JimmySea的粉丝号召力极强，活动现场周边与应援T恤成为热门，品牌与CP联名款是常用变现路径。",
+  "tags": [
+   "JimmySea",
+   "BL",
+   "品牌活动"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 360
+   },
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 300
+   }
+  ],
+  "credibilityScore": 73,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "品牌活动日",
+    "desc": "JimmySea出席Blackmores帕拉功站活动"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/eb8a9cfd0f3b4edaa410f165.jpg",
+    "caption": "JimmySea 亮相 Blackmores 帕拉功活动",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/eb8a9cfd0f3b4edaa410f165.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d3f3aae5c4a7328d93055da9",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "William 痤疮肌肤话题引热议",
+  "titleOrig": "WILLIAM ACNE BREAK（William 痤疮梗）",
+  "summary": "泰国男星William（William Jakrapatr）因皮肤状态的幽默话题“WILLIAM ACNE BREAK”在泰国与马来西亚热搜同时发酵，粉丝以玩梗方式讨论其近况，衍生出调侃式文案。这类轻松的玩梗话题适合做成趣味文字款T恤。",
+  "tags": [
+   "William",
+   "玩梗",
+   "泰国男星"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 340
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 280
+   }
+  ],
+  "credibilityScore": 68,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "玩梗日",
+    "desc": "William皮肤话题引发粉丝幽默讨论"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d90ff08ca42142b39c5e0096.jpg",
+    "caption": "William 痤疮肌肤话题引热议",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/d90ff08ca42142b39c5e0096.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "787889bba1a65eb9cf64e857",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "Charlotte《Precious Time》企划讨论",
+  "titleOrig": "PRECIOUS TIME CHARLOTTE（Charlotte 珍贵时光企划）",
+  "summary": "泰国女星Charlotte Austin（Englot成员）的个人企划《Precious Time》在泰国与马来西亚热搜在列，粉丝通过话题追踪其最新动态。Charlotte作为Engfa的CP搭档，粉丝粘性高，相关企划名适合开发限量纪念款T恤。",
+  "tags": [
+   "Charlotte",
+   "Englot",
+   "粉丝企划"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 320
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 260
+   }
+  ],
+  "credibilityScore": 66,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "企划讨论日",
+    "desc": "Charlotte《Precious Time》话题双榜在列"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4ab62a31f5a04283bd6fcbcc.jpg",
+    "caption": "Charlotte《Precious Time》企划讨论",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4ab62a31f5a04283bd6fcbcc.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "46980dea4064d4e50f0e8c9c",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "Offroad 新作《IFYF》预告释出",
+  "titleOrig": "OFFROAD IFYF TEASER（Offroad《IFYF》预告）",
+  "summary": "泰国男星Offroad的新作《IFYF》官方预告在9月2日释出并登上热搜。新剧预告片带动粉丝讨论，剧名与预告金句成为T恤印花的潜在素材，属于可提前布局的影视联名款。",
+  "tags": [
+   "Offroad",
+   "新剧预告",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 280
+   },
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 240
+   }
+  ],
+  "credibilityScore": 64,
+  "buzzIndex": 55,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "预告释出日",
+    "desc": "Offroad《IFYF》官方预告发布"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "Offroad 新作《IFYF》预告释出",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "55448e388f870c3c1b545fde",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰剧《Third Person》官方预告",
+  "titleOrig": "THIRD PERSON OFFICIAL TRAILER（《第三人》官方预告）",
+  "summary": "泰剧《Third Person》官方预告与主题曲MV在泰国热搜持续发酵，包含#ThirdPersonTheSeries等多个相关标签。该剧前期宣发引发大量关注，剧名英文设计与角色形象适合作为图案款T恤主视觉。",
+  "tags": [
+   "Third Person",
+   "泰剧",
+   "预告片"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 330
+   },
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 280
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "预告热映",
+    "desc": "《Third Person》预告与MV话题在榜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰剧《Third Person》官方预告",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "bf343a8d2e7f549d4f7d88da",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "CP粉圈",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "MilkLove 粉丝见面会",
+  "titleOrig": "MilkLoveFancon（MilkLove 粉丝见面会）",
+  "summary": "GMMTV人气GL CP搭档Milk Love的粉丝见面会话题在泰国与马来西亚热搜双双在列，是当日GL圈最热活动之一。MilkLove拥有庞大海外粉丝，见面会周边T恤、应援文案与两人合照均是热门印花素材。",
+  "tags": [
+   "MilkLove",
+   "GL",
+   "粉丝见面会"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 341
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 320
+   },
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 300
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 82,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "见面会话题升温",
+    "desc": "MilkLoveFancon双榜热搜在列"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/da268c33a5d74c40b38469ff.jpg",
+    "caption": "MilkLove 粉丝见面会",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/da268c33a5d74c40b38469ff.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5a82ceeb7b7e55aa5e409464",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "CP粉圈",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "NamtanFilm 粉丝见面会",
+  "titleOrig": "NamtanFilmFancon（NamtanFilm 粉丝见面会）",
+  "summary": "泰国GL CP搭档Namtan Film的粉丝见面会话题登上泰国热搜。两人同为GMMTV旗下热播GL剧演员，粉丝群体活跃，见面会相关周边、口号款T恤需求高。",
+  "tags": [
+   "NamtanFilm",
+   "GL",
+   "粉丝见面会"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 290
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "见面会话题",
+    "desc": "NamtanFilmFancon登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/3abc633af88d42b28f4ee220.jpg",
+    "caption": "NamtanFilm 粉丝见面会",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/3abc633af88d42b28f4ee220.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8edbe0705e09fed9f5a59bd5",
+  "country": "my",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "金·秀贤马来西亚热搜",
+  "titleOrig": "KIM SOOHYUN（金秀贤）",
+  "summary": "韩国演员金秀贤(Kim Soohyun)当日登上马来西亚X热搜，与其近期的作品或活动有关。韩星在东南亚拥有大量粉丝，相关名字与角色名适合作为文字款T恤素材。",
+  "tags": [
+   "金秀贤",
+   "韩星",
+   "马来热搜"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 260
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 240
+   }
+  ],
+  "credibilityScore": 60,
+  "buzzIndex": 55,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "金秀贤登上马来西亚X热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/debd2a68ad254c6c8e524165.jpg",
+    "caption": "金·秀贤马来西亚热搜",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/debd2a68ad254c6c8e524165.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "62cbfbc78de61fe4fb27df2c",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "Ditto《Ready for Take Off》第8集",
+  "titleOrig": "DITTO READY FOR TAKE OFF Q8（Ditto《Ready for Take Off》第8集）",
+  "summary": "泰剧/综艺《Ready for Take Off》第8集相关话题在泰国与马来西亚热搜在列，节目名与标语适合做联名文字款T恤，粉丝可借此表达追更热情。",
+  "tags": [
+   "Ditto",
+   "泰剧",
+   "联名款"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 250
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 220
+   }
+  ],
+  "credibilityScore": 58,
+  "buzzIndex": 52,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《Ready for Take Off》第8集话题双榜在列"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "Ditto《Ready for Take Off》第8集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a5c7038a9f27d721248ec062",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "BamBam×adidas Originals 联名",
+  "titleOrig": "BamBam x adidas Originals（BamBam×阿迪达斯三叶草）",
+  "summary": "泰国男团GOT7成员BamBam与adidas Originals（阿迪达斯三叶草）的联名合作话题登上泰国热搜。品牌×明星联名带来潮流穿搭与印花设计灵感，适合参考做潮牌风格T恤。",
+  "tags": [
+   "BamBam",
+   "adidas",
+   "潮流联名"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 343
+   }
+  ],
+  "credibilityScore": 68,
+  "buzzIndex": 63,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "联名话题",
+    "desc": "BamBam×adidas联名登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/97c14893286755e8b8f95641.jpg",
+    "caption": "BamBam×adidas Originals 联名",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/97c14893286755e8b8f95641.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "289729bffd160b53636b7f3a",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "Gucci Primavera 春夏系列话题",
+  "titleOrig": "GucciPrimavera（Gucci 春夏系列）",
+  "summary": "奢侈品牌Gucci的Primavera（春夏）系列相关话题在泰国热搜在列，引发时尚爱好者关注。奢侈品元素与高端印花设计为T恤图案款提供灵感，但需注意规避品牌Logo侵权。",
+  "tags": [
+   "Gucci",
+   "时尚",
+   "春夏系列"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 377
+   }
+  ],
+  "credibilityScore": 62,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "时尚话题",
+    "desc": "Gucci春夏系列登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0b50209750f845428334b1f5.jpg",
+    "caption": "Gucci Primavera 春夏系列话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0b50209750f845428334b1f5.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8dd4061444f78e0bc012d0d3",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "LAB×DEXX 联名话题",
+  "titleOrig": "LABXxDEXX（LAB×DEXX联名）",
+  "summary": "时尚品牌LAB与DEXX的联名话题登上泰国热搜，潮流联名在泰国年轻群体中反响热烈。街头风格Logo与图案设计适合参考作为图案款T恤素材。",
+  "tags": [
+   "LAB",
+   "DEXX",
+   "潮流联名"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 355
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 50,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "联名话题",
+    "desc": "LAB×DEXX联名登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/8769ef23bec76577a830405c.jpg",
+    "caption": "LAB×DEXX 联名话题",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/8769ef23bec76577a830405c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "b17453683f2f0704a862d337",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰剧《Love Destiny》第8集",
+  "titleOrig": "Love Destiny EP8（《情牵两世》第8集）",
+  "summary": "泰剧《Love Destiny》（情牵两世）第8集播出，泰语标签#บุพเพสันนิวาสEP8登上热搜。这部穿越爱情剧国民度极高，剧名与经典台词是泰版T恤印花的高频素材。",
+  "tags": [
+   "Love Destiny",
+   "情牵两世",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 300
+   },
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 270
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《Love Destiny》第8集播出，话题在榜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰剧《Love Destiny》第8集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6d3329c3f417542ad85031b3",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰剧《The Grim Lover》第31集",
+  "titleOrig": "The Grim Lover Q31（《暗黑恋人》第31集）",
+  "summary": "泰剧《The Grim Lover》更新至第31集，相关话题登上泰国热搜。长剧情泰剧持续吸引追更观众，剧名与角色名适合作为文字款T恤的素材。",
+  "tags": [
+   "The Grim Lover",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 240
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 48,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《The Grim Lover》第31集话题在榜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰剧《The Grim Lover》第31集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "36c87aa3ea23a4e06a2a3d00",
+  "country": "my",
+  "cat": "concert_show",
+  "catCn": "CP粉圈",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 4,
+  "titleCn": "Phuwin 马来西亚 MizuMi 焕亮见面会",
+  "titleOrig": "Phuwin MizuMi Fan Event KL（Phuwin MizuMi 吉隆坡见面会）",
+  "summary": "GMMTV人气BL CP PondPhuwin成员Phuwin将于9月6日在马来西亚吉隆坡Sunway Pyramid举办MizuMi品牌焕亮见面会，粉丝已进入应援筹备期。50位幸运粉丝将获一对一合影，活动热度持续升温，见面会应援T恤需求旺盛。",
+  "tags": [
+   "PondPhuwin",
+   "Phuwin",
+   "马来西亚见面会"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "新浪新闻",
+    "type": "news",
+    "url": "http://www.sina.cn/news/detail/5323941229891806.html",
+    "credibility": "高",
+    "region": "my",
+    "mention": 200
+   },
+   {
+    "name": "MizuMi_Malaysia",
+    "type": "official",
+    "url": "https://mizumifirstglow.com",
+    "credibility": "高",
+    "region": "my",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 80,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "筹备期",
+    "desc": "Phuwin吉隆坡MizuMi见面会进入应援筹备"
+   },
+   {
+    "date": "2026-09-06",
+    "label": "活动日",
+    "desc": "Phuwin MizuMi焕亮见面会在Sunway Pyramid举办"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/eb8a9cfd0f3b4edaa410f165.jpg",
+    "caption": "Phuwin 马来西亚 MizuMi 焕亮见面会",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/eb8a9cfd0f3b4edaa410f165.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "http://www.sina.cn/news/detail/5323941229891806.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "70f239f6df366330d81e14fd",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "CP粉圈",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "FreenBecky 四元素无限羁绊粉丝见面会",
+  "titleOrig": "4 ELEMENTS INFINITE BONDS FAN MEETING（四元素无限羁绊粉丝见面会）",
+  "summary": "泰国顶流GL CP FreenBecky与Englot联合的《四元素》系列8位演员将齐聚“4 ELEMENTS INFINITE BONDS FAN MEETING”，于9月12日在Union Hall举行。这是瓦提尼瓦家族剧情的最终章活动，票价1800-8800泰铢，门票热销中，是9月最重磅的粉丝见面会，官方应援T恤与联名款潜力巨大。",
+  "tags": [
+   "FreenBecky",
+   "Englot",
+   "粉丝见面会",
+   "四元素"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博 FreenBecky超话",
+    "type": "social",
+    "url": "https://weibo.com/6971747629/5319099799307699",
+    "credibility": "中",
+    "region": "th",
+    "mention": 300
+   },
+   {
+    "name": "ThaiTicketMajor",
+    "type": "official",
+    "url": "https://www.thaiticketmajor.com",
+    "credibility": "高",
+    "region": "th",
+    "mention": 250
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 90,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "售票热销",
+    "desc": "4E见面会门票持续开售，粉丝购票应援"
+   },
+   {
+    "date": "2026-09-12",
+    "label": "活动日",
+    "desc": "8位演员齐聚Union Hall举行最终章见面会"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0442bc3d9e11bc2d09eb9d3b.jpg",
+    "caption": "FreenBecky 四元素无限羁绊粉丝见面会",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/0442bc3d9e11bc2d09eb9d3b.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://weibo.com/6971747629/5319099799307699",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "920ac7c8e6c68e0c5b4c1f5c",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "CP粉圈",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "LingOrm《In Love Forever》最终回粉丝活动",
+  "titleOrig": "In Love Forever Final EP Fan Moment（《绘梦婚礼》最终回粉丝时刻）",
+  "summary": "泰国人气GL CP LingOrm主演剧集《In Love Forever》（绘梦婚礼）将于9月4日举办最终回粉丝见面会（In Love Forever Final EP Fan Moment），LingLing Kwong与Orm Kornnaphat及演员们共同出席，特别访谈、互动与表演。票价990-2500泰铢，粉丝应援热情高涨。",
+  "tags": [
+   "LingOrm",
+   "绘梦婚礼",
+   "粉丝见面会"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博 中泰头条",
+    "type": "social",
+    "url": "https://weibo.com/6269635320/5332883633081412",
+    "credibility": "中",
+    "region": "th",
+    "mention": 260
+   },
+   {
+    "name": "新浪新闻",
+    "type": "news",
+    "url": "https://www.sina.cn/news/detail/5330525411345998.html",
+    "credibility": "中",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 82,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "筹备期",
+    "desc": "LingOrm最终回粉丝活动进入倒计时"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "活动日",
+    "desc": "《In Love Forever》最终回粉丝时刻在MCC Hall举行"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4f3e394d160e4dc794fd9ce4.jpg",
+    "caption": "LingOrm《In Love Forever》最终回粉丝活动",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4f3e394d160e4dc794fd9ce4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://weibo.com/6269635320/5332883633081412",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "131cda29833a39c2e70ddc62",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "CP粉圈",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "LingOrm 演唱会《The World Between Us》官宣",
+  "titleOrig": "LINGORM THE WORLD BETWEEN US CONCERT（LingOrm《我们之间的世界》演唱会）",
+  "summary": "泰国顶流GL CP LingOrm的大型演唱会“THE WORLD BETWEEN US”正式官宣，将于10月17-18日在暖武里IMPACT Arena连办两场，门票9月5日开售。作为LingOrm年度大型现场，演唱会周边、应援T恤与限定联名款是粉丝变现的重点。",
+  "tags": [
+   "LingOrm",
+   "演唱会",
+   "GL"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "泰国华人网",
+    "type": "news",
+    "url": "https://hua.in.th/portal.php?aid=11135&mod=view",
+    "credibility": "中",
+    "region": "th",
+    "mention": 220
+   },
+   {
+    "name": "ThaiTicketMajor",
+    "type": "official",
+    "url": "https://www.thaiticketmajor.com",
+    "credibility": "高",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 86,
+  "buzzIndex": 85,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "官宣发酵",
+    "desc": "LingOrm演唱会话题引发粉丝关注"
+   },
+   {
+    "date": "2026-09-05",
+    "label": "开票日",
+    "desc": "LingOrm演唱会门票在ThaiTicketMajor开售"
+   },
+   {
+    "date": "2026-10-17",
+    "label": "首场",
+    "desc": "《The World Between Us》演唱会IMPACT Arena首场"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4f3e394d160e4dc794fd9ce4.jpg",
+    "caption": "LingOrm 演唱会《The World Between Us》官宣",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4f3e394d160e4dc794fd9ce4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://hua.in.th/portal.php?aid=11135&mod=view",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "b604ba3c493d7e9bf0ae5f30",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "CP粉圈",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 8,
+  "titleCn": "Englot 4E 见面会票务",
+  "titleOrig": "Englot 4E Fan Meeting Tickets（Englot 四元素见面会门票）",
+  "summary": "Engfa与Charlotte组成的Englot CP，其参与的“4 ELEMENTS”见面会门票持续开售，票价1800-8800泰铢。Englot粉丝购票应援火热，见面会应援文案与口号款T恤需求上升。",
+  "tags": [
+   "Englot",
+   "粉丝见面会",
+   "Engfa"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博 Englot超话",
+    "type": "social",
+    "url": "https://weibo.com/3789534673/5322034835620872",
+    "credibility": "中",
+    "region": "th",
+    "mention": 210
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "售票进行中",
+    "desc": "Englot四元素见面会门票持续开售"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4e0e8d708a584e1fb971551f.jpg",
+    "caption": "Englot 4E 见面会票务",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4e0e8d708a584e1fb971551f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://weibo.com/3789534673/5322034835620872",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "09d79e1bda877432d77224a0",
+  "country": "multi",
+  "cat": "concert_show",
+  "catCn": "CP粉圈",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 5,
+  "titleCn": "GMMTV Fan Fest 澳门站",
+  "titleOrig": "GMMTV Fan Fest in Macau（GMMTV澳门粉丝节）",
+  "summary": "GMMTV 14位人气艺人（Gemini、Fourth、Pond、Phuwin、Perth、Santa等）齐聚澳门威尼斯人综艺馆的Fan Fest虽已办毕，但相关演出回顾与饭拍视频在9月初仍持续发酵。多CP同台的演出片段为粉丝二创提供素材，符合多CP联名T恤的设计灵感。",
+  "tags": [
+   "GMMTV",
+   "GeminiFourth",
+   "PondPhuwin",
+   "PerthSanta"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "黄河票务",
+    "type": "news",
+    "url": "https://m.huanghepiao.com/event/41644",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 65,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "回顾发酵",
+    "desc": "GMMTV澳门Fan Fest演出片段持续被饭拍转载"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4ab62a31f5a04283bd6fcbcc.jpg",
+    "caption": "GMMTV Fan Fest 澳门站",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4ab62a31f5a04283bd6fcbcc.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://m.huanghepiao.com/event/41644",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "298b9b5a573f8d127c7b23e9",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "CP粉圈",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "PerthSanta 访谈话题",
+  "titleOrig": "PerthSanta Talk（PerthSanta 访谈）",
+  "summary": "GMMTV人气BL CP PerthSanta的访谈节目话题登上泰国热搜，两人互动甜蜜引发粉丝讨论。CP的日常访谈是粉丝磕糖素材，相关口号与应援语适合做文字款T恤。",
+  "tags": [
+   "PerthSanta",
+   "BL",
+   "访谈"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 230
+   }
+  ],
+  "credibilityScore": 58,
+  "buzzIndex": 54,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "访谈话题",
+    "desc": "PerthSanta访谈登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/08a104123bb94d65af43289e.jpg",
+    "caption": "PerthSanta 访谈话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/08a104123bb94d65af43289e.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e83748743e82e5e304b609da",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "Gulf 与 CHAE 节目互动",
+  "titleOrig": "GULF X CHAE SHOW（Gulf×CHAE 节目）",
+  "summary": "泰国男星Gulf（Gulf Kanawut）与CHAE合作的节目话题登上泰国热搜，当日另有“Gulf Morning”“Miss U”等相关话题。Gulf的高人气让节目联动与问候标签持续上榜，粉丝文案适合做文字款T恤。",
+  "tags": [
+   "Gulf",
+   "泰国男星",
+   "节目"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 250
+   },
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 220
+   }
+  ],
+  "credibilityScore": 60,
+  "buzzIndex": 56,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "Gulf×CHAE节目登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4e0e8d708a584e1fb971551f.jpg",
+    "caption": "Gulf 与 CHAE 节目互动",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/4e0e8d708a584e1fb971551f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7b9e520586d84f42d4684ab3",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "Jungkook 生日祝福在马来热搜",
+  "titleOrig": "Happy Birthday JK / HAPPY BIRTHDAY JK（BTS田柾国生日快乐）",
+  "summary": "BTS成员Jungkook（田柾国）生日相关话题在马来西亚X热搜高居前列，包含“Happy Birthday JK”等多个标签。K-pop顶流的生日应援在东南亚声势浩大，生日口号与数字款T恤是粉丝标配周边。",
+  "tags": [
+   "Jungkook",
+   "BTS",
+   "生日应援"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 380
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 350
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "生日应援",
+    "desc": "Jungkook生日话题在马来西亚热搜居首"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6501814a4b024880961310f3.jpg",
+    "caption": "Jungkook 生日祝福在马来热搜",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6501814a4b024880961310f3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8c49911b3333a5a804267804",
+  "country": "my",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "ENHYPEN 粉丝诉求 BELIFT 回应",
+  "titleOrig": "BELIFT HEAR ENGENE'S DEMANDS（BELIFT 倾听 ENGENE 诉求）",
+  "summary": "K-pop男团ENHYPEN的粉丝ENGENE在马来西亚发起“BELIFT HEAR ENGENE'S DEMANDS”话题，就偶像权益向公司BELIFT LAB表达诉求。粉丝维权类话题关注度高，但涉及公司纠纷，T恤印花需谨慎处理风险。",
+  "tags": [
+   "ENHYPEN",
+   "ENGENE",
+   "粉丝维权"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 270
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 250
+   }
+  ],
+  "credibilityScore": 60,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "诉求话题",
+    "desc": "ENGENE粉丝诉求话题在马来热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/44ffc69d6a8d4846852823a1.jpg",
+    "caption": "ENHYPEN 粉丝诉求 BELIFT 回应",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/44ffc69d6a8d4846852823a1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2542080a8175f47997449e99",
+  "country": "my",
+  "cat": "society",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "马来西亚国庆补假热点",
+  "titleOrig": "Independence Day / National Day Malaysia（马来西亚独立日/国庆日）",
+  "summary": "马来西亚于8月31日庆祝独立69周年，因国庆逢周日，9月1日补假形成三天连假，爱国氛围延续至9月2日。国庆主题“Malaysia MADANI”与国旗元素在社交平台仍高热，是爱国主题T恤的绝佳设计节点。",
+  "tags": [
+   "Merdeka",
+   "国庆",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "BERNAMA",
+    "type": "news",
+    "url": "https://www.bernama.com/misc/rss/news.php?id=2601123",
+    "credibility": "高",
+    "region": "my",
+    "mention": 400
+   },
+   {
+    "name": "Malaysia Public Holiday",
+    "type": "news",
+    "url": "https://www.malaysiapublicholiday.my/en/holiday/national-day",
+    "credibility": "高",
+    "region": "my",
+    "mention": 300
+   },
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 350
+   }
+  ],
+  "credibilityScore": 86,
+  "buzzIndex": 82,
+  "timeline": [
+   {
+    "date": "2026-08-31",
+    "label": "国庆日",
+    "desc": "马来西亚庆祝独立69周年，主题Malaysia MADAMI"
+   },
+   {
+    "date": "2026-09-01",
+    "label": "补假",
+    "desc": "国庆补假形成三天连假"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "热度延续",
+    "desc": "国庆话题仍在社交平台发酵"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/54eee948d4b648199e67383c.jpg",
+    "caption": "马来西亚国庆补假热点",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/54eee948d4b648199e67383c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.bernama.com/misc/rss/news.php?id=2601123",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "07935669afea15fc9fcd81f5",
+  "country": "my",
+  "cat": "society",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "马来西亚 MAHA 农业展",
+  "titleOrig": "MAHA 2026（2026年马来西亚农业展）",
+  "summary": "MAHA 2026（马来西亚农业、园艺及农基旅游展）于8月28日至9月6日在雪兰莪MAEPS举行，与国庆档期重叠，吸引大量家庭游客。农业主题图案、农场元素适合做趣味T恤设计。",
+  "tags": [
+   "MAHA",
+   "农业展",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "马来西亚政府",
+    "type": "official",
+    "url": "http://malaysia.gov.my/en/calendar",
+    "credibility": "高",
+    "region": "my",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "展期",
+    "desc": "MAHA 2026农业展在MAEPS举行"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "马来西亚 MAHA 农业展",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "http://malaysia.gov.my/en/calendar",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2eda9906f0b15f1f12b86bdc",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "TikTok 泰国热门标签（BL/泰剧类）",
+  "titleOrig": "TikTok Thailand Hashtags #thaibl #thaidrama #boyslove",
+  "summary": "TikTok泰国区热门标签以#thai（90万帖）领跑，紧接#boyslove（170万帖）、#thaibl（79万帖）、#thaidrama、#thaienthu等BL/泰剧相关标签热度极高。BL内容在泰国TikTok占据统治地位，相关标签文案与角色名适合做粉丝文字款T恤。",
+  "tags": [
+   "TikTok",
+   "泰国",
+   "BL",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/thai/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 900000
+   },
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 5400000
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "泰国TikTok BL/泰剧标签持续高热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "TikTok 泰国热门标签（BL/泰剧类）",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://hashtagradar.com/hashtag/thai/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2a87fcf724776d918831c491",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "TikTok 泰国热门标签（生活旅游类）",
+  "titleOrig": "TikTok Thailand Hashtags #thailandtravel #bangkok #thailandfood",
+  "summary": "TikTok泰国区旅游与美食标签热度居高，包括#thailandtravel、#bangkok（98万帖）、#thailandfood（32万帖）、#thaifood等。旅游打卡与街头美食内容带动城市主题印花T恤设计灵感。",
+  "tags": [
+   "TikTok",
+   "泰国旅游",
+   "曼谷"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 98900
+   }
+  ],
+  "credibilityScore": 66,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "泰国旅游美食类标签在TikTok保持热度"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ffcff161317f450991b10ee3.jpg",
+    "caption": "TikTok 泰国热门标签（生活旅游类）",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ffcff161317f450991b10ee3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://hashtagradar.com/hashtag/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ffe6b2b5bbed3a042d0fd25c",
+  "country": "my",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "TikTok 马来西亚热门标签",
+  "titleOrig": "TikTok Malaysia Hashtags #malaysiatiktok #fypmalaysia #malaysiaboleh",
+  "summary": "TikTok马来西亚区热门标签包括#malaysiatiktok（270万帖）、#fypmalaysia（25亿浏览）、#malaysiaboleh、#malaysiamadani、#malaysiadihatiku等爱国主题标签。马来西亚国庆期间爱国标签热度飙升，适合做国家自豪感主题文字款T恤。",
+  "tags": [
+   "TikTok",
+   "马来西亚",
+   "爱国标签"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2700000
+   },
+   {
+    "name": "TikTokSpy Malaysia",
+    "type": "social",
+    "url": "https://my-tik.ixspy.com/hashtags/109_my_2_daily_malaysia",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2500000
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "马来西亚TikTok爱国与本地标签高热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "TikTok 马来西亚热门标签",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://hashtagradar.com/hashtag/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "21a5caabcbe4f226d20da40d",
+  "country": "multi",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "TikTok 热门标签 #fyp #viral 泛流量词",
+  "titleOrig": "TikTok Trending #fyp #viral #trending",
+  "summary": "TikTok平台通用热门标签#fyp（6.1亿帖）、#viral（19亿帖）、#trending（7.2亿帖）在泰国与马来西亚均为最高流量入口。泛流量标签是提升T恤相关内容曝光的标配，可作为营销文案设计参考。",
+  "tags": [
+   "fyp",
+   "viral",
+   "TikTok"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/thailand/",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 616000000
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "常驻热门",
+    "desc": "TikTok泛流量标签持续霸榜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/b7a553ec78c1b70487c5a749.jpg",
+    "caption": "TikTok 热门标签 #fyp #viral 泛流量词",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/b7a553ec78c1b70487c5a749.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://hashtagradar.com/hashtag/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "12e84a3e2179431d37385d0e",
+  "country": "my",
+  "cat": "gaming",
+  "catCn": "TikTok趋势",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "TikTok 马来西亚游戏电竞标签",
+  "titleOrig": "TikTok Malaysia Hashtags #mlbballstar #mplmy #mlbbdinoplanet",
+  "summary": "TikTok马来西亚热门游戏标签以Mobile Legends为主，包括#mlbballstar（31.7亿浏览）、#mplmy（47.9亿浏览）、#mlbbdinoplanet（18.5亿浏览）。电竞与MOBA游戏内容在马来TikTok高热，游戏角色与队标适合做电竞主题图案款T恤。",
+  "tags": [
+   "MLBB",
+   "电竞",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTokSpy Malaysia",
+    "type": "social",
+    "url": "https://my-tik.ixspy.com/hashtags/109_my_2_daily_malaysia",
+    "credibility": "中",
+    "region": "my",
+    "mention": 5900000
+   }
+  ],
+  "credibilityScore": 68,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "马来西亚TikTok电竞标签高热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1ba2d0926147440c9e71a9cb.jpg",
+    "caption": "TikTok 马来西亚游戏电竞标签",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1ba2d0926147440c9e71a9cb.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://my-tik.ixspy.com/hashtags/109_my_2_daily_malaysia",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9d4386ca1b07b3383ab2a2c2",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "TikTok 泰国热门音乐（BL OST）",
+  "titleOrig": "TikTok Thailand Trending Sounds（泰国BL影视原声热曲）",
+  "summary": "泰国TikTok热门音乐以泰剧BL/GL影视OST与翻唱为主，热门剧集主题曲被大量用于视频配乐。金句歌词适合作为文字款T恤文案，配合剧集热度做联名。",
+  "tags": [
+   "TikTok音乐",
+   "BL",
+   "OST"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTok Discover",
+    "type": "social",
+    "url": "https://www.tiktok.com/discover",
+    "credibility": "中",
+    "region": "th",
+    "mention": 100
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "泰国TikTok剧集OST配乐流行"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/eb8a9cfd0f3b4edaa410f165.jpg",
+    "caption": "TikTok 泰国热门音乐（BL OST）",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/eb8a9cfd0f3b4edaa410f165.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.tiktok.com/discover",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "0abddae822616d702936f74b",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "TikTok 泰国热门音乐（流行舞曲）",
+  "titleOrig": "TikTok Thailand Trending Music（泰国流行舞曲热歌）",
+  "summary": "泰国TikTok热门音乐除影视OST外，本地流行舞曲与翻唱亦受热捧。舞蹈挑战与对口型视频频繁使用热门音源，歌名与洗脑歌词是趣味文字款T恤的高频素材。",
+  "tags": [
+   "TikTok音乐",
+   "泰国",
+   "流行"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTok Discover",
+    "type": "social",
+    "url": "https://www.tiktok.com/discover",
+    "credibility": "中",
+    "region": "th",
+    "mention": 80
+   }
+  ],
+  "credibilityScore": 50,
+  "buzzIndex": 52,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "泰国TikTok流行舞曲音源流行"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "TikTok 泰国热门音乐（流行舞曲）",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.tiktok.com/discover",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3b102e31620d790a0c11da25",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 4,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 5,
+  "titleCn": "泰国热梗：\"บักเซียงมันตายแล้ว\"（巴客乡他死了）",
+  "titleOrig": "บักเซียงมันตายแล้ว（巴客乡他死了）",
+  "summary": "泰国2026年最火爆的病毒式热梗“บักเซียงมันตายแล้ว”（巴客乡他死了），源自2006年动作片《คนไฟบิน》（飞火人）的经典怒吼台词，后经用户“บักต่วน”制作成对钓鱼者怒吼的爆笑短视频重新走红。因与热映电影《สัปเหร่อ 2》（入殓师2）角色“บักเซียง”联动而再掀高潮，该梗衍生的配音、翻拍和表情包席卷TikTok，是当前泰国最有梗的文字款T恤素材。",
+  "tags": [
+   "泰国热梗",
+   "TikTok",
+   "入殓师2",
+   "爆笑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "泰国日报 Thai Rath",
+    "type": "news",
+    "url": "https://www.thairath.co.th/sport/others/2915144",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1000000
+   },
+   {
+    "name": "TikTok",
+    "type": "social",
+    "url": "https://www.tiktok.com/discover",
+    "credibility": "中",
+    "region": "th",
+    "mention": 500000
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 92,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "病毒式扩散",
+    "desc": "《入殓师2》热映带动\"บักเซียงมันตายแล้ว\"梗再掀高潮"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰国热梗：\"บักเซียงมันตายแล้ว\"（巴客乡他死了）",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.thairath.co.th/sport/others/2915144",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "89762c495df6b277680ea8dd",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "高风险",
+  "hotDays": 2,
+  "titleCn": "泰国经典热梗：\"ไอ้สัส\"（你个畜生）copypasta",
+  "titleOrig": "แล้วมึงเป็นเหี้ยไรไอ้สัส（你个畜生算什么东西）",
+  "summary": "泰国网络经典copypasta“แล้วมึงเป็นเหี้ยไรไอ้สัส”（你个畜生算什么东西）源自Pantip论坛与游戏对喷文化，衍生出愤怒狗狗形象与大量二创。因含脏话，仅适合做讽刺暗黑风格的成人向T恤，需注意内容尺度。",
+  "tags": [
+   "泰国热梗",
+   "copypasta",
+   "Pantip"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Shapes Inc",
+    "type": "forum",
+    "url": "https://shapes.inc/-6ym2",
+    "credibility": "低",
+    "region": "th",
+    "mention": 200000
+   },
+   {
+    "name": "Reddit r/thaimemes",
+    "type": "social",
+    "url": "https://www.reddit.com/r/thaimemes",
+    "credibility": "中",
+    "region": "th",
+    "mention": 50000
+   }
+  ],
+  "credibilityScore": 45,
+  "buzzIndex": 55,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续传播",
+    "desc": "泰国经典copypasta被TikTok翻唱与二创"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰国经典热梗：\"ไอ้สัส\"（你个畜生）copypasta",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://shapes.inc/-6ym2",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "41aebceb0185c933551d4ad6",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰国热梗：拖鞋排队文化",
+  "titleOrig": "Thailand Shoe Line Meme（泰国拖鞋排队梗）",
+  "summary": "泰国“拖鞋排队”文化梗展现泰国人用拖鞋占位的独特习俗，一双双拖鞋排成整齐队列的图片在社交平台广为传播，成为体现泰国社区信任与幽默感的标志性梗，适合做趣味图案款T恤。",
+  "tags": [
+   "泰国热梗",
+   "文化梗",
+   "拖鞋排队"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "MemeContext",
+    "type": "social",
+    "url": "https://memecontext.com?p=106462/",
+    "credibility": "低",
+    "region": "th",
+    "mention": 100000
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 50,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续传播",
+    "desc": "泰国拖鞋排队文化梗被持续二创"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰国热梗：拖鞋排队文化",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://memecontext.com?p=106462/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7dbca9fa0c1d138547534042",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰国热梗：童言趣味读泰语字母",
+  "titleOrig": "Thai Father Son Alphabet Meme（泰国父子学字母搞笑梗）",
+  "summary": "泰国一位妈妈上传父亲教一年级儿子Nong Gow读泰语字母的视频，孩子把字母“ต”读成“ta”、“บ”读成“短尾鱼”、“ป”读成“长尾鱼”等爆笑误解，在Facebook走红并被Sanook报道。童言无邪的幽默适合做亲子款、趣味文字款T恤。",
+  "tags": [
+   "泰国热梗",
+   "亲子",
+   "搞笑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "JeanFashionZone",
+    "type": "news",
+    "url": "https://jeanfashionzone.com/thai-father-and-sons-hilarious-new-alphabets-video-goes-viral/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 300000
+   },
+   {
+    "name": "Sanook",
+    "type": "news",
+    "url": "https://www.sanook.com",
+    "credibility": "高",
+    "region": "th",
+    "mention": 200000
+   }
+  ],
+  "credibilityScore": 60,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "病毒式传播",
+    "desc": "泰国父子学字母搞笑视频持续发酵"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰国热梗：童言趣味读泰语字母",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://jeanfashionzone.com/thai-father-and-sons-hilarious-new-alphabets-video-goes-viral/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d5d54e9574bf0f4e518c2aa7",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 3,
+  "titleCn": "马来热梗：Lowyat 论坛 /k 黑话文化",
+  "titleOrig": "Lowyat Kopitiam Slang（Lowyat论坛黑话）",
+  "summary": "马来西亚最大论坛Lowyat的Kopitiam（/k）板块孕育了大量独有的网络黑话与梗，如“Bijan”（纳吉反转名）、“Protek=Protect”、“Merehsia=Malaysia”、“Hnnnggghhh”（性张力拟声）等，成为马来西亚网络文化的重要标签，这些独有的论坛俚语适合做小众硬核文字款T恤。",
+  "tags": [
+   "马来西亚热梗",
+   "Lowyat",
+   "网络黑话"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Lowyat Forum",
+    "type": "forum",
+    "url": "https://forum.lowyat.net/Kopitiam",
+    "credibility": "中",
+    "region": "my",
+    "mention": 1000000
+   },
+   {
+    "name": "Lowyat Short Forms",
+    "type": "forum",
+    "url": "https://forum.lowyat.net/topic/3874687",
+    "credibility": "中",
+    "region": "my",
+    "mention": 500000
+   }
+  ],
+  "credibilityScore": 62,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续活跃",
+    "desc": "Lowyat论坛黑话与梗持续发酵"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/118817565d56fe023c69a9ac.jpg",
+    "caption": "马来热梗：Lowyat 论坛 /k 黑话文化",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/118817565d56fe023c69a9ac.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://forum.lowyat.net/Kopitiam",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3bfd70331f34a354ee2d6c22",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "马来热梗：国庆 Malaya MADANI 主题",
+  "titleOrig": "Malaysia MADANI: Kesejahteraan Dinikmati Meme（马来西亚昌明福祉梗）",
+  "summary": "马来西亚2026国庆主题“Malaysia MADANI: Kesejahteraan Dinikmati”（昌明大马：共享福祉）在国庆期间被网友大量玩梗，诞生爱国主题表情包与调侃文案。国庆标语与国旗配色是爱国文字款T恤的经典素材。",
+  "tags": [
+   "马来西亚热梗",
+   "国庆",
+   "昌明大马"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "BERNAMA",
+    "type": "news",
+    "url": "https://www.bernama.com/misc/rss/news.php?id=2601123",
+    "credibility": "高",
+    "region": "my",
+    "mention": 400000
+   },
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 150000
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "国庆余温",
+    "desc": "马来西亚昌明主题梗在国庆后持续传播"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：国庆 Malaya MADANI 主题",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.bernama.com/misc/rss/news.php?id=2601123",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "120a2d4e4b9474c574e85a89",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "马来热梗：Plaza Low Yat 关闭传闻乌龙",
+  "titleOrig": "Plaza Low Yat Closure Meme（Low Yat广场关闭乌龙梗）",
+  "summary": "马来西亚“Boikot Plaza Low Yat”团体误将英文“working closely”（紧密合作）理解为“关店”，闹出乌龙后在Lowyat论坛成为笑料，被网友调侃英文水平。这一网络乌龙梗体现马来论坛的幽默讽刺文化。",
+  "tags": [
+   "马来西亚热梗",
+   "Lowyat",
+   "乌龙"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "The Rojak Pot",
+    "type": "news",
+    "url": "https://www.rojakpot.com/plaza-low-yat-close-red-shirt-rally/?amp=1",
+    "credibility": "中",
+    "region": "my",
+    "mention": 100000
+   }
+  ],
+  "credibilityScore": 48,
+  "buzzIndex": 50,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续发酵",
+    "desc": "Low Yat广场关闭乌龙梗在论坛传播"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c35c65cb9afb9453ee70c312.jpg",
+    "caption": "马来热梗：Plaza Low Yat 关闭传闻乌龙",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/c35c65cb9afb9453ee70c312.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.rojakpot.com/plaza-low-yat-close-red-shirt-rally/?amp=1",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "935a538ec426aff1154ffc55",
+  "country": "multi",
+  "cat": "politics",
+  "catCn": "世界热点",
+  "stars": 4,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 7,
+  "titleCn": "世界热点：美伊冲突升级",
+  "titleOrig": "US-Iran Conflict Escalation（美伊冲突升级）",
+  "summary": "9月1-2日美伊冲突再度升级：美军中央司令部于东部时间1日中午开始打击伊朗境内伊斯兰革命卫队目标，伊朗随即宣布报复、击落一架美军MQ-9无人机，霍尔木兹海峡与多处伊朗设施传出爆炸。特朗普称打击“规模宏大”。国际油价应声站上90美元/桶，X上相关话题（IRGC、Iran、Strait of Hormuz、Islamic）在泰国与马来西亚同步登上热搜。",
+  "tags": [
+   "美伊冲突",
+   "霍尔木兹海峡",
+   "国际油价",
+   "IRGC"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "央视新闻",
+    "type": "news",
+    "url": "https://www.toutiao.com/article/7680695557765071423/",
+    "credibility": "高",
+    "region": "global",
+    "mention": 5000
+   },
+   {
+    "name": "新浪财经",
+    "type": "news",
+    "url": "https://www.toutiao.com/article/7680690553490539043/",
+    "credibility": "高",
+    "region": "global",
+    "mention": 4000
+   },
+   {
+    "name": "腾讯新闻",
+    "type": "news",
+    "url": "https://new.qq.com/rain/a/20260902A02RUN00",
+    "credibility": "高",
+    "region": "global",
+    "mention": 3000
+   },
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 500
+   }
+  ],
+  "credibilityScore": 90,
+  "buzzIndex": 95,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "美军空袭",
+    "desc": "美军打击伊朗革命卫队目标，伊朗宣布反击"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "冲突升级",
+    "desc": "伊朗击落MQ-9无人机，油价站上90美元"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/b725167f2b092c9b3cc1213a.jpg",
+    "caption": "世界热点：美伊冲突升级",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/b725167f2b092c9b3cc1213a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.toutiao.com/article/7680695557765071423/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "20e63f15f873464beedfefe1",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 4,
+  "titleCn": "世界热点：飓风 Lowell 逼近夏威夷",
+  "titleOrig": "Hurricane Lowell Approaching Hawaii（飓风洛厄尔逼近夏威夷）",
+  "summary": "太平洋飓风Lowell于9月1-2日快速增强，预计成为三级强飓风，路径可能影响夏威夷群岛，同时另有飓风Karina与热带风暴Marie同期活跃，太平洋进入飓风活跃期。夏威夷官方提醒居民做好防台风准备。",
+  "tags": [
+   "飓风Lowell",
+   "夏威夷",
+   "太平洋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "檀香山市政府",
+    "type": "official",
+    "url": "https://www.honolulu.gov/mayor/city-monitoring-three-tropical-systems-in-the-pacific-as-hurricane-season-remains-active",
+    "credibility": "高",
+    "region": "global",
+    "mention": 200
+   },
+   {
+    "name": "NOAA NHC",
+    "type": "official",
+    "url": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP4+shtml/231858.shtml",
+    "credibility": "高",
+    "region": "global",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "飓风增强",
+    "desc": "Lowell增强为飓风，预报周三成强飓风"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "逼近",
+    "desc": "Lowell向夏威夷东南部移动，当局预警"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4b7073291c6fe433551560a7.jpg",
+    "caption": "世界热点：飓风 Lowell 逼近夏威夷",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/4b7073291c6fe433551560a7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP4+shtml/231858.shtml",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c0acf2fa79a7142ca444145a",
+  "country": "multi",
+  "cat": "politics",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 3,
+  "titleCn": "世界热点：德国指认俄涉莱比锡机场袭击",
+  "titleOrig": "Germany Accuses Russia Over Leipzig Airport Attack（德国指认俄涉莱比锡机场袭击）",
+  "summary": "德国指认俄罗斯与莱比锡机场无人机袭击事件有关，并关闭俄罗斯驻波恩总领馆，俄德外交关系再起波澜。欧洲安全议题在X与Reddit上引发广泛讨论。",
+  "tags": [
+   "德国",
+   "俄罗斯",
+   "无人机袭击"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "腾讯新闻",
+    "type": "news",
+    "url": "https://new.qq.com/rain/a/20260902A02RUN00",
+    "credibility": "高",
+    "region": "global",
+    "mention": 900
+   },
+   {
+    "name": "PassTheNews BBC",
+    "type": "news",
+    "url": "https://www.passthenews.com/index.html",
+    "credibility": "高",
+    "region": "global",
+    "mention": 600
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "外交风波",
+    "desc": "德国指认俄涉莱比锡机场袭击，关闭波恩总领馆"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6169887f9040b3458905ab47.jpg",
+    "caption": "世界热点：德国指认俄涉莱比锡机场袭击",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/6169887f9040b3458905ab47.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://new.qq.com/rain/a/20260902A02RUN00",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "edd67834e7208cc7588a5f8b",
+  "country": "multi",
+  "cat": "ecommerce",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "世界热点：戴尔财报超预期",
+  "titleOrig": "Dell Q2 Earnings Beat（戴尔Q2财报超预期）",
+  "summary": "戴尔科技Q2营收469.7亿美元超预期，同比增长约58%，AI服务器全年展望翻三倍，盘后股价大涨10%。科技股财报话题在财经圈引发热议，AI相关话题热度高涨。",
+  "tags": [
+   "戴尔",
+   "财报",
+   "AI服务器"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "新浪财经",
+    "type": "news",
+    "url": "https://www.toutiao.com/article/7680690553490539043/",
+    "credibility": "高",
+    "region": "global",
+    "mention": 700
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 65,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "财报公布",
+    "desc": "戴尔Q2营收469.7亿美元超预期，盘后大涨10%"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4b7073291c6fe433551560a7.jpg",
+    "caption": "世界热点：戴尔财报超预期",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/4b7073291c6fe433551560a7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.toutiao.com/article/7680690553490539043/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ac5a9dd975905ab81b4b9adc",
+  "country": "multi",
+  "cat": "politics",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "世界热点：英国借款成本创1998年来新高",
+  "titleOrig": "UK Long-term Borrowing Costs Highest Since 1998（英国长期借款成本创1998年以来新高）",
+  "summary": "英国长期借款成本升至1998年以来最高，为10月预算案前的重要经济信号，首相斯塔默宣布卸任议员一职。英国财政与经济话题在国际媒体广泛报道。",
+  "tags": [
+   "英国",
+   "借款成本",
+   "经济"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "BBC News",
+    "type": "news",
+    "url": "https://www.passthenews.com/index.html",
+    "credibility": "高",
+    "region": "global",
+    "mention": 500
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "经济信号",
+    "desc": "英国长期借款成本创1998年以来新高"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "世界热点：英国借款成本创1998年来新高",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.passthenews.com/index.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ccac5a303d22b7b09ce802c7",
+  "country": "multi",
+  "cat": "sports",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "世界热点：南美足坛赛事",
+  "titleOrig": "South American Football Trends（南美足球赛事）",
+  "summary": "阿根廷、梅西（Lionel Messi）等南美足球话题登上马来西亚X热搜，足球赛事讨论在东南亚球迷中热度高。足球队名与球星元素适合做球迷款文字T恤。",
+  "tags": [
+   "梅西",
+   "阿根廷",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 250
+   }
+  ],
+  "credibilityScore": 58,
+  "buzzIndex": 55,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "赛事话题",
+    "desc": "南美足球话题在马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "世界热点：南美足坛赛事",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e9b148fea71ca5705f0af271",
+  "country": "multi",
+  "cat": "sports",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "世界热点：英超俱乐部话题",
+  "titleOrig": "English Premier League Clubs Trending（英超俱乐部热搜）",
+  "summary": "利物浦、切尔西、阿森纳、阿斯顿维拉、桑德兰等英超俱乐部在马来西亚X热搜在列，英超在东南亚拥有海量球迷。球队名与队标是球迷款T恤的经典元素。",
+  "tags": [
+   "英超",
+   "利物浦",
+   "切尔西",
+   "阿森纳"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 300
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 280
+   }
+  ],
+  "credibilityScore": 60,
+  "buzzIndex": 56,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "赛事话题",
+    "desc": "多支英超球队登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/b725167f2b092c9b3cc1213a.jpg",
+    "caption": "世界热点：英超俱乐部话题",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/b725167f2b092c9b3cc1213a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5d7f4496b3d423c29d8f39f0",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "世界热点：BTS 田柾国生日全球应援",
+  "titleOrig": "BTS Jungkook Birthday Global Celebration（BTS田柾国生日全球应援）",
+  "summary": "BTS成员Jungkook（田柾国）生日在全球与东南亚掀起应援狂潮，马来西亚、泰国等X热搜同时出现“Happy Birthday JK”等标签。K-pop顶流生日应援款T恤是粉丝周边的大热品类。",
+  "tags": [
+   "田柾国",
+   "BTS",
+   "生日应援",
+   "K-pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 400
+   },
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 350
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "生日应援",
+    "desc": "田柾国生日话题在全球热搜在列"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6501814a4b024880961310f3.jpg",
+    "caption": "世界热点：BTS 田柾国生日全球应援",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6501814a4b024880961310f3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3b05a69d4584f0bc4d8eafc8",
+  "country": "multi",
+  "cat": "politics",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "世界热点：G20财长会议与日元",
+  "titleOrig": "G20 Finance Meeting & Yen（G20财长会议与日元）",
+  "summary": "G20财长和央行行长会议期间，美国财长贝森特与日本央行行长植田和男会晤，美方暗示支持央行干预支撑日元。国际金融政策话题引发关注。",
+  "tags": [
+   "G20",
+   "日元",
+   "财长会议"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "新浪财经",
+    "type": "news",
+    "url": "https://www.toutiao.com/article/7680690553490539043/",
+    "credibility": "高",
+    "region": "global",
+    "mention": 400
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 56,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "G20财长会",
+    "desc": "美方暗示支持日本央行支撑日元"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/5b593580bcf4b229789df508.jpg",
+    "caption": "世界热点：G20财长会议与日元",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/5b593580bcf4b229789df508.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.toutiao.com/article/7680690553490539043/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8d1cebb20790f9511916eda4",
+  "country": "th",
+  "cat": "society",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰国热搜：PM2.5 空气污染",
+  "titleOrig": "PM 2.5 Thailand（泰国PM2.5空气污染）",
+  "summary": "泰国PM2.5空气污染话题登上X热搜，空气污染问题持续受泰国公众关注，相关环保议题与城市议题适合做社会关注类文字款T恤。",
+  "tags": [
+   "PM2.5",
+   "空气污染",
+   "泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 220
+   }
+  ],
+  "credibilityScore": 52,
+  "buzzIndex": 48,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "环保话题",
+    "desc": "PM2.5空气污染登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "泰国热搜：PM2.5 空气污染",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "b31c0629b0a84489ebde13d0",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Music Bank 音乐节目",
+  "titleOrig": "Music Bank（音乐银行）",
+  "summary": "K-pop打歌节目Music Bank（音乐银行）相关话题登上泰国X热搜，K-pop文化在泰国的渗透力强，粉丝关注打歌舞台与偶像舞台装。",
+  "tags": [
+   "Music Bank",
+   "K-pop",
+   "音乐节目"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 50,
+  "buzzIndex": 46,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "Music Bank登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0e7416bd9720adb10aaeae56.jpg",
+    "caption": "泰国热搜：Music Bank 音乐节目",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0e7416bd9720adb10aaeae56.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "0fbe66abb6b4111d96aa45d1",
+  "country": "th",
+  "cat": "ecommerce",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：苹果新品话题",
+  "titleOrig": "Apple Trending Thailand（苹果新品泰国热搜）",
+  "summary": "苹果（Apple）相关话题登上泰国X热搜，科技新品关注度在泰国持续走高。科技品牌话题适合作为关注度参考，T恤印花需规避商标侵权。",
+  "tags": [
+   "苹果",
+   "科技",
+   "泰国热搜"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 230
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 50,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "科技话题",
+    "desc": "苹果登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d60a216778234d538e1a5484.jpg",
+    "caption": "泰国热搜：苹果新品话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/d60a216778234d538e1a5484.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2b27c3eac33e9ac5687bd4e9",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：New York（纽约）",
+  "titleOrig": "New York Trending（纽约热搜）",
+  "summary": "“New York”登上泰国X热搜，或与NYFW（纽约时装周）等时尚事件相关，同日NYFW话题亦在榜。国际时尚事件吸引泰国潮流人群关注。",
+  "tags": [
+   "纽约",
+   "NYFW",
+   "时尚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 45,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "时尚话题",
+    "desc": "纽约与NYFW登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0b50209750f845428334b1f5.jpg",
+    "caption": "泰国热搜：New York（纽约）",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0b50209750f845428334b1f5.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "07e5a730f03036e5d7b43360",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Our Name》MV",
+  "titleOrig": "OurNameMV（《我们的名字》MV）",
+  "summary": "泰剧《Our Name》官方MV登上泰国X热搜，剧集OST发布带动话题。MV金句与剧名适合作为文字款T恤素材。",
+  "tags": [
+   "Our Name",
+   "泰剧",
+   "MV"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 210
+   }
+  ],
+  "credibilityScore": 50,
+  "buzzIndex": 48,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "MV发布",
+    "desc": "泰剧《Our Name》MV登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Our Name》MV",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "81e3182e0d7bfaa369cc949b",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：GMMTV Live House",
+  "titleOrig": "GMMTVLiveHouse（GMMTV 现场节目）",
+  "summary": "GMMTV的现场直播节目GMMTV Live House话题登上泰国热搜，GMMTV艺人与粉丝的直播互动吸引大量关注。GMMTV旗下多组CP同时参与，是CP粉圈的流量入口。",
+  "tags": [
+   "GMMTV",
+   "直播",
+   "CP粉圈"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 240
+   }
+  ],
+  "credibilityScore": 56,
+  "buzzIndex": 55,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "直播节目",
+    "desc": "GMMTV Live House登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4ab62a31f5a04283bd6fcbcc.jpg",
+    "caption": "泰国热搜：GMMTV Live House",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4ab62a31f5a04283bd6fcbcc.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "92dcb0f47385528b981fb538",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《วิมานอากาศ》第10集",
+  "titleOrig": "วิมานอากาศ EP10（《天空之宅》第10集）",
+  "summary": "泰剧《วิมานอากาศ》（天空之宅）更新第10集登上泰国热搜，剧集热度持续。泰语剧名与经典台词适合做泰语文字款T恤。",
+  "tags": [
+   "天空之宅",
+   "泰剧",
+   "泰语"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 48,
+  "buzzIndex": 44,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《天空之宅》第10集登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《วิมานอากาศ》第10集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c5d929f255379e954cd0a49d",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《STAY WITH KNOT》第10集",
+  "titleOrig": "STAY WITH KNOT EP10（《与Knot相伴》第10集）",
+  "summary": "泰剧《STAY WITH KNOT》更新第10集登上泰国热搜，BL/耽改题材持续受捧。剧名“STAY WITH KNOT”自带浪漫含义，适合做浪漫文字款T恤。",
+  "tags": [
+   "STAY WITH KNOT",
+   "泰剧",
+   "BL"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 230
+   }
+  ],
+  "credibilityScore": 50,
+  "buzzIndex": 46,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《STAY WITH KNOT》第10集登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《STAY WITH KNOT》第10集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "80d88d3c98d3144068e9856b",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《KNOTseries》第10集",
+  "titleOrig": "KNOTseriesEP10（KNOT系列第10集）",
+  "summary": "泰剧《KNOT》系列更新第10集，泰语标签登上泰国热搜。剧集热度带动相关讨论，剧名与名台词适合作为文字款T恤素材。",
+  "tags": [
+   "KNOT",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 190
+   }
+  ],
+  "credibilityScore": 46,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《KNOT》系列第10集登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《KNOTseries》第10集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6ee8bc784347bc491bf58f78",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Nattana 演员话题",
+  "titleOrig": "nattanax（Nattana话题）",
+  "summary": "泰国演员Nattana相关话题登上泰国X热搜，演员个人动态引发粉丝关注。泰国娱乐圈演员话题持续活跃，是粉丝文字款T恤的常见素材来源。",
+  "tags": [
+   "Nattana",
+   "泰国演员"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 170
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "演员话题",
+    "desc": "Nattana登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d50da60bba754b859efa6b60.jpg",
+    "caption": "泰国热搜：Nattana 演员话题",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/d50da60bba754b859efa6b60.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a27c56c3ff6075c57f2c1d0b",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：ZiYu 专辑发售",
+  "titleOrig": "ZiYu Album On Sale（ZiYu专辑发售）",
+  "summary": "歌手ZiYu的专辑发售与“Own A Piece of ZIYU”相关话题登上泰国热搜，音乐人发片带动粉丝应援。专辑名与歌名适合做音乐向文字款T恤。",
+  "tags": [
+   "ZiYu",
+   "专辑",
+   "音乐"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 46,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "专辑发售",
+    "desc": "ZiYu专辑相关话题登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6874695b4fa64b1da96944d1.jpg",
+    "caption": "泰国热搜：ZiYu 专辑发售",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6874695b4fa64b1da96944d1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "4b055199e5b5c388d71a40c4",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Round One》系列",
+  "titleOrig": "RoundOneSeries（《第一轮》系列）",
+  "summary": "泰剧《Round One》系列登上泰国热搜，剧集更新吸引粉丝追更。剧名与角色名适合做泰剧联名文字款T恤。",
+  "tags": [
+   "Round One",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "《Round One》系列登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Round One》系列",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8123630273ecb6f3fa178d49",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Barcode Nong Jub 活动",
+  "titleOrig": "BARCODEKIN NONG JUB X LH（Barcode Nong Jub×LH活动）",
+  "summary": "泰国艺人Barcode与Nong Jub的联动活动话题登上泰国热搜，明星联动吸引粉丝关注。活动口号与艺人名适合做粉丝文字款T恤。",
+  "tags": [
+   "Barcode",
+   "泰国艺人"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "联动活动",
+    "desc": "Barcode Nong Jub话题登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/080e3f17fb0c4532a5dc5194.jpg",
+    "caption": "泰国热搜：Barcode Nong Jub 活动",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/080e3f17fb0c4532a5dc5194.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "22c5fd5028583e23e81fa1ef",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：K-pop 女团 OurDearestYujinDay",
+  "titleOrig": "OurDearestYujinDay（我们的Yujin日）",
+  "summary": "K-pop女团成员Yujin的生日/纪念日话题“OurDearestYujinDay”及韩语标签在泰国与马来西亚热搜在列，K-pop粉丝应援跨国联动。女团成员名与生日数字款T恤是粉丝标配周边。",
+  "tags": [
+   "Yujin",
+   "K-pop",
+   "生日应援"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 220
+   },
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 58,
+  "buzzIndex": 56,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "应援日",
+    "desc": "Yujin纪念日话题在泰马双榜热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0e7416bd9720adb10aaeae56.jpg",
+    "caption": "泰国热搜：K-pop 女团 OurDearestYujinDay",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0e7416bd9720adb10aaeae56.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "00385c011c2a9fa998199427",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Porsuppakarn》",
+  "titleOrig": "Porsuppakarn（泰剧《Porsuppakarn》）",
+  "summary": "泰剧《Porsuppakarn》登上泰国热搜，剧集更新或开播引发关注。泰剧名与剧情相关词汇适合做文字款T恤素材。",
+  "tags": [
+   "Porsuppakarn",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《Porsuppakarn》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Porsuppakarn》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "15e0f52340a1e871a6fbfa00",
+  "country": "th",
+  "cat": "ecommerce",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Engfa 与 Karmart 直播",
+  "titleOrig": "KarmartLive x ENGFA（Karmart直播×Engfa）",
+  "summary": "泰国品牌Karmart与女星Engfa的直播合作话题登上泰国热搜，明星×品牌直播带货在泰国蔚然成风。直播活动口号与明星名适合做电商联名文字款T恤。",
+  "tags": [
+   "Engfa",
+   "直播带货",
+   "品牌"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 46,
+  "buzzIndex": 44,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "直播活动",
+    "desc": "Karmart×Engfa直播话题登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4e0e8d708a584e1fb971551f.jpg",
+    "caption": "泰国热搜：Engfa 与 Karmart 直播",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4e0e8d708a584e1fb971551f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "eb0e8d00133e0ab6cfeda1a8",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《BTS_อรุณรุ่ง》第7集",
+  "titleOrig": "BTS_อรุณรุ่ง EP7（泰剧《黎明》第7集）",
+  "summary": "泰剧《อรุณรุ่ง》（黎明）更新第7集登上泰国热搜，剧集更新带动讨论。泰语剧名与剧情意象适合做泰语文字款T恤。",
+  "tags": [
+   "อรุณรุ่ง",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 170
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "泰剧《黎明》第7集登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《BTS_อรุณรุ่ง》第7集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "4e6afa0e605d9c89033cf730",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Kiss Me Remember》",
+  "titleOrig": "KissMeRemember（《吻我铭记》）",
+  "summary": "泰剧《Kiss Me Remember》（吻我铭记）登上泰国热搜，浪漫题材泰剧吸引观众。剧名自带浪漫意境，适合做情侣款或浪漫文字款T恤。",
+  "tags": [
+   "Kiss Me Remember",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《Kiss Me Remember》登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Kiss Me Remember》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6b8d9c0629120ae1792e6dd0",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Build Jakapan》",
+  "titleOrig": "BuildJakapan（泰剧《Build Jakapan》）",
+  "summary": "泰剧/艺人《Build Jakapan》相关话题登上泰国热搜，演员相关动态引发粉丝关注。艺人名与剧名适合做粉丝文字款T恤。",
+  "tags": [
+   "Build",
+   "泰国演员"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "演员话题",
+    "desc": "Build Jakapan登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c35c65cb9afb9453ee70c312.jpg",
+    "caption": "泰国热搜：泰剧《Build Jakapan》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/c35c65cb9afb9453ee70c312.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ccbc2e4e7d1c8bbb519fdcc1",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Beyourluve》",
+  "titleOrig": "Beyourluve（《做你的爱》）",
+  "summary": "泰剧《Beyourluve》登上泰国热搜，甜蜜剧名适合做浪漫主题文字款T恤。剧集更新带动粉丝讨论。",
+  "tags": [
+   "Beyourluve",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《Beyourluve》登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Beyourluve》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "054ad69fae97504d12cecba2",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《jimmyyjp》",
+  "titleOrig": "jimmyyjp（泰剧《Jimmy YJP》）",
+  "summary": "泰剧《jimmyyjp》登上泰国热搜，剧集或角色话题引发关注。艺人名适合做粉丝文字款T恤素材。",
+  "tags": [
+   "jimmyyjp",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "《jimmyyjp》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《jimmyyjp》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1e202e65e6fa2a361a470495",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "CP粉圈",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Lingling Kwong 话题",
+  "titleOrig": "lingling kwong（LingLing Kwong）",
+  "summary": "LingOrm成员LingLing Kwong登上泰国X热搜，GL顶流演员热度持续。LingOrm粉丝关注两人动态，相关名字适合做CP粉丝文字款T恤。",
+  "tags": [
+   "LingOrm",
+   "LingLing",
+   "GL"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 48,
+  "buzzIndex": 46,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "演员话题",
+    "desc": "LingLing Kwong登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4f3e394d160e4dc794fd9ce4.jpg",
+    "caption": "泰国热搜：Lingling Kwong 话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4f3e394d160e4dc794fd9ce4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ca83c343cc8610e099bd0c25",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：东南亚足球与地域话题",
+  "titleOrig": "SEA Football & Region Trends（东南亚足球与地域热搜）",
+  "summary": "马来西亚X热搜包含东南亚球队、地域（菲律宾、婆罗洲等）及足球球员话题，东南亚区域文化与体育议题在马来热搜活跃，适合做区域性主题文字款T恤。",
+  "tags": [
+   "东南亚",
+   "足球",
+   "婆罗洲"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 220
+   }
+  ],
+  "credibilityScore": 52,
+  "buzzIndex": 48,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "地域话题",
+    "desc": "东南亚足球与地域话题在马来热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/59e9c4e40e548af00bebd7b2.jpg",
+    "caption": "马来西亚热搜：东南亚足球与地域话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/59e9c4e40e548af00bebd7b2.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "794bb7fb36c3bd374a21ca27",
+  "country": "my",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：K-pop Hoshi 与生日话题",
+  "titleOrig": "Hoshi & JK Birthday（Hoshi 与田柾国生日）",
+  "summary": "SEVENTEEN成员Hoshi及BTS田柾国生日相关话题在马来西亚X热搜在列，K-pop团体在东南亚粉丝众多。偶像名与生日数字款T恤是粉丝周边大热品类。",
+  "tags": [
+   "Hoshi",
+   "SEVENTEEN",
+   "K-pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 52,
+  "buzzIndex": 50,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "K-pop话题",
+    "desc": "Hoshi与田柾国话题在马来热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0e7416bd9720adb10aaeae56.jpg",
+    "caption": "马来西亚热搜：K-pop Hoshi 与生日话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0e7416bd9720adb10aaeae56.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "4d38ec0ba13631236e138193",
+  "country": "my",
+  "cat": "society",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "马来西亚热搜：马来西亚独立纪念话题",
+  "titleOrig": "Merdeka Celebration Trends（默迪卡纪念话题）",
+  "summary": "马来西亚“Merdeka”（默迪卡）独立纪念话题在国庆补假后仍热度不减，社交媒体上爱国表情包与纪念内容持续传播。独立纪念相关口号与国旗元素适合做爱国主题T恤。",
+  "tags": [
+   "Merdeka",
+   "独立日",
+   "爱国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 300
+   },
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 280
+   }
+  ],
+  "credibilityScore": 62,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "纪念延续",
+    "desc": "Merdeka独立纪念话题在国庆后持续传播"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/54eee948d4b648199e67383c.jpg",
+    "caption": "马来西亚热搜：马来西亚独立纪念话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/54eee948d4b648199e67383c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e7389d7e4b63aeedd8fcf541",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《บวงสรวงหอตัวดี》",
+  "titleOrig": "บวงสรวงหอตัวดี（《拜祭仪式》泰剧）",
+  "summary": "泰剧《บวงสรวงหอตัวดี》相关话题登上泰国热搜，剧集围绕超自然/惊悚题材引发讨论。该题材因涉及民俗与超自然内容，T恤印花需注意尺度过审风险。",
+  "tags": [
+   "บวงสรวงหอตัวดี",
+   "泰剧",
+   "超自然"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《บวงสรวงหอตัวดี》登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《บวงสรวงหอตัวดี》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "cf07a792afed35a57fb474e8",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《SpecialtyMoments》",
+  "titleOrig": "SpecialtyMoments（《特别时刻》）",
+  "summary": "泰剧/节目《SpecialtyMoments》相关话题登上泰国热搜，内容更新吸引观众关注。节目名适合做简约文字款T恤。",
+  "tags": [
+   "SpecialtyMoments",
+   "泰国节目"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "《SpecialtyMoments》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/9140e1a797674d6385206f10.jpg",
+    "caption": "泰国热搜：泰剧《SpecialtyMoments》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/9140e1a797674d6385206f10.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "fd6a8604e9e5c567fbc82dfa",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《AlwaysByYourSideJK》",
+  "titleOrig": "AlwaysByYourSideJK（《永远在你身边》）",
+  "summary": "泰剧《AlwaysByYourSideJK》登上泰国热搜，浪漫剧名适合做温情文字款T恤。剧集更新带动粉丝讨论。",
+  "tags": [
+   "AlwaysByYourSideJK",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《AlwaysByYourSideJK》登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《AlwaysByYourSideJK》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a33be9f5bac5da9655dfec96",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《8เซียนขอให้จึ้ง》",
+  "titleOrig": "8เซียนขอให้จึ้ง（《8侠请够劲》）",
+  "summary": "泰剧/节目《8เซียนขอให้จึ้ง》登上泰国热搜，内容更新吸引观众。节目名适合做趣味文字款T恤素材。",
+  "tags": [
+   "8เซียนขอให้จึ้ง",
+   "泰国节目"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "泰剧《8เซียนขอให้จึ้ง》登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/12741924fb878ee9682bbec4.jpg",
+    "caption": "泰国热搜：泰剧《8เซียนขอให้จึ้ง》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/12741924fb878ee9682bbec4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1fdab6b1017019f390e92adc",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Enzo 与球员话题",
+  "titleOrig": "Enzo & Footballers Malaysia（Enzo 与足球球员热搜）",
+  "summary": "足球球员Enzo等话题登上马来西亚X热搜，欧洲足坛赛事与球员转会话题在东南亚球迷中热度高。球员名与队名适合做球迷文字款T恤。",
+  "tags": [
+   "Enzo",
+   "足球",
+   "球员"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 48,
+  "buzzIndex": 44,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "球员话题",
+    "desc": "Enzo等足球球员话题在马来热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：Enzo 与球员话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "732e4329cfa45e6c1350abab",
+  "country": "my",
+  "cat": "society",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Lowyat 论坛热门话题",
+  "titleOrig": "Lowyat Kopitiam Hot Topics（Lowyat论坛热门话题）",
+  "summary": "马来西亚Lowyat论坛Kopitiam板块热门话题涵盖社会民生、健康、交通、消费等，如“MBSJ新付费停车区”“Anytime Fitness出售”“RTS测试”等，反映马来网民关注焦点。论坛热门议题可作为本地化文字款T恤的灵感来源。",
+  "tags": [
+   "Lowyat",
+   "论坛",
+   "社会话题"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Lowyat Forum",
+    "type": "forum",
+    "url": "https://forum.lowyat.net/Kopitiam",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2000
+   }
+  ],
+  "credibilityScore": 58,
+  "buzzIndex": 52,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "论坛热议",
+    "desc": "Lowyat论坛社会民生话题活跃"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d7f606a83635a383dfdc9540.jpg",
+    "caption": "马来西亚热搜：Lowyat 论坛热门话题",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/d7f606a83635a383dfdc9540.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://forum.lowyat.net/Kopitiam",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "bbabcffaaf886e1fcf8c82da",
+  "country": "my",
+  "cat": "ecommerce",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：中国品牌比亚迪话题",
+  "titleOrig": "BYD & EV Trends Malaysia（比亚迪与电动车话题）",
+  "summary": "马来西亚论坛热议中国品牌与电动车话题，中国制造与新能源车在马来市场关注度上升。相关品牌与产品话题适合做关注度参考，T恤印花需规避商标侵权。",
+  "tags": [
+   "比亚迪",
+   "电动车",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Lowyat Forum",
+    "type": "forum",
+    "url": "https://forum.lowyat.net/Kopitiam",
+    "credibility": "中",
+    "region": "my",
+    "mention": 600
+   }
+  ],
+  "credibilityScore": 52,
+  "buzzIndex": 48,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "行业话题",
+    "desc": "中国品牌与电动车话题在马来论坛热议"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "马来西亚热搜：中国品牌比亚迪话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://forum.lowyat.net/Kopitiam",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a61cf160e33feb50732cbe6d",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：摩纳哥足球俱乐部",
+  "titleOrig": "Monaco Trending Malaysia（摩纳哥足球热搜）",
+  "summary": "法甲球队摩纳哥（Monaco）在马来西亚X热搜高居第3，欧洲足球俱乐部赛事在东南亚球迷中热度高。队名与队标适合做球迷款文字款T恤。",
+  "tags": [
+   "摩纳哥",
+   "足球",
+   "马来热搜"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 300
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 280
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 50,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "赛事话题",
+    "desc": "摩纳哥登上马来西亚X热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：摩纳哥足球俱乐部",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "b4251f6f52d201fd3d83e2f7",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Arsenal 与桑德兰球队",
+  "titleOrig": "Arsenal & Sunderland Trending（阿森纳与桑德兰热搜）",
+  "summary": "英超阿森纳（Arsenal）与英冠桑德兰（Sunderland）在马来西亚X热搜在列，英格兰足球赛事在东南亚人气旺盛。球队名与徽章元素适合做球迷款T恤。",
+  "tags": [
+   "阿森纳",
+   "桑德兰",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 250
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 240
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 50,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "赛事话题",
+    "desc": "阿森纳与桑德兰登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：Arsenal 与桑德兰球队",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9d6347ad2d6ba787300630fe",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Chelsea 与 Villa",
+  "titleOrig": "Chelsea & Aston Villa Trending（切尔西与维拉热搜）",
+  "summary": "英超切尔西（Chelsea）与阿斯顿维拉（Aston Villa）在马来西亚X热搜在列，英超赛事话题热度集中。球队名与配色元素适合做球迷款T恤设计。",
+  "tags": [
+   "切尔西",
+   "阿斯顿维拉",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 240
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 230
+   }
+  ],
+  "credibilityScore": 54,
+  "buzzIndex": 49,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "赛事话题",
+    "desc": "切尔西与维拉登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：Chelsea 与 Villa",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7a181061cfa978ebd541a8e1",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：阿根廷与梅西",
+  "titleOrig": "Argentina & Messi Trending（阿根廷与梅西热搜）",
+  "summary": "阿根廷国家队与球星梅西（Lionel Messi）在马来西亚X热搜在列，南美足球与世界杯话题在东南亚球迷中热度高。梅西与阿根廷元素适合做球迷款文字款T恤。",
+  "tags": [
+   "阿根廷",
+   "梅西",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 230
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 220
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 52,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "球星话题",
+    "desc": "阿根廷与梅西登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：阿根廷与梅西",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9c740ff7872cd4a3375a9bb5",
+  "country": "my",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Perth 与 The D Dorm 话题",
+  "titleOrig": "Perth & The D Dorm Worship（Perth与《The D Dorm》话题）",
+  "summary": "泰国艺人Perth与泰剧《The D Dorm》相关话题在马来西亚X热搜在列，泰娱内容在马来粉丝中关注度高。剧名与艺人名适合做泰娱粉丝文字款T恤。",
+  "tags": [
+   "Perth",
+   "The D Dorm",
+   "泰娱"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 220
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 210
+   }
+  ],
+  "credibilityScore": 54,
+  "buzzIndex": 48,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "泰娱话题",
+    "desc": "Perth与《The D Dorm》登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/b29888a8c735b37b1e68ac43.jpg",
+    "caption": "马来西亚热搜：Perth 与 The D Dorm 话题",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/b29888a8c735b37b1e68ac43.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8008065c72263fea12001575",
+  "country": "my",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Junior Eucerin 新品发布",
+  "titleOrig": "JUNIOR EUCERIN NEW LAUNCH（Junior Eucerin 新品发布）",
+  "summary": "韩国艺人Junior与护肤品牌Eucerin（优色林）的新品发布话题登上马来西亚X热搜，明星×护肤品牌联动在马来粉丝中反响良好。品牌联名款T恤适合做粉丝应援周边。",
+  "tags": [
+   "Junior",
+   "Eucerin",
+   "护肤"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 210
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 54,
+  "buzzIndex": 50,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "新品发布",
+    "desc": "Junior Eucerin新品话题登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e567cae9905747e8a2bccb99.jpg",
+    "caption": "马来西亚热搜：Junior Eucerin 新品发布",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/e567cae9905747e8a2bccb99.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "07da04e9807d2648120d39fa",
+  "country": "my",
+  "cat": "ecommerce",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：INEOS 化工集团",
+  "titleOrig": "INEOS Trending Malaysia（INEOS化工热搜）",
+  "summary": "国际化工集团INEOS（英力士）登上马来西亚X热搜，工业与能源话题引发关注。相关行业话题可作为关注度参考，T恤印花需规避商标侵权。",
+  "tags": [
+   "INEOS",
+   "化工",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 48,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "行业话题",
+    "desc": "INEOS登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "马来西亚热搜：INEOS 化工集团",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "11d8357fb4c927467230fbd8",
+  "country": "my",
+  "cat": "politics",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "马来西亚热搜：斯特拉特·霍尔木兹海峡",
+  "titleOrig": "Strait of Hormuz Trending（霍尔木兹海峡热搜）",
+  "summary": "霍尔木兹海峡（Strait of Hormuz）因美伊冲突登上马来西亚X热搜，中东局势牵动能源与航运关注。地缘政治议题适合做关注度参考，但T恤印花需注意政治敏感度。",
+  "tags": [
+   "霍尔木兹海峡",
+   "中东",
+   "地缘政治"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 250
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 230
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 55,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "地缘话题",
+    "desc": "霍尔木兹海峡登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c52601e47bf046dc9d3f8683.jpg",
+    "caption": "马来西亚热搜：斯特拉特·霍尔木兹海峡",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/c52601e47bf046dc9d3f8683.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "cd1613f95c4072dd0191f829",
+  "country": "my",
+  "cat": "society",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：菲律宾与婆罗洲地域",
+  "titleOrig": "Philippines & Borneo Trending（菲律宾与婆罗洲热搜）",
+  "summary": "菲律宾与婆罗洲（Borneo）地域话题在马来西亚X热搜在列，东南亚区域议题与地缘动态受关注。区域主题文字款T恤适合做本地化设计。",
+  "tags": [
+   "菲律宾",
+   "婆罗洲",
+   "东南亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 170
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 46,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "地域话题",
+    "desc": "菲律宾与婆罗洲登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/59e9c4e40e548af00bebd7b2.jpg",
+    "caption": "马来西亚热搜：菲律宾与婆罗洲地域",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/59e9c4e40e548af00bebd7b2.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c1270e76e1c39caa2efc9056",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：足球球员 Gyokeres 与 Mudryk",
+  "titleOrig": "Gyokeres & Mudryk Trending（于厄克雷斯与穆德里克热搜）",
+  "summary": "足球球员Gyokeres（于厄克雷斯）与Mudryk（穆德里克）在马来西亚X热搜在列，欧洲足坛转会与赛事话题在马来球迷中热度高。球员名适合做球迷文字款T恤。",
+  "tags": [
+   "Gyokeres",
+   "Mudryk",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "球员话题",
+    "desc": "于厄克雷斯与穆德里克登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：足球球员 Gyokeres 与 Mudryk",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "dc368cbe7858ef5aff20fd4a",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Hagi 与 Enzo 等新星",
+  "titleOrig": "Hagi & Rising Football Stars（哈吉等足坛新星热搜）",
+  "summary": "足坛新星Hagi（哈吉）等球员在马来西亚X热搜在列，欧洲足坛新秀话题吸引马来球迷。新星球员名适合做球迷文字款T恤。",
+  "tags": [
+   "Hagi",
+   "足球新星"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "球员话题",
+    "desc": "哈吉等足坛新星登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d60a216778234d538e1a5484.jpg",
+    "caption": "马来西亚热搜：Hagi 与 Enzo 等新星",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/d60a216778234d538e1a5484.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "94eb510d55494c52f434bd5b",
+  "country": "th",
+  "cat": "ecommerce",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰国热搜：Orm 与 Shopee 直播带货",
+  "titleOrig": "OrmLESASHAXShopeeLive（Orm×Lesasha×Shopee直播）",
+  "summary": "Orm与Lesasha品牌在Shopee的直播带货话题登上泰国热搜，GL顶流女星的电商直播带动品牌转化。直播口号与明星名适合做电商联名文字款T恤。",
+  "tags": [
+   "Orm",
+   "Shopee",
+   "直播带货"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 420
+   },
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 300
+   }
+  ],
+  "credibilityScore": 68,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "直播带货",
+    "desc": "Orm×Lesasha×Shopee直播话题双榜热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6de4f2fc07c77fc7a56320da.jpg",
+    "caption": "泰国热搜：Orm 与 Shopee 直播带货",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/6de4f2fc07c77fc7a56320da.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5519045306d00d9b86812669",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "CP粉圈",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Puri 直播×Charlotte",
+  "titleOrig": "PURILiveXCharlotteAustin（Puri直播×Charlotte）",
+  "summary": "Puri直播与Charlotte Austin的联动话题登上泰国热搜，Englot成员Charlotte的直播互动吸引粉丝。CP相关直播是粉丝应援的热门场景，口号款T恤需求高。",
+  "tags": [
+   "Charlotte",
+   "Englot",
+   "直播"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 50,
+  "buzzIndex": 48,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "直播联动",
+    "desc": "Puri×Charlotte直播话题登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4ab62a31f5a04283bd6fcbcc.jpg",
+    "caption": "泰国热搜：Puri 直播×Charlotte",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4ab62a31f5a04283bd6fcbcc.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a3131aeed0cb90751bddf696",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：K-pop 女团 Hoshi 相关",
+  "titleOrig": "Hoshi K-pop Trending（Hoshi K-pop热搜）",
+  "summary": "K-pop艺人Hoshi在泰国X热搜在列，K-pop文化在泰国渗透力强。偶像名与应援语适合做K-pop粉丝文字款T恤。",
+  "tags": [
+   "Hoshi",
+   "K-pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "K-pop话题",
+    "desc": "Hoshi登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0e7416bd9720adb10aaeae56.jpg",
+    "caption": "泰国热搜：K-pop 女团 Hoshi 相关",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0e7416bd9720adb10aaeae56.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "bf6807d37fd0e38ee04b6670",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：K-pop 女团 Weki Meki 相关",
+  "titleOrig": "LookKhunNoo K-pop（Look Khun Noo 话题）",
+  "summary": "K-pop/泰国艺人LookKhunNoo相关话题登上泰国X热搜，偶像动态吸引粉丝关注。艺人名适合做粉丝文字款T恤。",
+  "tags": [
+   "LookKhunNoo",
+   "K-pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "偶像话题",
+    "desc": "LookKhunNoo登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0e7416bd9720adb10aaeae56.jpg",
+    "caption": "泰国热搜：K-pop 女团 Weki Meki 相关",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0e7416bd9720adb10aaeae56.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "836353a7acb79a2e181bfe6b",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Mark Lee 话题",
+  "titleOrig": "MARKLEE Trending（Mark Lee 话题）",
+  "summary": "艺人Mark Lee相关话题登上泰国X热搜，偶像动态引发粉丝关注。艺人名与应援语适合做粉丝文字款T恤。",
+  "tags": [
+   "MarkLee",
+   "偶像"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "偶像话题",
+    "desc": "Mark Lee登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1e25ffa11f8140ee9d9cc3cd.jpg",
+    "caption": "泰国热搜：Mark Lee 话题",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/1e25ffa11f8140ee9d9cc3cd.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c3471cf153ff8cbba40686d2",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《SHEEP》",
+  "titleOrig": "SHEEP Trending（泰剧《SHEEP》）",
+  "summary": "泰剧《SHEEP》相关话题登上泰国X热搜，剧集更新或开播吸引观众。剧名与角色设计适合做泰剧文字款T恤。",
+  "tags": [
+   "SHEEP",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《SHEEP》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《SHEEP》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5ac1037f5ca29c7cd5c4a4db",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《AllWishesComeTrue》",
+  "titleOrig": "AllWishesComeTrue（《愿望成真》）",
+  "summary": "泰剧《AllWishesComeTrue》（愿望成真）登上泰国X热搜，浪漫剧名适合做温情文字款T恤。剧集更新带动粉丝讨论。",
+  "tags": [
+   "AllWishesComeTrue",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《AllWishesComeTrue》登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《AllWishesComeTrue》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "cccb00a2763d952bb716ddbe",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《ZhanXuan VIBE》",
+  "titleOrig": "ZhanXuan_VIBE（泰剧《ZhanXuan VIBE》）",
+  "summary": "泰剧《ZhanXuan VIBE》相关话题登上泰国X热搜，剧集或角色话题引发关注。剧名适合做泰剧粉丝文字款T恤。",
+  "tags": [
+   "ZhanXuan",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《ZhanXuan VIBE》登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《ZhanXuan VIBE》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6f24e200ce2c9960bd6a8e7c",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰国热搜：泰剧《ThirdPersonTheSeries》",
+  "titleOrig": "ThirdPersonTheSeries（《第三人》剧集）",
+  "summary": "泰剧《Third Person》系列持续登上泰国X热搜，预告与开播带动高关注度。剧名英文设计与角色形象适合做图案款T恤主视觉。",
+  "tags": [
+   "Third Person",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 50,
+  "buzzIndex": 48,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "《Third Person》系列登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《ThirdPersonTheSeries》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "616e1722c0307d2f679cf17e",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：All Select×Keng Harit",
+  "titleOrig": "AllSelectxKengHarit（All Select×Keng Harit）",
+  "summary": "品牌All Select与艺人Keng Harit的联动话题登上泰国X热搜，明星×品牌合作吸引粉丝。联动口号适合做粉丝文字款T恤。",
+  "tags": [
+   "KengHarit",
+   "品牌联动"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "联动话题",
+    "desc": "All Select×Keng Harit登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/130db198f7d348d50c0064ae.jpg",
+    "caption": "泰国热搜：All Select×Keng Harit",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/130db198f7d348d50c0064ae.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7fe4b8e889817945e6ea38b7",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《BTS_อรุณรุ่ง》黎明系列",
+  "titleOrig": "อรุณรุ่ง EP7（泰剧《黎明》系列）",
+  "summary": "泰剧《อรุณรุ่ง》（黎明）系列持续登上泰国热搜，剧集更新吸引观众。泰语剧名适合做泰语文字款T恤素材。",
+  "tags": [
+   "อรุณรุ่ง",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《黎明》系列登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《BTS_อรุณรุ่ง》黎明系列",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1e9af26f50fd19ef6681d442",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Hongseng 节目第27集",
+  "titleOrig": "HONGSEN KLOOKFOON Q27（Hongseng节目第27集）",
+  "summary": "泰国节目Hongseng更新第27集登上泰国X热搜，综艺内容吸引观众追看。节目名适合做粉丝文字款T恤。",
+  "tags": [
+   "Hongseng",
+   "泰国综艺"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "Hongseng节目第27集登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d67aee319def4e3bab0dddb0.jpg",
+    "caption": "泰国热搜：Hongseng 节目第27集",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/d67aee319def4e3bab0dddb0.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "18b2e71c35f22616799ee85a",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Gulf 早间问候话题",
+  "titleOrig": "Gulf Morning（Gulf 早安问候）",
+  "summary": "泰国男星Gulf的“Gulf Morning”（Gulf早安）问候话题登上泰国X热搜，粉丝互动氛围温暖。问候语适合做轻松文字款T恤。",
+  "tags": [
+   "Gulf",
+   "早安问候"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "问候话题",
+    "desc": "Gulf早安问候登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/067d0f600a65dc9524b8b970.jpg",
+    "caption": "泰国热搜：Gulf 早间问候话题",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/067d0f600a65dc9524b8b970.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "055fcad1f9ad9a169d66661c",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Tha Khom Khlang》第17集",
+  "titleOrig": "KHOM KHLANG Q17（泰剧《铿锵》第17集）",
+  "summary": "泰剧《KHOM KHLANG》（铿锵）更新第17集登上泰国X热搜，剧集热度持续。剧名与剧情意象适合做泰语文字款T恤素材。",
+  "tags": [
+   "KHOM KHLANG",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 46,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "泰剧《铿锵》第17集登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Tha Khom Khlang》第17集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8070a59ced2322e65e025134",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Gulf Kanawut 话题",
+  "titleOrig": "GULF KANAWUT（Gulf Kanawut）",
+  "summary": "泰国男星Gulf Kanawut登上泰国X热搜，演员动态引发粉丝关注。Gulf作为人气艺人，名字与应援语适合做粉丝文字款T恤。",
+  "tags": [
+   "Gulf",
+   "泰国男星"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 46,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "演员话题",
+    "desc": "Gulf Kanawut登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7bf5b37701284d7790842a36.jpg",
+    "caption": "泰国热搜：Gulf Kanawut 话题",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7bf5b37701284d7790842a36.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7c2c63bccf0731744beda094",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Miss U》",
+  "titleOrig": "MISS U（《想你了》）",
+  "summary": "泰剧/节目《Miss U》相关话题登上泰国X热搜，浪漫主题吸引观众。“MISS U”（想你了）文案自带情感张力，适合做浪漫文字款T恤。",
+  "tags": [
+   "Miss U",
+   "浪漫"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "《Miss U》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4f6eb5c79410477886d2c06d.jpg",
+    "caption": "泰国热搜：泰剧《Miss U》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/4f6eb5c79410477886d2c06d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1188e935b1bc023fad2fe4d4",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Fable》5.1",
+  "titleOrig": "Fable 5.1（泰剧《寓言》5.1）",
+  "summary": "泰剧《Fable》相关话题登上泰国X热搜，剧集更新带动粉丝讨论。剧名适合做泰剧文字款T恤素材。",
+  "tags": [
+   "Fable",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《Fable》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Fable》5.1",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7597f45b0c9620334496cefa",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Supalai My Staycation Boy》",
+  "titleOrig": "SUPALAI MY STAYCATION BOY EP31（泰剧《我的宅家男友》第31集）",
+  "summary": "泰剧《Supalai My Staycation Boy》更新第31集，话题在泰国热搜在列。浪漫剧名与角色设计适合做泰剧文字款T恤素材。",
+  "tags": [
+   "Supalai",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 170
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《我的宅家男友》第31集登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Supalai My Staycation Boy》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "859926be71b4dd4f737e192f",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "CP粉圈",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Englot《Timeless Embrace》第11集",
+  "titleOrig": "TIMELESS EMBRACE ENGLOT11（Englot《永恒拥抱》第11集）",
+  "summary": "Englot（Engfa与Charlotte）主演剧集《Timeless Embrace》（永恒拥抱）第11集登上泰国热搜，GL剧集更新带动CP粉圈话题。剧名“永恒拥抱”适合做浪漫CP文字款T恤。",
+  "tags": [
+   "Englot",
+   "GL",
+   "Timeless Embrace"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 48,
+  "buzzIndex": 46,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集更新",
+    "desc": "Englot《永恒拥抱》第11集登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/3abc633af88d42b28f4ee220.jpg",
+    "caption": "泰国热搜：Englot《Timeless Embrace》第11集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/3abc633af88d42b28f4ee220.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6608dcdcaafee52931b42e48",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Lonark×Joong》",
+  "titleOrig": "LONARK X JOONG（泰剧《Lonark×Joong》）",
+  "summary": "泰剧《Lonark×Joong》相关话题登上泰国X热搜，剧集或演员联动引发关注。剧名与角色适合做泰剧文字款T恤素材。",
+  "tags": [
+   "Lonark",
+   "Joong",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《Lonark×Joong》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Lonark×Joong》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e6c405e4b99a7f44d4d064eb",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《WU The Series》第6集",
+  "titleOrig": "WUTheSeriesEP6（泰剧《WU》第6集）",
+  "summary": "泰剧《WU The Series》第6集登上泰国X热搜，剧集更新带动粉丝追更。剧名与角色设计适合做泰剧文字款T恤素材。",
+  "tags": [
+   "WU",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《WU The Series》第6集登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《WU The Series》第6集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7e881a8e48033e478f933f82",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《สอดสร้อยมาลา》第15集",
+  "titleOrig": "สอดสร้อยมาลา EP15（泰剧《花环》第15集）",
+  "summary": "泰剧《สอดสร้อยมาลา》（花环）更新第15集登上泰国X热搜，剧集热度持续。泰语剧名与传统文化意象适合做泰语文字款T恤。",
+  "tags": [
+   "สอดสร้อยมาลา",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 170
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "泰剧《花环》第15集登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《สอดสร้อยมาลา》第15集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "fd1c6e1c8fb24cafa9fc69b9",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《TFO Debut Showcase》",
+  "titleOrig": "TFO DEBUT SHOWCASE（TFO 出道秀）",
+  "summary": "泰国偶像组合TFO的出道秀相关话题登上泰国X热搜，新人团体出道引发粉丝关注。组合名与出道口号适合做粉丝文字款T恤。",
+  "tags": [
+   "TFO",
+   "出道",
+   "偶像"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 46,
+  "buzzIndex": 44,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "出道秀",
+    "desc": "TFO出道秀话题登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/01181de81ade6505cb15e28e.jpg",
+    "caption": "泰国热搜：泰剧《TFO Debut Showcase》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/01181de81ade6505cb15e28e.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "608570cb954dc2b1c0d47601",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "CP粉圈",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Engfa《The Legacy》第11集",
+  "titleOrig": "ENGFA THE LEGACY11（Engfa《传承》第11集）",
+  "summary": "Engfa主演剧集《The Legacy》（传承）第11集登上泰国X热搜，Englot粉丝持续关注。剧集热度带动Engfa个人形象与角色适合做CP粉丝文字款T恤。",
+  "tags": [
+   "Engfa",
+   "Englot",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 180
+   }
+  ],
+  "credibilityScore": 48,
+  "buzzIndex": 46,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集更新",
+    "desc": "Engfa《传承》第11集登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4e0e8d708a584e1fb971551f.jpg",
+    "caption": "泰国热搜：Engfa《The Legacy》第11集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4e0e8d708a584e1fb971551f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8d10818fb35d4030a2225da1",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "CP粉圈",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Charlotte《Shining Pride》第11集",
+  "titleOrig": "SHINING PRIDE CHARLOTTE11（Charlotte《闪亮骄傲》第11集）",
+  "summary": "Charlotte主演剧集《Shining Pride》（闪亮骄傲）第11集登上泰国X热搜，Englot粉丝关注。剧名与角色适合做CP粉丝文字款T恤。",
+  "tags": [
+   "Charlotte",
+   "Englot",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 46,
+  "buzzIndex": 44,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集更新",
+    "desc": "Charlotte《闪亮骄傲》第11集登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4ab62a31f5a04283bd6fcbcc.jpg",
+    "caption": "泰国热搜：Charlotte《Shining Pride》第11集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4ab62a31f5a04283bd6fcbcc.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c893507f707a570285c52b14",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "CP粉圈",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：MilkLove 出席 HUB 颁奖礼",
+  "titleOrig": "MILKLOVE AT HUB AWARDS（MilkLove 出席 HUB 颁奖礼）",
+  "summary": "GMMTV人气GL CP Milk Love出席HUB颁奖礼的话题登上泰国X热搜，GL顶流CP红毯造型引发粉丝热议。颁奖礼造型与CP同框照适合做粉丝图案款T恤素材。",
+  "tags": [
+   "MilkLove",
+   "GL",
+   "颁奖礼"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 52,
+  "buzzIndex": 52,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "颁奖礼",
+    "desc": "MilkLove出席HUB颁奖礼登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/da268c33a5d74c40b38469ff.jpg",
+    "caption": "泰国热搜：MilkLove 出席 HUB 颁奖礼",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/da268c33a5d74c40b38469ff.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "acddc62dedcb2e4482a513de",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《The BKK Red Opera》第15集",
+  "titleOrig": "THE BKK RED OPERA EP15（泰剧《曼谷红剧院》第15集）",
+  "summary": "泰剧《The BKK Red Opera》（曼谷红剧院）第15集登上泰国X热搜，剧集更新吸引观众。剧名与剧场意象适合做泰剧文字款T恤素材。",
+  "tags": [
+   "BKK Red Opera",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《曼谷红剧院》第15集登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《The BKK Red Opera》第15集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "408d067e8551e6ab864babac",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "CP粉圈",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Lingling Still Rising 第11集",
+  "titleOrig": "LINGLING STILL RISING11（LingLing《依然崛起》第11集）",
+  "summary": "LingLing（LingOrm成员）相关剧集《Lingling Still Rising》第11集登上泰国X热搜，GL粉丝关注。剧名与角色适合做CP粉丝文字款T恤。",
+  "tags": [
+   "LingLing",
+   "LingOrm",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集更新",
+    "desc": "LingLing《依然崛起》第11集登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4f3e394d160e4dc794fd9ce4.jpg",
+    "caption": "泰国热搜：Lingling Still Rising 第11集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/4f3e394d160e4dc794fd9ce4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2e27f009780663406ec07954",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Be My Player Two》",
+  "titleOrig": "BE MY PLAYER TWO Q15 Q16 Q17（泰剧《做我的二号玩家》）",
+  "summary": "泰剧《Be My Player Two》更新至15-17集登上泰国X热搜，电竞题材泰剧吸引年轻观众。剧名适合做电竞×浪漫主题文字款T恤。",
+  "tags": [
+   "Be My Player",
+   "电竞",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《做我的二号玩家》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1ba2d0926147440c9e71a9cb.jpg",
+    "caption": "泰国热搜：泰剧《Be My Player Two》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1ba2d0926147440c9e71a9cb.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e0253b27087ddccd3ec2a722",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《The D Dorm Worship》",
+  "titleOrig": "The D Dorm Worship（泰剧《D宿舍》）",
+  "summary": "泰剧《The D Dorm Worship》在泰国与马来西亚X热搜在列，BL题材宿舍剧吸引粉丝。剧名与角色设计适合做泰剧文字款T恤素材。",
+  "tags": [
+   "The D Dorm",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 170
+   }
+  ],
+  "credibilityScore": 46,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "《The D Dorm Worship》登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《The D Dorm Worship》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "287e864d706e8348099abd8a",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Tonsom》第5集",
+  "titleOrig": "TONSOM 5TH EPISODE（泰剧《Tonsom》第5集）",
+  "summary": "泰剧《Tonsom》第5集登上泰国X热搜，剧集更新吸引观众。剧名适合做泰剧文字款T恤素材。",
+  "tags": [
+   "Tonsom",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "泰剧《Tonsom》第5集登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Tonsom》第5集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "cbb6e76d0848bb3b64729655",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "社媒热搜",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰国热搜：泰剧《BTS World Tour Bangkok》",
+  "titleOrig": "BTS_WORLDTOUR_BANGKOK（BTS世界巡演曼谷站）",
+  "summary": "BTS世界巡演曼谷站相关话题登上泰国X热搜，K-pop顶流演唱会话题带动泰国粉丝高度关注。演唱会主题与巡演名适合做K-pop粉丝图案款T恤。",
+  "tags": [
+   "BTS",
+   "演唱会",
+   "K-pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 250
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "演唱会话题",
+    "desc": "BTS世界巡演曼谷站登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6501814a4b024880961310f3.jpg",
+    "caption": "泰国热搜：泰剧《BTS World Tour Bangkok》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6501814a4b024880961310f3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1ed5e0cde0a18f95d64fe451",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Ginny Jayna 活动",
+  "titleOrig": "GINNY JAYNA AFair ICONSIAM（Ginny Jayna ICONSIAM活动）",
+  "summary": "泰国艺人Ginny Jayna出席ICONSIAM活动的话题登上泰国X热搜，艺人公开活动吸引粉丝。活动口号与艺人名适合做粉丝文字款T恤。",
+  "tags": [
+   "Ginny Jayna",
+   "活动"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "活动话题",
+    "desc": "Ginny Jayna活动登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/5da82800cf2c457b98f53185.jpg",
+    "caption": "泰国热搜：Ginny Jayna 活动",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/5da82800cf2c457b98f53185.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ac1da53bdf96f3f035a72a4a",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《สอดสร้อยมาลา》与《Grim Lover》",
+  "titleOrig": "สอดสร้อยมาลา & Grim Lover（泰剧《花环》与《暗黑恋人》）",
+  "summary": "泰剧《สอดสร้อยมาลา》（花环）与《The Grim Lover》（暗黑恋人）等多部泰剧同时登上泰国热搜，泰剧市场内容多元。多部剧名适合做泰剧合集文字款T恤。",
+  "tags": [
+   "สอดสร้อยมาลา",
+   "Grim Lover",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "多部泰剧登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《สอดสร้อยมาลา》与《Grim Lover》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e0dbbd3588158e0f183fbb26",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Behind The Scene BOL》第4集",
+  "titleOrig": "BEHIND THE SCENE BOL Q4（泰剧《幕后》第4集）",
+  "summary": "泰剧《Behind The Scene BOL》第4集登上泰国X热搜，剧集更新吸引观众。剧名适合做泰剧文字款T恤素材。",
+  "tags": [
+   "Behind The Scene",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "《幕后》第4集登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Behind The Scene BOL》第4集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "b47e128c3bebc334ed8a2676",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Micellar with Hongshi》",
+  "titleOrig": "Micellar with HONGSHI（泰剧《卸妆水×HONGSHI》）",
+  "summary": "泰剧/节目《Micellar with Hongshi》相关话题登上泰国X热搜，品牌×内容联动吸引观众。节目名适合做趣味文字款T恤素材。",
+  "tags": [
+   "HONGSHI",
+   "泰国节目"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "《Micellar with Hongshi》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/9dfb2781f512420d9a70636b.jpg",
+    "caption": "泰国热搜：泰剧《Micellar with Hongshi》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/9dfb2781f512420d9a70636b.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8c0b871cf684987b5fe804d0",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Protect 00K》第3集",
+  "titleOrig": "PROTECT 00K CH3（泰剧《保护00K》）",
+  "summary": "泰剧《Protect 00K》相关话题登上泰国X热搜，剧集更新吸引观众。剧名适合做泰剧文字款T恤素材。",
+  "tags": [
+   "Protect 00K",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "泰剧《Protect 00K》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Protect 00K》第3集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "20c755781291d555f193d875",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《LBD》第6集",
+  "titleOrig": "LBD EPISODE SIX（泰剧《LBD》第6集）",
+  "summary": "泰剧《LBD》第6集登上泰国X热搜，剧集更新吸引观众。剧名适合做泰剧文字款T恤素材。",
+  "tags": [
+   "LBD",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "更新日",
+    "desc": "泰剧《LBD》第6集登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《LBD》第6集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ea5f01a528f0662bf8c701e5",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：Daou Chacha MV",
+  "titleOrig": "DAOU CHACHA MV（Daou Chacha 新MV）",
+  "summary": "泰国歌手Daou Chacha的新MV登上泰国X热搜，音乐人发片带动话题。歌名与歌词金句适合做音乐向文字款T恤。",
+  "tags": [
+   "Daou Chacha",
+   "MV",
+   "音乐"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "MV发布",
+    "desc": "Daou Chacha新MV登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c747c2364c764741bb143424.jpg",
+    "caption": "泰国热搜：Daou Chacha MV",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/c747c2364c764741bb143424.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "54d517d6cfe1f999d4d6014e",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《LBD》与《PSDFAMILY》",
+  "titleOrig": "PSDFAMILY MOVIE TIME（泰剧《PSD家族观影》）",
+  "summary": "泰剧/节目《PSDFAMILY Movie Time》相关话题登上泰国X热搜，内容更新吸引观众。节目名适合做趣味文字款T恤素材。",
+  "tags": [
+   "PSDFAMILY",
+   "泰国节目"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "《PSDFAMILY》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/12741924fb878ee9682bbec4.jpg",
+    "caption": "泰国热搜：泰剧《LBD》与《PSDFAMILY》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/12741924fb878ee9682bbec4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "22ba643588a304363726ebcf",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "CP粉圈",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Fourth×Gala Premiere》",
+  "titleOrig": "ACTOR FOURTH x GALA PREMIERE（Fourth×盛典首映）",
+  "summary": "GMMTV人气CP GeminiFourth成员Fourth出席盛典首映的话题登上泰国X热搜，BL顶流CP动态引发粉丝关注。Fourth的名字与应援语适合做CP粉丝文字款T恤。",
+  "tags": [
+   "GeminiFourth",
+   "Fourth",
+   "CP"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 46,
+  "buzzIndex": 44,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "首映活动",
+    "desc": "Fourth出席盛典首映登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d6fa3311f22643ce93209ede.jpg",
+    "caption": "泰国热搜：泰剧《Fourth×Gala Premiere》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/d6fa3311f22643ce93209ede.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "fa3846caa971fda658d09265",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Tui Solo Press Tour》",
+  "titleOrig": "TUI SOLO PRESS TOUR（Tui 个人宣传巡演）",
+  "summary": "泰国艺人Tui的个人宣传巡演话题登上泰国X热搜，艺人宣传活动吸引粉丝。艺人名与巡演主题适合做粉丝文字款T恤。",
+  "tags": [
+   "Tui",
+   "宣传巡演"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "宣传巡演",
+    "desc": "Tui个人宣传巡演登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1e25ffa11f8140ee9d9cc3cd.jpg",
+    "caption": "泰国热搜：泰剧《Tui Solo Press Tour》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/1e25ffa11f8140ee9d9cc3cd.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1a974d483638f7ea1317216c",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Flex 1045×Tui》",
+  "titleOrig": "Flex1045xTuiChayatorn（泰剧《Flex 1045×Tui》）",
+  "summary": "泰剧/节目《Flex 1045×Tui Chayatorn》相关话题登上泰国X热搜，内容更新吸引观众。节目名适合做趣味文字款T恤素材。",
+  "tags": [
+   "Flex 1045",
+   "Tui",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "《Flex 1045×Tui》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Flex 1045×Tui》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "79f692bd2a520db8d2ce83b7",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《TTP with CalmMea》",
+  "titleOrig": "TTP WITH CALMMEA（泰剧《TTP×CalmMea》）",
+  "summary": "泰剧/节目《TTP with CalmMea》相关话题登上泰国X热搜，内容更新吸引观众。节目名适合做趣味文字款T恤素材。",
+  "tags": [
+   "TTP",
+   "CalmMea",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "《TTP with CalmMea》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《TTP with CalmMea》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c528cffdf3bf2dc1c343701b",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Fragrant with WilliamEst》",
+  "titleOrig": "FRAGRANT WITH WILLIAMEST（泰剧《芬芳×WilliamEst》）",
+  "summary": "泰剧《Fragrant with WilliamEst》相关话题在泰国与马来西亚热搜在列，WilliamEst组合联动吸引粉丝。剧名与角色适合做泰剧文字款T恤素材。",
+  "tags": [
+   "WilliamEst",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 42,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "《Fragrant with WilliamEst》登上热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c747c2364c764741bb143424.jpg",
+    "caption": "泰国热搜：泰剧《Fragrant with WilliamEst》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/c747c2364c764741bb143424.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e41200b86034e9156d1520da",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Mr Fanboy》第1章",
+  "titleOrig": "MR FANBOY CHAPTER 1（泰剧《狂粉先生》第1章）",
+  "summary": "泰剧《Mr Fanboy》（狂粉先生）第1章登上泰国X热搜，新剧开播吸引观众。剧名与角色设计适合做泰剧文字款T恤素材。",
+  "tags": [
+   "Mr Fanboy",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Thailand",
+    "type": "trends",
+    "url": "https://getdaytrends.com/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "开播日",
+    "desc": "泰剧《Mr Fanboy》第1章登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Mr Fanboy》第1章",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "26342aee67bf53ea7ee89a63",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Provamed×William》",
+  "titleOrig": "ProvamedxWilliam（泰剧《Provamed×William》）",
+  "summary": "品牌Provamed与艺人William的联动话题登上泰国X热搜，明星×品牌合作吸引粉丝。联动口号适合做粉丝文字款T恤。",
+  "tags": [
+   "William",
+   "Provamed",
+   "品牌联动"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "联动话题",
+    "desc": "Provamed×William登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/9fd70bfe387443938150e833.jpg",
+    "caption": "泰国热搜：泰剧《Provamed×William》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/9fd70bfe387443938150e833.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "af12f1178ac7a5bc6454f5f8",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《TMC Live×FAVIQ》",
+  "titleOrig": "TMCLIVExFAVIQ（TMC直播×FAVIQ）",
+  "summary": "品牌TMC直播与艺人FAVIQ的联动话题登上泰国X热搜，直播带货在泰国兴盛。直播口号适合做电商联名文字款T恤。",
+  "tags": [
+   "TMC",
+   "FAVIQ",
+   "直播"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "直播联动",
+    "desc": "TMC直播×FAVIQ登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/a3b33449b9ffc15d8fb2dc31.jpg",
+    "caption": "泰国热搜：泰剧《TMC Live×FAVIQ》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/a3b33449b9ffc15d8fb2dc31.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "4fdcec693801b6d470174b65",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Lookkhunnoo》",
+  "titleOrig": "LOOKKHUNNOO（泰剧《Lookkhunnoo》）",
+  "summary": "泰剧/艺人《Lookkhunnoo》相关话题登上泰国X热搜，内容更新吸引观众。剧名适合做泰剧文字款T恤素材。",
+  "tags": [
+   "Lookkhunnoo",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "《Lookkhunnoo》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Lookkhunnoo》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a9b54afa92adf2dc746e66d7",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Beyourluve》续集",
+  "titleOrig": "Beyourluve Series（泰剧《做你的爱》系列）",
+  "summary": "泰剧《Beyourluve》系列相关话题登上泰国X热搜，浪漫剧名适合做情侣文字款T恤。剧集更新带动粉丝讨论。",
+  "tags": [
+   "Beyourluve",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "《Beyourluve》系列登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Beyourluve》续集",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "30fa1daac5b2023824e78450",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《SHEEP》与《Nattana》",
+  "titleOrig": "SHEEP & nattana（泰剧《SHEEP》与Nattana）",
+  "summary": "泰剧《SHEEP》与演员Nattana相关话题在泰国X热搜在列，剧集与演员动态吸引观众。相关名字适合做泰剧文字款T恤素材。",
+  "tags": [
+   "SHEEP",
+   "Nattana",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "《SHEEP》与Nattana登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《SHEEP》与《Nattana》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "0f5a2fbf9de809579aeea090",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《DICEBLUE》",
+  "titleOrig": "DICEBLUE（泰剧《DICEBLUE》）",
+  "summary": "泰剧/节目《DICEBLUE》相关话题登上泰国X热搜，内容更新吸引观众。节目名适合做趣味文字款T恤素材。",
+  "tags": [
+   "DICEBLUE",
+   "泰国节目"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "节目话题",
+    "desc": "《DICEBLUE》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/5ef821a328534d8c9f6949d2.jpg",
+    "caption": "泰国热搜：泰剧《DICEBLUE》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/5ef821a328534d8c9f6949d2.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "380c0207f518a6ac23280b4d",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《bintsireethorn》",
+  "titleOrig": "bintsireethorn（泰剧《Bint Sireethorn》）",
+  "summary": "泰剧《bintsireethorn》相关话题登上泰国X热搜，剧集或演员动态吸引观众。相关名字适合做泰剧文字款T恤素材。",
+  "tags": [
+   "bintsireethorn",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "《bintsireethorn》登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《bintsireethorn》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1b353409d468837b67893c41",
+  "country": "th",
+  "cat": "ecommerce",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《ITS SKIN Popup Market》",
+  "titleOrig": "ITSSKINPOPUPMARKET（ITS SKIN 快闪市集）",
+  "summary": "护肤品牌ITS SKIN的快闪市集话题登上泰国X热搜，品牌线下活动吸引年轻消费者。快闪活动主题适合做品牌联名文字款T恤。",
+  "tags": [
+   "ITS SKIN",
+   "快闪",
+   "护肤"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "快闪活动",
+    "desc": "ITS SKIN快闪市集登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/5b593580bcf4b229789df508.jpg",
+    "caption": "泰国热搜：泰剧《ITS SKIN Popup Market》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/5b593580bcf4b229789df508.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "f9467a2f80dc213efedeceff",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Baoji Live×NgernOat》",
+  "titleOrig": "BAOJILivexNgernOat（Baoji直播×NgernOat）",
+  "summary": "品牌Baoji直播与艺人NgernOat的联动话题登上泰国X热搜，直播带货在泰国兴盛。直播口号适合做电商联名文字款T恤。",
+  "tags": [
+   "Baoji",
+   "NgernOat",
+   "直播"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "直播联动",
+    "desc": "Baoji直播×NgernOat登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0d161c30c6b14e70b5e18528.jpg",
+    "caption": "泰国热搜：泰剧《Baoji Live×NgernOat》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/0d161c30c6b14e70b5e18528.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "784885a78fcdc17687144892",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Exclusive Live with NgernOat》",
+  "titleOrig": "EXCLUSIVE LIVE WITH NGERNOAT（NgernOat 独家直播）",
+  "summary": "艺人NgernOat的独家直播话题登上泰国X热搜，明星直播吸引粉丝。直播口号适合做粉丝文字款T恤。",
+  "tags": [
+   "NgernOat",
+   "直播"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "直播活动",
+    "desc": "NgernOat独家直播登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/bca1e55c65734be49fe92b80.jpg",
+    "caption": "泰国热搜：泰剧《Exclusive Live with NgernOat》",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/bca1e55c65734be49fe92b80.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "52766c5ea41a5523af3a9699",
+  "country": "th",
+  "cat": "ecommerce",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：UOB 直播",
+  "titleOrig": "UOB LIVE（大华银行直播）",
+  "summary": "大华银行UOB的相关直播/活动话题登上泰国X热搜，品牌活动吸引关注。相关话题适合做关注度参考，T恤印花需规避商标侵权。",
+  "tags": [
+   "UOB",
+   "品牌"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "品牌话题",
+    "desc": "UOB直播登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/51b5b2810257403786f5895f.jpg",
+    "caption": "泰国热搜：UOB 直播",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/51b5b2810257403786f5895f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c88dc0d96e1c7352214040e5",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "泰国热搜：泰剧《Beyourluve》与《KissMeRemember》",
+  "titleOrig": "KissMeRemember & Beyourluve（泰剧《吻我铭记》与《做你的爱》）",
+  "summary": "浪漫泰剧《KissMeRemember》（吻我铭记）与《Beyourluve》（做你的爱）同时登上泰国热搜，甜蜜剧名适合做情侣款文字款T恤。",
+  "tags": [
+   "KissMeRemember",
+   "Beyourluve",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Thailand",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 40,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "剧集话题",
+    "desc": "多部浪漫泰剧登上泰国热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰国热搜：泰剧《Beyourluve》与《KissMeRemember》",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "95d861ec21d20f7d75c9beed",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "TikTok 泰国热门标签：BL/泰剧类细分",
+  "titleOrig": "TikTok TH Hashtags #thaibl #thaienthu #thaiseries",
+  "summary": "TikTok泰国区BL与泰剧细分标签热度高企：#thaibl（79万帖）、#thaienthu（56万帖）、#thaiseries（13万帖）、#thaidrama（23万帖）。BL/泰剧内容在泰国TikTok占据主流，相关标签与台词适合做粉丝文字款T恤。",
+  "tags": [
+   "TikTok",
+   "泰国",
+   "BL",
+   "泰剧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/thai/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 793800
+   }
+  ],
+  "credibilityScore": 68,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "泰国TikTok BL/泰剧细分标签高热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "TikTok 泰国热门标签：BL/泰剧类细分",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://hashtagradar.com/hashtag/thai/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "fa902032b3c8586e3577474b",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "TikTok 泰国热门标签：演员与饭圈",
+  "titleOrig": "TikTok TH Hashtags #thaiactor #thaivu",
+  "summary": "TikTok泰国区演员与饭圈标签热度上升，包括#thaiactor（28万帖）、#thaivu等。泰剧演员与CP饭拍内容在TikTok传播广，演员名与角色名适合做粉丝文字款T恤。",
+  "tags": [
+   "TikTok",
+   "泰国演员",
+   "饭圈"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/thai/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 287800
+   }
+  ],
+  "credibilityScore": 62,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "泰国TikTok演员与饭圈标签热度上升"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f313e961ae2ce357ec971e92.jpg",
+    "caption": "TikTok 泰国热门标签：演员与饭圈",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/f313e961ae2ce357ec971e92.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://hashtagradar.com/hashtag/thai/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8ceea48b5e68f2a846bc0a49",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "TikTok 泰国热门标签：美食街边",
+  "titleOrig": "TikTok TH Hashtags #thaifood #thailandstreetfood",
+  "summary": "TikTok泰国区美食标签#thaifood（32万帖）与#thailandstreetfood（4千帖但单帖均观78万）热度高。街头美食探店内容带动美食主题图案款T恤设计灵感。",
+  "tags": [
+   "TikTok",
+   "泰国美食",
+   "街头"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 325600
+   }
+  ],
+  "credibilityScore": 60,
+  "buzzIndex": 56,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "泰国TikTok美食标签高热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/b7a553ec78c1b70487c5a749.jpg",
+    "caption": "TikTok 泰国热门标签：美食街边",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/b7a553ec78c1b70487c5a749.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://hashtagradar.com/hashtag/thailand/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5dd216f814bafa25e450d51a",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "TikTok 泰国热门标签：K-pop 联动",
+  "titleOrig": "TikTok TH Hashtags #kpop #igot7",
+  "summary": "TikTok泰国区K-pop标签#kpop（5300万帖）与GOT7相关#igot7（120万帖）热度高，BamBam等泰国籍K-pop成员带动本地关注。K-pop应援与成员名适合做粉丝文字款T恤。",
+  "tags": [
+   "TikTok",
+   "K-pop",
+   "GOT7"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/thai/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 53100000
+   }
+  ],
+  "credibilityScore": 62,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "泰国TikTok K-pop标签高热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0e7416bd9720adb10aaeae56.jpg",
+    "caption": "TikTok 泰国热门标签：K-pop 联动",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0e7416bd9720adb10aaeae56.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://hashtagradar.com/hashtag/thai/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "f18a9ae9279e433bf4d41ff4",
+  "country": "my",
+  "cat": "gaming",
+  "catCn": "TikTok趋势",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "TikTok 马来西亚热门标签：游戏电竞细分",
+  "titleOrig": "TikTok MY Hashtags #mlbbdinoplanet #mplmy #msc2025",
+  "summary": "TikTok马来西亚游戏电竞标签热度高企，包括#mlbbdinoplanet（18.5亿浏览）、#mplmy（47.9亿浏览）、#msc2025等。Mobile Legends电竞赛事在马来TikTok人气旺盛，游戏角色与队标适合做电竞主题图案款T恤。",
+  "tags": [
+   "MLBB",
+   "电竞",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTokSpy Malaysia",
+    "type": "social",
+    "url": "https://my-tik.ixspy.com/hashtags/109_my_2_daily_malaysia",
+    "credibility": "中",
+    "region": "my",
+    "mention": 1850000000
+   }
+  ],
+  "credibilityScore": 66,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "马来西亚TikTok电竞标签高热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1ba2d0926147440c9e71a9cb.jpg",
+    "caption": "TikTok 马来西亚热门标签：游戏电竞细分",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1ba2d0926147440c9e71a9cb.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://my-tik.ixspy.com/hashtags/109_my_2_daily_malaysia",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "4608c829fbfbbc61904ffa15",
+  "country": "my",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "TikTok 马来西亚热门标签：本地地域",
+  "titleOrig": "TikTok MY Hashtags #terengganu #malaysiadihatiku",
+  "summary": "TikTok马来西亚地域标签#terengganu（8亿浏览）、#malaysiadihatiku（马来西亚在我心中，43万帖）热度上升，国庆期间爱国与地域主题内容流行。地域名与爱国口号适合做本地化文字款T恤。",
+  "tags": [
+   "TikTok",
+   "登嘉楼",
+   "爱国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTokSpy Malaysia",
+    "type": "social",
+    "url": "https://my-tik.ixspy.com/hashtags/109_my_2_daily_malaysia",
+    "credibility": "中",
+    "region": "my",
+    "mention": 800000000
+   }
+  ],
+  "credibilityScore": 60,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "马来西亚TikTok地域与爱国标签高热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/a546d07bcfb64d97962e977c.jpg",
+    "caption": "TikTok 马来西亚热门标签：本地地域",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/a546d07bcfb64d97962e977c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://my-tik.ixspy.com/hashtags/109_my_2_daily_malaysia",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "520c0027fa750e4a448e62c8",
+  "country": "my",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "TikTok 马来西亚热门标签：消费与生活方式",
+  "titleOrig": "TikTok MY Hashtags #ansuranmudah #CapCut",
+  "summary": "TikTok马来西亚消费与生活方式标签#ansuranmudah（轻松分期）、#CapCut（13万亿浏览）热度高，网购分期与视频剪辑内容流行。生活方式文案适合做趣味文字款T恤。",
+  "tags": [
+   "TikTok",
+   "分期",
+   "生活方式"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTokSpy Malaysia",
+    "type": "social",
+    "url": "https://my-tik.ixspy.com/hashtags/109_my_2_daily_malaysia",
+    "credibility": "中",
+    "region": "my",
+    "mention": 1190000000
+   }
+  ],
+  "credibilityScore": 60,
+  "buzzIndex": 54,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "马来西亚TikTok生活方式标签高热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/2b70a472a2c5507a8bc7381b.jpg",
+    "caption": "TikTok 马来西亚热门标签：消费与生活方式",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/2b70a472a2c5507a8bc7381b.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://my-tik.ixspy.com/hashtags/109_my_2_daily_malaysia",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "57d50df7787dedbf3df483e6",
+  "country": "my",
+  "cat": "platform_search",
+  "catCn": "TikTok趋势",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "TikTok 马来西亚热门标签：方言文化",
+  "titleOrig": "TikTok MY Hashtags #tiktokmalaysia #dialekmelayu",
+  "summary": "TikTok马来西亚#tiktokmalaysia（1400万帖）与#dialekmelayu（马来方言）标签热度上升，本地内容与方言梗流行。马来方言词汇与本地梗适合做本土化文字款T恤。",
+  "tags": [
+   "TikTok",
+   "马来方言",
+   "本地"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "HashtagRadar",
+    "type": "social",
+    "url": "https://hashtagradar.com/hashtag/dialekmelayu/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 14000000
+   }
+  ],
+  "credibilityScore": 58,
+  "buzzIndex": 54,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续热门",
+    "desc": "马来西亚TikTok方言与本地标签热度上升"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/989cc03805ec4f72b0647632.jpg",
+    "caption": "TikTok 马来西亚热门标签：方言文化",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/989cc03805ec4f72b0647632.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://hashtagradar.com/hashtag/dialekmelayu/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "381b442294236faaf32bd0ac",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "世界热点：飓风 Karina 逼近夏威夷",
+  "titleOrig": "Hurricane Karina Pacific（飓风卡琳娜逼近）",
+  "summary": "太平洋飓风Karina（卡琳娜）为四级强飓风（最大风速140英里/时），正从夏威夷以东移动，同期热带风暴Marie也趋于增强。太平洋进入飓风活跃期，美方多部门联合监测。",
+  "tags": [
+   "飓风Karina",
+   "夏威夷",
+   "太平洋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "檀香山市政府",
+    "type": "official",
+    "url": "https://www.honolulu.gov/mayor/city-monitoring-three-tropical-systems-in-the-pacific-as-hurricane-season-remains-active",
+    "credibility": "高",
+    "region": "global",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "台风监测",
+    "desc": "飓风Karina为四级，逼近太平洋区域"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6169887f9040b3458905ab47.jpg",
+    "caption": "世界热点：飓风 Karina 逼近夏威夷",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/6169887f9040b3458905ab47.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.honolulu.gov/mayor/city-monitoring-three-tropical-systems-in-the-pacific-as-hurricane-season-remains-active",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e5b23854c26d57fd384b9cd0",
+  "country": "multi",
+  "cat": "politics",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 3,
+  "titleCn": "世界热点：普京称乌问题谈判冻结",
+  "titleOrig": "Putin Says Ukraine Talks Frozen（普京称乌谈判冻结）",
+  "summary": "普京于9月2日凌晨在访问吉尔吉斯斯坦后表示，现阶段乌克兰问题谈判缺乏实质内容、处于冻结状态，并称俄军已接令准备对乌能源设施实施大规模打击。乌俄局势再趋紧张。",
+  "tags": [
+   "普京",
+   "乌克兰",
+   "谈判冻结"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "腾讯新闻/央视",
+    "type": "news",
+    "url": "https://new.qq.com/rain/a/20260902A02RUN00",
+    "credibility": "高",
+    "region": "global",
+    "mention": 1200
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "讲话",
+    "desc": "普京称乌问题谈判冻结，俄准备打击乌能源设施"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/990bb0b5c93744a007ea5ad7.jpg",
+    "caption": "世界热点：普京称乌问题谈判冻结",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/990bb0b5c93744a007ea5ad7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://new.qq.com/rain/a/20260902A02RUN00",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "20f05b156594925daa256b7c",
+  "country": "multi",
+  "cat": "politics",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "世界热点：俄谴责美在日部署堤丰中导",
+  "titleOrig": "Russia Condemns US Typhon Missiles in Japan（俄谴责美在日部署堤丰导弹）",
+  "summary": "俄罗斯外交部9月1日表示，已就美日澳“东方之盾”军演拟在日本部署“堤丰”中导系统向东京交涉，称此举威胁俄国家安全并警告将采取反制措施。亚太军事动态引发关注。",
+  "tags": [
+   "堤丰导弹",
+   "日本",
+   "俄罗斯"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "上观新闻",
+    "type": "news",
+    "url": "https://view.inews.qq.com/a/20260902A02GY000",
+    "credibility": "高",
+    "region": "global",
+    "mention": 700
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "外交表态",
+    "desc": "俄谴责美在日部署堤丰中导系统"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/990bb0b5c93744a007ea5ad7.jpg",
+    "caption": "世界热点：俄谴责美在日部署堤丰中导",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/990bb0b5c93744a007ea5ad7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://view.inews.qq.com/a/20260902A02GY000",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6de6f4fd70d765962cc3ec9e",
+  "country": "multi",
+  "cat": "ecommerce",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "世界热点：美加贸易谈判破裂",
+  "titleOrig": "US-Canada Trade Talks Collapse（美加贸易谈判破裂）",
+  "summary": "美国财长贝森特将美加贸易谈判破裂归咎于加总理卡尼，暗示加拿大体量太小难打贸易战；加方回应称不会接受糟糕协议，9月8日起将对美征收等额报复性关税。北美贸易摩擦升级。",
+  "tags": [
+   "美加贸易",
+   "关税",
+   "北美"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "上观新闻",
+    "type": "news",
+    "url": "https://view.inews.qq.com/a/20260902A02H6N00",
+    "credibility": "高",
+    "region": "global",
+    "mention": 600
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "贸易摩擦",
+    "desc": "美加贸易谈判破裂，加拿大9月8日将对美报复"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/27879bfa355b46fdbcbaa2d5.jpg",
+    "caption": "世界热点：美加贸易谈判破裂",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/27879bfa355b46fdbcbaa2d5.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://view.inews.qq.com/a/20260902A02GY000",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7a590e80026e9d32e51ba2fb",
+  "country": "multi",
+  "cat": "ecommerce",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "世界热点：布伦特油价站上90美元",
+  "titleOrig": "Brent Oil Above $90（布伦特油价站上90美元）",
+  "summary": "因美伊时隔一个月再度交火，国际原油期货明显走高，伦敦布伦特原油收于每桶90美元上方。特朗普称对伊战争“只是一场小战争”，油价与能源议题成为全球关注焦点。",
+  "tags": [
+   "布伦特",
+   "油价",
+   "能源"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "上观新闻",
+    "type": "news",
+    "url": "https://new.qq.com/rain/a/20260902A02RUN00",
+    "credibility": "高",
+    "region": "global",
+    "mention": 900
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "油价走高",
+    "desc": "布伦特原油站上90美元/桶"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/990bb0b5c93744a007ea5ad7.jpg",
+    "caption": "世界热点：布伦特油价站上90美元",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/990bb0b5c93744a007ea5ad7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://new.qq.com/rain/a/20260902A02RUN00",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "22cefb3ea3f3b8662f964310",
+  "country": "multi",
+  "cat": "politics",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "世界热点：普京与伊朗总统会晤",
+  "titleOrig": "Putin-Iran President Meeting（普京与伊朗总统会晤）",
+  "summary": "上合峰会期间，普京与伊朗总统佩泽希齐扬在比什凯克会晤，表示俄伊关系稳步发展、欢迎美伊签署谅解备忘录，但称停火“十分脆弱”；伊朗央行称将向外汇市场注入20亿美元稳定汇率。",
+  "tags": [
+   "普京",
+   "伊朗",
+   "上合峰会"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "上观新闻",
+    "type": "news",
+    "url": "https://view.inews.qq.com/a/20260902A027LB00",
+    "credibility": "高",
+    "region": "global",
+    "mention": 600
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "峰会会晤",
+    "desc": "普京与伊朗总统会晤讨论美伊冲突"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/b725167f2b092c9b3cc1213a.jpg",
+    "caption": "世界热点：普京与伊朗总统会晤",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/b725167f2b092c9b3cc1213a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://view.inews.qq.com/a/20260902A027LB00",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "0f0cf6c3745aad7141ed5835",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "世界热点：伦敦华盛顿邮报 CEO 更换",
+  "titleOrig": "Washington Post CEO Change（华盛顿邮报CEO更换）",
+  "summary": "华盛顿邮报宣布CEO兼发行人Will Lewis（刘易斯）离职，由Jeff D'Onofrio接任，此前该报进行了引发读者不满的大幅裁员。美国媒体行业动荡成为热议话题。",
+  "tags": [
+   "华盛顿邮报",
+   "媒体",
+   "CEO"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "The Sun",
+    "type": "news",
+    "url": "https://thesun-ipaper.cld.bz/publication/20260209/9",
+    "credibility": "中",
+    "region": "global",
+    "mention": 300
+   }
+  ],
+  "credibilityScore": 62,
+  "buzzIndex": 50,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "人事变动",
+    "desc": "华盛顿邮报CEO刘易斯离职"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/78cd70e071f7463dbae350d7.jpg",
+    "caption": "世界热点：伦敦华盛顿邮报 CEO 更换",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/78cd70e071f7463dbae350d7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://thesun-ipaper.cld.bz/publication/20260209/9",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "54b14cd76ed17a89443ee797",
+  "country": "multi",
+  "cat": "politics",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "高风险",
+  "hotDays": 1,
+  "titleCn": "世界热点：朝鲜金氏家族话题",
+  "titleOrig": "North Korea Kim Family（朝鲜金氏家族话题）",
+  "summary": "朝鲜金氏家族相关话题在国际与东南亚X热搜偶有出现，涉及朝鲜内政与外交动向。此类政治敏感话题T恤需严格规避风险。",
+  "tags": [
+   "朝鲜",
+   "国际政治",
+   "高风险"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Reddit r/worldnews",
+    "type": "social",
+    "url": "https://www.reddit.com/r/worldnews/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 400
+   }
+  ],
+  "credibilityScore": 50,
+  "buzzIndex": 46,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "国际话题",
+    "desc": "朝鲜相关话题在国际媒体受关注"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4b7073291c6fe433551560a7.jpg",
+    "caption": "世界热点：朝鲜金氏家族话题",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/4b7073291c6fe433551560a7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.reddit.com/r/worldnews/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "391577cbaf9d1b6f1cd50ba1",
+  "country": "multi",
+  "cat": "sports",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "世界热点：南美阿根廷足球世预赛",
+  "titleOrig": "Argentina Football World Cup Qualifiers（阿根廷世预赛话题）",
+  "summary": "阿根廷与梅西相关话题在东南亚X热搜在列，南美世预赛赛事吸引全球球迷。梅西与阿根廷元素适合做球迷款文字款T恤。",
+  "tags": [
+   "阿根廷",
+   "世预赛",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 52,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "赛事话题",
+    "desc": "阿根廷足球话题在东南亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "世界热点：南美阿根廷足球世预赛",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9e56ee55296bbe0b02dabe7e",
+  "country": "multi",
+  "cat": "sports",
+  "catCn": "世界热点",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "世界热点：欧洲足球欧冠话题",
+  "titleOrig": "UEFA Champions League Trends（欧洲冠军联赛话题）",
+  "summary": "欧洲足坛欧冠及联赛话题在东南亚X热搜持续，切尔西、阿森纳、摩纳哥等多队赛事受到关注。足球队名与徽章元素适合做球迷款文字款T恤。",
+  "tags": [
+   "欧冠",
+   "足球",
+   "欧洲联赛"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 250
+   }
+  ],
+  "credibilityScore": 55,
+  "buzzIndex": 52,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "赛事话题",
+    "desc": "欧洲足坛俱乐部话题在东南亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "世界热点：欧洲足球欧冠话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d07444560a03c638388a9f74",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰国热梗：泰式生活方式幽默",
+  "titleOrig": "Thai Lifestyle Humor Memes（泰式生活幽默梗）",
+  "summary": "泰国社交平台广泛流传的泰式生活幽默梗，涵盖美食、通勤、家庭日常等接地气主题，配以泰式调侃文案。这类生活化幽默梗适合做轻松搞笑款图案T恤。",
+  "tags": [
+   "泰国热梗",
+   "生活幽默",
+   "Pantip"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Pantip",
+    "type": "forum",
+    "url": "https://pantip.com",
+    "credibility": "中",
+    "region": "th",
+    "mention": 200000
+   }
+  ],
+  "credibilityScore": 45,
+  "buzzIndex": 50,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续传播",
+    "desc": "泰国生活化幽默梗在Pantip与TikTok传播"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰国热梗：泰式生活方式幽默",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://pantip.com",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8755ce3c4b9fd72c0cc1c33f",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "马来西亚热梗：Merdeka 国庆表情包",
+  "titleOrig": "Merdeka Celebration Memes（默迪卡国庆表情包）",
+  "summary": "马来西亚国庆Merdeka期间，爱国表情包与调侃文案在社交平台大量传播，涵盖国旗、口号“Merdeka!”七连喊、Jalur Gemilang等元素。国庆主题梗适合做爱国文字+图案款T恤。",
+  "tags": [
+   "马来西亚热梗",
+   "Merdeka",
+   "表情包"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "BERNAMA",
+    "type": "news",
+    "url": "https://www.bernama.com/misc/rss/news.php?id=2601123",
+    "credibility": "高",
+    "region": "my",
+    "mention": 250000
+   },
+   {
+    "name": "Lowyat Forum",
+    "type": "forum",
+    "url": "https://forum.lowyat.net/Kopitiam",
+    "credibility": "中",
+    "region": "my",
+    "mention": 150000
+   }
+  ],
+  "credibilityScore": 60,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "国庆余温",
+    "desc": "Merdeka国庆表情包持续传播"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/54eee948d4b648199e67383c.jpg",
+    "caption": "马来西亚热梗：Merdeka 国庆表情包",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/54eee948d4b648199e67383c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.bernama.com/misc/rss/news.php?id=2601123",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2254e0e44094c6cc51601038",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰国热梗：泰式奶茶流行梗",
+  "titleOrig": "Thai Milk Tea Meme（泰式奶茶梗）",
+  "summary": "泰式奶茶（Thai Milk Tea）作为泰国国民饮品，在社交平台衍生出大量趣味梗与二创，如奶茶社交、奶茶吸管等主题。奶茶元素适合做泰式街头风格图案款T恤。",
+  "tags": [
+   "泰国热梗",
+   "泰式奶茶",
+   "饮品"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sanook",
+    "type": "news",
+    "url": "https://www.sanook.com",
+    "credibility": "高",
+    "region": "th",
+    "mention": 80000
+   }
+  ],
+  "credibilityScore": 45,
+  "buzzIndex": 48,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续传播",
+    "desc": "泰式奶茶梗在社交平台流行"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰国热梗：泰式奶茶流行梗",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.sanook.com",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "993c1a215f2ef36c1a02eb31",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "泰国热梗：曼谷塞车生活",
+  "titleOrig": "Bangkok Traffic Memes（曼谷塞车梗）",
+  "summary": "曼谷著名塞车文化衍生出大量自嘲式梗，如塞车、摩的、捷运等通勤主题的幽默段子。曼谷通勤梗适合做都市生活文字款T恤，带出自嘲与共鸣。",
+  "tags": [
+   "泰国热梗",
+   "曼谷",
+   "塞车"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Pantip",
+    "type": "forum",
+    "url": "https://pantip.com",
+    "credibility": "中",
+    "region": "th",
+    "mention": 100000
+   }
+  ],
+  "credibilityScore": 45,
+  "buzzIndex": 46,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "持续传播",
+    "desc": "曼谷塞车生活梗在Pantip传播"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰国热梗：曼谷塞车生活",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://pantip.com",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5fd56fab778444d229635acd",
+  "country": "my",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Berta 与 Sadie 话题",
+  "titleOrig": "Berta & Sadie Trending（Berta 与 Sadie 热搜）",
+  "summary": "Berta与Sadie相关话题在马来西亚X热搜在列，或与欧美娱乐/影视人物有关。相关人物名适合做关注度参考，T恤印花需注意肖像权。",
+  "tags": [
+   "Berta",
+   "Sadie",
+   "马来热搜"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "Berta与Sadie登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/debd2a68ad254c6c8e524165.jpg",
+    "caption": "马来西亚热搜：Berta 与 Sadie 话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/debd2a68ad254c6c8e524165.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d1e51deb0283175dd58394d5",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Cámara 与 Enzo 话题",
+  "titleOrig": "Camara & Enzo Trending（Cámara 与 Enzo 热搜）",
+  "summary": "Cámara与Enzo等话题在马来西亚X热搜在列，或与欧洲足球球员及赛事相关。球员名适合做球迷文字款T恤。",
+  "tags": [
+   "Camara",
+   "Enzo",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 160
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "Cámara与Enzo登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：Cámara 与 Enzo 话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "814f5c99606e31b516276ea8",
+  "country": "my",
+  "cat": "society",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：圣诞节话题",
+  "titleOrig": "Christmas Trending Malaysia（圣诞节话题）",
+  "summary": "圣诞节（Christmas）相关话题在马来西亚X热搜在列，节日消费与庆祝话题持续受关注。圣诞主题元素适合做季节限定文字款T恤。",
+  "tags": [
+   "圣诞节",
+   "节日",
+   "马来热搜"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "圣诞节话题登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/debd2a68ad254c6c8e524165.jpg",
+    "caption": "马来西亚热搜：圣诞节话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/debd2a68ad254c6c8e524165.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d0b7c05af222ae6744d29a11",
+  "country": "my",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：winner's page 与 May September",
+  "titleOrig": "Winner's Page & May September Trending",
+  "summary": "winner's page与May September相关话题在马来西亚X热搜在列，或与影视娱乐事件有关。相关话题适合做关注度参考，T恤印花需注意版权。",
+  "tags": [
+   "Winner's page",
+   "May September"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 38,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "winner's page话题登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/614bc63d381e4e189c4ef09b.jpg",
+    "caption": "马来西亚热搜：winner's page 与 May September",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/614bc63d381e4e189c4ef09b.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "38ecc69324ad13985ab92256",
+  "country": "my",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Melanie 与 Okayy 话题",
+  "titleOrig": "Melanie & Okayy Trending（Melanie 与 Okayy 热搜）",
+  "summary": "Melanie与Okayy等话题在马来西亚X热搜在列，或与娱乐人物及网络流行语相关。网络流行语适合做趣味文字款T恤。",
+  "tags": [
+   "Melanie",
+   "Okayy"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "Melanie与Okayy登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/942ffa49f1a1425ba1b9e1d3.jpg",
+    "caption": "马来西亚热搜：Melanie 与 Okayy 话题",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/942ffa49f1a1425ba1b9e1d3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "788f2af2aca0660811c55361",
+  "country": "my",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Mike 与 Hughes 话题",
+  "titleOrig": "Mike & Hughes Trending（Mike 与 Hughes 热搜）",
+  "summary": "Mike与Hughes相关话题在马来西亚X热搜在列，或与娱乐与体育人物有关。相关名字适合做关注度参考，T恤印花需注意肖像权。",
+  "tags": [
+   "Mike",
+   "Hughes"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "Mike与Hughes登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f313e961ae2ce357ec971e92.jpg",
+    "caption": "马来西亚热搜：Mike 与 Hughes 话题",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/f313e961ae2ce357ec971e92.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "21dcbe3aee24464a6e6c5687",
+  "country": "my",
+  "cat": "society",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：汶莱地域话题",
+  "titleOrig": "Brunei Trending Malaysia（汶莱热搜）",
+  "summary": "汶莱（Brunei）相关话题在马来西亚X热搜在列，邻国地域与外交动态受关注。区域主题文字款T恤适合做本地化设计。",
+  "tags": [
+   "汶莱",
+   "东南亚",
+   "地域"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "地域话题",
+    "desc": "汶莱登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/59e9c4e40e548af00bebd7b2.jpg",
+    "caption": "马来西亚热搜：汶莱地域话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/59e9c4e40e548af00bebd7b2.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "58ba21babb3dfb42247e98f0",
+  "country": "my",
+  "cat": "celebrity",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Lily 与 APKCube 话题",
+  "titleOrig": "Lily & APKCube Trending（Lily 与 APKCube 热搜）",
+  "summary": "Lily与APKCube等话题在马来西亚X热搜在列，或与娱乐与游戏内容有关。相关话题适合做关注度参考。",
+  "tags": [
+   "Lily",
+   "APKCube"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 130
+   }
+  ],
+  "credibilityScore": 42,
+  "buzzIndex": 36,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "Lily与APKCube登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/360fc150de91487d9376fa81.jpg",
+    "caption": "马来西亚热搜：Lily 与 APKCube 话题",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/360fc150de91487d9376fa81.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "43e3a5d4a322dd23b7fa92b8",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Bruno G 与 Man Utd",
+  "titleOrig": "Bruno G & Man Utd Trending（布鲁诺·G 与曼联热搜）",
+  "summary": "足球球员Bruno G（布鲁诺·G）与曼联（Man Utd）在马来西亚X热搜在列，英超赛事话题热度高。曼联队名与元素适合做球迷款文字款T恤。",
+  "tags": [
+   "Bruno G",
+   "曼联",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 200
+   }
+  ],
+  "credibilityScore": 48,
+  "buzzIndex": 46,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "Bruno G与曼联登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：Bruno G 与 Man Utd",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3b768387d96004cf6cc2f1e8",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：Tosin 球员话题",
+  "titleOrig": "Tosin Trending Malaysia（Tosin 球员热搜）",
+  "summary": "足球球员Tosin相关话题在马来西亚X热搜在列，欧洲足坛转会话题吸引马来球迷。球员名适合做球迷文字款T恤。",
+  "tags": [
+   "Tosin",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "Tosin登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：Tosin 球员话题",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c17250f5eefe1273f237555a",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：穆德里克相关",
+  "titleOrig": "Mudryk Trending（穆德里克热搜）",
+  "summary": "足球球员Mudryk（穆德里克）在马来西亚X热搜在列，切尔西相关转会与赛事话题吸引球迷。球员名适合做球迷文字款T恤。",
+  "tags": [
+   "穆德里克",
+   "切尔西",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "GetDayTrends Malaysia",
+    "type": "trends",
+    "url": "https://getdaytrends.com/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 150
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "穆德里克登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：穆德里克相关",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://getdaytrends.com/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "dfe7a1c95d09fbaab5e0fba3",
+  "country": "my",
+  "cat": "sports",
+  "catCn": "社媒热搜",
+  "stars": 1,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 1,
+  "titleCn": "马来西亚热搜：桑德兰与维拉",
+  "titleOrig": "Sunderland & Villa Trending（桑德兰与维拉热搜）",
+  "summary": "桑德兰（Sunderland）与维拉（Villa）等英足球队在马来西亚X热搜在列，英格兰足球赛事话题活跃。球队名适合做球迷款文字款T恤。",
+  "tags": [
+   "桑德兰",
+   "阿斯顿维拉",
+   "足球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Trends24 Malaysia",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 140
+   }
+  ],
+  "credibilityScore": 44,
+  "buzzIndex": 40,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜在榜",
+    "desc": "桑德兰与维拉登上马来西亚热搜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/785e469193b44cbe8b8ea73d.jpg",
+    "caption": "马来西亚热搜：桑德兰与维拉",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/785e469193b44cbe8b8ea73d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://trends24.in/malaysia/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e573d9d2e20cec70d36cc65c",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "演唱会",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 5,
+  "titleCn": "BIGBANG曼谷站加场开票：11月拉加曼加拉双场",
+  "titleOrig": "BIGBANG 2026-2027 WORLD TOUR [XX:COSMOS] IN BANGKOK（BIGBANG曼谷世界巡演）",
+  "summary": "BIGBANG（宇宙大爆炸组合）出道20周年世界巡演曼谷站定于11月7日在拉加曼加拉国家体育场（Rajamangala National Stadium，泰国国家体育场）举行，门票火速售罄后官方宣布11月8日加场，会员预售9月4日12时开启、6日全面开售，G-DRAGON（权志龙）、TAEYANG（太阳）、DAESUNG（大声）合体令泰国VIP粉丝（官方粉丝名）沸腾。",
+  "tags": [
+   "K-Pop",
+   "BIGBANG",
+   "曼谷",
+   "巡演",
+   "加场",
+   "售罄"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Thairath English（泰国rath报英文版）",
+    "type": "news",
+    "url": "https://en.thairath.co.th/entertain/news/2956824",
+    "credibility": "高",
+    "region": "th",
+    "mention": 3
+   },
+   {
+    "name": "ThaiTicketMajor（泰国官方票务）",
+    "type": "official",
+    "url": "https://www.thaiticketmajor.com",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 92,
+  "buzzIndex": 95,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "加场官宣",
+    "desc": "主办方AEG Presents Asia（演出公司）与iMe Thailand宣布11月8日加场"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "会员预售",
+    "desc": "V.I.P会员预售12:00-23:59，仅限thaiticketmajor.com"
+   },
+   {
+    "date": "2026-09-06",
+    "label": "全面开售",
+    "desc": "中午12点起公开售票"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0e7416bd9720adb10aaeae56.jpg",
+    "caption": "BIGBANG曼谷站加场开票：11月拉加曼加拉双场",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0e7416bd9720adb10aaeae56.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://en.thairath.co.th/entertain/news/2956824",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "734e08e47c9734cae90a1e2a",
+  "country": "my",
+  "cat": "concert_show",
+  "catCn": "活动",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 4,
+  "titleCn": "MotorManiac车展音乐节：DEF JAM东南亚天台开唱",
+  "titleOrig": "MotorManiac Festival 2026（机车狂热音乐节2026）",
+  "summary": "马来西亚第五屆MotorManiac Festival（机车狂热节）9月5日至6日登陆吉隆坡MyTOWN商场七楼天台，DEF JAM Southeast Asia（_DEF JAM东南亚厂牌）担任舞台伙伴，Joe Flizzow（乔·弗利佐）、SonaOne（索纳万）、ALYPH（艾利夫）、Ismail Izzani（伊斯梅尔·伊扎尼）等马说唱歌手连袂开唱，融合漂移、霹雳舞与音乐，预计吸引4万人。",
+  "tags": [
+   "马来西亚",
+   "音乐节",
+   "DEF JAM",
+   "说唱",
+   "汽车文化",
+   "吉隆坡"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Bateriku官方新闻稿",
+    "type": "official",
+    "url": "https://www.bateriku.com/news/motormaniac-festival-2026-press-release",
+    "credibility": "高",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 86,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-08-30",
+    "label": "发布会",
+    "desc": "主办方在莎阿南总部举行记者会公布阵容"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距开幕3天，Lazada（来赞达）售票渠道热卖中"
+   },
+   {
+    "date": "2026-09-05",
+    "label": "开幕",
+    "desc": "天台音乐节连开两日"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "MotorManiac车展音乐节：DEF JAM东南亚天台开唱",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.bateriku.com/news/motormaniac-festival-2026-press-release",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "fb7b3b3181eaaa14a5778251",
+  "country": "my",
+  "cat": "concert_show",
+  "catCn": "演唱会",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "ANISAMA马来西亚2026：泽皮KL动漫演唱会倒计时",
+  "titleOrig": "ANISAMA Malaysia 2026 Gateway（ANISAMA马来西亚2026之门）",
+  "summary": "Animelo Summer Live（动画旋律夏日演唱会）海外版ANISAMA Malaysia 2026 Gateway将于9月12日20时登陆吉隆坡Zepp KL（泽皮场馆），Machico（真知子，日本歌手）、Konomi Suzuki（铃木木乃美）、Lia（莉亚）、TSH48与KLP48（吉隆坡48系偶像团）登台，并通过TikTok LIVE（抖音直播）同步播出，LaLaport BBCC商场9月1日起举办应援活动。",
+  "tags": [
+   "马来西亚",
+   "动漫演唱会",
+   "ANISAMA",
+   "KLP48",
+   "TikTok LIVE"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "LaLaport BBCC商场官网",
+    "type": "official",
+    "url": "https://lalaportbbcc.com/news/anisama-malaysia-2026-lalaport-bbcc",
+    "credibility": "高",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 75,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "应援启动",
+    "desc": "LaLaport ACG Base二层活动开启，消费满100令吉可抽奖"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距演唱会10天，早鸟礼包领取登记进行中"
+   },
+   {
+    "date": "2026-09-12",
+    "label": "开演",
+    "desc": "Zepp KL晚8点开唱，TikTok LIVE同步直播"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "ANISAMA马来西亚2026：泽皮KL动漫演唱会倒计时",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://lalaportbbcc.com/news/anisama-malaysia-2026-lalaport-bbcc",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "df9ec263bf0e8961e5677de0",
+  "country": "my",
+  "cat": "concert_show",
+  "catCn": "演唱会",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "硬核Techno女王Sara Landry吉隆坡首秀",
+  "titleOrig": "Sara Landry TELETECH Kuala Lumpur（萨拉·兰德里吉隆坡TELETECH专场）",
+  "summary": "美国硬核铁克诺（Hard Techno，电子乐流派）女王Sara Landry（萨拉·兰德里）9月25日在吉隆坡XOX Arena（XOX竞技场）完成马来西亚首演，由TELETECH（电子音乐厂牌）主办，早鸟票在本土嘉宾公布前即售罄，次夜转战新加坡MARQUEE（ marque夜店），背靠背双国演出彰显东南亚电音市场热度。",
+  "tags": [
+   "马来西亚",
+   "电音",
+   "Hard Techno",
+   "DJ",
+   "吉隆坡"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Loopliner音乐媒体",
+    "type": "news",
+    "url": "https://loopliner.com/news/sara-landry-is-doing-kuala-lumpur-and-singapore-back-to-back",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热度延续",
+    "desc": "早鸟票售罄后常规票在Pinkfish/Ticketmelon渠道发售"
+   },
+   {
+    "date": "2026-09-25",
+    "label": "开演",
+    "desc": "XOX Arena马来西亚首秀"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "硬核Techno女王Sara Landry吉隆坡首秀",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://loopliner.com/news/sara-landry-is-doing-kuala-lumpur-and-singapore-back-to-back",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8e4146f38275f28bc15e0ff7",
+  "country": "my",
+  "cat": "concert_show",
+  "catCn": "演唱会",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 3,
+  "titleCn": "印尼3DIVA组合时隔近20年重返马来西亚",
+  "titleOrig": "3DIVA LIVE IN MALAYSIA 2026 [TIMELESS]（3DIVA马来西亚演唱会2026[永恒]）",
+  "summary": "印尼传奇女声组合3 Diva（三大天后）——Kris Dayanti（克里斯·达扬蒂）、Ruth Sahanaya（鲁丝·萨哈纳亚）与Titi DJ（蒂蒂·DJ）将于11月22日登上吉隆坡Unifi Arena（优尼菲竞技场），献上[TIMELESS]（永恒）主题演唱会，这是三人近20年来首次合体登陆马来西亚，门票9月5日中午经MAISEAT开售，价238至1098令吉。",
+  "tags": [
+   "马来西亚",
+   "印尼",
+   "3DIVA",
+   "经典",
+   "演唱会"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Malay Mail（马来邮报）",
+    "type": "news",
+    "url": "https://www.malaymail.com/news/showbiz/2026/09/01/after-nearly-two-decades-indonesias-renowned-3-diva-set-to-return-to-malaysia-this-november-for-timeless-concert/233514",
+    "credibility": "高",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "官宣",
+    "desc": "Malay Mail独家报道巡演详情"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "热议",
+    "desc": "歌迷讨论7档票价与MAISEAT抢票攻略"
+   },
+   {
+    "date": "2026-09-05",
+    "label": "开票",
+    "desc": "中午12时MAISEAT独家开售"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "印尼3DIVA组合时隔近20年重返马来西亚",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.malaymail.com/news/showbiz/2026/09/01/after-nearly-two-decades-indonesias-renowned-3-diva-set-to-return-to-malaysia-this-november-for-timeless-concert/233514",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d2f6fa6f1dd3037f84556cc6",
+  "country": "my",
+  "cat": "concert_show",
+  "catCn": "演唱会",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 5,
+  "titleCn": "金曲歌后孙盛希首场吉隆坡个唱12月开唱",
+  "titleOrig": "SHI SHI \"The Taste Of...\" World Tour KL（孙盛希《The Taste Of…》巡演吉隆坡站）",
+  "summary": "第35届金曲奖最佳华语女歌手SHI SHI（孙盛希）携个人巡演《The Taste Of…》（滋味）于12月6日18时登陆Zepp Kuala Lumpur（泽皮吉隆坡），这是她出道以来在马来西亚的首场个人演唱会，将现场演绎《想见你》（Someday or One Day，电视剧）主题曲等金曲，门票9月7日14时经BookMyShow（售票平台）开售。",
+  "tags": [
+   "马来西亚",
+   "孙盛希",
+   "华语",
+   "金曲奖",
+   "演唱会"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "The Star星报",
+    "type": "news",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/golden-melody-award-winning-singer-songwriter-shi-shi-brings-her-first-ever-solo-concert-to-kl",
+    "credibility": "高",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 90,
+  "buzzIndex": 73,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "官宣",
+    "desc": "The Star公布演出详情与购票福利"
+   },
+   {
+    "date": "2026-09-07",
+    "label": "开票",
+    "desc": "14时BookMyShow开售，指定票档附签名小卡"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "金曲歌后孙盛希首场吉隆坡个唱12月开唱",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/golden-melody-award-winning-singer-songwriter-shi-shi-brings-her-first-ever-solo-concert-to-kl",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e113601078c32d60d01d0ebd",
+  "country": "my",
+  "cat": "concert_show",
+  "catCn": "演唱会",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 11,
+  "titleCn": "郭富城ICONIC世界巡演大马站加场9月13日",
+  "titleOrig": "Aaron Kwok ICONIC World Tour 2026 Malaysia（郭富城ICONIC世界巡演2026马来西亚站）",
+  "summary": "港星郭富城（Aaron Kwok，人称城城）《ICONIC世界巡回演唱会2026》马来西亚站9月12日在武吉加里尔Unifi Arena开唱，首场门票火速售罄后官方宣布9月13日加开一场，票价388至1188令吉，两大天王级华语演出（另一场为9月13日同场馆SJ-83z）令吉吉隆坡周末一票难求。",
+  "tags": [
+   "马来西亚",
+   "郭富城",
+   "华语",
+   "演唱会",
+   "售罄",
+   "加场"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "就酱Young马来西亚媒体",
+    "type": "news",
+    "url": "https://www.jiuzyoung.com/?p=12299",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 82,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热度攀升",
+    "desc": "首场售罄+加场消息在马国华人社群刷屏"
+   },
+   {
+    "date": "2026-09-12",
+    "label": "首场开演",
+    "desc": "Unifi Arena 20:00开唱"
+   },
+   {
+    "date": "2026-09-13",
+    "label": "加场",
+    "desc": "第二场接力开唱"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "郭富城ICONIC世界巡演大马站加场9月13日",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.jiuzyoung.com/?p=12299",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "63240a87f83a2a3ca8b9d0c6",
+  "country": "my",
+  "cat": "concert_show",
+  "catCn": "演唱会",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 11,
+  "titleCn": "SUPER JUNIOR-83z小分队9月13日吉隆坡开唱",
+  "titleOrig": "2026 SUPER JUNIOR-83z FANCON TOUR [1983] in Kuala Lumpur（SUPER JUNIOR-83z粉丝演唱会[1983]吉隆坡站）",
+  "summary": "SUPER JUNIOR（超级少年）第七个小分队83z——利特（Leeteuk）与希澈（Heechal，音译希澈）两位1983年生成员——将于9月13日17时在吉隆坡Mega Star Arena（巨星竞技场）举行[1983]粉丝演唱会，票价288至888令吉，VIP及CAT1幸运歌迷可观摩彩排，并有大马限定VIP礼品与特典小卡。",
+  "tags": [
+   "马来西亚",
+   "K-Pop",
+   "SUPER JUNIOR",
+   "利特",
+   "希澈",
+   "粉丝演唱会"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "中国报（马来西亚）",
+    "type": "news",
+    "url": "https://www.chinapress.com.my/20260530/super-junior-83z-913%e5%8a%9e%e8%a7%81%e9%9d%a2%e4%bc%9a-%e7%b2%89%e4%b8%9d%e7%a6%8f%e5%88%a9%e6%9b%9d%e5%85%89/",
+    "credibility": "高",
+    "region": "my",
+    "mention": 3
+   },
+   {
+    "name": "Travelodge东南亚K-pop演出日历",
+    "type": "news",
+    "url": "https://travelodgehotels.asia/no/travel-guide/kpop-concert-calendar-malaysia",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距演出11天，E.L.F（官方粉丝名）社群晒应援物"
+   },
+   {
+    "date": "2026-09-13",
+    "label": "开演",
+    "desc": "17时Mega Star Arena开唱"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "SUPER JUNIOR-83z小分队9月13日吉隆坡开唱",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.chinapress.com.my/20260530/super-junior-83z-913%e5%8a%9e%e8%a7%81%e9%9d%a2%e4%bc%9a-%e7%b2%89%e4%b8%9d%e7%a6%8f%e5%88%a9%e6%9b%9d%e5%85%89/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "77d4cabd36d0035fd8ea74e6",
+  "country": "my",
+  "cat": "concert_show",
+  "catCn": "活动",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "西必洛爵士音乐节：雨林中的沙巴音乐盛宴",
+  "titleOrig": "Sepilok Jazz 2026（西必洛爵士音乐节2026）",
+  "summary": "第五届西必洛爵士音乐节（Sepilok Jazz）9月4日至5日在沙巴山打根西必洛雨林探索中心（Rainforest Discovery Centre）举行，马来西亚、意大利、印尼、新加坡及中国等地音乐人相聚婆罗洲雨林，曾登《我是歌手》（中国综艺节目）舞台的大马歌手茜拉·阿玛莎（Shila Amzah）担任重磅嘉宾，部分收益支持海龟保育。",
+  "tags": [
+   "马来西亚",
+   "沙巴",
+   "爵士",
+   "音乐节",
+   "生态"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博旅游文化专栏",
+    "type": "news",
+    "url": "https://weibo.com/ttarticle/p/show?id=2309405338245805506807",
+    "credibility": "中",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 65,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距开幕2天，沙巴本地社群流传观演攻略"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "开幕",
+    "desc": "雨林探索中心两晚爵士演出"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "西必洛爵士音乐节：雨林中的沙巴音乐盛宴",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://weibo.com/ttarticle/p/show?id=2309405338245805506807",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9182e21b93a2b60c1f84ec7f",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "活动",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 5,
+  "titleCn": "泰色泰韵文化节今日在IMPACT开幕",
+  "titleOrig": "Colors of Thai Thai（泰色泰韵文化节）",
+  "summary": "国家级文化盛会泰色泰韵（Colors of Thai Thai）9月2日至6日在暖武里府蒙通他尼IMPACT展览馆7-8号厅举行，恰于今日开幕，观众可近距离观赏泰国非物质文化遗产Nang Yai（大皮影戏）及传统手工艺与表演艺术，是9月泰国文化月的重头戏，衍生传统纹样周边潜力大。",
+  "tags": [
+   "泰国",
+   "文化节",
+   "皮影戏",
+   "非遗",
+   "IMPACT"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博泰国活动指南",
+    "type": "news",
+    "url": "https://weibo.com/2610804693/5338613386580054",
+    "credibility": "中",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 62,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "开幕",
+    "desc": "IMPACT展馆7-8号厅向公众开放"
+   },
+   {
+    "date": "2026-09-06",
+    "label": "闭幕",
+    "desc": "文化节最后一天"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "泰色泰韵文化节今日在IMPACT开幕",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://weibo.com/2610804693/5338613386580054",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1e327be0f1e82e5cbb5e8fc1",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "活动",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 6,
+  "titleCn": "曼谷国际表演艺术节9月5日启幕",
+  "titleOrig": "Bangkok International Festival of Music and Performing Arts（曼谷国际音乐与表演艺术节）",
+  "summary": "曼谷国际表演艺术节9月5日至10月17日在曼谷泰国文化中心主音乐厅举行，来自9个国家的顶尖剧团带来12场演出，《罗密欧与朱丽叶》（Romeo and Juliet，莎剧）、《灰姑娘》（Cinderella，童话剧）与《茶花女》（La Traviata，歌剧）等经典轮番登场，是曼谷九月金秋演出季的核心活动。",
+  "tags": [
+   "泰国",
+   "艺术节",
+   "音乐剧",
+   "歌剧",
+   "曼谷"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博泰国活动指南",
+    "type": "news",
+    "url": "https://weibo.com/2610804693/5338613386580054",
+    "credibility": "中",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 62,
+  "buzzIndex": 63,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "购票期",
+    "desc": "开幕前3天，多部剧目开票热销"
+   },
+   {
+    "date": "2026-09-05",
+    "label": "开幕",
+    "desc": "泰国文化中心主音乐厅首演"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "曼谷国际表演艺术节9月5日启幕",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://weibo.com/2610804693/5338613386580054",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "689a77e33371f804e659bcd2",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "演唱会",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 3,
+  "titleCn": "郝熠然“刚好光遇岛”曼谷生日演唱会秒罄",
+  "titleOrig": "郝熠然 \"刚好光遇岛\" Birthday Concert Bangkok（郝熠然生日演唱会曼谷站）",
+  "summary": "歌手郝熠然（中国男歌手）个人生日演唱会“刚好光遇岛”9月5日19时（泰国时间）在曼谷BITEC会展中心98-99馆开唱，门票开售即秒罄，官方已公布《表白》《典狱司》《人间》等5首核心曲目，隐藏歌单引发全网盲猜，距其9月12日生日一周，海外生日专场话题度居高不下。",
+  "tags": [
+   "泰国",
+   "曼谷",
+   "生日演唱会",
+   "秒罄",
+   "郝熠然"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "新浪娱乐微博",
+    "type": "news",
+    "url": "https://weibo.com/2741125501/5338132432030475",
+    "credibility": "中",
+    "region": "th",
+    "mention": 3
+   },
+   {
+    "name": "新浪财经头条",
+    "type": "news",
+    "url": "https://cj.sina.com.cn/articles/view/2535760180/m9724a13403301begi",
+    "credibility": "中",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "倒计时",
+    "desc": "距开演4天，歌单话题登上热搜"
+   },
+   {
+    "date": "2026-09-05",
+    "label": "开演",
+    "desc": "曼谷BITEC 19:00开唱"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "郝熠然“刚好光遇岛”曼谷生日演唱会秒罄",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://weibo.com/2741125501/5338132432030475",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "22e6c446f0678b086988277f",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "活动",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "音乐剧《红磨坊》曼谷站9月28日开票",
+  "titleOrig": "Moulin Rouge! The Musical Thailand（红磨坊音乐剧泰国站）",
+  "summary": "斩获10项托尼奖（Tony Award，美国戏剧奖）的百老汇音乐剧《红磨坊！》（Moulin Rouge! The Musical）官宣曼谷演出，2027年8月17日至9月12日登陆Muang Thai Rachadalai Theatre（泰国拉查达莱剧院），2026年9月14日至27日赞助商预售、9月28日10时经ThaiTicketMajor全面开售，票价1800至7700泰铢。",
+  "tags": [
+   "泰国",
+   "音乐剧",
+   "红磨坊",
+   "百老汇",
+   "开票"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Thairath English",
+    "type": "news",
+    "url": "https://en.thairath.co.th/entertain/news/2956826",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 87,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "官宣热度",
+    "desc": "曼谷剧场圈转发开票信息"
+   },
+   {
+    "date": "2026-09-28",
+    "label": "开票",
+    "desc": "10时ThaiTicketMajor公开发售"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "音乐剧《红磨坊》曼谷站9月28日开票",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://en.thairath.co.th/entertain/news/2956826",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "51abe5c3599155eb7a769c89",
+  "country": "th",
+  "cat": "concert_show",
+  "catCn": "演唱会",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "BOYdKO圣诞演唱会12月Impact Arena见",
+  "titleOrig": "BOYdKO Christmas Concert 2026（BOYdKO圣诞演唱会2026）",
+  "summary": "泰国音乐人BOYdKO（波伊德科）宣布首度以完整形式打造圣诞综艺演唱会“SURPRISE AFTER SURPRISE”（惊喜连连），12月11日慈善场与12日正场在曼谷Impact Arena（展览馆竞技场）举行，超过20位艺人登台，门票9月25日10时经ThaiTicketMajor（官方票务）及官方渠道开售。",
+  "tags": [
+   "泰国",
+   "圣诞",
+   "演唱会",
+   "BOYdKO",
+   "Impact Arena"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博演出资讯",
+    "type": "news",
+    "url": "https://weibo.com/6626051614/5338409527936381",
+    "credibility": "中",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 63,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "官宣",
+    "desc": "演出信息公布，圣诞档期锁定"
+   },
+   {
+    "date": "2026-09-25",
+    "label": "开票",
+    "desc": "10时全渠道开售"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "BOYdKO圣诞演唱会12月Impact Arena见",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://weibo.com/6626051614/5338409527936381",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "adb92ba3577fd480dd60d878",
+  "country": "my",
+  "cat": "concert_show",
+  "catCn": "演唱会",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 25,
+  "titleCn": "T.O.P solo巡演PRE-STUDIO 9月27日登陆吉隆坡",
+  "titleOrig": "T.O.P PRE-STUDIO 2026 in Kuala Lumpur（T.O.P个人巡演PRE-STUDIO吉隆坡站）",
+  "summary": "BIGBANG前成员T.O.P（崔胜铉）个人巡演PRE-STUDIO 2026将于9月27日在吉隆坡Unifi Arena举行，他此前透露新专辑将以自有厂牌Topspot Pictures（制片公司）独立发行、不再回归BIGBANG，马来西亚站成为其独立后东南亚重要一站，VIP粉丝群体关注度高。",
+  "tags": [
+   "马来西亚",
+   "K-Pop",
+   "T.O.P",
+   "BIGBANG",
+   "独立音乐"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Travelodge东南亚K-pop演出日历",
+    "type": "news",
+    "url": "https://travelodgehotels.asia/no/travel-guide/kpop-concert-calendar-malaysia",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   },
+   {
+    "name": "Miraitalk K-pop资讯",
+    "type": "news",
+    "url": "https://miraitalk.com/article/t-o-p-s-solo-comeback-independent-release-no-big-bang-reunion-k-pop-news-update/12736",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距演出25天，独立发行新专辑消息持续发酵"
+   },
+   {
+    "date": "2026-09-27",
+    "label": "开演",
+    "desc": "Unifi Arena开唱"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "T.O.P solo巡演PRE-STUDIO 9月27日登陆吉隆坡",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://travelodgehotels.asia/no/travel-guide/kpop-concert-calendar-malaysia",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1dbc67271a13b232da8d8cf5",
+  "country": "multi",
+  "cat": "music",
+  "catCn": "TikTok声音",
+  "stars": 4,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 14,
+  "titleCn": "Katy Perry《The One That Got Away》封TikTok全球夏日之歌",
+  "titleOrig": "The One That Got Away（那个错过的人）",
+  "summary": "Katy Perry（凯蒂·佩里）2011年旧作《The One That Got Away》（那个错过的人）被TikTok（抖音国际版）评为2026全球夏日之歌，视频创作量超4200万条、播放量超550亿次，重回马来西亚Spotify日榜第4（日播8.4万）与Apple Music马来西亚榜第16位，怀旧向字幕款“错过的那个人”文案在泰马两地同步走俏。",
+  "tags": [
+   "TikTok",
+   "Katy Perry",
+   "怀旧",
+   "全球爆款",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "CultureState音乐评论",
+    "type": "news",
+    "url": "https://www.culturestate.co/post/katy-perry-s-the-one-that-got-away-becomes-tiktok-s-global-song-of-summer-15-years-after-its-rel",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   },
+   {
+    "name": "Yahoo/BBC Newsbeat",
+    "type": "news",
+    "url": "https://www.yahoo.com/entertainment/music/articles/noughties-garage-track-named-tiktoks-122225778.html",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   },
+   {
+    "name": "Kworb Spotify马来西亚日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/my_daily.html",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 91,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "榜单延续",
+    "desc": "夏日之歌评选公布后持续霸榜马来西亚Spotify前5"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Katy Perry《The One That Got Away》封TikTok全球夏日之歌",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.culturestate.co/post/katy-perry-s-the-one-that-got-away-becomes-tiktok-s-global-song-of-summer-15-years-after-its-rel",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "df772e00bc1247338e991fdf",
+  "country": "multi",
+  "cat": "music",
+  "catCn": "TikTok声音",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "高风险",
+  "hotDays": 7,
+  "titleCn": "徐明浩《singasong》鬼步舞挑战全网翻跳",
+  "titleOrig": "singasong Shuffle Dance Challenge（singasong鬼步舞挑战）",
+  "summary": "SEVENTEEN（十七团）成员徐明浩（THE 8）与新女团成员SEOHEE（序熙，音译）合拍的《singasong》鬼步舞（Shuffle，滑步舞）挑战视频8月31日经TikTok首发后火速出圈，相关微博话题阅读量破9000万，被称为“2026年夏季最具传播力的舞蹈”，餐厅店员、老牌舞者与动漫二创纷纷加入，东南亚TikTok同步掀起翻跳潮。",
+  "tags": [
+   "TikTok",
+   "SEVENTEEN",
+   "徐明浩",
+   "鬼步舞",
+   "挑战赛"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "新浪娱乐",
+    "type": "news",
+    "url": "https://ent.sina.cn/2026-09-02/detail-iniqkqvk7967383.d.html?vt=4",
+    "credibility": "高",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 93,
+  "timeline": [
+   {
+    "date": "2026-08-31",
+    "label": "TikTok首发",
+    "desc": "双人挑战视频上线"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "破圈",
+    "desc": "微博话题阅读量超9000万，全网翻跳"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/15afe18cbc614dcb83b8a5d3.jpg",
+    "caption": "徐明浩《singasong》鬼步舞挑战全网翻跳",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/15afe18cbc614dcb83b8a5d3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://ent.sina.cn/2026-09-02/detail-iniqkqvk7967383.d.html?vt=4",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3da0fc7ba8abc240c3e628c9",
+  "country": "multi",
+  "cat": "music",
+  "catCn": "TikTok声音",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "神曲《Du Bist Gut Genug》空耳梗血洗TikTok",
+  "titleOrig": "Du Bist Gut Genug（你已经足够好）",
+  "summary": "德国组合KITSCHKRIEG（奇趣武装）与Blumengarten、Shirin David合作的《Du Bist Gut Genug》（你已经足够好）获评TikTok 2026夏日“空耳神曲”（Misheard Track，听错歌词梗），被网友戏称为“Doobie Scoot Canoe”（都比滑独木舟），防弹少年团Jung Kook（柾国）、Steve Lacy（史蒂夫·蕾西）与Lizzo（丽佐）都参与玩梗，并追加Skepta、Omah Lay合作版本。",
+  "tags": [
+   "TikTok",
+   "空耳",
+   "德国说唱",
+   "meme",
+   "夏日荣誉"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTok官方Newsroom",
+    "type": "official",
+    "url": "https://newsroom16-normal-useastred.tiktokw.eu/?lang=en&tag=community",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 80,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "夏日盘点",
+    "desc": "TikTok Summer Honors（夏日荣誉）榜单公布，空耳梗持续发酵"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/be649d8b482b915606166085.jpg",
+    "caption": "神曲《Du Bist Gut Genug》空耳梗血洗TikTok",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/be649d8b482b915606166085.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://newsroom16-normal-useastred.tiktokw.eu/?lang=en&tag=community",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ca020cf637c67d8d92012944",
+  "country": "multi",
+  "cat": "music",
+  "catCn": "TikTok声音",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 8,
+  "titleCn": "CORTIS《REDRED》当选TikTok夏日K-Pop男团",
+  "titleOrig": "REDRED（红上加红）",
+  "summary": "新晋男团CORTIS（科尔蒂斯）凭借《REDRED》（红上加红）获TikTok官方“2026夏日男团”（Boyband of the Summer）荣誉，其标志编舞引发KATSEYE（卡特眼）、LE SSERAFIM（勒瑟凡）与j-hope（郑号锡）粉丝齐齐翻跳，歌曲同时打入马来西亚Apple Music榜单，成为马来西亚K-pop受众的新宠挑战BGM。",
+  "tags": [
+   "TikTok",
+   "K-Pop",
+   "CORTIS",
+   "夏日男团",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTok官方Newsroom",
+    "type": "official",
+    "url": "https://newsroom16-normal-useastred.tiktokw.eu/?lang=en&tag=community",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   },
+   {
+    "name": "Soundcharts马来西亚Apple榜",
+    "type": "chart",
+    "url": "https://soundcharts.com/en/charts/apple-music/malaysia",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 83,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "官方加冕",
+    "desc": "TikTok Summer Honors公布夏日男团，马来西亚榜单在榜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0e7416bd9720adb10aaeae56.jpg",
+    "caption": "CORTIS《REDRED》当选TikTok夏日K-Pop男团",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0e7416bd9720adb10aaeae56.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://newsroom16-normal-useastred.tiktokw.eu/?lang=en&tag=community",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "dcb71c5ee72acdbf5e9078fb",
+  "country": "multi",
+  "cat": "music",
+  "catCn": "TikTok声音",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 7,
+  "titleCn": "Zara Larsson获TikTok夏日杰出贡献奖",
+  "titleOrig": "Midnight Sun: Girls Trip（午夜阳光：女孩之旅）",
+  "summary": "瑞典歌手Zara Larsson（扎拉·拉尔森）获TikTok官方颁发“2026夏日杰出贡献”（Outstanding Contribution to the Summer）荣誉，混音专辑《Midnight Sun: Girls Trip》（午夜阳光：女孩之旅）及其病毒编舞、仿妆趋势贯穿整个夏天，被官方称为“流行女声之夏”（Pop Girl Summer）化身，相关挑战视频辐射泰国、马来西亚市场。",
+  "tags": [
+   "TikTok",
+   "Zara Larsson",
+   "夏日荣誉",
+   "Pop Girl Summer"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTok官方Newsroom",
+    "type": "official",
+    "url": "https://newsroom16-normal-useastred.tiktokw.eu/?lang=en&tag=community",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "官方荣誉",
+    "desc": "Summer Honors奖项公布，回顾夏季病毒传播数据"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0356d8f363954714810e56db.jpg",
+    "caption": "Zara Larsson获TikTok夏日杰出贡献奖",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/0356d8f363954714810e56db.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://newsroom16-normal-useastred.tiktokw.eu/?lang=en&tag=community",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "afa41f91445d055c2b511037",
+  "country": "multi",
+  "cat": "music",
+  "catCn": "TikTok声音",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 6,
+  "titleCn": "Slayyyter《DANCE...》成TikTok夏日新人王",
+  "titleOrig": "DANCE...（跳舞吧…）",
+  "summary": "美国电子流行歌手Slayyyter（斯蕾特）获TikTok“2026夏日新星”（Emerging Artist of the Summer）荣誉，单曲《DANCE...》（跳舞吧…）被Keke Palmer（琪琪·帕尔默）、Camila Mendes（卡米拉·门德斯）等名人带梗使用，病毒式传播将其推上全球破圈位，TikTok官方评价其为“本季最亮眼的新声”。",
+  "tags": [
+   "TikTok",
+   "Slayyyter",
+   "新星",
+   "电子流行"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTok官方Newsroom",
+    "type": "official",
+    "url": "https://newsroom16-normal-useastred.tiktokw.eu/?lang=en&tag=community",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "官方荣誉",
+    "desc": "获评TikTok夏日新星"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/8cae4e0f6e804aa78fd837bb.jpg",
+    "caption": "Slayyyter《DANCE...》成TikTok夏日新人王",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/8cae4e0f6e804aa78fd837bb.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://newsroom16-normal-useastred.tiktokw.eu/?lang=en&tag=community",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3f80cd80498cfa5b1705ffe3",
+  "country": "multi",
+  "cat": "music",
+  "catCn": "TikTok声音",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "TikTok“夏日金曲Vol.2026”数字合辑企划启动",
+  "titleOrig": "Songs of the Summer, Vol. 2026（2026夏日金曲合辑）",
+  "summary": "TikTok官方以“Songs of the Summer, Vol. 2026”（2026夏日金曲合辑）为主题发起大型社交企划，以数字磁带（digital mixtape）形式呈现今夏三大文化时刻、代表曲目与创作者，覆盖流行、K-pop、电子等多流派，官方数据显示Zara Larsson（扎拉·拉尔森）、CORTIS（科尔蒂斯）等均在盘点之列。",
+  "tags": [
+   "TikTok",
+   "夏日企划",
+   "合辑",
+   "官方活动"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "TikTok官方Newsroom",
+    "type": "official",
+    "url": "https://newsroom16-normal-useastred.tiktokw.eu/?lang=en&tag=community",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 81,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "企划上线",
+    "desc": "TikTok发布夏日金曲数字合辑与话题活动"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4df8ba11c20e48d58b4afabf.jpg",
+    "caption": "TikTok“夏日金曲Vol.2026”数字合辑企划启动",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/4df8ba11c20e48d58b4afabf.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://newsroom16-normal-useastred.tiktokw.eu/?lang=en&tag=community",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c3e2b9392885ca501165eea0",
+  "country": "th",
+  "cat": "music",
+  "catCn": "TikTok声音",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 8,
+  "titleCn": "《Colorblind》登顶酷狗泰语榜，泰剧OST病毒传播",
+  "titleOrig": "Colorblind（色盲）",
+  "summary": "泰国说唱歌手JUNG PERSES（珀斯，音译）与乐队GeniePak（精灵帕克）为泰剧《อย่าขอพี่เจน》（Don't Be Too Emotional，别向简哥强求）献唱的OST《Colorblind》（色盲）登上酷狗音乐泰语榜第1（9月1日更新），该剧OST在短视频平台扩散，连续在榜6周，成为本季最热的泰剧原声带之一。",
+  "tags": [
+   "泰国",
+   "泰剧OST",
+   "酷狗",
+   "说唱",
+   "Colorblind"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "酷狗音乐泰语榜",
+    "type": "chart",
+    "url": "https://m.kugou.com/rank/info/60172?from=17wo",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 73,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "榜单更新",
+    "desc": "酷狗泰语榜更新，《Colorblind》位列第1"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "热度延续",
+    "desc": "剧与OST联动，短视频二创持续增长"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "《Colorblind》登顶酷狗泰语榜，泰剧OST病毒传播",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://m.kugou.com/rank/info/60172?from=17wo",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9bf49e06f5932cd8e899c45b",
+  "country": "my",
+  "cat": "music",
+  "catCn": "TikTok声音",
+  "stars": 4,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 21,
+  "titleCn": "Tulus《Teh Hijau》横扫马来西亚双榜冠军",
+  "titleOrig": "Teh Hijau（绿茶）",
+  "summary": "印尼唱作人Tulus（图卢斯）的《Teh Hijau》（绿茶）在马来西亚呈现象级霸榜：Spotify马来西亚日榜连续44天冠军（9月2日单日播放17.06万）、Apple Music马来西亚榜同步第1，凭语言文化亲近感，印尼艺人统治马国流媒体榜单的趋势被行业报告重点提及，成为跨国短视频传播的教科书案例。",
+  "tags": [
+   "马来西亚",
+   "印尼",
+   "Tulus",
+   "霸榜",
+   "流媒体"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Kworb Spotify马来西亚日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/my_daily.html",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   },
+   {
+    "name": "Apple Music马来西亚官方RSS",
+    "type": "chart",
+    "url": "https://rss.applemarketingtools.com/api/v2/my/music/most-played/25/songs.json",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   },
+   {
+    "name": "Miraitalk东南亚音乐行业分析",
+    "type": "news",
+    "url": "https://miraitalk.com/article/southeast-asia-s-rising-pop-stars-p-pop-t-pop-more/12803",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 90,
+  "buzzIndex": 89,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "双榜冠军",
+    "desc": "Spotify MY日榜第1（在榜冠军x44天）+Apple MY第1"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Tulus《Teh Hijau》横扫马来西亚双榜冠军",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/my_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3c9d954765e919ed89327a93",
+  "country": "th",
+  "cat": "music",
+  "catCn": "TikTok声音",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "PURPEECH《Fear》泰国超长青病毒热单",
+  "titleOrig": "กลัวว่าฉันจะไม่เสียใจ (Fear)（直译：怕我不会难过）",
+  "summary": "泰国乐队PURPEECH（波皮奇，音译）的《กลัวว่าฉันจะไม่เสียใจ (Fear)》（直译：怕我不会难过）是泰国流媒体史上最长寿的病毒热单之一，累计播放达7880万次，曾67天稳坐Spotify泰国榜冠军，9月2日仍列日榜第6（单日13.7万播放），长尾热度罕见，是T-Pop（泰国流行）出海代表曲目。",
+  "tags": [
+   "泰国",
+   "PURPEECH",
+   "T-Pop",
+   "长青热单",
+   "Spotify"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Kworb Spotify泰国日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 82,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "长青在榜",
+    "desc": "Spotify泰国日榜第6，累计播放7880万"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "PURPEECH《Fear》泰国超长青病毒热单",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/th_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ec2d7d020530c83f5ba5d0ca",
+  "country": "th",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 12,
+  "titleCn": "NCT 127七辑《BLINGY》登顶泰国专辑榜",
+  "titleOrig": "BLINGY - The 7th Album（闪耀·第七张正规专辑）",
+  "summary": "NCT 127（韩国男团）时隔两年回归的第七张正规专辑《BLINGY》（闪耀）在泰国全面爆发：Apple Music泰国专辑榜第5、iTunes泰国专辑榜第2，主打歌《Blingy》（闪耀）空降Spotify泰国日榜第7（首周累计96.4万播放），是本周泰国市场最强的K-pop专辑，五人体制新造型同步刷屏。",
+  "tags": [
+   "泰国",
+   "K-Pop",
+   "NCT 127",
+   "BLINGY",
+   "回归"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "t1trend泰国Apple专辑榜",
+    "type": "chart",
+    "url": "https://t1trend.com/applemusic/albums/th",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "iTunes泰国专辑榜RSS",
+    "type": "chart",
+    "url": "https://itunes.apple.com/th/rss/topalbums/limit=25/json",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify泰国日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "MEGA Asia每周新碟盘点",
+    "type": "news",
+    "url": "https://mega-asia.com/lifestyle/jennie-olivia-rodrigo-favorite-new-music-of-the-week",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 87,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple TH专辑榜#5/iTunes TH#2/主打歌Spotify TH#7"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "NCT 127七辑《BLINGY》登顶泰国专辑榜",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://t1trend.com/applemusic/albums/th",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2a24221015cb94804f2e9b1f",
+  "country": "multi",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 20,
+  "titleCn": "BTS新专辑《ARIRANG》席卷泰国，吉隆坡巡演同步官宣",
+  "titleOrig": "ARIRANG（阿里郎）",
+  "summary": "防弹少年团BTS（防弹少年团）2026年新专辑《ARIRANG》（阿里郎，16首曲目）在泰国Apple专辑榜列第9，收录曲《SWIM》（游泳）以单日25.9万播放稳居Spotify泰国日榜第1、累计6512万；同时BTS《ARIRANG》巡演定于12月12-13日登陆吉隆坡武吉加里尔国家体育场，泰马两地粉丝热度叠加。",
+  "tags": [
+   "BTS",
+   "ARIRANG",
+   "泰国",
+   "马来西亚",
+   "巡演",
+   "K-Pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "t1trend泰国Apple专辑榜",
+    "type": "chart",
+    "url": "https://t1trend.com/applemusic/albums/th",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify泰国日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Travelodge东南亚K-pop演出日历",
+    "type": "news",
+    "url": "https://travelodgehotels.asia/no/travel-guide/kpop-concert-calendar-malaysia",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 96,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "双榜在榜",
+    "desc": "专辑泰国榜#9，《SWIM》泰国日榜#1"
+   },
+   {
+    "date": "2026-12-12",
+    "label": "巡演",
+    "desc": "BTS ARIRANG吉隆坡站武吉加里尔国家体育场开演"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6501814a4b024880961310f3.jpg",
+    "caption": "BTS新专辑《ARIRANG》席卷泰国，吉隆坡巡演同步官宣",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6501814a4b024880961310f3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/th_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "27f95c8bb7b9d866082d0dcc",
+  "country": "th",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 6,
+  "titleCn": "JENNIE《Fallen Angel》EP空降泰国专辑榜第2",
+  "titleOrig": "Fallen Angel - EP（堕落天使）",
+  "summary": "BLACKPINK（粉墨）成员JENNIE（金珍妮）新EP《Fallen Angel》（堕落天使）8月28日发行后即空降Apple Music泰国专辑榜第2，主打《FALLEN ANGEL》（堕落天使）列泰国歌曲榜第29、马来西亚榜第19，《HEAVEN》（天堂）亦双榜在列，泰马两地“人间天使”概念视觉与旋律同步走红。",
+  "tags": [
+   "JENNIE",
+   "BLACKPINK",
+   "Fallen Angel",
+   "泰国",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "t1trend泰国Apple专辑榜",
+    "type": "chart",
+    "url": "https://t1trend.com/applemusic/albums/th",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Soundcharts马来西亚Apple榜",
+    "type": "chart",
+    "url": "https://soundcharts.com/en/charts/apple-music/malaysia",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   },
+   {
+    "name": "MEGA Asia每周新碟盘点",
+    "type": "news",
+    "url": "https://mega-asia.com/lifestyle/jennie-olivia-rodrigo-favorite-new-music-of-the-week",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 87,
+  "buzzIndex": 88,
+  "timeline": [
+   {
+    "date": "2026-08-28",
+    "label": "发行",
+    "desc": "EP全球上线"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "泰国专辑榜#2，主打歌泰马双榜前30"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/52651259102241c1b26e3b49.jpg",
+    "caption": "JENNIE《Fallen Angel》EP空降泰国专辑榜第2",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/52651259102241c1b26e3b49.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://t1trend.com/applemusic/albums/th",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c493b62cf9ff70a1923e8e58",
+  "country": "my",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 8,
+  "titleCn": "TAEMIN《PHASE 1: Soft Violence》泰马专辑榜双冠",
+  "titleOrig": "PHASE 1 : Soft Violence（第一阶段：软暴力）",
+  "summary": "SHINee（闪尼团）成员TAEMIN（泰民）新专辑《PHASE 1: Soft Violence》（第一阶段：软暴力）同日登顶iTunes泰国与马来西亚两站专辑榜第1，是9月2日泰马双市场唯一“双冠”专辑，主打概念以柔克刚的舞台美学在两地K-pop圈刷屏。",
+  "tags": [
+   "TAEMIN",
+   "SHINee",
+   "K-Pop",
+   "双冠",
+   "马来西亚",
+   "泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "iTunes马来西亚专辑榜RSS",
+    "type": "chart",
+    "url": "https://itunes.apple.com/my/rss/topalbums/limit=25/json",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   },
+   {
+    "name": "iTunes泰国专辑榜RSS",
+    "type": "chart",
+    "url": "https://itunes.apple.com/th/rss/topalbums/limit=25/json",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 90,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "双冠",
+    "desc": "iTunes泰国/马来西亚专辑榜同日#1"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0e7416bd9720adb10aaeae56.jpg",
+    "caption": "TAEMIN《PHASE 1: Soft Violence》泰马专辑榜双冠",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/0e7416bd9720adb10aaeae56.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://itunes.apple.com/my/rss/topalbums/limit=25/json",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "46709ddc54a72cdf5390d8a6",
+  "country": "th",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 15,
+  "titleCn": "YOUNGOHM《夜之火》稳居泰国专辑榜第4",
+  "titleOrig": "ไฟกลางคืน（夜之火）",
+  "summary": "泰国说唱歌手YOUNGOHM（扬欧姆，音译）专辑《ไฟกลางคืน》（夜之火，13首）列9月2日Apple Music泰国专辑榜第4，多首收录曲同时打入泰国歌曲榜，其本土说唱美学与街头视觉令专辑长期霸榜，是T-Pop（泰国流行）图腾级作品。",
+  "tags": [
+   "泰国",
+   "YOUNGOHM",
+   "说唱",
+   "T-Pop",
+   "专辑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "t1trend泰国Apple专辑榜",
+    "type": "chart",
+    "url": "https://t1trend.com/applemusic/albums/th",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 80,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple泰国专辑榜#4"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "YOUNGOHM《夜之火》稳居泰国专辑榜第4",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://t1trend.com/applemusic/albums/th",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3310f348f730f12b9086c08e",
+  "country": "th",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "GAVIN:D新专《ROOM101》冲入泰国榜前50",
+  "titleOrig": "ROOM101（101号房）",
+  "summary": "泰国电子流行乐队GAVIN:D（加文迪，音译）2026年新专辑《ROOM101》（101号房）升至Apple Music泰国专辑榜第45位，收录曲《ได้แค่เดินมาส่ง》（The Last Walk，只能送到这里）联手BLVCKHEART（黑心）后长线走热，乐队以复古合成器气质在本季泰国市场站稳脚跟。",
+  "tags": [
+   "泰国",
+   "GAVIN:D",
+   "电子流行",
+   "专辑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "t1trend泰国Apple专辑榜",
+    "type": "chart",
+    "url": "https://t1trend.com/applemusic/albums/th",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify泰国日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple泰国专辑榜#45，合作曲日榜#11"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "GAVIN:D新专《ROOM101》冲入泰国榜前50",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://t1trend.com/applemusic/albums/th",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8d0586b6de10b0bd4b65bf37",
+  "country": "th",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 6,
+  "titleCn": "Yungtarr《MCB: Blonde Do It Better》进泰国榜前30",
+  "titleOrig": "MCB : Blonde Do It Better（金发更出色）",
+  "summary": "泰国新锐女声Yungtarr（扬塔，音译）2026年专辑《MCB : Blonde Do It Better》（金发更出色，29首）在9月2日Apple Music泰国专辑榜升至第29位，其“Y2K千金”美学在泰国Z世代短视频圈层走红，是本季泰国乐坛上升最快的新面孔之一。",
+  "tags": [
+   "泰国",
+   "Yungtarr",
+   "新声",
+   "Y2K"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "t1trend泰国Apple专辑榜",
+    "type": "chart",
+    "url": "https://t1trend.com/applemusic/albums/th",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple泰国专辑榜#29"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "Yungtarr《MCB: Blonde Do It Better》进泰国榜前30",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://t1trend.com/applemusic/albums/th",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5c828a35c4a39bd9828e4c86",
+  "country": "th",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 5,
+  "titleCn": "LUSS《Curiosity thrills the Cat》新专受捧",
+  "titleOrig": "Curiosity thrills the Cat（好奇害死猫）",
+  "summary": "泰国独立乐队LUSS（拉斯，音译）2026年新专辑《Curiosity thrills the Cat》（好奇害死猫）于9月2日Apple Music泰国专辑榜第48位在榜，英伦摇滚底色与猫系视觉包装在曼谷独立乐迷圈层口碑发酵，被视为泰国独立音乐下半年代表作之一。",
+  "tags": [
+   "泰国",
+   "LUSS",
+   "独立摇滚",
+   "新专辑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "t1trend泰国Apple专辑榜",
+    "type": "chart",
+    "url": "https://t1trend.com/applemusic/albums/th",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple泰国专辑榜#48"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "LUSS《Curiosity thrills the Cat》新专受捧",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://t1trend.com/applemusic/albums/th",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d65716cec35660a7de2115ca",
+  "country": "th",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 8,
+  "titleCn": "PURPEECH《PurfectPeech》专辑热度回勇",
+  "titleOrig": "PurfectPeech（完美皮奇）",
+  "summary": "泰国乐队PURPEECH（波皮奇，音译）专辑《PurfectPeech》（完美皮奇，11首）随单曲《Fear》的长青走势重回Apple Music泰国专辑榜第34位，乐队凭青春吉他流行曲风与“皮奇猫”形象稳坐泰国新生代乐队头部，巡演周边同步热卖。",
+  "tags": [
+   "泰国",
+   "PURPEECH",
+   "乐队",
+   "专辑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "t1trend泰国Apple专辑榜",
+    "type": "chart",
+    "url": "https://t1trend.com/applemusic/albums/th",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple泰国专辑榜#34"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "PURPEECH《PurfectPeech》专辑热度回勇",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://t1trend.com/applemusic/albums/th",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a2eebfb3a8a74b1736ea1646",
+  "country": "th",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 9,
+  "titleCn": "ENHYPEN《THE SIN:BLISS》泰国专辑榜前20",
+  "titleOrig": "THE SIN : BLISS - EP（罪：极乐）",
+  "summary": "ENHYPEN（恩嗨盆）新EP《THE SIN : BLISS》（罪：极乐）在泰国双榜齐进：Apple Music泰国专辑榜第16、iTunes泰国专辑榜第3，“罪与乐”暗黑概念照引发泰粉二创狂潮，恩嗨盆在泰国的号召力使其成为本周K-pop专辑销售热点。",
+  "tags": [
+   "泰国",
+   "ENHYPEN",
+   "K-Pop",
+   "EP"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "t1trend泰国Apple专辑榜",
+    "type": "chart",
+    "url": "https://t1trend.com/applemusic/albums/th",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "iTunes泰国专辑榜RSS",
+    "type": "chart",
+    "url": "https://itunes.apple.com/th/rss/topalbums/limit=25/json",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 86,
+  "buzzIndex": 79,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "双榜在榜",
+    "desc": "Apple TH#16 / iTunes TH#3"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "ENHYPEN《THE SIN:BLISS》泰国专辑榜前20",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://t1trend.com/applemusic/albums/th",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "0ec53f07f95d5294af06635b",
+  "country": "my",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 7,
+  "titleCn": "Ziana Zain重制精选登马来西亚专辑榜第2",
+  "titleOrig": "Greatest Hits Ziana Zain (Remastered)（齐亚娜·再因 Greatest Hits 精选重制版）",
+  "summary": "马来西亚国宝级天后Ziana Zain（齐亚娜·再因）的精选辑《Greatest Hits Ziana Zain (Remastered)》（最伟大金曲·重制版）在9月2日iTunes马来西亚专辑榜高居第2，仅次于TAEMIN（泰民），怀旧金曲经重制后在马来乐迷中掀起回购潮，印证经典马来流行（Pop Yeh Yeh以降的传承）的市场号召力。",
+  "tags": [
+   "马来西亚",
+   "Ziana Zain",
+   "天后",
+   "精选辑",
+   "重制"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "iTunes马来西亚专辑榜RSS",
+    "type": "chart",
+    "url": "https://itunes.apple.com/my/rss/topalbums/limit=25/json",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 71,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "iTunes马来西亚专辑榜#2"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Ziana Zain重制精选登马来西亚专辑榜第2",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://itunes.apple.com/my/rss/topalbums/limit=25/json",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3750ef8220b2d60e3023adbe",
+  "country": "my",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 5,
+  "titleCn": "The Full Pledge Munkees《XXV》纪念专辑上榜",
+  "titleOrig": "XXV（二十五周年）",
+  "summary": "沙巴老牌摇滚乐队The Full Pledge Munkees（满血猴团，音译）纪念成军25周年的专辑《XXV》（二十五周年）列9月2日iTunes马来西亚专辑榜第15位，东马摇滚力量借周年企划重回主流视野，乐队巡演与黑胶再版同步推进。",
+  "tags": [
+   "马来西亚",
+   "沙巴",
+   "摇滚",
+   "25周年"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "iTunes马来西亚专辑榜RSS",
+    "type": "chart",
+    "url": "https://itunes.apple.com/my/rss/topalbums/limit=25/json",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "iTunes马来西亚专辑榜#15"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "The Full Pledge Munkees《XXV》纪念专辑上榜",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://itunes.apple.com/my/rss/topalbums/limit=25/json",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "645f6be732ee4eb3763bf612",
+  "country": "my",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 5,
+  "titleCn": "Spring《Kegemilangan No.1》经典合辑再热卖",
+  "titleOrig": "Kegemilangan No. 1 Spring（Spring乐队辉煌冠军金曲）",
+  "summary": "马来西亚传奇乐队Spring（春天乐队）的《Kegemilangan No. 1 Spring》（辉煌冠军金曲）列9月2日iTunes马来西亚专辑榜第25位，作为马来乐坛黄金年代（90年代）的代表作，其情歌金曲在流媒体时代持续被新一代听众翻听，经典怀旧款文案热度稳定。",
+  "tags": [
+   "马来西亚",
+   "Spring",
+   "经典",
+   "怀旧"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "iTunes马来西亚专辑榜RSS",
+    "type": "chart",
+    "url": "https://itunes.apple.com/my/rss/topalbums/limit=25/json",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "iTunes马来西亚专辑榜#25"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Spring《Kegemilangan No.1》经典合辑再热卖",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://itunes.apple.com/my/rss/topalbums/limit=25/json",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "378f818a2a480d49e47aa13a",
+  "country": "my",
+  "cat": "music",
+  "catCn": "专辑",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 6,
+  "titleCn": "Alleycats情怀合辑马来西亚专辑榜第7",
+  "titleOrig": "Koleksi Lagu Sentimental Kenangan Cinta - Alleycats（Alleycats感性情歌回忆合集）",
+  "summary": "大马传奇乐队Alleycats（巷猫乐队）的情歌合集《Koleksi Lagu Sentimental Kenangan Cinta》（感性情歌回忆合集）在9月2日iTunes马来西亚专辑榜第7位，经典曲目在国庆月（8月31日马来西亚独立日）后延续怀旧收听潮，跨世代大马听众集体重温。",
+  "tags": [
+   "马来西亚",
+   "Alleycats",
+   "怀旧",
+   "国庆月"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "iTunes马来西亚专辑榜RSS",
+    "type": "chart",
+    "url": "https://itunes.apple.com/my/rss/topalbums/limit=25/json",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "iTunes马来西亚专辑榜#7，国庆月怀旧热度延续"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Alleycats情怀合辑马来西亚专辑榜第7",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://itunes.apple.com/my/rss/topalbums/limit=25/json",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "f36d3d2fad9e2e27132e866f",
+  "country": "th",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 4,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 12,
+  "titleCn": "Mirrr《ขึ้นใจ (3am call)》问鼎泰国Apple榜",
+  "titleOrig": "ขึ้นใจ (3am call)（心动来电）",
+  "summary": "泰国乐队Mirrr（米尔，音译）与BLVCKHEART（黑心）合作的《ขึ้นใจ (3am call)》（心动来电，7月23日发行）双榜称雄：Apple Music泰国榜第1、Spotify泰国日榜第3（单日22.1万播放，累计593万），“凌晨三点来电”的都市情感梗在泰国短视频平台持续发酵。",
+  "tags": [
+   "泰国",
+   "Mirrr",
+   "BLVCKHEART",
+   "冠军单曲",
+   "T-Pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Apple Music泰国官方RSS",
+    "type": "chart",
+    "url": "https://rss.applemarketingtools.com/api/v2/th/music/most-played/25/songs.json",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify泰国日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 90,
+  "buzzIndex": 89,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "双榜在榜",
+    "desc": "Apple TH#1 / Spotify TH#3"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "Mirrr《ขึ้นใจ (3am call)》问鼎泰国Apple榜",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://rss.applemarketingtools.com/api/v2/th/music/most-played/25/songs.json",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e0fd203ff8b7ba30ce689012",
+  "country": "th",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 4,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 18,
+  "titleCn": "BLVCKHEART《เมื่อไหร่จะมี》霸榜泰国前4",
+  "titleOrig": "เมื่อไหร่จะมี (มีใจให้กัน)（何时才会有心）",
+  "summary": "泰国黑马歌手BLVCKHEART（黑心）的《เมื่อไหร่จะมี (มีใจให้กัน)》（何时才会有心，5月6日发行）长踞泰国双榜：Apple Music泰国第2、Spotify泰国日榜第4（单日19.7万播放，累计1332万），其一人包揽榜单四席的“BLVCKHEART现象”被称为2026年泰国乐坛最大事件。",
+  "tags": [
+   "泰国",
+   "BLVCKHEART",
+   "T-Pop",
+   "现象级"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Apple Music泰国官方RSS",
+    "type": "chart",
+    "url": "https://rss.applemarketingtools.com/api/v2/th/music/most-played/25/songs.json",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify泰国日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 90,
+  "buzzIndex": 90,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "双榜在榜",
+    "desc": "Apple TH#2 / Spotify TH#4"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "BLVCKHEART《เมื่อไหร่จะมี》霸榜泰国前4",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/th_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1fefe701bf13c542aeab1b5c",
+  "country": "th",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 8,
+  "titleCn": "Z9《ไม่รักดีกว่า》新歌空降泰国榜眼",
+  "titleOrig": "ไม่รักดีกว่า（不爱也罢）",
+  "summary": "泰国R&B歌手Z9（泽九，音译）8月19日发行的新单《ไม่รักดีกว่า》（不爱也罢）以黑马之姿冲至Spotify泰国日榜第2（单日23.7万播放，两周累计229万）与Apple泰国榜第3，发行两周即两度登顶日榜，是本季泰国新歌最大爆款。",
+  "tags": [
+   "泰国",
+   "Z9",
+   "新歌",
+   "空降",
+   "R&B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Kworb Spotify泰国日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Apple Music泰国官方RSS",
+    "type": "chart",
+    "url": "https://rss.applemarketingtools.com/api/v2/th/music/most-played/25/songs.json",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 89,
+  "buzzIndex": 86,
+  "timeline": [
+   {
+    "date": "2026-08-19",
+    "label": "发行",
+    "desc": "新单上线流媒体"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Spotify TH#2（曾两日登顶）/ Apple TH#3"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "Z9《ไม่รักดีกว่า》新歌空降泰国榜眼",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/th_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "0f4ad8f19d41ec059fed05f0",
+  "country": "th",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 9,
+  "titleCn": "BOWKYLION《นาฬิกาทราย (sign)》泰国榜前5",
+  "titleOrig": "นาฬิกาทราย (sign)（沙漏·心迹）",
+  "summary": "泰国人气乐队BOWKYLION（宝麒麟，音译）7月发行的新单《นาฬิกาทราย (sign)》（沙漏·心迹）列9月2日Apple泰国榜第4、Spotify泰国日榜第5（单日15.1万，累计877万），与NONT TANONT（农·塔纳）合作的《ที่คั่นหนังสือ》亦在榜，乐队双曲齐进前20。",
+  "tags": [
+   "泰国",
+   "BOWKYLION",
+   "乐队",
+   "T-Pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Apple Music泰国官方RSS",
+    "type": "chart",
+    "url": "https://rss.applemarketingtools.com/api/v2/th/music/most-played/25/songs.json",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify泰国日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 89,
+  "buzzIndex": 83,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple TH#4 / Spotify TH#5"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "BOWKYLION《นาฬิกาทราย (sign)》泰国榜前5",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://rss.applemarketingtools.com/api/v2/th/music/most-played/25/songs.json",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "801ba2f35506790fd6863a9d",
+  "country": "th",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 8,
+  "titleCn": "PROXIE《ขี้แง (Boys Don't Cry)》男团热单",
+  "titleOrig": "ขี้แง (Boys Don't Cry)（爱哭鬼·男孩不哭）",
+  "summary": "泰国男团PROXIE（普罗西，音译）《ขี้แง (Boys Don't Cry)》（爱哭鬼·男孩不哭，6月17日发行）稳居Apple泰国榜第5、Spotify泰国日榜第14（单日11.3万），“男孩不哭”反差概念引粉丝二创，是该团出道以来最强打歌成绩。",
+  "tags": [
+   "泰国",
+   "PROXIE",
+   "男团",
+   "T-Pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Apple Music泰国官方RSS",
+    "type": "chart",
+    "url": "https://rss.applemarketingtools.com/api/v2/th/music/most-played/25/songs.json",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify泰国日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple TH#5 / Spotify TH#14"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "PROXIE《ขี้แง (Boys Don't Cry)》男团热单",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://rss.applemarketingtools.com/api/v2/th/music/most-played/25/songs.json",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "0486f303e83b862533a8408a",
+  "country": "th",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "PUN《ขอแค่นี้ (Forever n ever)》情歌长跑",
+  "titleOrig": "ขอแค่นี้ (Forever n ever)（只要这样·直到永远）",
+  "summary": "泰国唱作人PUN（潘，音译）的《ขอแค่นี้ (Forever n ever)》（只要这样·直到永远）列Apple泰国榜第6、Spotify泰国日榜第13（单日11.4万），其多首旧作《Living Death》《รักให้เธอได้รู้》同榜在列，一人四曲齐进泰国榜前25，创作力与长红度兼得。",
+  "tags": [
+   "泰国",
+   "PUN",
+   "唱作人",
+   "T-Pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Apple Music泰国官方RSS",
+    "type": "chart",
+    "url": "https://rss.applemarketingtools.com/api/v2/th/music/most-played/25/songs.json",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify泰国日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "高",
+    "region": "th",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 79,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple TH#6 / Spotify TH#13，个人四曲入榜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "PUN《ขอแค่นี้ (Forever n ever)》情歌长跑",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://rss.applemarketingtools.com/api/v2/th/music/most-played/25/songs.json",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "471d1dd74ae38faaf24f1e25",
+  "country": "my",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "Naykilla《MMG》马来西亚本土说唱新标杆",
+  "titleOrig": "MMG (My Mine Gueh)（我的我的）",
+  "summary": "马来西亚说唱歌手Naykilla（奈基拉，音译）的《MMG (My Mine Gueh)》（我的我的）双榜齐飞：Apple Music马来西亚榜第5、Spotify马来西亚日榜第6（单日7.1万播放，累计369万），马式俚语副歌成为短视频热梗，是本季大马本土嘻哈最强单曲。",
+  "tags": [
+   "马来西亚",
+   "Naykilla",
+   "说唱",
+   "本土嘻哈"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Soundcharts马来西亚Apple榜",
+    "type": "chart",
+    "url": "https://soundcharts.com/en/charts/apple-music/malaysia",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify马来西亚日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/my_daily.html",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 80,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "双榜在榜",
+    "desc": "Apple MY#5 / Spotify MY#6"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Naykilla《MMG》马来西亚本土说唱新标杆",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/my_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9fc0d393430c4f3b04462ef7",
+  "country": "my",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "Piche Kota《Bahagia Lagi》大马情歌热单",
+  "titleOrig": "Bahagia Lagi（再次幸福）",
+  "summary": "马来西亚创作歌手Piche Kota（皮切·哥打，音译）的《Bahagia Lagi》（再次幸福）列9月2日Spotify马来西亚日榜第8（单日6.6万播放，累计1579万）与Apple马来西亚榜第28位，治愈系马来情歌在国庆月后热度不减，是大马本土流媒体的稳定输出。",
+  "tags": [
+   "马来西亚",
+   "Piche Kota",
+   "马来情歌",
+   "本土音乐"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Kworb Spotify马来西亚日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/my_daily.html",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   },
+   {
+    "name": "Soundcharts马来西亚Apple榜",
+    "type": "chart",
+    "url": "https://soundcharts.com/en/charts/apple-music/malaysia",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 87,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Spotify MY#8 / Apple MY#28"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Piche Kota《Bahagia Lagi》大马情歌热单",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/my_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c4fe30ecd671ecda82bd4db7",
+  "country": "my",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 6,
+  "titleCn": "Aisha Retno《Tak Adil》马来西亚榜上升",
+  "titleOrig": "Tak Adil（不公平）",
+  "summary": "马来西亚唱作女声Aisha Retno（艾莎·雷诺）的《Tak Adil》（不公平）在9月2日Apple Music马来西亚榜第33位持续在榜，她兼具马来传统唱腔与现代流行的风格令其成为大马乐坛新生代代表，该曲亦是本地电台高轮播曲目。",
+  "tags": [
+   "马来西亚",
+   "Aisha Retno",
+   "女歌手",
+   "马来流行"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Soundcharts马来西亚Apple榜",
+    "type": "chart",
+    "url": "https://soundcharts.com/en/charts/apple-music/malaysia",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple马来西亚榜#33"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Aisha Retno《Tak Adil》马来西亚榜上升",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://soundcharts.com/en/charts/apple-music/malaysia",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c9d4c996f008600faf514fa6",
+  "country": "my",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 6,
+  "titleCn": "Noh Salleh与Aina Abdul《Sang Penikam 2026》双巨头合作",
+  "titleOrig": "Sang Penikam 2026（2026刺客）",
+  "summary": "Hujan（雨乐队）主唱Noh Salleh（诺·萨勒）与实力唱将Aina Abdul（艾娜·阿卜杜勒）合作的《Sang Penikam 2026》（2026刺客）在Apple Music马来西亚榜在榜，两大马来乐坛顶级声线同框被视为“神仙合作”，歌迷催生现场版与周边的呼声高涨。",
+  "tags": [
+   "马来西亚",
+   "Noh Salleh",
+   "Aina Abdul",
+   "合作曲"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Soundcharts马来西亚Apple榜",
+    "type": "chart",
+    "url": "https://soundcharts.com/en/charts/apple-music/malaysia",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple马来西亚榜在榜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Noh Salleh与Aina Abdul《Sang Penikam 2026》双巨头合作",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://soundcharts.com/en/charts/apple-music/malaysia",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "70682dc053532b3a82a4a011",
+  "country": "my",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 9,
+  "titleCn": "Akbar Chalay《Astaga Bercanda》马来西亚榜第2",
+  "titleOrig": "Astaga Bercanda（天哪，开玩笑）",
+  "summary": "印尼组合Akbar Chalay（阿克巴尔·查莱）与Mingse（明斯）的《Astaga Bercanda》（天哪，开玩笑）在马来西亚双榜强势：Apple马来西亚榜第4、Spotify马来西亚日榜第2（单日9.2万播放，累计356万），口语化歌名成为大马与印尼年轻人通用热梗，跨境传播力惊人。",
+  "tags": [
+   "马来西亚",
+   "印尼",
+   "跨境热单",
+   "Astaga Bercanda"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Soundcharts马来西亚Apple榜",
+    "type": "chart",
+    "url": "https://soundcharts.com/en/charts/apple-music/malaysia",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify马来西亚日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/my_daily.html",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 87,
+  "buzzIndex": 81,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "双榜在榜",
+    "desc": "Apple MY#4 / Spotify MY#2"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Akbar Chalay《Astaga Bercanda》马来西亚榜第2",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/my_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "676b7dd89324747f49f2aa70",
+  "country": "my",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 12,
+  "titleCn": "Raim Laode《Iqro'》马来西亚榜前三常客",
+  "titleOrig": "Iqro'（“读吧”）",
+  "summary": "印尼歌手Raim Laode（莱姆·拉奥德）的《Iqro'》（读吧，2月6日发行）长线走红马来西亚：9月2日Spotify马来日榜第3（单日8.8万，累计1074万）、Apple马来榜第20，另一首《Dunia Yang Nanti》同在第34位，其宗教人文题材在马来穆斯林听众中共鸣强烈。",
+  "tags": [
+   "马来西亚",
+   "印尼",
+   "Raim Laode",
+   "长线热单"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Kworb Spotify马来西亚日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/my_daily.html",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   },
+   {
+    "name": "Soundcharts马来西亚Apple榜",
+    "type": "chart",
+    "url": "https://soundcharts.com/en/charts/apple-music/malaysia",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 87,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Spotify MY#3 / Apple MY#20，双曲在榜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "Raim Laode《Iqro'》马来西亚榜前三常客",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/my_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "35ab268623a2c93d41fd5951",
+  "country": "my",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 8,
+  "titleCn": "SIENNA SPIRO《Great Expectation》马来西亚榜第3",
+  "titleOrig": "Great Expectation（远大期望）",
+  "summary": "英国新声SIENNA SPIRO（塞耶娜·斯皮罗）的《Great Expectation》（远大期望，7月2日发行）列9月2日Apple Music马来西亚榜第3、Spotify马来日榜第22位（单日4.5万），复古Disco律动使其成为马来西亚都市听众新宠，同专《Pure》亦双榜在列。",
+  "tags": [
+   "马来西亚",
+   "SIENNA SPIRO",
+   "欧美新声",
+   "Disco"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Apple Music马来西亚官方RSS",
+    "type": "chart",
+    "url": "https://rss.applemarketingtools.com/api/v2/my/music/most-played/25/songs.json",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   },
+   {
+    "name": "Kworb Spotify马来西亚日榜",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/my_daily.html",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple MY#3 / Spotify MY#22"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "SIENNA SPIRO《Great Expectation》马来西亚榜第3",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://rss.applemarketingtools.com/api/v2/my/music/most-played/25/songs.json",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a5e3f4b0dbee4337dbb87c32",
+  "country": "my",
+  "cat": "music",
+  "catCn": "单曲",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 5,
+  "titleCn": "ALYPH《Ingat》大马说唱中坚力量",
+  "titleOrig": "Ingat（记住）",
+  "summary": "马来西亚说唱歌手ALYPH（阿利夫）《Ingat》（记住）在Apple Music马来西亚榜持续在榜，他还将于9月5-6日登上MotorManiac（机车狂热节）DEF JAM（DEF JAM厂牌）天台舞台演出，录音室与现场双线并进，巩固其大马嘻哈中坚地位。",
+  "tags": [
+   "马来西亚",
+   "ALYPH",
+   "说唱",
+   "DEF JAM"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Soundcharts马来西亚Apple榜",
+    "type": "chart",
+    "url": "https://soundcharts.com/en/charts/apple-music/malaysia",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   },
+   {
+    "name": "Bateriku MotorManiac官方新闻稿",
+    "type": "official",
+    "url": "https://www.bateriku.com/news/motormaniac-festival-2026-press-release",
+    "credibility": "高",
+    "region": "my",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 67,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在榜",
+    "desc": "Apple马来西亚榜在榜"
+   },
+   {
+    "date": "2026-09-05",
+    "label": "演出",
+    "desc": "MotorManiac音乐节DEF JAM舞台开唱"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "ALYPH《Ingat》大马说唱中坚力量",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://soundcharts.com/en/charts/apple-music/malaysia",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "fd5bdfa39ec985ef105e0669",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 14,
+  "titleCn": "《死神 千年血战篇-祸进谭》评分9.08领跑夏季档",
+  "titleOrig": "BLEACH: Sennen Kessen-hen - Kashin-tan（死神：千年血战篇·祸进谭）",
+  "summary": "《BLEACH 千年血战篇-祸进谭》（死神）第四部分正在播出，MyAnimeList（巴哈动漫评分网）评分高达9.08，位列2026夏季新番评分第一，由Pierrot Films（皮埃罗动画）制作，粉丝数15.7万，泰国、马来西亚动漫社群的“死神”周边与Cosplay（角色扮演）热度随剧情终章持续升温。",
+  "tags": [
+   "动漫",
+   "BLEACH",
+   "死神",
+   "夏季档",
+   "MAL"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "MyAnimeList 2026夏季番组页",
+    "type": "official",
+    "url": "https://myanimelist.net/anime/season/2026/summer",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 90,
+  "buzzIndex": 92,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在播",
+    "desc": "MAL评分9.08，夏季档评分第一"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "《死神 千年血战篇-祸进谭》评分9.08领跑夏季档",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://myanimelist.net/anime/season/2026/summer",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "49e397472693f1e16dbad06e",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 12,
+  "titleCn": "《无职转生III》关注度31万居夏季番组之首",
+  "titleOrig": "Mushoku Tensei III: Isekai Ittara Honki Dasu（无职转生III～到了异世界就拿出真本事～）",
+  "summary": "《无职转生III》（Studio Bind制作）以31.3万关注人数成为2026夏季档人气王，MAL评分8.55，本季剧情进入新篇章，东南亚流媒体讨论热度高企，是9月泰马两地动漫迷追更的核心异世界番。",
+  "tags": [
+   "动漫",
+   "无职转生",
+   "异世界",
+   "夏季档"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "MyAnimeList 2026夏季番组页",
+    "type": "official",
+    "url": "https://myanimelist.net/anime/season/2026/summer",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   },
+   {
+    "name": "Duniaku九月动漫片单",
+    "type": "news",
+    "url": "https://duniaku.idntimes.com/anime-manga/anime-lain/daftar-anime-september-2026-v3z02-00-g9v5v-w2y2t6",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 89,
+  "buzzIndex": 88,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在播",
+    "desc": "MAL评分8.55，关注人数31.3万居首"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "《无职转生III》关注度31万居夏季番组之首",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://myanimelist.net/anime/season/2026/summer",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "52c4d098e1122b3679f05fe2",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "高风险",
+  "hotDays": 10,
+  "titleCn": "《碧蓝之海》第三季爆笑回归",
+  "titleOrig": "Grand Blue Season 3（碧蓝之海第三季）",
+  "summary": "《Grand Blue》（碧蓝之海）第三季由Saber Works与Zero-G联合制作，MAL评分8.42、关注人数10.2万，大学潜水社的无厘头喜剧令其成为夏季档“快乐源泉”，9月新番盘点将其列入必看清单，泰国粉丝的“碧蓝”表情包二创活跃。",
+  "tags": [
+   "动漫",
+   "碧蓝之海",
+   "喜剧",
+   "第三季"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "MyAnimeList 2026夏季番组页",
+    "type": "official",
+    "url": "https://myanimelist.net/anime/season/2026/summer",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   },
+   {
+    "name": "Duniaku九月动漫片单",
+    "type": "news",
+    "url": "https://duniaku.idntimes.com/anime-manga/anime-lain/daftar-anime-september-2026-v3z02-00-g9v5v-w2y2t6",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 80,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在播",
+    "desc": "MAL评分8.42，喜剧类前排"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "《碧蓝之海》第三季爆笑回归",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://myanimelist.net/anime/season/2026/summer",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "25c2e02d0b537af81c9c75ab",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 10,
+  "titleCn": "《幼女战记II》26万人关注的高热度续作",
+  "titleOrig": "Youjo Senki II（幼女战记II）",
+  "summary": "NUT社制作的《幼女战记II》（谭雅战记）MAL评分8.29、关注人数26万，居夏季档人气前三，战争奇幻题材吸引大批东南亚军事宅粉丝，第二季新战役展开后周边与模型讨论度回升。",
+  "tags": [
+   "动漫",
+   "幼女战记",
+   "奇幻",
+   "续作"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "MyAnimeList 2026夏季番组页",
+    "type": "official",
+    "url": "https://myanimelist.net/anime/season/2026/summer",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 89,
+  "buzzIndex": 79,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "在播",
+    "desc": "MAL评分8.29，关注26万"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "《幼女战记II》26万人关注的高热度续作",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://myanimelist.net/anime/season/2026/summer",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "f6c7ebbb700f3d3b3bd6a4ec",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 9,
+  "titleCn": "Science SARU新《攻壳机动队》TV版引热议",
+  "titleOrig": "Koukaku Kidoutai (TV) / The New Ghost in the Shell（攻壳机动队TV版）",
+  "summary": "Science SARU（科幻鱼动画社）重制的《攻壳机动队》TV版MAL评分7.94、关注人数9万，9月1日经Prime Video（亚马逊流媒体）面向全球更新，经典科幻IP的新诠释引发老粉与新观众论战，是本季讨论度最高的名作改编。",
+  "tags": [
+   "动漫",
+   "攻壳机动队",
+   "Science SARU",
+   "科幻"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "MyAnimeList 2026夏季番组页",
+    "type": "official",
+    "url": "https://myanimelist.net/anime/season/2026/summer",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   },
+   {
+    "name": "Crunchyroll/HIDIVE九月一日更新日历",
+    "type": "news",
+    "url": "http://dlvr.it/TVGcGk",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 86,
+  "buzzIndex": 81,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "上线",
+    "desc": "Prime Video更新新一集"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "热议",
+    "desc": "MAL评分7.94，新旧版对比讨论升温"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "Science SARU新《攻壳机动队》TV版引热议",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://myanimelist.net/anime/season/2026/summer",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "05ca2217eea451c2deec24d3",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "高风险",
+  "hotDays": 6,
+  "titleCn": "《JOJO的奇妙冒险 钢铁之球跑》9月25日登陆Netflix",
+  "titleOrig": "JoJo's Bizarre Adventure: Steel Ball Run（JOJO的奇妙冒险：钢铁之球跑）",
+  "summary": "《JOJO的奇妙冒险：Steel Ball Run》（钢铁之球跑）动画第二至三STAGE定档9月25日上线Netflix（网飞），9月新番盘点将其列为月内最重要动漫上线之一，横跨泰马的JOJO粉丝圈已开始倒计时应援，替身（Stand，超能力设定）梗图传播旺盛。",
+  "tags": [
+   "动漫",
+   "JOJO",
+   "Netflix",
+   "钢铁之球跑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "The Big Lead：Netflix九月上线完整片单",
+    "type": "news",
+    "url": "https://www.thebiglead.com/netflix-september-2026-new-releases-full-list/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   },
+   {
+    "name": "Duniaku九月动漫片单",
+    "type": "news",
+    "url": "https://duniaku.idntimes.com/anime-manga/anime-lain/daftar-anime-september-2026-v3z02-00-g9v5v-w2y2t6",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 83,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距Netflix上线23天，粉丝预热"
+   },
+   {
+    "date": "2026-09-25",
+    "label": "上线",
+    "desc": "第二至三STAGE登陆Netflix"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "《JOJO的奇妙冒险 钢铁之球跑》9月25日登陆Netflix",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.thebiglead.com/netflix-september-2026-new-releases-full-list/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d9220efe3c6d034315b8f0e6",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "高风险",
+  "hotDays": 4,
+  "titleCn": "《怪兽8号》外传《成美的工作周》9月5日开播",
+  "titleOrig": "Kaiju No. 8: Narumi's Week at Work（怪兽8号：成美的一周日常）",
+  "summary": "人气番《怪兽8号》（Kaiju No. 8）外传《成美的一周日常》定于9月5日开播，聚焦四之宫成美（Hoshina Narumi，角色）队长的职场日常，共4集，经Crunchyroll（ crunch动漫平台）面向东南亚同步播出，正传粉丝已将其列入追番清单。",
+  "tags": [
+   "动漫",
+   "怪兽8号",
+   "外传",
+   "Crunchyroll"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Duniaku九月动漫片单",
+    "type": "news",
+    "url": "https://duniaku.idntimes.com/anime-manga/anime-lain/daftar-anime-september-2026-v3z02-00-g9v5v-w2y2t6",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 75,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距开播3天"
+   },
+   {
+    "date": "2026-09-05",
+    "label": "开播",
+    "desc": "Crunchyroll同步上线"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "《怪兽8号》外传《成美的工作周》9月5日开播",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://duniaku.idntimes.com/anime-manga/anime-lain/daftar-anime-september-2026-v3z02-00-g9v5v-w2y2t6",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "613579a34a6954f5c907fcc8",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 4,
+  "titleCn": "《只狼》剧场版动画《Sekiro: No Defeat》9月4日上映",
+  "titleOrig": "Sekiro: No Defeat（只狼：不败）",
+  "summary": "改编自获奖游戏《只狼：影逝二度》（Sekiro: Shadows Die Twice）的剧场版动画《Sekiro: No Defeat》（只狼：不败）9月4日上映，讲述苇名（Ashina，地名）危局中剑圣玄一郎与“神之继承人”只狼的故事，游戏玩家与动画迷双重受众令其成为9月初最受期待的动漫电影。",
+  "tags": [
+   "动漫",
+   "只狼",
+   "剧场版",
+   "游戏改编"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Duniaku九月动漫片单",
+    "type": "news",
+    "url": "https://duniaku.idntimes.com/anime-manga/anime-lain/daftar-anime-september-2026-v3z02-00-g9v5v-w2y2t6",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距上映2天"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "上映",
+    "desc": "剧场版正式公映"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "《只狼》剧场版动画《Sekiro: No Defeat》9月4日上映",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://duniaku.idntimes.com/anime-manga/anime-lain/daftar-anime-september-2026-v3z02-00-g9v5v-w2y2t6",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "15003036fe2f96f0e812969b",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "高风险",
+  "hotDays": 5,
+  "titleCn": "《物怪 剧场版第三章》9月29日上线Netflix",
+  "titleOrig": "Mononoke The Movie: Chapter III - The Curse of the Serpent（物怪剧场版第三章：蛇之诅咒）",
+  "summary": "和风奇幻名作《物怪》（Mononoke）剧场版第三章《蛇之诅咒》定于9月29日登陆Netflix（网飞），本月片单将其与《LEGO ONE PIECE》（乐高原神）并列为主打动漫内容，独特的浮世绘风视觉在泰马艺术向观众中口碑极佳。",
+  "tags": [
+   "动漫",
+   "物怪",
+   "Netflix",
+   "和风"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "The Big Lead：Netflix九月上线完整片单",
+    "type": "news",
+    "url": "https://www.thebiglead.com/netflix-september-2026-new-releases-full-list/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 79,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距上线27天"
+   },
+   {
+    "date": "2026-09-29",
+    "label": "上线",
+    "desc": "Netflix全球上线"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "《物怪 剧场版第三章》9月29日上线Netflix",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.thebiglead.com/netflix-september-2026-new-releases-full-list/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "eb6ea0df3731715a738676b3",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 3,
+  "titleCn": "《黄泉使者》第22集9月5日上线，收官在即",
+  "titleOrig": "Daemons of the Shadow Realm Episode 22（黄泉之使者/影之国度的魔物们 第22集）",
+  "summary": "改编自已故漫画家荒川弘（《钢之炼金术师》作者）漫画的动画《黄泉使者》（Daemons of the Shadow Realm）第22集将于9月5日上线Crunchyroll，全剧仅剩三集，亚纱与悠鲁正式联手，MAL评分7.84、IMDb 7.8，中文与东南亚字幕组讨论热度高。",
+  "tags": [
+   "动漫",
+   "黄泉使者",
+   "荒川弘",
+   "Crunchyroll"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "AOL动漫资讯",
+    "type": "news",
+    "url": "https://www.aol.com/articles/daemons-shadow-realm-episode-22-172605000.html",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   },
+   {
+    "name": "18183游戏网动漫频道",
+    "type": "news",
+    "url": "https://news.18183.com/yxxw/202609/9021427.html",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "预告热议",
+    "desc": "第21集复盘与22集预测刷屏"
+   },
+   {
+    "date": "2026-09-05",
+    "label": "更新",
+    "desc": "第22集Crunchyroll上线"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "《黄泉使者》第22集9月5日上线，收官在即",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.aol.com/articles/daemons-shadow-realm-episode-22-172605000.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e94aae758d7668cdeffba7a4",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "《BanG Dream! 梦∞见》第12集9月3日播出",
+  "titleOrig": "BanG Dream! Yume∞Mita Episode 12（邦邦乐队！梦∞见 第12集）",
+  "summary": "Bushiroad（武士道公司）旗下《BanG Dream!》（邦邦乐队企划）新作《梦∞见》第12集《离别》定于9月3日23时在TOKYO MX播出并多平台同步，官方已发布先行剧照与剧情简介，系列新剧场版《Ave Mujica prima aurora》（10月16日）亦在预热中。",
+  "tags": [
+   "动漫",
+   "BanG Dream",
+   "音乐企划",
+   "第12集"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "anibu.jp动画新闻",
+    "type": "news",
+    "url": "https://news.anibu.jp/20260901-350653.html",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 77,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "物料公开",
+    "desc": "官方发布第12集先行图与简介"
+   },
+   {
+    "date": "2026-09-03",
+    "label": "播出",
+    "desc": "第12集《离别》开播"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f736880a2b734414b1a0620c.jpg",
+    "caption": "《BanG Dream! 梦∞见》第12集9月3日播出",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/f736880a2b734414b1a0620c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://news.anibu.jp/20260901-350653.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "80e8db8ad562366fb8718120",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "动漫",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "高风险",
+  "hotDays": 5,
+  "titleCn": "《海贼王》双篇连映9月3日登陆泰国院线",
+  "titleOrig": "One Piece Double Feature（海贼王双片连映）",
+  "summary": "据Major Cineplex（美嘉影院）官方排片，《One Piece Double Feature》（海贼王双片连映）9月3日登陆泰国各大院线，与Netflix的《LEGO ONE PIECE》（乐高原神，9月29日）形成“海贼月”效应，泰国海贼王粉丝团已组织首映场应援。",
+  "tags": [
+   "泰国",
+   "海贼王",
+   "剧场版",
+   "院线",
+   "动漫"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Major Cineplex官方排片页",
+    "type": "official",
+    "url": "https://www.majorcineplex.com/news/super-size",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "预售",
+    "desc": "各院线开放9月3日场次购票"
+   },
+   {
+    "date": "2026-09-03",
+    "label": "上映",
+    "desc": "双片连映正式开画"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "《海贼王》双篇连映9月3日登陆泰国院线",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.majorcineplex.com/news/super-size",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6f314d926ac7e625bd46377b",
+  "country": "my",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 9,
+  "titleCn": "《Toxic：成人童话》全球破31亿卢比，马来西亚热映",
+  "titleOrig": "Toxic: A Fairy Tale for Grown-Ups（毒战：给大人的童话）",
+  "summary": "印度巨星Yash（亚什）主演、Geetu Mohandas执导的黑帮大片《Toxic: A Fairy Tale for Grown-Ups》（毒战：给大人的童话）8月26日开画后横扫全球，至9月1日（第7天）全球票房达313.55亿卢比（约2.7亿人民币），印度净收229.95亿卢比，在马来西亚印裔市场引发观影狂潮，卡司含Kiara Advani（基娅拉）、Nayanthara（娜彦塔拉）。",
+  "tags": [
+   "电影",
+   "印度",
+   "Yash",
+   "票房",
+   "马来西亚",
+   "黑帮片"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "FilmiBeat票房",
+    "type": "news",
+    "url": "https://www.filmibeat.com/bollywood/box-office/2026/toxic-worldwide-box-office-collection-day-7-how-much-toxic-earned-overseas-first-week-yash-kiara-529635.html",
+    "credibility": "中",
+    "region": "my",
+    "mention": 3
+   },
+   {
+    "name": "Cinema Express",
+    "type": "news",
+    "url": "https://www.cinemaexpress.com/kannada/news/2026/Sep/01/toxic-box-office-yash-starrer-officially-crosses-rs-300-crore-worldwide",
+    "credibility": "高",
+    "region": "my",
+    "mention": 2
+   },
+   {
+    "name": "India Today",
+    "type": "news",
+    "url": "https://www.indiatoday.in/amp/movies/regional-cinema/story/ajaneesh-loknath-on-toxic-composer-backs-yash-film-says-do-not-rely-on-reviews-2984452-2026-09-01",
+    "credibility": "高",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 86,
+  "buzzIndex": 92,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "破纪录",
+    "desc": "全球票房突破304亿卢比，首周收官"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "热议",
+    "desc": "配乐人Ajaneesh（阿贾尼什）公开力挺影片，口碑之争发酵"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/84ad48610360439bb624d362.jpg",
+    "caption": "《Toxic：成人童话》全球破31亿卢比，马来西亚热映",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/84ad48610360439bb624d362.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.cinemaexpress.com/kannada/news/2026/Sep/01/toxic-box-office-yash-starrer-officially-crosses-rs-300-crore-worldwide",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d1826851f743f22480661558",
+  "country": "my",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 5,
+  "titleCn": "《Vishwanath and Sons》全球破200亿卢比",
+  "titleOrig": "Vishwanath and Sons（维什瓦纳特父子）",
+  "summary": "泰米尔巨星Suriya（苏里亚）主演的《Vishwanath and Sons》（维什瓦纳特父子）上映第19天全球票房达200.59亿卢比（约1.7亿人民币），印度净收117.54亿卢比，周二票房环比回升5.3%，长线走势稳健，马来西亚泰米尔语影市持续排片，是Kollywood（泰米尔电影工业）本季最强片。",
+  "tags": [
+   "电影",
+   "泰米尔",
+   "Suriya",
+   "Kollywood",
+   "票房"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Times of India票房报道",
+    "type": "news",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-19-vs-dc-suriya-film-hits-rs-200-59-cr-worldwide-tuesday-business-rises-5-3-india-net-crosses-rs-117-cr/articleshow/133694419.cms",
+    "credibility": "高",
+    "region": "my",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 87,
+  "buzzIndex": 80,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "里程碑",
+    "desc": "全球票房突破200亿卢比"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/84ad48610360439bb624d362.jpg",
+    "caption": "《Vishwanath and Sons》全球破200亿卢比",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/84ad48610360439bb624d362.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-19-vs-dc-suriya-film-hits-rs-200-59-cr-worldwide-tuesday-business-rises-5-3-india-net-crosses-rs-117-cr/articleshow/133694419.cms",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "0e418a0f4cfcc0210d6b6845",
+  "country": "my",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 4,
+  "titleCn": "《DC》本周登Sun NXT，泰米尔片双线运营",
+  "titleOrig": "DC（DC）",
+  "summary": "由Lokesh Kanagaraj（罗基什·卡纳加拉杰）与Wamiqa Gabbi（瓦米卡·加比）主演的泰米尔片《DC》院线累计全球102.56亿卢比，并定档9月4日登陆Sun NXT（太阳流媒体）泰米尔/泰卢固/马拉雅拉姆语多版本上线，马来西亚印裔观众可通过OTT（线上流媒体）补看。",
+  "tags": [
+   "电影",
+   "泰米尔",
+   "OTT",
+   "Sun NXT",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Times of India票房报道",
+    "type": "news",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-19-vs-dc-suriya-film-hits-rs-200-59-cr-worldwide-tuesday-business-rises-5-3-india-net-crosses-rs-117-cr/articleshow/133694419.cms",
+    "credibility": "高",
+    "region": "my",
+    "mention": 2
+   },
+   {
+    "name": "Outlook India本周南印度影视盘点",
+    "type": "news",
+    "url": "https://www.outlookindia.com/amp/story/art-entertainment/south-cinema/south-ott-new-movie-releases-this-week-dc-the-court-im-game-and-more",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   },
+   {
+    "name": "OTTRelease本周上线日历",
+    "type": "news",
+    "url": "https://www.ottrelease.com/news/this-week-ott-releases-from-the-mandalorian-and-grogu-to-the-gentlemen-season-2-heres-whats-streaming.html",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距OTT上线2天"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "上线",
+    "desc": "Sun NXT多语言版本上线"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/84ad48610360439bb624d362.jpg",
+    "caption": "《DC》本周登Sun NXT，泰米尔片双线运营",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/84ad48610360439bb624d362.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.outlookindia.com/amp/story/art-entertainment/south-cinema/south-ott-new-movie-releases-this-week-dc-the-court-im-game-and-more",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8097d652618ab83c870490ca",
+  "country": "my",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 4,
+  "titleCn": "杜尔奎《I'm Game》本周马来西亚院线上新",
+  "titleOrig": "I'm Game（我心游戏）",
+  "summary": "马拉雅拉姆语（Malayalam，印度喀拉拉邦语言）动作惊悚片《I'm Game》（我心游戏）由Dulquer Salmaan（杜尔奎·萨尔曼）主演，Antony Varghese（安东尼·瓦尔盖斯）等参演，本周（8月31日至9月6日）在院线上新，讲述换手移植后的人生惊变，马来西亚Kerala（喀拉拉）裔社群为票房主力。",
+  "tags": [
+   "电影",
+   "马拉雅拉姆",
+   "Dulquer Salmaan",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Outlook India本周南印度影视盘点",
+    "type": "news",
+    "url": "https://www.outlookindia.com/amp/story/art-entertainment/south-cinema/south-ott-new-movie-releases-this-week-dc-the-court-im-game-and-more",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "上映周",
+    "desc": "本周马来西亚多厅影院排片上新"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/84ad48610360439bb624d362.jpg",
+    "caption": "杜尔奎《I'm Game》本周马来西亚院线上新",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/84ad48610360439bb624d362.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.outlookindia.com/amp/story/art-entertainment/south-cinema/south-ott-new-movie-releases-this-week-dc-the-court-im-game-and-more",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "34b6f76a17f20a4366568168",
+  "country": "my",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 3,
+  "titleCn": "GV·普拉卡什《Immortal》泰米尔恐怖新片上映",
+  "titleOrig": "Immortal（不朽）",
+  "summary": "音乐人GV Prakash Kumar（GV·普拉卡什·库马尔）主演的泰米尔爱情恐怖片《Immortal》（不朽）本周登陆院线，被列为马来西亚泰米尔市场本周两部主力新片之一（另一部为《I'm Game》），恐怖+爱情混搭类型在泰米尔观众中有稳定号召力。",
+  "tags": [
+   "电影",
+   "泰米尔",
+   "恐怖",
+   "GV Prakash"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Outlook India本周南印度影视盘点",
+    "type": "news",
+    "url": "https://www.outlookindia.com/amp/story/art-entertainment/south-cinema/south-ott-new-movie-releases-this-week-dc-the-court-im-game-and-more",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "上映周",
+    "desc": "泰米尔院线本周新片之一"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/84ad48610360439bb624d362.jpg",
+    "caption": "GV·普拉卡什《Immortal》泰米尔恐怖新片上映",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/84ad48610360439bb624d362.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.outlookindia.com/amp/story/art-entertainment/south-cinema/south-ott-new-movie-releases-this-week-dc-the-court-im-game-and-more",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "50bd77822f6688c26bf6078c",
+  "country": "my",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 4,
+  "titleCn": "大马电影《THE FOX KING》定档9月17日",
+  "titleOrig": "THE FOX KING / Semusim Lara（狐王/一季忧伤）",
+  "summary": "马来西亚导演胡明进（Woo Ming Jin）执导的《THE FOX KING》（狐王，马来语名Semusim Lara）定档9月17日全马上映，印尼影后Dian Sastrowardoyo（黛安·萨斯特罗瓦尔多约）携手新生代双胞胎演员Idan Aedan（伊丹）与Hadi Putra（哈迪）出演，影片曾于多伦多国际电影节（TIFF）全球首映并获FINAS（马来西亚国家电影局）基金支持。",
+  "tags": [
+   "马来西亚",
+   "本土电影",
+   "胡明进",
+   "Dian Sastrowardoyo"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博电影预告资讯",
+    "type": "news",
+    "url": "https://weibo.com/6296447045/5338428502710416",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "预告热传",
+    "desc": "官方预告片公布，定档倒计时"
+   },
+   {
+    "date": "2026-09-17",
+    "label": "上映",
+    "desc": "全马院线公映"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "大马电影《THE FOX KING》定档9月17日",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://weibo.com/6296447045/5338428502710416",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1943de419cc3fa481e2328a4",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 6,
+  "titleCn": "《给阿嬷的情书》创马来西亚海外票房纪录",
+  "titleOrig": "จดหมายรักถึงอาม่า / 给阿嬷的情书（写给阿嬷的情书）",
+  "summary": "中国电影《给阿嬷的情书》（泰语片名จดหมายรักถึงอาม่า）在马来西亚创下该片海外市场最高票房纪录，8月20日起亦在泰国Major Cineplex（美嘉院线）排片上映，央视记者9月2日探访吉隆坡首映现场，报道中国影片在马“圈粉”现象，跨族群观众均表达共鸣。",
+  "tags": [
+   "电影",
+   "中国电影出海",
+   "马来西亚",
+   "泰国",
+   "票房纪录"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "网易/北青网记者观察",
+    "type": "news",
+    "url": "https://www.163.com/dy/article/L5QCO80F0514R9KQ.html",
+    "credibility": "中",
+    "region": "my",
+    "mention": 3
+   },
+   {
+    "name": "Major Cineplex官方排片页",
+    "type": "official",
+    "url": "https://www.majorcineplex.com/news/super-size",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "报道发酵",
+    "desc": "中国媒体聚焦该片在马创海外票房纪录"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/84ad48610360439bb624d362.jpg",
+    "caption": "《给阿嬷的情书》创马来西亚海外票房纪录",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/84ad48610360439bb624d362.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.163.com/dy/article/L5QCO80F0514R9KQ.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "34793d5b6952ab67e4f2392f",
+  "country": "my",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 4,
+  "titleCn": "《功夫女足》《八仙》登陆马来西亚影院",
+  "titleOrig": "功夫女足 / 八仙（Kung Fu Women's Football / The Eight Immortals）",
+  "summary": "中国电影《功夫女足》（Kung Fu Women's Football，功夫+女足题材）与《八仙》（The Eight Immortals，神话题材）8月陆续登陆马来西亚院线，受到当地影迷热捧，马来裔、印度裔观众均给出好评，“中国故事”在马来西亚的受众面持续扩大，成为大马华人影院的合家欢选择。",
+  "tags": [
+   "马来西亚",
+   "中国电影",
+   "功夫",
+   "神话",
+   "合家欢"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "网易/北青网记者观察",
+    "type": "news",
+    "url": "https://www.163.com/dy/article/L5QCO80F0514R9KQ.html",
+    "credibility": "中",
+    "region": "my",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热度延续",
+    "desc": "首映现场报道发出，观众口碑传播中"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7462b2535ffa4ad2dd7d5922.jpg",
+    "caption": "《功夫女足》《八仙》登陆马来西亚影院",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/7462b2535ffa4ad2dd7d5922.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.163.com/dy/article/L5QCO80F0514R9KQ.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "043ba7e05c905bfd26039efb",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "高风险",
+  "hotDays": 7,
+  "titleCn": "《哈利·波特与魔法石》泰国重映中",
+  "titleOrig": "แฮร์รี่ พอตเตอร์กับศิลาอาถรรพ์ / Harry Potter and the Philosopher's Stone（哈利·波特与魔法石）",
+  "summary": "《哈利·波特与魔法石》（Harry Potter and the Philosopher's Stone）8月27日起在泰国Major Cineplex（美嘉院线）重映，魔法学院风潮再现，霍格沃茨（Hogwarts，魔法学校）四院围巾与魔杖周边迎来补货潮，重映场次在开学季吸引大量学生党观影。",
+  "tags": [
+   "泰国",
+   "哈利波特",
+   "重映",
+   "IP周边"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Major Cineplex官方排片页",
+    "type": "official",
+    "url": "https://www.majorcineplex.com/news/super-size",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 86,
+  "buzzIndex": 75,
+  "timeline": [
+   {
+    "date": "2026-08-27",
+    "label": "重映开画",
+    "desc": "Major Cineplex等院线重映"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "热映中",
+    "desc": "排片持续，周边补货"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "《哈利·波特与魔法石》泰国重映中",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.majorcineplex.com/news/super-size",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "57851da4722354eff85bc05b",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 8,
+  "titleCn": "诺兰《奥德赛》泰国热映中",
+  "titleOrig": "มหากาพย์โอดิสซี / The Odyssey（奥德赛史诗）",
+  "summary": "克里斯托弗·诺兰（Christopher Nolan，导演）执导的史诗巨制《奥德赛》（The Odyssey）自8月20日起在泰国院线热映（泰语片名มหากาพย์โอดิสซี），据Major Cineplex（美嘉院线）9月2日排片仍为长线主力，IMAX（巨幕）场次一票难求，是泰国9月影市的头部好莱坞大片。",
+  "tags": [
+   "泰国",
+   "诺兰",
+   "奥德赛",
+   "好莱坞",
+   "史诗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Major Cineplex官方排片页",
+    "type": "official",
+    "url": "https://www.majorcineplex.com/news/super-size",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-08-20",
+    "label": "泰国上映",
+    "desc": "登陆泰国各大院线"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "热映中",
+    "desc": "持续排片，IMAX场次紧俏"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "诺兰《奥德赛》泰国热映中",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.majorcineplex.com/news/super-size",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "4fd2eeb56f283ec72ac5aea7",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 3,
+  "titleCn": "泰国新片《อรุณกาล》等四部本地片9月3日齐发",
+  "titleOrig": "อรุณกาล / คนระห่ำห้ามรอด / อัศจรรย์วันทอง / 8 เซียน ขอให้จึ้ง!（黎明时分/亡命之徒不得活/黄金日的奇迹/八仙客祝君尽兴）",
+  "summary": "据Major Cineplex（美嘉院线）9月2日排片，9月3日（周四）泰国院线将迎来集中开画日：《อรุณกาล》（黎明时分）、《คนระห่ำห้ามรอด》（亡命之徒不得活，直译）、《อัศจรรย์วันทอง》（黄金日的奇迹，直译）、《8 เซียน ขอให้จึ้ง!》（八仙客祝君尽兴，直译）等多部泰片同日上映，本土片单日密度为近月最高。",
+  "tags": [
+   "泰国",
+   "泰片",
+   "开画",
+   "本土电影"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Major Cineplex官方排片页",
+    "type": "official",
+    "url": "https://www.majorcineplex.com/news/super-size",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "预售",
+    "desc": "周四场次预售开启"
+   },
+   {
+    "date": "2026-09-03",
+    "label": "开画",
+    "desc": "多部泰片集中上映"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "泰国新片《อรุณกาล》等四部本地片9月3日齐发",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.majorcineplex.com/news/super-size",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "dddc47e752fd35c065e69466",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 3,
+  "titleCn": "《NCT 127 NEO CITY》演唱会电影9月9日泰国上映",
+  "titleOrig": "NCT 127 NEO CITY SEOUL THE REDLINE in Cinemas（NCT 127首尔演唱会电影）",
+  "summary": "NCT 127（韩国男团）首尔演唱会电影《NEO CITY SEOUL - THE REDLINE》（新城市首尔·红线）定于9月9日在泰国影院上映，正值新专辑《BLINGY》（闪耀）在泰国专辑榜强势在榜，“听新专+看演唱会电影”的联动令泰国NCTizen（官方粉丝名）期待值拉满。",
+  "tags": [
+   "泰国",
+   "NCT 127",
+   "演唱会电影",
+   "K-Pop"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Major Cineplex官方排片页",
+    "type": "official",
+    "url": "https://www.majorcineplex.com/news/super-size",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "预售",
+    "desc": "9月9日场次开放购票"
+   },
+   {
+    "date": "2026-09-09",
+    "label": "上映",
+    "desc": "泰国院线上映"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "《NCT 127 NEO CITY》演唱会电影9月9日泰国上映",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.majorcineplex.com/news/super-size",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8b76fcf933bf30e2a2b638d6",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电影",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 4,
+  "titleCn": "曼谷“What the Doc!’纪录片节9月3日免费开幕",
+  "titleOrig": "What the Doc Film Festival 2026（什么纪录片节2026）",
+  "summary": "曼谷纪录片节What the Doc!（WTD!，什么纪录片节）9月3日至13日举行，113个国家的影片在Doc Club & Friends（纪录片俱乐部）与世纪剧院（Century Theater）两地上映，全部场次免费并配泰英字幕，开幕夜为Uruphong Raksasad（乌鲁蓬·拉克萨萨）新作《Song Sakan》（松·萨坎）全球首映，影评人参与映后QA（问答）。",
+  "tags": [
+   "泰国",
+   "纪录片节",
+   "免费观影",
+   "曼谷"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Time Out Bangkok",
+    "type": "news",
+    "url": "https://www.timeout.com/bangkok/news/bangkok-documentary-festival-090126",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "免费领票攻略在曼谷影迷圈流传"
+   },
+   {
+    "date": "2026-09-03",
+    "label": "开幕",
+    "desc": "《Song Sakan》全球首映开幕"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "曼谷“What the Doc!’纪录片节9月3日免费开幕",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.timeout.com/bangkok/news/bangkok-documentary-festival-090126",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c6135dc89ff84fe7b7258ea4",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 8,
+  "titleCn": "早春晴朗出海爆红：泰国Netflix登顶、马来西亚夺冠",
+  "titleOrig": "Zao Chun Qing Lang（早春晴朗）",
+  "summary": "井柏然、孙千主演都市情感剧《早春晴朗》8月26日登陆Netflix（网飞）后席卷东南亚，开播两日打入54个国家和地区日榜前十并登顶泰国、新加坡、越南榜首，马来西亚随后夺冠，全球日榜最高第6，IMDb（互联网电影数据库）与MyDramaList（我的追剧清单）双开分8.4，创华语剧在网飞官方周榜最高排名纪录。",
+  "tags": [
+   "早春晴朗",
+   "井柏然",
+   "孙千",
+   "Netflix",
+   "出海",
+   "泰国",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "新浪娱乐",
+    "type": "news",
+    "url": "https://ent.sina.cn/2026-09-02/detail-iniqkvch3072629.d.html",
+    "credibility": "高",
+    "region": "cn",
+    "mention": 3
+   },
+   {
+    "name": "微博剧集榜",
+    "type": "social",
+    "url": "https://weibo.com/2741125501/5338494509778878",
+    "credibility": "中",
+    "region": "cn",
+    "mention": 2
+   },
+   {
+    "name": "新浪看点",
+    "type": "news",
+    "url": "https://k.sina.com.cn/article_7879776328_1d5abd848068028rgw.html",
+    "credibility": "中",
+    "region": "cn",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 94,
+  "timeline": [
+   {
+    "date": "2026-08-26",
+    "label": "上线",
+    "desc": "登陆Netflix全球190余个国家和地区"
+   },
+   {
+    "date": "2026-08-27",
+    "label": "多国登顶",
+    "desc": "同日拿下新加坡、泰国、越南日榜第一"
+   },
+   {
+    "date": "2026-08-28",
+    "label": "全球第六",
+    "desc": "冲至Netflix全球日榜第6，FlixPatrol（流媒体榜单网站）积分22万"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "泰马霸榜",
+    "desc": "泰国持续封顶、马来西亚登顶，东南亚热度居高不下"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "早春晴朗出海爆红：泰国Netflix登顶、马来西亚夺冠",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://ent.sina.cn/2026-09-02/detail-iniqkvch3072629.d.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "4e8379c228469a5c6ddbb0a4",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "韩剧Mousetrap席卷49国：泰国马来西亚齐进Netflix前十",
+  "titleOrig": "Mousetrap（捕鼠夹）",
+  "summary": "Netflix（网飞）韩剧《Mousetrap（捕鼠夹）》8月28日上线，四天内冲至全球电视节目榜第6位，进入韩国、马来西亚、泰国、越南、新加坡等49国前十。柳俊烈（Ryu Jun Yeol）一人分饰两角，与薛景求（Sul Kyung-gu）、李奎炯（Lee Kyoo-hyung）追查夺走人生的神秘存在，改编自韩国民间传说与同名网漫。",
+  "tags": [
+   "韩剧",
+   "Mousetrap",
+   "柳俊烈",
+   "Netflix",
+   "泰国",
+   "马来西亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "SBS Star（SBS明星新闻）",
+    "type": "news",
+    "url": "https://sbsstar.net/article/N1008731425/ryu-jun-yeols-dual-role-pays-off-as-mousetrap-enters-top-10-in-49-countries-on-netflix",
+    "credibility": "高",
+    "region": "kr",
+    "mention": 3
+   },
+   {
+    "name": "MyDramaList News（追剧资讯）",
+    "type": "news",
+    "url": "https://news.mydramalist.com/article/mousetrap-trends-on-netflix-flex-x-cop-season-2-achieves-new-personal-best-viewership",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   },
+   {
+    "name": "wowkorea（韩流资讯）",
+    "type": "news",
+    "url": "https://www.wowkorea.live/news/read/533870.html",
+    "credibility": "中",
+    "region": "kr",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 90,
+  "buzzIndex": 89,
+  "timeline": [
+   {
+    "date": "2026-08-28",
+    "label": "上线",
+    "desc": "Netflix全球独播，柳俊烈双角色出演"
+   },
+   {
+    "date": "2026-09-01",
+    "label": "49国前十",
+    "desc": "FlixPatrol（流媒榜单）全球电视榜第6"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "泰马热播",
+    "desc": "泰国、马来西亚稳居Netflix十大剧榜，口碑持续发酵"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c60e523f61044f26b50b290c.jpg",
+    "caption": "韩剧Mousetrap席卷49国：泰国马来西亚齐进Netflix前十",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/c60e523f61044f26b50b290c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://sbsstar.net/article/N1008731425/ryu-jun-yeols-dual-role-pays-off-as-mousetrap-enters-top-10-in-49-countries-on-netflix",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5a83254ea425434d4016f96c",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 22,
+  "titleCn": "泰剧Delusion定档9月24日：Netflix悬疑新作官宣",
+  "titleOrig": "Delusion (Phap Luang Tai)（幻象·泰语原名直译）",
+  "summary": "Netflix（网飞）泰国原创悬疑剧《Delusion（幻象）》官宣9月24日全球上线，Taew（彤·娜塔彭）饰演的省城女教师为洗清失智父亲卷入的连环杀人嫌疑追查真相，Jes（杰斯）饰曼谷刑警，导演曾执导《Terror Tuesday: Extreme（恐怖星期二：极限版）》，主海报与正式预告已释出。",
+  "tags": [
+   "泰剧",
+   "Netflix",
+   "Delusion",
+   "悬疑",
+   "Taew"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Netflix官方新闻室",
+    "type": "official",
+    "url": "https://about.netflix.com/en/news/delusion-main-trailer",
+    "credibility": "高",
+    "region": "th",
+    "mention": 3
+   },
+   {
+    "name": "ScreenReport（荧屏报道）",
+    "type": "news",
+    "url": "https://www.screen-report.com/netflix/how-to-watch-delusion-on-netflix",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   },
+   {
+    "name": "SEA Wave（东南亚浪潮杂志）",
+    "type": "news",
+    "url": "https://seawavemag.com/2026/08/22/a-new-thai-ghost-mystery-series-is-coming-to-netflix",
+    "credibility": "中",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 92,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-08-22",
+    "label": "定档官宣",
+    "desc": "Netflix公布上线日期与首波物料"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "预告热议",
+    "desc": "主海报与正式预告在泰网传播，期待值攀升"
+   },
+   {
+    "date": "2026-09-24",
+    "label": "全球上线",
+    "desc": "Netflix全球同步独播"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰剧Delusion定档9月24日：Netflix悬疑新作官宣",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://about.netflix.com/en/news/delusion-main-trailer",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7a91cdd943262d980c62bce7",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "泰剧Mr. Fanboy热播中：粉圈题材BL剧每周六更新",
+  "titleOrig": "Mr. Fanboy (Rak Sud Jai Nai Fanboy)（狂热粉丝心上人）",
+  "summary": "泰剧《Mr. Fanboy（狂热粉丝心上人）》8月29日在One 31台（泰国一台）首播、iQIYI（爱奇艺国际版）同步，讲述狂热粉丝Wan（万）误被当成私生饭后，与偶像及搭档同演BL剧的混乱故事，第二集9月5日更新，MyDramaList（追剧网站）超1.1万人标记追看，微博泰剧圈讨论升温。",
+  "tags": [
+   "泰剧",
+   "BL",
+   "Mr.Fanboy",
+   "One31",
+   "iQIYI"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "MyDramaList（我的追剧清单）",
+    "type": "database",
+    "url": "https://mydramalist.com/745501-fan-boy",
+    "credibility": "中",
+    "region": "th",
+    "mention": 2
+   },
+   {
+    "name": "微博追剧汇总",
+    "type": "social",
+    "url": "https://weibo.com/6268872609/5337237598506337",
+    "credibility": "中",
+    "region": "cn",
+    "mention": 2
+   },
+   {
+    "name": "TVmaze（剧集数据库）",
+    "type": "database",
+    "url": "https://www.tvmaze.com/shows/88089/rak-sud-jai-nai-fanboy/episodes",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-08-29",
+    "label": "首播",
+    "desc": "One 31台首集上线，iQIYI国际版同步"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "追剧热档",
+    "desc": "CP向二创与追剧讨论在社媒升温"
+   },
+   {
+    "date": "2026-09-05",
+    "label": "第二集",
+    "desc": "每周六晚更新，共12集"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰剧Mr. Fanboy热播中：粉圈题材BL剧每周六更新",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://mydramalist.com/745501-fan-boy",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "46aa64297198edbbf5073368",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 6,
+  "titleCn": "泰GL剧The Fire烈焰锁爱收官：四元素系列圆满落幕",
+  "titleOrig": "The Fire (So Rak Akkhani)（烈焰锁爱·电流之火直译）",
+  "summary": "泰国GL剧（百合剧）《The Fire（烈焰锁爱）》8月29日播出大结局，为《四元素WATINVANICH家族》系列最终章，Namneung（暖宁）与Noey（诺伊）这对BNK48（泰国48系女团）出身CP人气爆棚，收官演唱会定于9月12日举行，粉丝直呼舍不得、求拍续集与特别篇。",
+  "tags": [
+   "泰剧",
+   "GL",
+   "The Fire",
+   "烈焰锁爱",
+   "Channel7",
+   "收官"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博·中泰头条",
+    "type": "social",
+    "url": "https://weibo.com/6269635320/5338405898553435",
+    "credibility": "中",
+    "region": "cn",
+    "mention": 3
+   },
+   {
+    "name": "今日头条泰娱报道",
+    "type": "news",
+    "url": "https://m.toutiao.com/article/7668177053983736358",
+    "credibility": "中",
+    "region": "cn",
+    "mention": 2
+   },
+   {
+    "name": "LesbiEstupenda（拉剧资讯站）",
+    "type": "blog",
+    "url": "https://lesbiestupenda.com/the-fire-serie-gl",
+    "credibility": "低",
+    "region": "multi",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-07-11",
+    "label": "开播",
+    "desc": "Channel 7HD每周六播出，iQIYI国际版同步"
+   },
+   {
+    "date": "2026-08-29",
+    "label": "大结局",
+    "desc": "8集完结，四元素系列正式收官"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "收官余热",
+    "desc": "主演致谢长文与收官采访持续刷屏"
+   },
+   {
+    "date": "2026-09-12",
+    "label": "收官演唱会",
+    "desc": "Namneung与Noey举行项目收官演唱会"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰GL剧The Fire烈焰锁爱收官：四元素系列圆满落幕",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://weibo.com/6269635320/5338405898553435",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2d7bb29ba2c75bc0c8f18ed3",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "泰GL新剧Third Person定档9月12日：失忆与谎言悬疑",
+  "titleOrig": "Third Person (Thoi Rak Kham Luang)（第三者·蜜语谎言直译）",
+  "summary": "泰国GL剧《Third Person（第三者）》定档9月12日起每周六晚在Channel 3（泰国三台）播出，Garn（甘）与Mimie（米米）主演CP三度合作，讲述失忆女子Christ（克丽丝）因神秘女子Sun（孙）出现而动摇记忆与恋情的悬疑故事，改编自SIIX（作者笔名）同名网络小说。",
+  "tags": [
+   "泰剧",
+   "GL",
+   "Third Person",
+   "失忆",
+   "悬疑",
+   "三台"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "MyDramaList（我的追剧清单）",
+    "type": "database",
+    "url": "https://mydramalist.com/809264-third-person",
+    "credibility": "中",
+    "region": "th",
+    "mention": 2
+   },
+   {
+    "name": "微博·弯弯泰语组",
+    "type": "social",
+    "url": "https://www.sina.cn/news/detail/5336587818762598.html",
+    "credibility": "中",
+    "region": "cn",
+    "mention": 2
+   },
+   {
+    "name": "Girls Love Info（百合剧资讯）",
+    "type": "blog",
+    "url": "https://girlsloveinfo.com/third-person-trailer-garnmie-september-premiere",
+    "credibility": "低",
+    "region": "multi",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-08-27",
+    "label": "定档官宣",
+    "desc": "正式海报公布，9月12日开播"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "开播倒计时",
+    "desc": "先导预告传播，GarnMie CP粉期待值拉满"
+   },
+   {
+    "date": "2026-09-12",
+    "label": "首播",
+    "desc": "Channel 3周六晚档，共10集"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰GL新剧Third Person定档9月12日：失忆与谎言悬疑",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://mydramalist.com/809264-third-person",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8970f23f2fb8b4529a3f3311",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 5,
+  "titleCn": "泰GL剧镇灵Khom Khlang定档9月7日：WeTV全球播出",
+  "titleOrig": "Khom Khlang (Formidable Eyes)（镇灵·威灵之眼）",
+  "summary": "泰国GL剧《Khom Khlang（镇灵，英文名Formidable Eyes，威灵之眼）》9月7日起每周一20时（泰国时间）在WeTV（腾讯视频海外版）播出，Bint（宾，泰国小姐冠军出身）饰演的灵媒与Puinoon（普伊农）饰演的理性女刑警携手查案渐生情愫，国际版无删减并配英文字幕。",
+  "tags": [
+   "泰剧",
+   "GL",
+   "镇灵",
+   "WeTV",
+   "灵异"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Tonboriday（泰剧档期站）",
+    "type": "blog",
+    "url": "https://www.tonboriday.com/2026/08/khom-khlang-gl-series-release-schedule.html",
+    "credibility": "中",
+    "region": "th",
+    "mention": 2
+   },
+   {
+    "name": "MyDramaList（我的追剧清单）",
+    "type": "database",
+    "url": "https://mydramalist.com/776639-khom-khlang",
+    "credibility": "中",
+    "region": "th",
+    "mention": 2
+   },
+   {
+    "name": "FujoLand（腐女资讯站）",
+    "type": "blog",
+    "url": "https://fujoland.com/check-out-gls-how-do-we-relationship-and-khom-khlang-unveil-first-teasers",
+    "credibility": "低",
+    "region": "multi",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 71,
+  "timeline": [
+   {
+    "date": "2026-08-20",
+    "label": "首支预告",
+    "desc": "概念预告公开，灵媒×刑警设定引期待"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "开播倒计时",
+    "desc": "距首播5天，预约与讨论升温"
+   },
+   {
+    "date": "2026-09-07",
+    "label": "WeTV首播",
+    "desc": "每周一20时更新，共10集"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰GL剧镇灵Khom Khlang定档9月7日：WeTV全球播出",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.tonboriday.com/2026/08/khom-khlang-gl-series-release-schedule.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "fe6b28bb38f89ca4059324da",
+  "country": "th",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 4,
+  "titleCn": "泰GL新剧朱丽叶与朱丽叶9月5日开播：世仇家族禁忌恋",
+  "titleOrig": "Juliet & Juliet（朱丽叶与朱丽叶）",
+  "summary": "泰国One 31台百合新剧《Juliet & Juliet（朱丽叶与朱丽叶）》定档9月5日起每周六晚播出，讲述修道院学校里宿敌家族之女Tokyo（东京）与Blue（布鲁）打破禁忌相爱，Mingming（明明）饰演Tokyo，泰GL（百合）题材九月三连发（镇灵、朱丽叶与朱丽叶、第三者）集中上新。",
+  "tags": [
+   "泰剧",
+   "GL",
+   "朱丽叶与朱丽叶",
+   "One31",
+   "禁忌恋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博·弯弯泰语组",
+    "type": "social",
+    "url": "http://www.sina.cn/media/7392264056",
+    "credibility": "中",
+    "region": "cn",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-08-26",
+    "label": "海报更新",
+    "desc": "定档9月5日每周六晚播出"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "开播倒计时",
+    "desc": "百合剧粉社媒讨论预热"
+   },
+   {
+    "date": "2026-09-05",
+    "label": "首播",
+    "desc": "One 31台周六档开播"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+    "caption": "泰GL新剧朱丽叶与朱丽叶9月5日开播：世仇家族禁忌恋",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/e2d9a3dc87f64fe9b1498a4a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "http://www.sina.cn/media/7392264056",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "f4dc32e6811c41a0f2db8118",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 3,
+  "titleCn": "韩剧灵活警探第二季收视新高：8%刷新自身纪录",
+  "titleOrig": "Flex X Cop Season 2（灵活警探 第二季）",
+  "summary": "SBS韩剧《Flex X Cop（灵活警探）第二季》第8集以全国7.9%、首都圈8.0%刷新自身收视纪录，并登上新加坡、韩国、台湾Disney+（迪士尼+）十大榜，在马来西亚、泰国经Disney+ Hotstar（迪士尼+霍特星）同步热播，第9集9月4日播出。",
+  "tags": [
+   "韩剧",
+   "Flex X Cop",
+   "Disney+",
+   "收视率",
+   "东南亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "MyDramaList News（追剧资讯）",
+    "type": "news",
+    "url": "https://news.mydramalist.com/article/mousetrap-trends-on-netflix-flex-x-cop-season-2-achieves-new-personal-best-viewership",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-08-29",
+    "label": "收视新高",
+    "desc": "第8集全国7.9%，创系列个人最好成绩"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "流媒热播",
+    "desc": "东南亚Disney+ Hotstar热度持续"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "第9集",
+    "desc": "周五晚播出新集"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c60e523f61044f26b50b290c.jpg",
+    "caption": "韩剧灵活警探第二季收视新高：8%刷新自身纪录",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/c60e523f61044f26b50b290c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://news.mydramalist.com/article/mousetrap-trends-on-netflix-flex-x-cop-season-2-achieves-new-personal-best-viewership",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ab2bb22868e46905921452b9",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 4,
+  "titleCn": "绅士们第二季明日全集上线：盖·里奇黑帮宇宙扩张",
+  "titleOrig": "The Gentlemen Season 2（绅士们 第二季）",
+  "summary": "Netflix（网飞）英剧《The Gentlemen（绅士们）第二季》9月3日全集上线，Theo James（提奥·詹姆斯）与Kaya Scodelario（卡雅·斯考达里奥）回归，黑帮帝国扩张至意大利马焦雷湖，第三季已提前续订，导演盖·里奇（Guy Ritchie）称野心再加码，泰马观众可全球同步收看。",
+  "tags": [
+   "英剧",
+   "绅士们",
+   "盖·里奇",
+   "Netflix",
+   "黑帮"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Netflix官方新闻室",
+    "type": "official",
+    "url": "https://about.netflix.com/en/news/netflix-confirms-renewals-for-uk-fan-favourites-and-debuts-trailer-for-the-gentlemen-season-2",
+    "credibility": "高",
+    "region": "multi",
+    "mention": 3
+   },
+   {
+    "name": "Netflix Tudum（官方预告页）",
+    "type": "official",
+    "url": "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news",
+    "credibility": "高",
+    "region": "multi",
+    "mention": 2
+   },
+   {
+    "name": "What's on Netflix（网飞资讯站）",
+    "type": "blog",
+    "url": "https://www.whats-on-netflix.com/news/the-gentlemen-season-2-netflix-release-date-cast/",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 93,
+  "buzzIndex": 80,
+  "timeline": [
+   {
+    "date": "2026-08-24",
+    "label": "第三季续订",
+    "desc": "Netflix官宣续订第三季并发布正式预告"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "上线倒计时",
+    "desc": "次日全集上线，社媒话题升温"
+   },
+   {
+    "date": "2026-09-03",
+    "label": "全集上线",
+    "desc": "8集一次性放出，全球同步"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d8c03cf02529431c8ac022b3.jpg",
+    "caption": "绅士们第二季明日全集上线：盖·里奇黑帮宇宙扩张",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/d8c03cf02529431c8ac022b3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://about.netflix.com/en/news/netflix-confirms-renewals-for-uk-fan-favourites-and-debuts-trailer-for-the-gentlemen-season-2",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5d1de8ace59d7a50e9cc7779",
+  "country": "multi",
+  "cat": "film_tv",
+  "catCn": "电视剧",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 4,
+  "titleCn": "韩剧正牌杀手东南亚三连冠：Viki东南亚周榜第一",
+  "titleOrig": "A Bona Fide Killer（正牌杀手）",
+  "summary": "MBC韩剧《A Bona Fide Killer（正牌杀手）》第10集全国收视9.9%、瞬间峰值13.3%，在Rakuten Viki（乐天流媒平台）连续三周夺得东南亚周榜第一，friDay（飞日视频）台湾区登顶，孔晓振（Gong Hyo-jin）主演双面主妇杀手，原著网漫累计点击破1.9亿次。",
+  "tags": [
+   "韩剧",
+   "正牌杀手",
+   "孔晓振",
+   "Viki",
+   "东南亚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "wowkorea（韩流资讯）",
+    "type": "news",
+    "url": "https://www.wowkorea.live/news/read/533870.html",
+    "credibility": "中",
+    "region": "kr",
+    "mention": 2
+   },
+   {
+    "name": "fnnews（韩国财经新闻）",
+    "type": "news",
+    "url": "https://en.fnnews.com/news/202609011118010792",
+    "credibility": "高",
+    "region": "kr",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-08-29",
+    "label": "收视攀高",
+    "desc": "第10集全国9.9%，峰值13.3%"
+   },
+   {
+    "date": "2026-09-01",
+    "label": "东南亚三连冠",
+    "desc": "Rakuten Viki东南亚周榜第一连续三周"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "热度延续",
+    "desc": "网漫阅读量因剧集热播增长十倍"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "第11集",
+    "desc": "周五播出，冲击双位数收视"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c60e523f61044f26b50b290c.jpg",
+    "caption": "韩剧正牌杀手东南亚三连冠：Viki东南亚周榜第一",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/c60e523f61044f26b50b290c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://en.fnnews.com/news/202609011118010792",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "f36fc7fab95340cc2acd8af2",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "LISA新单SaWaDiKa今夜上线：泰拳+嘟嘟车致敬泰国",
+  "titleOrig": "LISA SaWaDiKa（莉莎〈萨瓦迪卡〉，泰语问候语）",
+  "summary": "BLACKPINK（粉墨）泰国成员LISA（莉莎）新单《SaWaDiKa（萨瓦迪卡，泰语问候语）》定于9月3日美西17时（泰国时间9月4日早7时）全球发行，视觉融合泰拳（Muay Thai）与红蓝嘟嘟车（tuk-tuk）元素，泰国国家旅游局（TAT）局长亲自留言致谢，10月23日将发行六曲EP《PRESS PLAY（按播放键）》。",
+  "tags": [
+   "LISA",
+   "BLACKPINK",
+   "泰国",
+   "SaWaDiKa",
+   "泰拳",
+   "PRESS PLAY"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "The Star Buzz（星报）",
+    "type": "news",
+    "url": "http://buzz.thestar.com.my/aseanplus/aseanplus-news/2026/08/30/thailand039s-lisa-blends-muay-thai-and-a-tuk-tuk-in-sawadika-teaser",
+    "credibility": "高",
+    "region": "my",
+    "mention": 3
+   },
+   {
+    "name": "Korea Portal（韩国门户）",
+    "type": "news",
+    "url": "https://en.koreaportal.com/articles/54739/20260826/blackpinks-lisa-sets-sawadika-release-date-jennie-jisoo-announce-solo.htm",
+    "credibility": "中",
+    "region": "kr",
+    "mention": 3
+   },
+   {
+    "name": "Tempo（印尼媒体）",
+    "type": "news",
+    "url": "https://en.tempo.co/read/2118612/lisa-to-release-new-single-ahead-of-press-play-ep-what-to-know",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 90,
+  "buzzIndex": 96,
+  "timeline": [
+   {
+    "date": "2026-08-24",
+    "label": "官宣",
+    "desc": "Instagram官宣EP《PRESS PLAY》与首单《SaWaDiKa》"
+   },
+   {
+    "date": "2026-08-28",
+    "label": "TikTok预览",
+    "desc": "拳击台片段预览释出，歌词提及日内瓦与法拉利"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "发行倒计时",
+    "desc": "曼谷、纽约、洛杉矶、墨西哥城红色广告牌预热收官"
+   },
+   {
+    "date": "2026-09-03",
+    "label": "全球发行",
+    "desc": "美西17时上线，泰国时间次日早7时"
+   },
+   {
+    "date": "2026-10-23",
+    "label": "EP发行",
+    "desc": "六曲EP《PRESS PLAY》全球上线"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/52651259102241c1b26e3b49.jpg",
+    "caption": "LISA新单SaWaDiKa今夜上线：泰拳+嘟嘟车致敬泰国",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/52651259102241c1b26e3b49.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "http://buzz.thestar.com.my/aseanplus/aseanplus-news/2026/08/30/thailand039s-lisa-blends-muay-thai-and-a-tuk-tuk-in-sawadika-teaser",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2ecc699df5d6420a5d0d70ae",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 5,
+  "titleCn": "JISOO新单CLICK明日上线：机械玩偶概念预告引热议",
+  "titleOrig": "JISOO CLICK（金智秀〈点击〉）",
+  "summary": "BLACKPINK（粉墨）成员JISOO（金智秀）个人新单《CLICK（点击）》定于9月4日发行，预告视频以故障特效的机械嘉年华玩偶为主题，风格较2月首张个人EP《AMORTAGE（爱之档）》更凌厉，与LISA（莉莎）、JENNIE（珍妮）新扎堆同期打榜，团内solo竞赛成话题。",
+  "tags": [
+   "JISOO",
+   "BLACKPINK",
+   "CLICK",
+   "solo",
+   "回归"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Korea Portal（韩国门户）",
+    "type": "news",
+    "url": "https://en.koreaportal.com/articles/54739/20260826/blackpinks-lisa-sets-sawadika-release-date-jennie-jisoo-announce-solo.htm",
+    "credibility": "中",
+    "region": "kr",
+    "mention": 2
+   },
+   {
+    "name": "Tempo（印尼媒体）",
+    "type": "news",
+    "url": "https://en.tempo.co/read/2118612/lisa-to-release-new-single-ahead-of-press-play-ep-what-to-know",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-08-24",
+    "label": "预告发布",
+    "desc": "机械玩偶概念预告上线"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距发行2天，粉圈应援预热"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "发行",
+    "desc": "新单全球上线"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/52651259102241c1b26e3b49.jpg",
+    "caption": "JISOO新单CLICK明日上线：机械玩偶概念预告引热议",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/52651259102241c1b26e3b49.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://en.koreaportal.com/articles/54739/20260826/blackpinks-lisa-sets-sawadika-release-date-jennie-jisoo-announce-solo.htm",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8886707458e1e528023a0836",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 5,
+  "titleCn": "MONSTA X新EP周五回归：周宪参与四曲创作",
+  "titleOrig": "MONSTA X The Phase（MONSTA X〈阶段〉）",
+  "summary": "韩国男团MONSTA X新EP《The Phase（阶段）》9月4日13时（KST，韩国标准时间）发行，主打曲《MAGIC（魔法）》由周宪（JOOHONEY）参与词曲创作，六首歌中四首有其贡献，亨元（Hyungwon）自作曲《Sweet Night, Sweet Morning（甜蜜夜晚，温柔清晨）》收尾，回归与2026世界巡演The X: NEXUS联动。",
+  "tags": [
+   "MONSTA X",
+   "The Phase",
+   "MAGIC",
+   "周宪",
+   "回归"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "allkpop（K-Pop资讯）",
+    "type": "news",
+    "url": "https://www.allkpop.com/article/2026/08/monsta-x-announce-september-4-comeback-with-ep-the-phase",
+    "credibility": "中",
+    "region": "kr",
+    "mention": 2
+   },
+   {
+    "name": "STARNEWS（韩国明星新闻）",
+    "type": "news",
+    "url": "https://www.starnewskorea.com/zh/music/2026/08/21/2026082110190080033",
+    "credibility": "高",
+    "region": "kr",
+    "mention": 2
+   },
+   {
+    "name": "Kpopping（韩流社区）",
+    "type": "blog",
+    "url": "https://www.kpopping.com/community/monsta-x-set-september-comeback-with-six-new-songs-on-the-phase-msqb0bav",
+    "credibility": "低",
+    "region": "kr",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-08-06",
+    "label": "预告公开",
+    "desc": "官方YouTube发布20秒概念预告"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "回归倒计时",
+    "desc": "曲目表已公开，周宪参与创作引期待"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "发行",
+    "desc": "13时（KST）全平台上线，六曲EP"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/db289ead13bc76f4e85ca8c4.jpg",
+    "caption": "MONSTA X新EP周五回归：周宪参与四曲创作",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/db289ead13bc76f4e85ca8c4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.allkpop.com/article/2026/08/monsta-x-announce-september-4-comeback-with-ep-the-phase",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ad083af9fb3e35cceb82f77e",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 3,
+  "titleCn": "82MAJOR新单HEAT回归：今晚清溪广场举行纪念舞台",
+  "titleOrig": "82MAJOR HEAT（82MAJOR〈热度〉）",
+  "summary": "新人男团82MAJOR（团名取自韩国国际区号82）第二张单曲《HEAT（热度）》9月1日发行后，今晚（9月2日）20时在首尔光化门清溪广场举行纪念现场演出，主打曲《Like Fire（如火焰）》延续前作《Sign（暗号）》叙事，成员参与词曲与编舞，组合此前曾曼谷开唱全席售罄。",
+  "tags": [
+   "82MAJOR",
+   "HEAT",
+   "Like Fire",
+   "回归",
+   "showcase"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "K-Hallyu（韩流网）",
+    "type": "news",
+    "url": "https://k-hallyu.com/articles/82major-return-with-second-single-heat-and-title-track-like-fire",
+    "credibility": "中",
+    "region": "kr",
+    "mention": 2
+   },
+   {
+    "name": "朝鲜Biz（朝鲜日报商务版）",
+    "type": "news",
+    "url": "https://biz.chosun.com/en/en-entertainment/2026/09/01/O5REI5Y7N5GIFN2UR6D4JTIDAA/",
+    "credibility": "高",
+    "region": "kr",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "音源上线",
+    "desc": "18时单曲与MV全平台公开"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "纪念舞台",
+    "desc": "20时清溪广场举行发行纪念现场演出"
+   },
+   {
+    "date": "2026-09-03",
+    "label": "音乐节目",
+    "desc": "开启打歌活动"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/658bbb8bb98c1cb44e295b50.jpg",
+    "caption": "82MAJOR新单HEAT回归：今晚清溪广场举行纪念舞台",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/658bbb8bb98c1cb44e295b50.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://biz.chosun.com/en/en-entertainment/2026/09/01/O5REI5Y7N5GIFN2UR6D4JTIDAA/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c38fd39b3b3514b28c26eb9e",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "TUNEXX迷你二辑BLUE MODE今日发行",
+  "titleOrig": "TUNEXX BLUE MODE（TUNEXX〈蓝色模式〉）",
+  "summary": "韩国男团TUNEXX第二张迷你专辑《BLUE MODE（蓝色模式）》9月2日发行，成为9月初K-Pop密集回归潮当日上线的新碟之一，延续组合此前积累的音乐辨识度，海外K-Pop媒体将其列入本月必关注发行清单。",
+  "tags": [
+   "TUNEXX",
+   "BLUE MODE",
+   "新人",
+   "回归"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "hellokpop（K-Pop资讯）",
+    "type": "news",
+    "url": "https://www.hellokpop.com/kpop/september-2026-k-pop-comebacks-all-the-releases-to-expect-so-far",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   },
+   {
+    "name": "KPulse Daily（K-Pop日刊）",
+    "type": "news",
+    "url": "https://www.kpulsedaily.com/2026/08/new-k-pop-in-september-2026-every.html",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "发行",
+    "desc": "第二张迷你专辑《BLUE MODE》上线"
+   },
+   {
+    "date": "2026-09-03",
+    "label": "宣传活动",
+    "desc": "展开新专打歌与内容企划"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/76c9c33947b84a9d912725d9.jpg",
+    "caption": "TUNEXX迷你二辑BLUE MODE今日发行",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/76c9c33947b84a9d912725d9.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.hellokpop.com/kpop/september-2026-k-pop-comebacks-all-the-releases-to-expect-so-far",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "99fab3a474a6b670774008b1",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "izna日本出道首张迷你专辑HANDLE WITH CARE今日发行",
+  "titleOrig": "izna HANDLE WITH CARE（izna〈小心轻放〉）",
+  "summary": "选秀女团izna（伊兹娜）9月2日在日本发行出道首张迷你专辑《HANDLE WITH CARE（小心轻放）》，正式开启日本活动，与TUNEXX新碟同日上线，K-Pop九月回归潮进入首周密集档期。",
+  "tags": [
+   "izna",
+   "日本出道",
+   "HANDLE WITH CARE",
+   "女团"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "KPulse Daily（K-Pop日刊）",
+    "type": "news",
+    "url": "https://www.kpulsedaily.com/2026/08/new-k-pop-in-september-2026-every.html",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "日本出道",
+    "desc": "首张日本迷你专辑发行"
+   },
+   {
+    "date": "2026-09-03",
+    "label": "日本宣传",
+    "desc": "开启日本本土打歌与见面活动"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/93d514db90f30953c3b23fd5.jpg",
+    "caption": "izna日本出道首张迷你专辑HANDLE WITH CARE今日发行",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/93d514db90f30953c3b23fd5.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.kpulsedaily.com/2026/08/new-k-pop-in-september-2026-every.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "b0586e738bfbe0e62e21622e",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 9,
+  "titleCn": "LE SSERAFIM新单曲辑Made My Night倒计时：9月11日回归",
+  "titleOrig": "LE SSERAFIM Made My Night（LE SSERAFIM〈你成就了我的夜〉）",
+  "summary": "韩国女团LE SSERAFIM第二张单曲辑《Made My Night（你成就了我的夜）》定于9月11日13时（KST）发行，概念预告《THE MMN SHOW（MMN秀）》与《CHEMICAL NIGHT（化学之夜）》接连公开，海外实体发行延至10月9日，被粉丝解读为集中冲击韩国本土榜单的策略。",
+  "tags": [
+   "LE SSERAFIM",
+   "Made My Night",
+   "回归",
+   "SOURCE MUSIC"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "新浪娱乐",
+    "type": "news",
+    "url": "https://ent.sina.cn/2026-09-01/detail-iniqhfqc6873709.d.html",
+    "credibility": "高",
+    "region": "cn",
+    "mention": 3
+   },
+   {
+    "name": "新浪看点",
+    "type": "news",
+    "url": "https://k.sina.com.cn/article_7879923378_1d5ae16b206801zt82.html",
+    "credibility": "中",
+    "region": "cn",
+    "mention": 2
+   },
+   {
+    "name": "新浪新闻·SOURCE MUSIC公告",
+    "type": "news",
+    "url": "https://www.sina.cn/news/detail/5336663326197639.html",
+    "credibility": "高",
+    "region": "cn",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 88,
+  "buzzIndex": 86,
+  "timeline": [
+   {
+    "date": "2026-08-28",
+    "label": "预售开启",
+    "desc": "11时（KST）开启专辑预售并公开概念预告"
+   },
+   {
+    "date": "2026-09-01",
+    "label": "预告连发",
+    "desc": "《CHEMICAL NIGHT》等预告物料公开"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "距回归9天，中文圈解析预告概念"
+   },
+   {
+    "date": "2026-09-11",
+    "label": "发行",
+    "desc": "凌晨MV公开，13时音源与实体同步"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/2d5255fd646c67af0e7ffab0.jpg",
+    "caption": "LE SSERAFIM新单曲辑Made My Night倒计时：9月11日回归",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/2d5255fd646c67af0e7ffab0.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://ent.sina.cn/2026-09-01/detail-iniqhfqc6873709.d.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c6014803eb27fa2eff3c5f93",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 6,
+  "titleCn": "BTS新曲SWIM登顶泰国Spotify日榜",
+  "titleOrig": "BTS SWIM（防弹少年团〈游泳〉）",
+  "summary": "防弹少年团BTS新曲《SWIM（游泳）》9月2日以25.9万次单日播放量占据泰国Spotify（声破天）日榜冠军，累计播放达6512万次，二十周年巡演与新专辑《ARIRANG（阿里郎）》热潮带动组合在泰持续霸榜，成为泰国当日最热单曲。",
+  "tags": [
+   "BTS",
+   "SWIM",
+   "Spotify",
+   "泰国",
+   "ARIRANG"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "kworb.net（Spotify榜单镜像）",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 88,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "日榜冠军",
+    "desc": "泰国Spotify日榜第一，单日播放25.9万次"
+   },
+   {
+    "date": "2026-09-09",
+    "label": "演唱会电影",
+    "desc": "NCT 127之后，BTS相关大银幕内容持续接力泰国市场"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6501814a4b024880961310f3.jpg",
+    "caption": "BTS新曲SWIM登顶泰国Spotify日榜",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6501814a4b024880961310f3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/th_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d1b310d83ecf717103ec574d",
+  "country": "th",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 2,
+  "titleCn": "智旻Who飙升40位重回泰国Spotify日榜23位",
+  "titleOrig": "Jimin Who（朴智旻〈谁〉）",
+  "summary": "防弹少年团成员朴智旻（Jimin）个人曲《Who（谁）》9月2日在泰国Spotify（声破天）日榜飙升40位、重回第23名，BTS（防弹少年团）二十周年巡演与新专热度带动成员个人作品在泰国市场集体回流。",
+  "tags": [
+   "智旻",
+   "Jimin",
+   "Who",
+   "Spotify",
+   "泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "kworb.net（Spotify榜单镜像）",
+    "type": "chart",
+    "url": "https://kworb.net/spotify/country/th_daily.html",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "榜单飙升",
+    "desc": "日榜上升40位至第23名"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "智旻Who飙升40位重回泰国Spotify日榜23位",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://kworb.net/spotify/country/th_daily.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "128bce138c0030ea6bef127d",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 2,
+  "titleCn": "请夏数字单曲México发行：拉丁风舞曲回归",
+  "titleOrig": "CHUNG HA México（请夏〈墨西哥〉）",
+  "summary": "韩国solo女歌手请夏（CHUNG HA）9月1日18时（KST）发行数字单曲《México（墨西哥）》，距上张单曲《SAVE ME（拯救我）》约七个月，延续其标志性的高强度舞蹈路线，为九月K-Pop回归潮打头阵，次日流媒与话题延续。",
+  "tags": [
+   "请夏",
+   "CHUNG HA",
+   "México",
+   "solo",
+   "回归"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "hellokpop（K-Pop资讯）",
+    "type": "news",
+    "url": "https://www.hellokpop.com/kpop/september-2026-k-pop-comebacks-all-the-releases-to-expect-so-far",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   },
+   {
+    "name": "KPulse Daily（K-Pop日刊）",
+    "type": "news",
+    "url": "https://www.kpulsedaily.com/2026/08/new-k-pop-in-september-2026-every.html",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "发行",
+    "desc": "18时（KST）数字单曲上线"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "话题延续",
+    "desc": "发行次日流媒表现与编舞挑战预热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/aed1cacf457eaf68e09b26b0.jpg",
+    "caption": "请夏数字单曲México发行：拉丁风舞曲回归",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/aed1cacf457eaf68e09b26b0.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.hellokpop.com/kpop/september-2026-k-pop-comebacks-all-the-releases-to-expect-so-far",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3bba17f64cab80d6486c6eac",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 3,
+  "titleCn": "权恩妃新单DEJAVU定档9月3日",
+  "titleOrig": "KWON EUNBI DEJAVU（权恩妃〈似曾相识〉）",
+  "summary": "韩国女歌手权恩妃（KWON EUNBI）将于9月3日发行数字单曲专辑《DEJAVU（似曾相识）》，延续其偶像实力派solo路线，与MONSTA X、JISOO（金智秀）等新作前后脚上线，九月首周K-Pop新碟扎堆。",
+  "tags": [
+   "权恩妃",
+   "DEJAVU",
+   "solo",
+   "回归"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "hellokpop（K-Pop资讯）",
+    "type": "news",
+    "url": "https://www.hellokpop.com/kpop/september-2026-k-pop-comebacks-all-the-releases-to-expect-so-far",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 1
+   }
+  ],
+  "credibilityScore": 75,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "倒计时",
+    "desc": "发行前一天，预告物料传播中"
+   },
+   {
+    "date": "2026-09-03",
+    "label": "发行",
+    "desc": "数字单曲专辑《DEJAVU》上线"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1c779ff304b3811f573161c6.jpg",
+    "caption": "权恩妃新单DEJAVU定档9月3日",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/1c779ff304b3811f573161c6.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.hellokpop.com/kpop/september-2026-k-pop-comebacks-all-the-releases-to-expect-so-far",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "3aee8c95abced6e65d22fb5f",
+  "country": "multi",
+  "cat": "celebrity",
+  "catCn": "K-Pop明星",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 5,
+  "titleCn": "BIGBANG二十周年纪念单曲热度延续：曼谷加场联动",
+  "titleOrig": "BIGBANG 20th Anniversary Single（BIGBANG二十周年纪念单曲）",
+  "summary": "BIGBANG（宇宙大爆炸组合）8月末发行出道二十周年纪念单曲，被K-Pop媒体以八月一声巨响收官作评，并与11月曼谷世界巡演加场开票形成联动，曼谷站门票火速售罄后官宣加场，泰国粉丝热情高涨。",
+  "tags": [
+   "BIGBANG",
+   "二十周年",
+   "纪念单曲",
+   "曼谷",
+   "巡演"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "KPulse Daily（K-Pop日刊）",
+    "type": "news",
+    "url": "https://www.kpulsedaily.com/2026/08/new-k-pop-in-september-2026-every.html",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   },
+   {
+    "name": "Thairath English（泰国rath报英文版）",
+    "type": "news",
+    "url": "https://en.thairath.co.th/entertain/news/2956824",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-08-31",
+    "label": "单曲发行",
+    "desc": "二十周年纪念单曲上线"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "热度延续",
+    "desc": "新单热度叠加曼谷加场开票官宣"
+   },
+   {
+    "date": "2026-11-07",
+    "label": "曼谷开唱",
+    "desc": "拉加曼加拉国家体育场巡演举行"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/dc15f81a7ec04dac819ce0c5.jpg",
+    "caption": "BIGBANG二十周年纪念单曲热度延续：曼谷加场联动",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/dc15f81a7ec04dac819ce0c5.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.kpulsedaily.com/2026/08/new-k-pop-in-september-2026-every.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "97ae445fffc93db6dc3516b8",
+  "country": "multi",
+  "cat": "ecommerce",
+  "catCn": "电商政策",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 45,
+  "titleCn": "TikTok Shop东南亚9月4日正品标签收紧：仅商城卖家保留",
+  "titleOrig": "TikTok Shop restricts '100% authentic' label to Mall sellers from Sept 4（TikTok Shop东南亚站9月4日起'100%正品保障'标签仅开放给商城卖家）",
+  "summary": "TikTok Shop东南亚各站将于9月4日起将'100%正品保障'标签收拢到商城（Mall）卖家体系，非商城卖家标签将被系统自动移除，仅极少数类目例外。对服装/潮牌卖家是信任背书洗牌信号：无标店铺需重新建立信任状，或评估入驻Mall。品牌正品+完整授权链的T恤卖家建议尽快入驻商城抢占信任壁垒。",
+  "tags": [
+   "正品标签",
+   "商城",
+   "信任背书",
+   "东南亚合规"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博·跨境行业解读",
+    "type": "news",
+    "url": "https://weibo.com/ttarticle/p/show?id=2309405338292949483663",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-08-30",
+    "label": "政策更新",
+    "desc": "平台飞书政策文档更新，超85%违规内容由自动化系统处理"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "标签收紧生效",
+    "desc": "正品标签仅开放给Mall商城卖家，非商城卖家自动移除"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f38b97cfa4bc4112b3d62697.jpg",
+    "caption": "TikTok Shop东南亚9月4日正品标签收紧：仅商城卖家保留",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/f38b97cfa4bc4112b3d62697.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://weibo.com/ttarticle/p/show?id=2309405338292949483663",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "62ee15b9b542a795e31264de",
+  "country": "th",
+  "cat": "ecommerce",
+  "catCn": "电商政策",
+  "stars": 4,
+  "printType": "文字款",
+  "risk": "高风险",
+  "hotDays": 45,
+  "titleCn": "Shopee泰国本土店8月4日再度上调类目佣金，时尚配饰涨至13.38%",
+  "titleOrig": "Shopee Thailand raises category commission again Aug 4, fashion accessories to 13.38%（Shopee泰国本土店8月4日更新类目佣金，时尚配饰佣金由11.24%涨至13.38%）",
+  "summary": "Shopee泰国本土店8月4日正式更新类目佣金，多个品类上浮1%-2%（不含增值税）：时尚配饰佣金由11.24%涨至13.38%，快消从13.91%涨到16.05%，Mall店铺多数类目涨约2.14%。叠加4月、6月两轮调整，本土店经历三次佣金上调、整体费率涨幅近9%，综合扣点最高可达30%。月销售额低于1万泰铢的小店可享0.5%-1.5%手续费减免。",
+  "tags": [
+   "佣金上调",
+   "Shopee泰",
+   "成本",
+   "服装毛利"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "网易·Shopee泰国站运营指南",
+    "type": "news",
+    "url": "https://dy.163.com/article/L5O4OA1605568RXN.html",
+    "credibility": "中",
+    "region": "th",
+    "mention": 5
+   },
+   {
+    "name": "大数跨境10100",
+    "type": "news",
+    "url": "https://applet.10100.com/article/77446487",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 85,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-08-04",
+    "label": "佣金更新",
+    "desc": "Shopee泰国本土店类目佣金上浮1%-2%"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "成本传导期",
+    "desc": "时尚配饰13.38%，综合扣点最高30%"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/808a9423e9d815968fc049d6.jpg",
+    "caption": "Shopee泰国本土店8月4日再度上调类目佣金，时尚配饰涨至13.38%",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/808a9423e9d815968fc049d6.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://dy.163.com/article/L5O4OA1605568RXN.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "16b3473172e0e27f097b6e4d",
+  "country": "my",
+  "cat": "ecommerce",
+  "catCn": "电商政策",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "Shopee多站点8月31日起缩短罚分惩罚周期（含马来西亚站）",
+  "titleOrig": "Shopee shortens penalty periods across markets incl. Malaysia from Aug 31（Shopee自8月31日起调整马来西亚等站点卖家罚分惩罚周期，1-3级周期缩短）",
+  "summary": "Shopee宣布自8月31日起对马来西亚、巴西、阿根廷及台湾站点卖家罚分惩罚周期调整：马/巴/阿站1-2级禁止参加活动、无法享有运费补贴、商品不显示于浏览页面的惩罚期从28天缩短为14天，3级搜索结果排除从28天缩短至21天。对T恤等爆款运营是利好，缩短处罚意味着快速恢复流量，但违规更易触发监管，需重视合规。",
+  "tags": [
+   "罚分",
+   "惩罚周期",
+   "Shopee马",
+   "流量恢复"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博·跨境电商行业动态",
+    "type": "news",
+    "url": "https://weibo.com/7098373038/5338328536452630",
+    "credibility": "中",
+    "region": "my",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-08-31",
+    "label": "政策生效",
+    "desc": "Shopee马来西亚等站罚分惩罚周期缩短"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f0b5293157354eebbd223908.jpg",
+    "caption": "Shopee多站点8月31日起缩短罚分惩罚周期（含马来西亚站）",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/f0b5293157354eebbd223908.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://weibo.com/7098373038/5338328536452630",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "fe40c038628250e7e8616cee",
+  "country": "th",
+  "cat": "ecommerce",
+  "catCn": "电商政策",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "高风险",
+  "hotDays": 45,
+  "titleCn": "TikTok Shop泰国TISI强制认证+实物标签，商品核验前移至上架",
+  "titleOrig": "TikTok Shop Thailand TISI mandatory certification & physical label from June 30（TikTok Shop泰国站自6月30日起要求强制TIS标准商品填写标准号、许可证并上传实物标签图片）",
+  "summary": "TikTok Shop泰国站要求涉及强制TIS标准的商品填写TIS标准号、许可证编号及查询链接，并上传带泰文信息、TIS标志、型号、制造商/进口商信息和二维码的实物标签图片；资料缺失或不一致可能被拒绝上架或下架，重复违规影响账户。泰国消费者组织、TISI、ETDA等正推动平台与标准数据库建立核验机制，监管向上架审核和在线验真延伸。",
+  "tags": [
+   "TISI",
+   "泰国认证",
+   "上架合规",
+   "标签"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "搜狐·中国卖家进泰国电商合规",
+    "type": "news",
+    "url": "https://www.sohu.com/a/1070429014_122895842",
+    "credibility": "中",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-06-30",
+    "label": "TISI要求生效",
+    "desc": "TikTok Shop泰国站强制TIS标准商品填报"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "核验常态化",
+    "desc": "监管向在线验真延伸，KYC与产品许可双重审核"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "TikTok Shop泰国TISI强制认证+实物标签，商品核验前移至上架",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.sohu.com/a/1070429014_122895842",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "523964a0701f91d3def6bcaf",
+  "country": "th",
+  "cat": "ecommerce",
+  "catCn": "电商政策",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "高风险",
+  "hotDays": 30,
+  "titleCn": "泰国《数字平台服务法》ETDA实名制，Shopee泰国KYC二次清查",
+  "titleOrig": "Thailand Digital Platform Service Act ETDA KYC, Shopee Thailand second cleanup（泰国依托《数字平台服务法》由ETDA落实实名制，Shopee泰国站KYC二次大规模账号清查）",
+  "summary": "泰国《数字平台服务法》由电子交易发展局ETDA落实实名制与反洗钱监管，KYC资质核验成为卖家硬性门槛。Shopee早在3月要求卖家3月31日前补齐银行账户证明材料，近期进行二次大规模账号清查，店铺主体、收款银行卡持有人、第三方收款账号、退货收件人所有渠道姓名文字必须完全一致。信息不一致店铺会收到通知，多店运营需分开管理资料。",
+  "tags": [
+   "KYC",
+   "ETDA",
+   "实名制",
+   "反洗钱"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "网易·Shopee泰国站运营指南",
+    "type": "news",
+    "url": "https://dy.163.com/article/L5O4OA1605568RXN.html",
+    "credibility": "中",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-03-31",
+    "label": "资料补齐截止",
+    "desc": "Shopee泰国要求卖家补齐银行账户证明"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "二次清查",
+    "desc": "KYC实名制+反洗钱，信息不一致被通知"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "泰国《数字平台服务法》ETDA实名制，Shopee泰国KYC二次清查",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://dy.163.com/article/L5O4OA1605568RXN.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8740e81694ba6b469ad52988",
+  "country": "multi",
+  "cat": "ecommerce",
+  "catCn": "电商政策",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "TikTok Shop东南亚跨境8月31日开放0经验个体工商户免流水入驻",
+  "titleOrig": "TikTok Shop SEA opens zero-experience sole proprietor onboarding without sales records（TikTok Shop东南亚跨境8月31日开放'0经验个体工商户商家免流水入驻'政策，无需邀请码）",
+  "summary": "TikTok Shop东南亚跨境8月31日起开放'0经验个体工商户商家免流水入驻'政策，无需申请邀请码，开店门槛大幅下降；同时升级一商多店客服互通、全球统一看数、短视频一篇发多国等能力，并推出'马来西亚海外仓发新加坡'跨境物流服务，帮助商家降低仓储物流成本。以9.9大促为信号，四季度热销节奏已拉开。",
+  "tags": [
+   "TikTok跨境",
+   "入驻门槛",
+   "免流水",
+   "9.9大促"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "新浪财经头条·中国品牌在东南亚",
+    "type": "news",
+    "url": "https://t.cj.sina.com.cn/articles/view/7511025199/1bfb1262f001015l1m",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 3
+   },
+   {
+    "name": "搜狐·同题报道",
+    "type": "news",
+    "url": "https://www.sohu.com/a/1070608558_120889353",
+    "credibility": "中",
+    "region": "multi",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-08-31",
+    "label": "入驻政策开放",
+    "desc": "0经验个体工商户免流水入驻"
+   },
+   {
+    "date": "2026-09-09",
+    "label": "9.9大促启动",
+    "desc": "四季度大促节奏开启"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "TikTok Shop东南亚跨境8月31日开放0经验个体工商户免流水入驻",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://t.cj.sina.com.cn/articles/view/7511025199/1bfb1262f001015l1m",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "cc0a75dd665ec37012e61f89",
+  "country": "my",
+  "cat": "ecommerce",
+  "catCn": "电商政策",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "2026马来西亚商标新规VA1-2026落地，电商开店前置条件",
+  "titleOrig": "Malaysia trademark guideline VA1-2026, registration a pre-condition for e-commerce listing（2026马来西亚商标审查指南VA1-2026落地，Shopee/Lazada/TikTok Shop以注册证为投诉备案前提）",
+  "summary": "马来西亚2026商标新规VA1-2026与2026版审查手册落地，MyIPO以IP ONLINE为申请主渠道，纸质提交按页加收费用，预批准清单术语申请每件省150林吉特。数字经济GMV年增19%，Shopee、Lazada、TikTok Shop均以商标注册证为投诉与备案前提，商标注册从'可选项'变为开店前置条件。抢注者凭注册证可在平台投诉下架，反通知窗口仅3个工作日。",
+  "tags": [
+   "商标",
+   "VA1-2026",
+   "MyIPO",
+   "品牌确权"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "搜狐·2026马来西亚商标新规",
+    "type": "news",
+    "url": "https://www.sohu.com/a/1070481552_121367813",
+    "credibility": "中",
+    "region": "my",
+    "mention": 5
+   }
+  ],
+  "credibilityScore": 83,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-01-01",
+    "label": "VA1-2026落地",
+    "desc": "马来西亚商标审查指南规范"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "电商确权需求",
+    "desc": "商标注册成为开店前置条件"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "2026马来西亚商标新规VA1-2026落地，电商开店前置条件",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.sohu.com/a/1070481552_121367813",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "889428548397afccb59d7d52",
+  "country": "th",
+  "cat": "ecommerce",
+  "catCn": "电商政策",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 15,
+  "titleCn": "泰国电商交易额2030年将达600亿美元，年均复合增速12%",
+  "titleOrig": "Thailand e-commerce GMV to reach $60B by 2030, 12% CAGR（2026全球支付报告：泰国电商交易总额将从2025年350亿美元上涨至2030年600亿美元）",
+  "summary": "《2026年全球支付报告》数据：泰国电商交易总额将从2025年350亿美元上涨至2030年600亿美元，年均复合增速达12%。广阔市场空间下Shopee泰国站是跨境卖家优先考虑站点之一，但平台监管规则持续收紧，纯靠大批量铺货、低价内卷已难站稳，需转向KYC实名、佣金成本、发货时效与本地化选品。",
+  "tags": [
+   "泰国电商",
+   "市场展望",
+   "GMV"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "网易·Shopee泰国站运营指南",
+    "type": "news",
+    "url": "https://dy.163.com/article/L5O4OA1605568RXN.html",
+    "credibility": "中",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 75,
+  "buzzIndex": 52,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "市场展望",
+    "desc": "泰国电商GMV2030年600亿美元，CAGR12%"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/130db198f7d348d50c0064ae.jpg",
+    "caption": "泰国电商交易额2030年将达600亿美元，年均复合增速12%",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/130db198f7d348d50c0064ae.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://dy.163.com/article/L5O4OA1605568RXN.html",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d09e8834571bd11fedc95792",
+  "country": "multi",
+  "cat": "ecommerce",
+  "catCn": "电商政策",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "Shopee 9.9超级购物日：美妆家居手机配件订单量激增300%-600%",
+  "titleOrig": "Shopee 9.9 Super Shopping Day 2026 seller prep（Shopee 9.9超级购物日：美妆、家居生活、手机配件在9.9窗口订单量较日常激增300%-600%）",
+  "summary": "Shopee 9.9超级购物日打响'双位数'大促季（9.9/10.10/11.11/12.12）首战。据Shopee历年复盘，美妆、家居生活、手机配件在9.9窗口订单量较日常激增300%-600%。卖家建议9月5日提前4天竞价搜索广告积累排名动量，9月9日当天流量峰值在凌晨12-2点与晚7-11点。T恤/服装应做好3倍以上备货与分层折扣（闪购30-50%、套装15-25%、店铺券5-10%）。",
+  "tags": [
+   "9.9",
+   "大促",
+   "备货",
+   "广告投放"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Cloud Ecommerce Shopee 9.9指南",
+    "type": "news",
+    "url": "https://www.cloudecommerce.com/blog/shopee-99-super-shopping-day-2026-complete-seller-preparation-guide",
+    "credibility": "高",
+    "region": "multi",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-09-05",
+    "label": "广告起投",
+    "desc": "提前4天竞价搜索广告积累排名"
+   },
+   {
+    "date": "2026-09-09",
+    "label": "9.9大促",
+    "desc": "美妆家居手机配件订单激增300%-600%"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/54eee948d4b648199e67383c.jpg",
+    "caption": "Shopee 9.9超级购物日：美妆家居手机配件订单量激增300%-600%",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/54eee948d4b648199e67383c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.cloudecommerce.com/blog/shopee-99-super-shopping-day-2026-complete-seller-preparation-guide",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ed9ded9924058a29ab25269e",
+  "country": "multi",
+  "cat": "ecommerce",
+  "catCn": "电商政策",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "速卖通AI经营Agent 9月1日开放，助商家切入200余潜力市场",
+  "titleOrig": "AliExpress AI Operation Agent opens Sept 1（速卖通AI经营Agent于9月1日起向全体商家开放，自动接管语言适配、区域定价、物流匹配等六大环节）",
+  "summary": "速卖通8月24日发布'潜力国家地区智能经营Agent'，9月1日起向全体商家开放，可自动接管语言适配、区域定价、物流匹配、大促报名、详情页优化及售后防控六大核心环节，帮助商家零门槛切入200余个此前因运营复杂而放弃的潜力海外市场。卖家仅需设定标杆国定价并确保基础物流信息准确，即可获取纯新增量订单。",
+  "tags": [
+   "AI",
+   "速卖通",
+   "多国运营",
+   "自动化"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博·跨境电商行业动态汇总",
+    "type": "news",
+    "url": "https://weibo.com/7098373038/5338328536452630",
+    "credibility": "中",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 75,
+  "buzzIndex": 55,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "Agent开放",
+    "desc": "AI经营Agent向全体商家开放"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/59e9c4e40e548af00bebd7b2.jpg",
+    "caption": "速卖通AI经营Agent 9月1日开放，助商家切入200余潜力市场",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/59e9c4e40e548af00bebd7b2.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://weibo.com/7098373038/5338328536452630",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "27bf79e6b3282cd90f24d9fa",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "平台热搜",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "Shopee泰国站男装热搜：轻薄透气运动短袖、轻薄外套走俏",
+  "titleOrig": "Shopee Thailand menswear hot keywords（Shopee泰国站男装热搜：纯色运动短袖透气网眼、休闲短裤弹力腰头、轻薄外套透气防风）",
+  "summary": "Shopee泰国站男装以舒适感为长期刚需：高温潮湿强日晒贯穿东南亚日常生活，消费者优先选择轻便透气的运动透气服饰。主推纯色运动短袖采用高密透气网眼面料出汗不易贴身，休闲短裤宽松剪裁+弹力腰头，轻薄外套透气防风应对户外通勤、防晒和空调房。基础短袖需求稳定，轻薄外套受天气和使用场景影响。",
+  "tags": [
+   "Shopee泰",
+   "男装",
+   "透气短袖",
+   "轻薄外套"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "亿邦动力·多SKU服装卖家履约",
+    "type": "news",
+    "url": "https://www.ebrun.com/20260901/704026.shtml",
+    "credibility": "高",
+    "region": "th",
+    "mention": 5
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "选品洞察",
+    "desc": "东南亚男装舒适透气为长期刚需"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4963ee8de03f440185f99cbf.jpg",
+    "caption": "Shopee泰国站男装热搜：轻薄透气运动短袖、轻薄外套走俏",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/4963ee8de03f440185f99cbf.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.ebrun.com/20260901/704026.shtml",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9b5fb5ec31d598076a8eed3d",
+  "country": "my",
+  "cat": "platform_search",
+  "catCn": "平台热搜",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "Shopee马来西亚热搜：t-shirt lelaki男士T恤、polos等休闲服饰",
+  "titleOrig": "Shopee Malaysia hot keywords（Shopee马来西亚热搜：t shirt lelaki男士T恤、baju polo polo衫、plain tee纯色T恤、oversized宽松款）",
+  "summary": "Shopee马来西亚站T恤热搜以男士休闲为主：t shirt lelaki（男士T恤）、baju polo（polo衫）、plain tee（纯色T恤）、oversized（宽松款）等搜索热度稳定。马来西亚消费者重视舒适、休闲与性价比，纯棉180GSM、平价圆领款为走量刚需。结合9.9大促，T恤卖家应提前备足大码与多色SKU。",
+  "tags": [
+   "Shopee马",
+   "男士T恤",
+   "polo衫",
+   "纯色T恤"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "FindNiche TikTok趋势",
+    "type": "trends",
+    "url": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+    "credibility": "高",
+    "region": "my",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热搜关键词",
+    "desc": "马来西亚T恤热搜以男士休闲为主"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6d5228311e036a623be8798c.jpg",
+    "caption": "Shopee马来西亚热搜：t-shirt lelaki男士T恤、polos等休闲服饰",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/6d5228311e036a623be8798c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7ef5fa33751432a16124be79",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "平台热搜",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 45,
+  "titleCn": "TikTok Shop泰国：泰式皇家纹样polo衫月销13.7万件霸榜男装",
+  "titleOrig": "TikTok Shop Thailand royal-pattern Thai polo viral（TikTok Shop泰国男装榜一：ลายพระราชทาน泰式皇家纹样polo衫，7天13.7万单）",
+  "summary": "TikTok Shop泰国男装销量榜首为泰式皇家纹样（ลายพระราชทาน）黑色polo衫，7天订单13.7万、单价约101.67泰铢，将传统泰式刺绣/纹样与现代polo结合，契合泰国人'皇家崇拜+文化认同'。同榜还有泰式弹力内裤、黑白灰纯色中长袜等低价高销单品。泰式民族纹样元素在服装上的商业化潜力巨大，但涉及王室纹样需注意尺度与合规。",
+  "tags": [
+   "TikTok泰",
+   "皇家纹样",
+   "polo衫",
+   "泰式元素"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "FindNiche TikTok泰国男装趋势",
+    "type": "trends",
+    "url": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+    "credibility": "高",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热销榜",
+    "desc": "泰式皇家纹样polo衫7天13.7万单"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/3c7ad6c2e23a9d464fb1821e.jpg",
+    "caption": "TikTok Shop泰国：泰式皇家纹样polo衫月销13.7万件霸榜男装",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/3c7ad6c2e23a9d464fb1821e.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "af88e16ba90e9c8934b7caf4",
+  "country": "my",
+  "cat": "platform_search",
+  "catCn": "平台热搜",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "TikTok Shop马来西亚：纯棉T恤RM11.9、运动服与风衣霸榜",
+  "titleOrig": "TikTok Shop Malaysia trend keywords（TikTok Shop马来西亚热搜：ELGINI纯棉T恤RM11.9、microfiber polo RM11.9、scuba训练裤、防风风衣）",
+  "summary": "TikTok Shop马来西亚站运动户外+男装榜显示：ELGINI纯棉T恤RM11.9累计55.9万件、microfiber polo衫RM11.9累计28.5万件、scuba训练裤RM22.14、防风连帽风衣RM22.9等霸榜；另有平价袜子RM1.25超108万件。马来西亚T恤走'高性价比+运动休闲'路线，ELGINI等本土白牌凭低价+品质稳居头部，跨境卖家需以成本与差异化设计切入。",
+  "tags": [
+   "TikTok马",
+   "纯棉T恤",
+   "运动休闲",
+   "白牌"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "FindNiche TikTok马来西亚趋势",
+    "type": "trends",
+    "url": "https://findniche.com/tiktok/trending-sports-and-outdoor-products-my",
+    "credibility": "高",
+    "region": "my",
+    "mention": 5
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "热销榜",
+    "desc": "纯棉T恤RM11.9、scuba训练裤霸榜"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/3c7ad6c2e23a9d464fb1821e.jpg",
+    "caption": "TikTok Shop马来西亚：纯棉T恤RM11.9、运动服与风衣霸榜",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/3c7ad6c2e23a9d464fb1821e.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://findniche.com/tiktok/trending-sports-and-outdoor-products-my",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "57cd5724306a8c6a8c28c597",
+  "country": "th",
+  "cat": "platform_search",
+  "catCn": "平台热搜",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "TikTok Shop泰国站一年GMV：女装第4、男装第7，美妆个护居首",
+  "titleOrig": "TikTok Shop Thailand yearly GMV ranking（EchoTik泰国站年度报告：近一年Top10品类GMV超146亿美元，美妆个护29%居首，女装第4、男装第7）",
+  "summary": "EchoTik《TikTok Shop泰国站点趋势洞察报告》（2025.06-2026.05）显示：泰国站Top10品类GMV超146亿美元，美妆个护占29%断层领先，其次保健、食品饮料、女装、手机数码、家装建材、男装、运动户外。视频带货与GMV强相关，上榜视频时长集中在8-81秒，短平快内容转化效率高。服饰类卖家应强化短视频直播内容供给。",
+  "tags": [
+   "TikTok泰",
+   "GMV",
+   "品类结构",
+   "视频带货"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "EchoTik泰国站点趋势报告",
+    "type": "trends",
+    "url": "https://echotik.ai",
+    "credibility": "高",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-05-31",
+    "label": "报告周期截止",
+    "desc": "TikTok Shop泰国站近一年GMV146亿美元"
+   },
+   {
+    "date": "2026-09-02",
+    "label": "品类洞察",
+    "desc": "女装第4、男装第7，短平快内容高转化"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "TikTok Shop泰国站一年GMV：女装第4、男装第7，美妆个护居首",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://echotik.ai",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "28e11a143d7be3a496f400d5",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "时装风格",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "Quiet Luxury向'Loud Luxury'转向：亮色、量感、80年代参考回归",
+  "titleOrig": "Quiet luxury shifts to loud luxury, primary colors & 1980s（2026秋冬时装潮流：告别静奢，转向更大胆色彩、夸张廓形与80年代参考）",
+  "summary": "2026年时装趋势明确从'静奢风'转向'张扬奢华'（loud luxury）：回归三原色、夸张量感、1980年代参考包括垫肩、铅笔裙、派对连衣裙，取代2025年的克制极简。图表里、高对比条纹、不规则网球风横条纹（8月+10%）、11月大波点+147%成为关键印花。T恤设计应转向更大胆配色、醒目图案与体积感。",
+  "tags": [
+   "Loud Luxury",
+   "80年代",
+   "三原色",
+   "量感"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2026趋势分析",
+    "type": "trends",
+    "url": "https://www.accio.com/business/what-styles-are-trending-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 5
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "秋冬趋势",
+    "desc": "Loud luxury张扬奢华，80年代参考回归"
+   },
+   {
+    "date": "2026-11-01",
+    "label": "波点峰值",
+    "desc": "大波点Q4预计+147%"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ba39ad5e9b6650ac9841077a.jpg",
+    "caption": "Quiet Luxury向'Loud Luxury'转向：亮色、量感、80年代参考回归",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ba39ad5e9b6650ac9841077a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/what-styles-are-trending-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "f257aff7acd08b422c91234e",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "时装风格",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "Chartreuse青柠黄、Royal Purple皇家紫、Tomato Red番茄红成9月关键色",
+  "titleOrig": "Chartreuse, royal purple, tomato red as Sept key colors（Vogue/Harper's Bazaar/Elle共识：chartreuse青柠黄、royal purple皇家紫、tomato red番茄红为9月色彩故事）",
+  "summary": "Vogue、Harper's Bazaar、Elle、Who What Wear、Marie Claire五大刊共识：9月是时装日历重置点，色彩故事由chartreuse（青柠黄，略带酸性、小剂量显贵）、royal purple（皇家紫，Prada/Celine/Miu Miu）、tomato red（番茄红）主导，soft pink与mint为可穿近亲。设计师以块状色而非点缀呈现，摄影效果好，利于Instagram/TikTok传播。T恤可用高饱和块色做潮款。",
+  "tags": [
+   "Chartreuse",
+   "皇家紫",
+   "番茄红",
+   "色彩趋势"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "mark541 Fashion Trend分析",
+    "type": "trends",
+    "url": "https://www.mark541.com/single-post/fall-fashion-chartreuse",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "9月时装日历重置",
+    "desc": "Chartreuse/Royal Purple/Tomato Red关键色"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0caa54bfd3c042b6bb405a92.jpg",
+    "caption": "Chartreuse青柠黄、Royal Purple皇家紫、Tomato Red番茄红成9月关键色",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/0caa54bfd3c042b6bb405a92.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.mark541.com/single-post/fall-fashion-chartreuse",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "f8ec5f92dc8bb990737113a2",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "时装风格",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "2026秋冬'Updated Lady'新女性范式：松弛雕塑感西装+裙装",
+  "titleOrig": "Updated Lady archetype, relaxed sculptural suiting（Vogue提出'Updated Lady'新女性范式：松弛雕塑感西装、裙装与现代权力着装）",
+  "summary": "Vogue提出'Updated Lady'（新女性）时装范式：松弛但雕塑感的西装、裙装、现代权力着装，出现在Chanel、Celine、Givenchy、Balenciaga；Elle称之为'现代剪裁'配peplum上衣、腰带造型、混搭单品。Art Deco（垂坠腰线、串珠、几何图案、流苏）作为对去年极简主义的解药不断出现。T恤可借力宽松女装西装叠穿与几何装饰感印花。",
+  "tags": [
+   "Updated Lady",
+   "西装",
+   "Art Deco",
+   "女性时尚"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "mark541 Fashion Trend分析",
+    "type": "trends",
+    "url": "https://www.mark541.com/single-post/fall-fashion-chartreuse",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "秋冬范式",
+    "desc": "Updated Lady新女性，Art Deco解药"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/300981d54a204687b9802509.jpg",
+    "caption": "2026秋冬'Updated Lady'新女性范式：松弛雕塑感西装+裙装",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/300981d54a204687b9802509.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.mark541.com/single-post/fall-fashion-chartreuse",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "c78075d99794ea4edd00877b",
+  "country": "th",
+  "cat": "society",
+  "catCn": "时装风格",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "不费力时髦'上松下松'松弛感穿搭成街头主风向",
+  "titleOrig": "Effortless chic relaxed silhouette trend（2026秋冬街头风向：'不费力时髦'，宽松卫衣+阔腿裤+垂坠感的'上松下也松'轮廓）",
+  "summary": "2026秋冬街头风向从'精致紧绷'转向'松弛有度'：宽松卫衣、软塌针织、廓形衬衫搭配阔腿裤、拖地牛仔、蓬松半裙，靠垂坠感和量感撑气场。色调以低饱和大地色、水泥灰、水洗蓝、米白为主，偶尔跳红棒球帽或亮色小物。'上松下也松'的宽松T恤与叠穿理念契合泰国/马来西亚年轻人的休闲穿搭需求。",
+  "tags": [
+   "松弛感",
+   "宽松廓形",
+   "大地色",
+   "叠穿"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "今日头条·不费力穿搭",
+    "type": "trends",
+    "url": "https://www.toutiao.com/article/7680445104095609373",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "街头趋势",
+    "desc": "松弛感穿搭，上松下也松"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f1b021c9a7f8dc0f3a565c2c.jpg",
+    "caption": "不费力时髦'上松下松'松弛感穿搭成街头主风向",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/f1b021c9a7f8dc0f3a565c2c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.toutiao.com/article/7680445104095609373",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9260917a1a65f46c46d32513",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "时装风格",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "2026秋冬可穿戴趋势：不对称细节、条纹polo、樱桃红点缀",
+  "titleOrig": "7 wearable fall trends 2026（2026秋冬七大可穿戴趋势：不对称细节、运动裤升格、大胆条纹、缎面日常化、芭蕾运动鞋、樱桃红、塑形夹克）",
+  "summary": "2026秋冬可穿戴趋势强调'单件即焕新'：不对称设计（单肩领口、斜裁下摆、偏中心纽扣）、运动裤从运动装升格为日常搭配oversized针织与西装外套、大胆高对比条纹（rugby风）、缎面丝质日常化、芭蕾运动鞋、樱桃红点缀色、塑形夹克取代oversized廓形。T恤可借力不对称剪裁、条纹polo与樱桃红细节。",
+  "tags": [
+   "不对称",
+   "条纹",
+   "樱桃红",
+   "polo"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sada Elbalad 7条秋冬趋势",
+    "type": "trends",
+    "url": "https://see.news/7-wearable-fall-fashion-trends-set-to-define-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 75,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "秋冬趋势",
+    "desc": "不对称、条纹、樱桃红等可穿戴趋势"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/23627b84a0ff9a13946dbe40.jpg",
+    "caption": "2026秋冬可穿戴趋势：不对称细节、条纹polo、樱桃红点缀",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/23627b84a0ff9a13946dbe40.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://see.news/7-wearable-fall-fashion-trends-set-to-define-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "52be0201a9ac5cc61eed64ad",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "时装风格",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "土耳其蓝成2026秋季关键鞋色，同色系Total Look受捧",
+  "titleOrig": "Turquoise blue as fall 2026 key shoe color（哥本哈根街头穿搭带火'土耳其蓝'，成2026秋季关键鞋色，搭配白T+牛仔裤最简）",
+  "summary": "哥本哈根街头穿搭几乎处处可见'土耳其蓝'（turquoise），成为2026秋季最抢眼主角色彩，从轻薄针织、包包、衬衫到裙子。最简单穿法是土耳其蓝鞋搭配牛仔裤+白T恤，同色系Total Look或大胆混搭棕色、酒红、粉色皆可。白T作为百搭基础与高饱和彩色单品的搭配逻辑，利好纯色T恤销售。",
+  "tags": [
+   "土耳其蓝",
+   "白T",
+   "同色系",
+   "色彩"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Vogue Taiwan·土耳其蓝鞋",
+    "type": "news",
+    "url": "https://www.vogue.com.tw/article/turquoise-blue-shoes-fall-2026",
+    "credibility": "高",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "色彩趋势",
+    "desc": "土耳其蓝成2026秋季关键色"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0b70c2203cc047a7ae5b55b9.jpg",
+    "caption": "土耳其蓝成2026秋季关键鞋色，同色系Total Look受捧",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/0b70c2203cc047a7ae5b55b9.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.vogue.com.tw/article/turquoise-blue-shoes-fall-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "dbe599aa0290d79ee5d7604d",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "时装风格",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "2026秋冬弹力紧身裤+薄纱层叠回归，polo衫仍是秋日必备",
+  "titleOrig": "Slim pants, stirrup leggings & sheer layering return（2026秋冬回归：修身裤、stirrup紧身裤、薄纱层叠、statement plaid格纹、软粉）",
+  "summary": "2026秋冬四大秀场趋势：修身裤与stirrup紧身裤回归（取代宽松牛仔裤的收紧轮廓）、薄纱层叠重塑、statement plaid格纹、软粉色系。同时ELLE指出polo衫（Mango巧克力棕条纹款）仍是9月必备，boxy剪裁+对比领的polo是过渡季百搭单品。T恤可参考格纹、软粉与polo质感升级方向。",
+  "tags": [
+   "stirrup",
+   "格纹",
+   "软粉",
+   "polo"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Fashion Style & Beauty秋冬趋势",
+    "type": "trends",
+    "url": "https://www.fashsb.com/what-everyone-will-be-wearing-in-fall-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   },
+   {
+    "name": "ELLE UK·polo衫趋势",
+    "type": "news",
+    "url": "https://www.elle.com/uk/fashion/what-to-wear/a73578411/preppy-polo-shirt-mango",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 77,
+  "buzzIndex": 63,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "秋冬秀场",
+    "desc": "修身裤+薄纱+格纹+软粉回归"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/401df058340a4c26b12337ae.jpg",
+    "caption": "2026秋冬弹力紧身裤+薄纱层叠回归，polo衫仍是秋日必备",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/401df058340a4c26b12337ae.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.fashsb.com/what-everyone-will-be-wearing-in-fall-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "765ac3e280bb24e9b9faa378",
+  "country": "th",
+  "cat": "society",
+  "catCn": "时装风格",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 45,
+  "titleCn": "泰式皇家纹样polo衫爆单，泰式民族刺绣元素成服装吸金点",
+  "titleOrig": "Thai royal pattern & ethnic embroidery boom（TikTok泰国男装榜首泰式皇家纹样polo衫爆单，泰式民族刺绣/纹样元素商业化潜力巨大）",
+  "summary": "泰式皇家纹样（ลายพระราชทาน）polo衫在TikTok泰国站7天爆13.7万单，证明泰式民族纹样/刺绣元素在服装上的商业化潜力巨大。泰国年轻人对'皇家崇拜+文化认同'情绪强烈，将传统泰式刺绣、泰式民族图案（大象、佛塔、莲花、金色几何）与现代polo/T恤结合是差异化吸金点，但涉及王室纹样需注意尺度、避免敏感。",
+  "tags": [
+   "泰式纹样",
+   "民族刺绣",
+   "文化认同",
+   "polo"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "FindNiche TikTok泰国男装趋势",
+    "type": "trends",
+    "url": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+    "credibility": "高",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "爆款驱动",
+    "desc": "泰式皇家纹样polo衫爆单13.7万"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d1a6f2b216f77ebc166adc9e.jpg",
+    "caption": "泰式皇家纹样polo衫爆单，泰式民族刺绣元素成服装吸金点",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/d1a6f2b216f77ebc166adc9e.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5e12bb161c1affb75e82c318",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "2026秋冬虎纹豹纹斑马纹等动物纹元素持续流行",
+  "titleOrig": "Animal print, faux fur & wild texture（2026秋冬：动物纹、人造皮草与野性纹理，statement plaid格纹+leopard豹纹+斑马纹）",
+  "summary": "2026秋冬印花趋势：动物纹（虎纹、豹纹、斑马纹）作为野性纹理持续流行，与人造皮草、statement plaid（醒目格纹）并列。'Faux Fur, Animal Print & Wild Texture'成为当季四大印花方向之一，豹纹腰带、斑马纹鞋成为点睛单品。动物纹T恤是时装周驱动的时尚印花，适合做中高风险、话题度高的款式。",
+  "tags": [
+   "动物纹",
+   "豹纹",
+   "斑马纹",
+   "野性纹理"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Fashion Style & Beauty秋冬印花",
+    "type": "trends",
+    "url": "https://www.fashsb.com/what-everyone-will-be-wearing-in-fall-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 75,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "印花趋势",
+    "desc": "动物纹+人造皮草+野性纹理"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/763e23bc8540c936e3efa447.jpg",
+    "caption": "2026秋冬虎纹豹纹斑马纹等动物纹元素持续流行",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/763e23bc8540c936e3efa447.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.fashsb.com/what-everyone-will-be-wearing-in-fall-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d7765320faaa204721c6fbb2",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "大波点11月预计+147%，格纹12月回归，条纹持续热",
+  "titleOrig": "Large polka dots +147% in Nov, tartan returns Dec（2026趋势：11月大波点预计+147%、12月格纹tartan回归+16%、8月不规则条纹+10%）",
+  "summary": "Accio趋势数据显示：大波点（large polka dots）Q4预计增长+147%、全年+43%，是2026下半年最值得关注的印花；12月格纹tartan回归（男装+16%、女装+12%）；8月不规则网球风横条纹+10%；9月结构化手袋+10%。波点、条纹、格纹三大经典印花在下半年集中爆发，T恤应提前布局这些基础+季节款。",
+  "tags": [
+   "波点",
+   "格纹",
+   "条纹",
+   "季节印花"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2026时装元素趋势",
+    "type": "trends",
+    "url": "https://www.accio.com/business/what-styles-are-trending-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 5
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-11-01",
+    "label": "波点峰值",
+    "desc": "大波点Q4预计+147%"
+   },
+   {
+    "date": "2026-12-01",
+    "label": "格纹回归",
+    "desc": "tartan格纹12月+16%"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/3c747cf88519ce28ec048a52.jpg",
+    "caption": "大波点11月预计+147%，格纹12月回归，条纹持续热",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/3c747cf88519ce28ec048a52.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/what-styles-are-trending-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "856ee2d395dce0105ab9cd89",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "TikTok趋势：Oversized宽松T恤/卫衣、工装裤、运动服持续热",
+  "titleOrig": "Oversized apparel, cargo pants trending on TikTok（TikTok热点：Oversized宽松T恤/卫衣/夹克、工装裤、瑜伽服因舒适+街头风格持续热）",
+  "summary": "TikTok趋势显示：Oversized宽松单品（T恤、卫衣、夹克）、工装裤、瑜伽服因舒适+街头风格持续热销。'TikTok-Made-Me-Buy-It'现象推动视觉冲击强的产品爆单，运动服与oversized T恤是最契合短视频带货的品类。宽松T恤可叠加醒目标语、动物图案、韩系美式复古风来强化视觉记忆点。",
+  "tags": [
+   "Oversized",
+   "工装裤",
+   "街头风",
+   "短视频带货"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio TikTok趋势分析",
+    "type": "trends",
+    "url": "https://accio.com/business/tiktok_trends_with_pictures",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "TikTok趋势",
+    "desc": "Oversized+工装裤+瑜伽服持续热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/a4b6e20d059fcc1d59ebdb56.jpg",
+    "caption": "TikTok趋势：Oversized宽松T恤/卫衣、工装裤、运动服持续热",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/a4b6e20d059fcc1d59ebdb56.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://accio.com/business/tiktok_trends_with_pictures",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "b966cb43df4a5ae8e5a640be",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "2026秋冬色彩：Cerulean蔚蓝/蓝绿色、茄皮绿、酸性绿等关键色",
+  "titleOrig": "Cerulean, pickle green, greenfinch & chartreuse color story（2026秋冬关键色：cerulean蔚蓝、pickle green茄皮绿、greenfinch绿、chartreuse青柠黄、aqua绿）",
+  "summary": "2026秋冬色彩趋势：cerulean（蔚蓝，2026春季热门色延续）、pickle green（茄皮绿，女装+7%）、greenfinch（绿，男装+15%）、chartreuse（青柠黄）、aqua绿等绿色系+黄色系占据关键色位。绿色家族（酸性绿/蔚蓝/茄皮绿）是摄影友好、适合Instagram/TikTok传播的色块选择，T恤可大胆采用绿色系。",
+  "tags": [
+   "绿色系",
+   "蔚蓝",
+   "色彩",
+   "茄皮绿"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2026时装元素趋势",
+    "type": "trends",
+    "url": "https://www.accio.com/business/what-styles-are-trending-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "色彩趋势",
+    "desc": "绿色系+蔚蓝+青柠黄关键色"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "2026秋冬色彩：Cerulean蔚蓝/蓝绿色、茄皮绿、酸性绿等关键色",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/what-styles-are-trending-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6a04b9bbc1747793729a0e15",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "2026秋冬材质：绒面革、人造皮草、鳄鱼压纹皮革成'奢华表面'",
+  "titleOrig": "Suede, faux fur & croc-embossed leather textures（2026秋冬材质：绒面革、人造皮草、鳄鱼压纹皮革成为'昂贵表面'，配饰与服装质感升级）",
+  "summary": "2026秋冬材质趋势：绒面革（suede）在鞋履与配饰中崛起、人造皮草（faux fur）在领口/下摆/配饰出现、鳄鱼压纹皮革（croc-embossed）成为'昂贵表面'新象征，配以麂皮包、calf-hair与晚秋丝绒回归。'质感比Logo更贵'——T恤可借力做仿皮草/鳄鱼纹/绒面革触感的图案或标签细节，提升品质感与单价。",
+  "tags": [
+   "绒面革",
+   "人造皮草",
+   "鳄鱼纹",
+   "质感"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "mark541 Fashion Trend分析",
+    "type": "trends",
+    "url": "https://www.mark541.com/single-post/fall-fashion-chartreuse",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 75,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "材质趋势",
+    "desc": "绒面革、人造皮草、鳄鱼压纹成奢华表面"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/da39d2f8c9f540c3b2554d50.jpg",
+    "caption": "2026秋冬材质：绒面革、人造皮草、鳄鱼压纹皮革成'奢华表面'",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/da39d2f8c9f540c3b2554d50.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.mark541.com/single-post/fall-fashion-chartreuse",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1e161ebef0e5b3aa0c1d9965",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "可持续+AI共创成2026服装内核，环保棉/功能性面料崛起",
+  "titleOrig": "Sustainability & AI co-creation core of 2026 apparel（2026服装内核：可持续+AI共创，天然棉/亚麻/真丝、UPF服饰、环保可循环面料崛起）",
+  "summary": "2026服装行业趋势：可持续性从'环保'转向'个人生存+自我实现'，天然棉/亚麻/真丝、UPF防晒服、超透气鞋类因气候挑战崛起；同时AI让消费者参与设计共创成为趋势，品牌以'可穿环保'与'功能性'打动消费者。T恤可采用有机棉、环保主题印花（香蕉叶、地球、森林）与'可持续'卖点，契合泰国/马来西亚年轻消费者。",
+  "tags": [
+   "可持续",
+   "有机棉",
+   "AI共创",
+   "功能性"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2026趋势分析",
+    "type": "trends",
+    "url": "https://www.accio.com/business/what-styles-are-trending-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "可持续趋势",
+    "desc": "环保面料+AI共创成服装内核"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4963ee8de03f440185f99cbf.jpg",
+    "caption": "可持续+AI共创成2026服装内核，环保棉/功能性面料崛起",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/4963ee8de03f440185f99cbf.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/what-styles-are-trending-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "672f9a7244dff31e69982865",
+  "country": "th",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "2026年中秋节9月25日，泰国华人圈赏月+月饼+灯笼",
+  "titleOrig": "Mid-Autumn Festival Sept 25, 2026（2026年中秋节9月25日（农历八月十五）周五，泰国华人社区中秋赏月、月饼、灯笼，普吉老街点亮）",
+  "summary": "2026年中秋节为9月25日（周五），泰国华人社区（尤其普吉老街）点亮灯笼、吃月饼、赏月，是9月下旬的重要节日节点。虽然泰国非全国性假日，但泰籍华人社群文化氛围浓，中秋主题T恤（玉兔、满月、月饼、灯笼、嫦娥）在9月中旬至25日有应季销售机会，尤其适合普吉、曼谷唐人街及华人聚居区。",
+  "tags": [
+   "中秋节",
+   "玉兔",
+   "月饼",
+   "泰国华人"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Denz Phuket·2026年9月普吉活动",
+    "type": "news",
+    "url": "https://denzphuket.com/best-events-and-festivals-in-phuket-this-september",
+    "credibility": "高",
+    "region": "th",
+    "mention": 4
+   },
+   {
+    "name": "广州本地宝·中秋放假安排",
+    "type": "news",
+    "url": "https://gz.bendibao.com/news/202691/content371849.shtml",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-25",
+    "label": "中秋节",
+    "desc": "泰国华人社区赏月+月饼+灯笼"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f469f643ce2d4e07b58888a1.jpg",
+    "caption": "2026年中秋节9月25日，泰国华人圈赏月+月饼+灯笼",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/f469f643ce2d4e07b58888a1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://denzphuket.com/best-events-and-festivals-in-phuket-this-september",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ed482a70baa8fbcde325db02",
+  "country": "th",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 45,
+  "titleCn": "普吉素食节10月8-17日，黄旗'斋'素食+宗教仪式",
+  "titleOrig": "Phuket Vegetarian Festival Oct 8-17, 2026（普吉九皇斋素食节2026年10月8-17日，穿白衣、茹素、宗教仪式，黄色旗帜'斋'标识）",
+  "summary": "普吉素食节（九皇斋）2026年10月8-17日举行，是泰国最大年度宗教盛事之一：参与者穿白衣、茹素、禁欲，参与者以'斋'（jay）素食标识与黄色旗帜出现，普吉镇上排灯仪式、游行与刺穿等仪式吸引大量游客。9月是备货期。素食/白衣/九皇主题T恤（白色系、泰文字'เจ'斋、九皇标志）在10月上旬有应季机会，但涉及宗教仪式需谨慎。",
+  "tags": [
+   "普吉素食节",
+   "白衣",
+   "九皇",
+   "泰字"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sonasia Holiday·普吉素食节",
+    "type": "news",
+    "url": "https://sonasia-holiday.com/sonabee/phuket-vegetarian-festival",
+    "credibility": "中",
+    "region": "th",
+    "mention": 5
+   },
+   {
+    "name": "Denz Phuket·9月普吉活动",
+    "type": "news",
+    "url": "https://denzphuket.com/best-events-and-festivals-in-phuket-this-september",
+    "credibility": "高",
+    "region": "th",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-10-08",
+    "label": "素食节开始",
+    "desc": "普吉九皇斋素食节，穿白衣茹素"
+   },
+   {
+    "date": "2026-10-17",
+    "label": "素食节结束",
+    "desc": "九日宗教仪式与游行"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1dc9be2ff3d51049bceee8a7.jpg",
+    "caption": "普吉素食节10月8-17日，黄旗'斋'素食+宗教仪式",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/1dc9be2ff3d51049bceee8a7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://sonasia-holiday.com/sonabee/phuket-vegetarian-festival",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "19b4dfaaf15457fe022e3a49",
+  "country": "my",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "马来西亚成立日9月16日，古晋Kuching庆马来西亚日",
+  "titleOrig": "Malaysia Day Sept 16 in Kuching（马来西亚成立日/马来西亚日9月16日在古晋庆祝，2026庆典含历史展、全国活动）",
+  "summary": "马来西亚成立日（Malaysia Day）9月16日在砂拉越古晋（Kuching）庆祝，2026年庆典在Borneo Convention Centre Kuching与Plaza Merdeka举行，含马来西亚建国历史展与全国活动。此前8月31日国庆（Hari Merdeka）刚结束、Selangor因SUKMA夺冠9月1日放假。马来西亚日主题T恤（Merdeka/Malaysia/红蓝黄条纹/双头鹰）在9月中旬有应季销售窗口。",
+  "tags": [
+   "马来西亚日",
+   "Merdeka",
+   "国庆",
+   "双头鹰"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "The Star·马来西亚日庆典",
+    "type": "news",
+    "url": "https://www.thestar.com.my/news/nation/2026/09/01/fine-weather-as-msians-nationwide-attend-event-together",
+    "credibility": "高",
+    "region": "my",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-08-31",
+    "label": "国庆日",
+    "desc": "马来西亚69周年独立日，普特拉贾亚阅兵"
+   },
+   {
+    "date": "2026-09-16",
+    "label": "成立日",
+    "desc": "马来西亚日在古晋庆祝"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/54eee948d4b648199e67383c.jpg",
+    "caption": "马来西亚成立日9月16日，古晋Kuching庆马来西亚日",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/54eee948d4b648199e67383c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.thestar.com.my/news/nation/2026/09/01/fine-weather-as-msians-nationwide-attend-event-together",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "fb19489bffae9f7a30430bb8",
+  "country": "my",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "马来西亚屠妖节/Deepavali 11月8日，灯节+Kolam图案",
+  "titleOrig": "Deepavali/Diwali Nov 8, 2026（马来西亚屠妖节Deepavali 2026年11月8日（周日），灯节+kolam米绘图案+印度裔市场）",
+  "summary": "马来西亚屠妖节（Deepavali，即Diwali）2026年11月8日（周日），是马来西亚印度裔社群最重要的灯节：点油灯、绘制kolam米绘、穿新衣、亲友互赠礼品。11月是马来西亚最旺的节庆购物月之一。屠妖节主题T恤（油灯/diya、rangoli图案、彩色烟花、Hindu吉祥符号Om与莲花）在10月下旬至11月8日有明确应季需求。",
+  "tags": [
+   "屠妖节",
+   "Deepavali",
+   "油灯",
+   "Kolam"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Outside·Diwali 2026",
+    "type": "news",
+    "url": "https://outside.so/what-day-is/what-day-is-diwali-2026",
+    "credibility": "中",
+    "region": "my",
+    "mention": 4
+   },
+   {
+    "name": "Journey DMC·Diwali庆典",
+    "type": "news",
+    "url": "https://journeydmc.com/festival/diwali",
+    "credibility": "中",
+    "region": "my",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-11-08",
+    "label": "屠妖节",
+    "desc": "马来西亚Deepavali灯节，点灯+kolam+新衣"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7278fa66223845849c74ca82.jpg",
+    "caption": "马来西亚屠妖节/Deepavali 11月8日，灯节+Kolam图案",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7278fa66223845849c74ca82.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://outside.so/what-day-is/what-day-is-diwali-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5d6c84252e86cdcda4127de4",
+  "country": "th",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "泰国水灯节Loy Krathong 11月24-25日，水灯+花船图案",
+  "titleOrig": "Loy Krathong Nov 24-25, 2026（泰国水灯节Loy Krathong 2026年11月24-25日（满月），放水灯祈福+清迈Yi Peng天灯）",
+  "summary": "泰国水灯节Loy Krathong 2026年11月24-25日（满月，部分来源标注25日），人们用香蕉叶制作水灯（蜡烛、香、鲜花、硬币）放入河流祈求好运，清迈同步举行天灯节Yi Peng放孔明灯。这是泰国最浪漫、最著名的节庆之一，也是情侣与游客穿搭热点。水灯+花船+天灯+满月主题T恤在11月中旬至下旬有高应季需求，契合情侣款与游客文创。",
+  "tags": [
+   "水灯节",
+   "Loy Krathong",
+   "天灯",
+   "满月"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sonasia Holiday·Loy Krathong日期",
+    "type": "news",
+    "url": "https://sonasia-holiday.com/sonabee/loy-krathong-thailand-lantern-festival",
+    "credibility": "中",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-11-24",
+    "label": "水灯节",
+    "desc": "Loy Krathong满月放水灯祈福"
+   },
+   {
+    "date": "2026-11-25",
+    "label": "天灯节",
+    "desc": "清迈Yi Peng天灯同步"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ba39ad5e9b6650ac9841077a.jpg",
+    "caption": "泰国水灯节Loy Krathong 11月24-25日，水灯+花船图案",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ba39ad5e9b6650ac9841077a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://sonasia-holiday.com/sonabee/loy-krathong-thailand-lantern-festival",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9a1a6b77d10a17d4b1d9172a",
+  "country": "th",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "高风险",
+  "hotDays": 30,
+  "titleCn": "泰国九世王逝世纪念日10月13日，朱拉隆功纪念日10月23日",
+  "titleOrig": "King Bhumibol passing Oct 13, Chulalongkorn Day Oct 23（泰国10月：13日拉玛九世（普密蓬）逝世纪念日，23日朱拉隆功大帝纪念日）",
+  "summary": "泰国10月13日为已故拉玛九世国王（普密蓬·阿杜德）逝世纪念日（全国公共假日），10月23日为朱拉隆功大帝纪念日。这类王室纪念日期间泰国人常穿黄衣/泰式服装表达敬重，是T恤销售窗口，但设计须非常谨慎、避免任何对王室的不敬元素，风险较高。普通文字款如'In Loving Memory'或泰文纪念字样需严格把关。",
+  "tags": [
+   "王室纪念",
+   "黄衣",
+   "拉玛九世",
+   "泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Edarabia·泰国国庆日",
+    "type": "news",
+    "url": "https://www.edarabia.com/?p=265475",
+    "credibility": "中",
+    "region": "th",
+    "mention": 4
+   },
+   {
+    "name": "Denz Phuket·10月假日",
+    "type": "news",
+    "url": "https://denzphuket.com/best-events-and-festivals-in-phuket-this-september",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-10-13",
+    "label": "九世王纪念日",
+    "desc": "拉玛九世逝世纪念，黄衣表达敬重"
+   },
+   {
+    "date": "2026-10-23",
+    "label": "朱拉隆功纪念日",
+    "desc": "五世王日"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "泰国九世王逝世纪念日10月13日，朱拉隆功纪念日10月23日",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.edarabia.com/?p=265475",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "1dd57742e894f9c48d4fe7bd",
+  "country": "th",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "高风险",
+  "hotDays": 30,
+  "titleCn": "泰国12月5日国庆日+父亲节，全黄+康乃馨文化",
+  "titleOrig": "Thailand National Day & Father's Day Dec 5（泰国12月5日国庆日+已故拉玛九世诞辰+父亲节，全国穿黄衣、颂国歌、赠康乃馨）",
+  "summary": "泰国12月5日为国庆日+已故拉玛九世诞辰+父亲节，全国穿黄衣（国王颜色）纪念，上午8点与下午6点奏国歌时保持肃穆，孩子给父亲/祖父送康乃馨，寺庙布施行善。这是泰国最重要的爱国着装节点，黄色T恤/'我爱泰国'字样/康乃馨与父亲主题在12月初有高需求，但王室关联内容需严守礼法规矩，风险较高。",
+  "tags": [
+   "泰国国庆",
+   "父亲节",
+   "黄衣",
+   "康乃馨"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Edarabia·泰国国庆日",
+    "type": "news",
+    "url": "https://www.edarabia.com/?p=265475",
+    "credibility": "中",
+    "region": "th",
+    "mention": 5
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-12-05",
+    "label": "国庆日+父亲节",
+    "desc": "全黄穿衣纪念，赠康乃馨"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/78cd70e071f7463dbae350d7.jpg",
+    "caption": "泰国12月5日国庆日+父亲节，全黄+康乃馨文化",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/78cd70e071f7463dbae350d7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.edarabia.com/?p=265475",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "f482c0f70e8ef1fda0dbf065",
+  "country": "my",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "马来西亚9月学校假期8/29-9/6+MATTA旅游展9/4-6，国内旅游热",
+  "titleOrig": "Malaysia school holidays & MATTA Fair Sept（马来西亚学校假期8月29日-9月6日，MATTA旅游展9月4-6日，酒店入住率预期70%）",
+  "summary": "马来西亚学校假期8月29日-9月6日，叠加国庆+成立日假期形成国内旅游高峰，全国酒店入住率预期平均70%（森美兰超80%）。MATTA旅游展9月4-6日举办，国内游需求强劲（哥打京那巴鲁、兰卡威、关丹等短途目的地热门）。假期旅游主题T恤（海滩、岛屿、度假Slogan）在9月上旬有应季机会。",
+  "tags": [
+   "学校假期",
+   "MATTA",
+   "国内游",
+   "度假T恤"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "The Star·酒店入住预期",
+    "type": "news",
+    "url": "https://www.thestar.com.my/news/nation/2026/09/01/hotels-expect-70-rise-in-stays",
+    "credibility": "高",
+    "region": "my",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-08-29",
+    "label": "学校假期开始",
+    "desc": "马来西亚学校假期8/29-9/6"
+   },
+   {
+    "date": "2026-09-04",
+    "label": "MATTA展",
+    "desc": "旅游展9/4-6，国内游需求强"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/3d0a4550b923a6f672636525.jpg",
+    "caption": "马来西亚9月学校假期8/29-9/6+MATTA旅游展9/4-6，国内旅游热",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/3d0a4550b923a6f672636525.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.thestar.com.my/news/nation/2026/09/01/hotels-expect-70-rise-in-stays",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "16b42f37b4d10db8b8fa6a35",
+  "country": "th",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "VOGUE金九刊：泰国版Lisa登封LV，Dua Lipa法国版BVLGARI",
+  "titleOrig": "VOGUE 2026 September issue covers（VOGUE全球各版本2026金九刊封面：泰国版Lisa登封LV、法国版Dua Lipa登BVLGARI、韩国版Lisa登LV）",
+  "summary": "VOGUE全球2026金九刊封面出炉：泰国版Lisa登封（LV），韩国版Lisa（LV）、法国版Dua Lipa（BVLGARI/YSL）、意大利版Gigi Hadid（YSL）、美国版Kaia Gerber（Chanel）等。金九刊封面明星与品牌曝光带动相关穿搭与联名热度，泰国市场尤其关注Lisa，'Lisa同款'、'BLACKPINK'等潮流关联T恤具备高话题度。",
+  "tags": [
+   "VOGUE",
+   "金九刊",
+   "Lisa",
+   "封面"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "微博·VOGUE金九刊封面",
+    "type": "news",
+    "url": "https://weibo.com/6405637991/5338290245862902",
+    "credibility": "中",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "金九刊发布",
+    "desc": "泰国版Lisa登封LV，Dua Lipa登BVLGARI"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/52651259102241c1b26e3b49.jpg",
+    "caption": "VOGUE金九刊：泰国版Lisa登封LV，Dua Lipa法国版BVLGARI",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/52651259102241c1b26e3b49.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://weibo.com/6405637991/5338290245862902",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "48fb3105e055d26907cefb0e",
+  "country": "th",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 45,
+  "titleCn": "名创优品×Lisa联名9月1日泰国全球首发，借势东南亚粉丝基本盘",
+  "titleOrig": "MINISO x Lisa global debut in Thailand Sept 1（名创优品×BLACKPINK成员Lisa联名系列9月1日于泰国全球首发，9/1-9/24发售，含盲盒玩偶/服装/行李箱等）",
+  "summary": "名创优品（MINISO）与BLACKPINK成员Lisa的联名系列9月1日在泰国全球首发（9/1-9/24），含3款不同材质盲盒玩偶/手办、YOYO自有IP联名挂件、服装、行李箱、痛包、亚克力立牌、卡册、充电宝等周边。选择Lisa家乡泰国作为首发地，明显借势东南亚粉丝基本盘为后续各站（日本9/11、中国9/12、印尼10/21、美国11/6）造势。'Lisa同款'潮流T恤在泰国具高热度。",
+  "tags": [
+   "MINISO",
+   "Lisa",
+   "BLACKPINK",
+   "泰国首发"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "商派ShopeX·时尚日报",
+    "type": "news",
+    "url": "https://www.shopex.cn/news/35988",
+    "credibility": "中",
+    "region": "th",
+    "mention": 5
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "泰国首发",
+    "desc": "MINISO×Lisa联名泰国全球首发9/1-9/24"
+   },
+   {
+    "date": "2026-09-11",
+    "label": "日本发售",
+    "desc": "日本9/11-10/5"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/52651259102241c1b26e3b49.jpg",
+    "caption": "名创优品×Lisa联名9月1日泰国全球首发，借势东南亚粉丝基本盘",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/52651259102241c1b26e3b49.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.shopex.cn/news/35988",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "80fa2c7275b6953ba54aae0d",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "Uniqlo×Sailor Moon美少女战士UT 8/23发售，少女漫联名",
+  "titleOrig": "Uniqlo x Sailor Moon UT（Uniqlo联名美少女战士Sailor Moon UT，8/23发售，月光仙子/露娜/太阳系水手主题）",
+  "summary": "UNIQLO联名美少女战士（Sailor Moon）UT于8月23日发售，推出印有月光仙子、露娜、太阳系水手们的UT系列。美少女战士作为全球40多国播放的经典少女漫IP，其UT联名是秋季最受期待的联名之一。粉彩色调+月亮+水手服元素契合东南亚女性消费者，是联名授权T恤的优质参考方向。",
+  "tags": [
+   "Uniqlo",
+   "美少女战士",
+   "UT联名",
+   "少女漫"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "买得易·UNIQLO联名五连发",
+    "type": "news",
+    "url": "https://www.maideyi.com/a48039",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-08-23",
+    "label": "UT发售",
+    "desc": "Sailor Moon美少女战士UT发售"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ff1b2ec38ff00320b7570fcd.jpg",
+    "caption": "Uniqlo×Sailor Moon美少女战士UT 8/23发售，少女漫联名",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ff1b2ec38ff00320b7570fcd.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.maideyi.com/a48039",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "31a6e806e537f75e15778f06",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "Uniqlo×INES de la Fressange 9/6发售，法式优雅联名",
+  "titleOrig": "Uniqlo x INES de la Fressange（Uniqlo联名法国超模伊内丝·法桑琪INES de la Fressange，9/6发售，法式优雅简约）",
+  "summary": "UNIQLO联名法国超模伊内丝·法桑琪（INES de la Fressange）系列9月6日发售，延续其法式优雅、简约高级风格。INES系列以质感基础款著称，契合'静奢/法式'审美趋势。对东南亚T恤市场而言，这类联名带来的'法式简约'、'质感纯色'、'优雅基础款'方向值得借鉴，尤其适合追求品质感的女性客群。",
+  "tags": [
+   "Uniqlo",
+   "INES",
+   "法式",
+   "基础款"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "买得易·UNIQLO联名五连发",
+    "type": "news",
+    "url": "https://www.maideyi.com/a48039",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 75,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-06",
+    "label": "INES联名发售",
+    "desc": "Uniqlo×INES法式优雅系列发售"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/cfa2db10b91726b423c74a77.jpg",
+    "caption": "Uniqlo×INES de la Fressange 9/6发售，法式优雅联名",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/cfa2db10b91726b423c74a77.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.maideyi.com/a48039",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a8bd5481efa09a2235a55318",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "Uniqlo UT×Care Bears联名，卡通治愈系情怀",
+  "titleOrig": "Uniqlo UT x Care Bears collab（Uniqlo UT联名Care Bears'Colors of Caring'胶囊系列，快乐小熊/脾气小熊/爱心小熊主题）",
+  "summary": "Uniqlo UT与Care Bears联名推出'Colors of Caring'胶囊系列，图案T恤展示Cheer Bear、Grumpy Bear、Tenderheart Bear、Good Luck Bear等经典小熊角色，通过鲜艳插画与当代设计重制，瞄准长期粉丝与首次接触IP的年轻消费者。'角色驱动时尚'的趋势反映消费者通过服饰表达个性、情绪与童年回忆，治愈系卡通T恤契合东南亚年轻客群。",
+  "tags": [
+   "Care Bears",
+   "Uniqlo UT",
+   "治愈系",
+   "卡通联名"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Indian Retailer·流行文化联名",
+    "type": "news",
+    "url": "https://indianretailer.com/brandlicense/archives/article/pop-culture-beauty-boom-collaborations-making-headlines-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "联名系列在售",
+    "desc": "Uniqlo UT×Care Bears胶囊系列"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/a12fd97a3496491da2a3e541.jpg",
+    "caption": "Uniqlo UT×Care Bears联名，卡通治愈系情怀",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/a12fd97a3496491da2a3e541.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://indianretailer.com/brandlicense/archives/article/pop-culture-beauty-boom-collaborations-making-headlines-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d569d3d4ba31639c26ba8d39",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "Graphpaper×PUMA H-STREET联名9/5发售，大地色调",
+  "titleOrig": "Graphpaper x PUMA H-STREET（Graphpaper携PUMA打造大地色调H-STREET鞋款，9月5日发售，尼龙+绒面革）",
+  "summary": "日本品牌Graphpaper携手PUMA打造大地色调H-STREET鞋款，9月5日发售，以尼龙+绒面皮革取代网布，为2000年代田径跑鞋注入低调精致气质，鞋舌同色系刺绣标志。'啡色'为Graphpaper 2026秋冬主打季节色。这类'大地色+日本质感'联名方向可启发T恤在颜色（大地色）与质感（绒面/刺绣细节）上的升级。",
+  "tags": [
+   "Graphpaper",
+   "PUMA",
+   "大地色",
+   "Hypebeast"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Hypebeast·Graphpaper×PUMA",
+    "type": "news",
+    "url": "https://hypebeast.com/zh/2026/9/graphpaper-puma-h-street-collaboration-release-info",
+    "credibility": "高",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-05",
+    "label": "联名发售",
+    "desc": "Graphpaper×PUMA H-STREET大地色鞋款"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7615db08df944e28bfe1e8bd.jpg",
+    "caption": "Graphpaper×PUMA H-STREET联名9/5发售，大地色调",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7615db08df944e28bfe1e8bd.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://hypebeast.com/zh/2026/9/graphpaper-puma-h-street-collaboration-release-info",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "47b580e861d4e74dd8336e8a",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "adidas×Neighborhood再度联名，闪电箭头跑鞋",
+  "titleOrig": "adidas x Neighborhood Ultraboost collab（adidas携里原宿殿堂级潮牌Neighborhood再合作，'闪电箭头'Ultraboost联名跑鞋）",
+  "summary": "adidas与日本里原宿殿堂级潮牌Neighborhood再度合作，以经典'最强跑鞋'Ultraboost为原型推出联名鞋款，结合品牌标志性'闪电箭头'设计，配以强烈黑白对比硬派风格。去年Neighborhood与adidas Originals的合作获好评。运动潮牌联名带动的'闪电箭头'、'硬派街头'图形语言，可启发T恤的潮流图形设计。",
+  "tags": [
+   "adidas",
+   "Neighborhood",
+   "闪电箭头",
+   "潮流鞋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "买得易·adidas×Neighborhood",
+    "type": "news",
+    "url": "https://www.maideyi.com/a42817",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "联名发布",
+    "desc": "adidas×Neighborhood闪电箭头Ultraboost"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/347ad2ecd4f8457579f3bc1d.jpg",
+    "caption": "adidas×Neighborhood再度联名，闪电箭头跑鞋",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/347ad2ecd4f8457579f3bc1d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.maideyi.com/a42817",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8975efdad65547d4f7217b4f",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "Stine Goya×Umbro二度联名，90年代足球文化+浪漫蕾丝",
+  "titleOrig": "Stine Goya x Umbro Where We Meet（Stine Goya×Umbro二次联名'Where We Meet'，90年代英式足球文化+浪漫蕾丝细节，8/31全球发售）",
+  "summary": "Stine Goya与Umbro二次联名'Where We Meet'于8月31日全球发售，五件套胶囊灵感来自90年代英式足球文化，融合浪漫蕾丝细节与手绘图形、经典Umbro廓形。运动品牌×设计师'足球文化+浪漫化'的跨界方向，可启发T恤融合运动元素与柔美细节的差异化设计，契合青年对运动复古的追求。",
+  "tags": [
+   "Stine Goya",
+   "Umbro",
+   "足球文化",
+   "蕾丝"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "RUSSH·2026最佳设计师联名",
+    "type": "news",
+    "url": "https://www.russh.com/best-designer-collaborations-2026/",
+    "credibility": "高",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-08-31",
+    "label": "联名发售",
+    "desc": "Stine Goya×Umbro 'Where We Meet'"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/66cbdc3952234695a45c8118.jpg",
+    "caption": "Stine Goya×Umbro二度联名，90年代足球文化+浪漫蕾丝",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/66cbdc3952234695a45c8118.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.russh.com/best-designer-collaborations-2026/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6de41b918b5b16d5a8e91b7e",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "Madhappy×PUMA三度联名，西海岸'非活跃运动装'",
+  "titleOrig": "Madhappy x PUMA third capsule（Madhappy×PUMA第三度联名胶囊，西海岸'inactive activewear'非活跃运动装，8/28发布/9/5全球）",
+  "summary": "Madhappy与PUMA三度联名胶囊，主打西海岸风格的'inactive activewear'（非活跃运动装，为健身后恢复与放松设计），含大地色服饰与定制鞋款（H-Street、特别版Suede、专属Speedcat Plus），8月28日通过Madhappy发布、9月5日全球PUMA发售。'恢复/放松/舒适'的联名叙事契合后运动生活方式，T恤可参考'舒适+大地色+情绪文字'方向。",
+  "tags": [
+   "Madhappy",
+   "PUMA",
+   "恢复运动",
+   "大地色"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "RUSSH·2026最佳设计师联名",
+    "type": "news",
+    "url": "https://www.russh.com/best-designer-collaborations-2026/",
+    "credibility": "高",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 75,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-05",
+    "label": "全球发售",
+    "desc": "Madhappy×PUMA三度联名全球发售"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/396f54b3e27a48cea445a139.jpg",
+    "caption": "Madhappy×PUMA三度联名，西海岸'非活跃运动装'",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/396f54b3e27a48cea445a139.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.russh.com/best-designer-collaborations-2026/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "b734deded11559096ac22574",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "Uniqlo LifeWear灵感周：Casual Chic/巧克力棕/City Trek五大风格",
+  "titleOrig": "Uniqlo LifeWear inspiration week（优衣库开启LifeWear服适人生灵感周，发布2026秋冬五大都市穿搭灵感：Casual Chic随性精致、Chocolate巧克力棕、Cozy&Relaxed舒适松弛、City Trek城市漫游、Wider Silhouettes更宽松廓形）",
+  "summary": "优衣库8月28日-9月2日在中国大陆全门店开启'LifeWear服适人生灵感周'，提前呈现2026秋冬系列并发布五大都市穿搭灵感：Casual Chic随性精致风、Chocolate巧克力棕色系、Cozy&Relaxed舒适与松弛、City Trek城市漫游风、Wider Silhouettes更宽松廓形。'巧克力棕'与'宽松廓形'是秋季关键方向，可启发T恤的大地色与oversized设计。",
+  "tags": [
+   "Uniqlo",
+   "LifeWear",
+   "巧克力棕",
+   "宽松廓形"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "商派ShopeX·时尚日报",
+    "type": "news",
+    "url": "https://www.shopex.cn/news/35988",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-08-28",
+    "label": "灵感周开启",
+    "desc": "Uniqlo LifeWear灵感周，发布五大秋冬风格"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0b9f0632c67b4b3e8a824258.jpg",
+    "caption": "Uniqlo LifeWear灵感周：Casual Chic/巧克力棕/City Trek五大风格",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/0b9f0632c67b4b3e8a824258.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.shopex.cn/news/35988",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "f2f0102cbb12dfa3a0a9a5ff",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "Yohji Yamamoto×Repetto芭蕾平底鞋，前卫芭蕾时尚",
+  "titleOrig": "Yohji Yamamoto x Repetto ballet flat（山本耀司×Repetto联名芭蕾平底鞋，结合Repetto芭蕾遗产与山本耀司前卫美学，重释Bolchoï经典款）",
+  "summary": "日本设计师山本耀司（Yohji Yamamoto）与法国芭蕾鞋品牌Repetto联名，重新演绎经典Bolchoï鞋款，打造前卫叛逆的混合芭蕾乐福鞋，融合芭蕾尖鞋细节与结构感当代轮廓。'芭蕾+前卫'联名与2026秋冬芭蕾风回归相呼应，可启发T恤的芭蕾元素、蝴蝶结与黑白极简图形设计。",
+  "tags": [
+   "山本耀司",
+   "Repetto",
+   "芭蕾",
+   "前卫"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "RUSSH·2026最佳设计师联名",
+    "type": "news",
+    "url": "https://www.russh.com/best-designer-collaborations-2026/",
+    "credibility": "高",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "联名发布",
+    "desc": "Yohji Yamamoto×Repetto芭蕾平底鞋"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/59178c596cd04f7d96848aa0.jpg",
+    "caption": "Yohji Yamamoto×Repetto芭蕾平底鞋，前卫芭蕾时尚",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/59178c596cd04f7d96848aa0.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.russh.com/best-designer-collaborations-2026/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e51f9925bdaa43dae3ed2cca",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "潮流联名",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "Gohar World×ASICS芭蕾风GEL-DS TRAINER，9/1独家发售",
+  "titleOrig": "Gohar World x ASICS GEL-DS TRAINER SP（Gohar World×ASICS联名，芭蕾灵感GEL-DS TRAINER SP，Y2K田径+饰品，9/1独家发售）",
+  "summary": "Gohar World×ASICS联名芭蕾灵感GEL-DS TRAINER SP，融合Y2K田径风格与精致女性化细节，鞋款带饰品、不锈钢穿刺与Gohar World标志性银色Gohar Bean，搭配ASICS性能技术，9月1日通过Gohar World独家发售。'Y2K+芭蕾+运动'的跨风格联名呼应2026秋冬芭蕾风与Y2K回潮，可启发T恤的Y2K图形+运动元素融合。",
+  "tags": [
+   "Gohar World",
+   "ASICS",
+   "Y2K",
+   "芭蕾"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "RUSSH·2026最佳设计师联名",
+    "type": "news",
+    "url": "https://www.russh.com/best-designer-collaborations-2026/",
+    "credibility": "高",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "联名发售",
+    "desc": "Gohar World×ASICS芭蕾风GEL-DS TRAINER"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ea4dd1a9f8c319b0d0477f6a.jpg",
+    "caption": "Gohar World×ASICS芭蕾风GEL-DS TRAINER，9/1独家发售",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ea4dd1a9f8c319b0d0477f6a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.russh.com/best-designer-collaborations-2026/",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "db21095699b33e6a961aa6c9",
+  "country": "th",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "2026年中秋节玉兔满月T恤（优先A）",
+  "titleOrig": "Mid-Autumn moon rabbit tee（中秋节主题T恤：玉兔、满月、月饼、灯笼，9月下旬应季，契合泰国华人文化）",
+  "summary": "2026年中秋节9月25日，泰国华人社区点亮灯笼、吃月饼、赏月。玉兔+满月+月饼+灯笼主题T恤是9月下旬高确定性应季款，尤其契合普吉、曼谷唐人街及华人聚居区。设计可用圆月+玉兔剪影+金黄/砖红配色，结合泰文/中文'中秋节'字样，男女同款+儿童款覆盖家庭客群。",
+  "tags": [
+   "中秋节",
+   "玉兔",
+   "应季",
+   "优先A"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Denz Phuket·2026年9月普吉活动",
+    "type": "news",
+    "url": "https://denzphuket.com/best-events-and-festivals-in-phuket-this-september",
+    "credibility": "高",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-25",
+    "label": "中秋节",
+    "desc": "玉兔满月T恤应季热销"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f9388220a8ff92c8bc295768.jpg",
+    "caption": "2026年中秋节玉兔满月T恤（优先A）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/f9388220a8ff92c8bc295768.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://denzphuket.com/best-events-and-festivals-in-phuket-this-september",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2a3f50097e883883dfe31734",
+  "country": "th",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 45,
+  "titleCn": "普吉素食节九皇白衣T恤（优先A）",
+  "titleOrig": "Phuket Vegetarian Festival white tee（普吉素食节主题T恤：白色系+泰文'เจ'斋+九皇标志，10月上旬应季）",
+  "summary": "普吉素食节10月8-17日，参与者穿白衣、茹素。白色T恤+泰文'เจ'（斋）+黄色旗帜/九皇标志+素食图案主题是10月上旬应季款，契合参与者和游客。但涉及宗教仪式与九皇神明形象需谨慎、避免不当使用，风险中等。可主打'素食/健康/斋'的生活方式卖点而非宗教符号。",
+  "tags": [
+   "素食节",
+   "白衣",
+   "斋",
+   "优先A"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sonasia Holiday·普吉素食节",
+    "type": "news",
+    "url": "https://sonasia-holiday.com/sonabee/phuket-vegetarian-festival",
+    "credibility": "中",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-10-08",
+    "label": "素食节开始",
+    "desc": "白衣素食T恤应季"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/71015ee97906455194cfe70d.jpg",
+    "caption": "普吉素食节九皇白衣T恤（优先A）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/71015ee97906455194cfe70d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://sonasia-holiday.com/sonabee/phuket-vegetarian-festival",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "eb69e47b34119f4f33cd5a60",
+  "country": "th",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 45,
+  "titleCn": "泰式皇家纹样polo衫复制款（优先A）",
+  "titleOrig": "Thai royal pattern polo replica logic（泰式皇家纹样polo衫：复刻TikTok泰国爆款逻辑，传统泰式刺绣+现代polo，注意王室纹样尺度）",
+  "summary": "TikTok泰国男装榜首的泰式皇家纹样（ลายพระราชทาน）polo衫7天爆13.7万单，证明'泰式民族纹样+现代服装'的吸金力。可复制此逻辑做泰式刺绣/民族图案（大象、佛塔、莲花、金色几何）+polo/T恤的差异化款，契合泰国人'皇家崇拜+文化认同'。但涉及王室纹样需严格把关尺度、避免敏感，风险中等。",
+  "tags": [
+   "泰式纹样",
+   "polo",
+   "爆款复制",
+   "优先A"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "FindNiche TikTok泰国男装趋势",
+    "type": "trends",
+    "url": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+    "credibility": "高",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "爆款驱动",
+    "desc": "泰式皇家纹样polo爆单复制"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/38698e7baf504da297dc2c42.jpg",
+    "caption": "泰式皇家纹样polo衫复制款（优先A）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/38698e7baf504da297dc2c42.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "38e79ba07a6dc2686a01f8be",
+  "country": "my",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "马来西亚成立日Merdeka主题T恤（优先A）",
+  "titleOrig": "Malaysia Day Merdeka tee（马来西亚日主题T恤：Merdeka/独立/红蓝黄条纹，9月16日应季，双头鹰+国旗元素）",
+  "summary": "马来西亚成立日9月16日在古晋庆祝，叠加8/31国庆与9/1 Selangor SUKMA胜利假期的爱国情绪。Merdeka/独立/红蓝黄条纹/双头鹰国旗元素主题T恤在9月中旬高应季。设计可用'马来西亚国旗条纹+Merdeka字样+双头鹰徽章'，爱国与节庆属性强、风险低，男女同款+家庭款覆盖广。",
+  "tags": [
+   "Merdeka",
+   "马来西亚日",
+   "爱国",
+   "优先A"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "The Star·马来西亚日庆典",
+    "type": "news",
+    "url": "https://www.thestar.com.my/news/nation/2026/09/01/fine-weather-as-msians-nationwide-attend-event-together",
+    "credibility": "高",
+    "region": "my",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-16",
+    "label": "成立日",
+    "desc": "Merdeka主题T恤应季"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/54eee948d4b648199e67383c.jpg",
+    "caption": "马来西亚成立日Merdeka主题T恤（优先A）",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/54eee948d4b648199e67383c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.thestar.com.my/news/nation/2026/09/01/fine-weather-as-msians-nationwide-attend-event-together",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "69174c1045736746139d8056",
+  "country": "my",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "屠妖节油灯Kolam图案T恤（优先A）",
+  "titleOrig": "Deepavali diya kolam tee（屠妖节主题T恤：油灯diya+kolam米绘+rangoli图案，11月8日应季，马来西亚印度裔市场）",
+  "summary": "马来西亚屠妖节Deepavali 11月8日，印度裔社群点油灯、绘制kolam米绘、穿新衣。油灯diya+kolam+rangoli几何图案+彩色烟花+Om/莲花吉祥符号主题T恤在10月下旬-11月8日高应季。设计用暖金色+橘红+靛蓝配色，契合印度裔家庭的节庆着装需求，风险低、文化市场明确。",
+  "tags": [
+   "屠妖节",
+   "油灯",
+   "Kolam",
+   "优先A"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Outside·Diwali 2026",
+    "type": "news",
+    "url": "https://outside.so/what-day-is/what-day-is-diwali-2026",
+    "credibility": "中",
+    "region": "my",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-11-08",
+    "label": "屠妖节",
+    "desc": "油灯Kolam T恤应季"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/2540b9c6d866e2b350b6eb62.jpg",
+    "caption": "屠妖节油灯Kolam图案T恤（优先A）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/2540b9c6d866e2b350b6eb62.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://outside.so/what-day-is/what-day-is-diwali-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ac75390ba5f8805c10389a48",
+  "country": "th",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "水灯节花船天灯T恤（优先A）",
+  "titleOrig": "Loy Krathong krathong lantern tee（水灯节主题T恤：水灯krathong+花船+天灯，11月24-25日应季，情侣+游客文创）",
+  "summary": "泰国水灯节Loy Krathong 11月24-25日，放水灯祈福+清迈天灯，是泰国最浪漫的节庆。水灯krathong+花船+天灯+满月主题T恤在11月中旬-下旬高应季，契合情侣款与游客文创市场。设计用蓝金夜色+水灯烛光+天灯升空意境，适合做浪漫情侣对装与旅行纪念款，风险低。",
+  "tags": [
+   "水灯节",
+   "天灯",
+   "情侣款",
+   "优先A"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sonasia Holiday·Loy Krathong日期",
+    "type": "news",
+    "url": "https://sonasia-holiday.com/sonabee/loy-krathong-thailand-lantern-festival",
+    "credibility": "中",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-11-24",
+    "label": "水灯节",
+    "desc": "水灯花船天灯T恤应季"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/74429751454c16eb1cc336ef.jpg",
+    "caption": "水灯节花船天灯T恤（优先A）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/74429751454c16eb1cc336ef.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://sonasia-holiday.com/sonabee/loy-krathong-thailand-lantern-festival",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5ec9c3fb44a017fd766b72dc",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 4,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "9.9大促促销字T恤引流款（优先A）",
+  "titleOrig": "9.9 sale promo tee（9.9/10.10/11.11大促促销字T恤：'MEGA SALE'、'BIG SALE'、折扣符号，大促引流+转化款）",
+  "summary": "Shopee 9.9超级购物日9月9日打响双位数大促季，美妆家居手机配件订单激增300%-600%。大促主题文字T恤（MEGA SALE、BIG SALE、折扣百分比、购物袋/购物车图形）可作为引流+转化款，配合平台大促流量。设计用高对比撞色+醒目促销字样，适合直播与短视频带货，契合Shopee/TikTok Shop双平台大促窗口。",
+  "tags": [
+   "9.9",
+   "促销字",
+   "引流款",
+   "优先A"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Cloud Ecommerce Shopee 9.9指南",
+    "type": "news",
+    "url": "https://www.cloudecommerce.com/blog/shopee-99-super-shopping-day-2026-complete-seller-preparation-guide",
+    "credibility": "高",
+    "region": "multi",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 78,
+  "timeline": [
+   {
+    "date": "2026-09-09",
+    "label": "9.9大促",
+    "desc": "促销字T恤引流转化"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e5348ecf48894b28b26227ec.jpg",
+    "caption": "9.9大促促销字T恤引流款（优先A）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/e5348ecf48894b28b26227ec.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.cloudecommerce.com/blog/shopee-99-super-shopping-day-2026-complete-seller-preparation-guide",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "d7d31e52429f59abe391e30a",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "Chartreuse青柠黄/皇家紫高饱和块色潮款T恤（优先A）",
+  "titleOrig": "Chartreuse & royal purple color-block tee（Chartreuse青柠黄/皇家紫/番茄红高饱和块色T恤，2026秋冬关键色，Instagram/TikTok友好）",
+  "summary": "Vogue/Harper's Bazaar/Elle共识：Chartreuse青柠黄、Royal Purple皇家紫、Tomato Red番茄红为9月关键色，设计师以块状色呈现、摄影效果好利于社交媒体传播。高饱和色块T恤（整件纯色或大色块拼接+极简Logo）是2026秋冬潮款方向，契合泰国/马来西亚年轻人的Instagram/TikTok穿搭分享，风险低、视觉冲击强。",
+  "tags": [
+   "Chartreuse",
+   "块色",
+   "社交传播",
+   "优先A"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "mark541 Fashion Trend分析",
+    "type": "trends",
+    "url": "https://www.mark541.com/single-post/fall-fashion-chartreuse",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 74,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "色彩趋势",
+    "desc": "高饱和块色潮款T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6de4f2fc07c77fc7a56320da.jpg",
+    "caption": "Chartreuse青柠黄/皇家紫高饱和块色潮款T恤（优先A）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/6de4f2fc07c77fc7a56320da.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.mark541.com/single-post/fall-fashion-chartreuse",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "79ae731d644535a8760f6fb1",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "大波点T恤（优先B）",
+  "titleOrig": "Large polka dot tee（大波点T恤：11月预计+147%，Q4最值得关注的印花趋势）",
+  "summary": "Accio数据显示大波点Q4预计增长+147%、全年+43%，是2026下半年最值得关注的印花。大波点T恤（复古波点+圆点阵列+撞色）是Q4高增长方向，契合'Loud Luxury'张扬审美。设计可用大号波点+复古配色（黑底白点/红底白点/蓝底白点），做女装与童装线，风险低、辨识度高。",
+  "tags": [
+   "波点",
+   "Q4",
+   "复古",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2026时装元素趋势",
+    "type": "trends",
+    "url": "https://www.accio.com/business/what-styles-are-trending-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-11-01",
+    "label": "波点峰值",
+    "desc": "大波点T恤Q4+147%"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4059dba400be4b21b83ceced.jpg",
+    "caption": "大波点T恤（优先B）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/4059dba400be4b21b83ceced.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/what-styles-are-trending-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "4ace6c53119c5a9f13362d9a",
+  "country": "th",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "Oversized宽松廓形+泰式元素街头T恤（优先B）",
+  "titleOrig": "Oversized Thai streetwear tee（Oversized宽松廓形T恤+泰式元素，融合街头潮流与本地文化，契合TikTok泰国宽松趋势）",
+  "summary": "Oversized宽松T恤在TikTok持续热，契合'上松下也松'的松弛感穿搭。将Oversized廓形与泰式元素（大象、佛塔、泰文Slogan、金色几何）结合，做街头潮牌感的本地化T恤，是泰国差异化方向。设计用宽松落肩+泰文大字标语+民族图形，直播带货效果好。风险中等（文化元素需恰当使用）。",
+  "tags": [
+   "Oversized",
+   "泰式元素",
+   "街头",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio TikTok趋势分析",
+    "type": "trends",
+    "url": "https://accio.com/business/tiktok_trends_with_pictures",
+    "credibility": "中",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "街头趋势",
+    "desc": "Oversized+泰式元素街头T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/5a346d7fe4d2e25f7b984462.jpg",
+    "caption": "Oversized宽松廓形+泰式元素街头T恤（优先B）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/5a346d7fe4d2e25f7b984462.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://accio.com/business/tiktok_trends_with_pictures",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "53f04458a4690ab27fb18c19",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "松弛感大地色宽松T恤（优先B）",
+  "titleOrig": "Relaxed earth-tone oversized tee（'不费力时髦'松弛感T恤：大地色/水泥灰/水洗蓝/米白，上松下也松，叠穿核心）",
+  "summary": "2026秋冬街头'不费力时髦'：低饱和大地色、水泥灰、水洗蓝、米白，'上松下也松'的松弛廓形。宽松大地色T恤（燕麦色/卡其/灰蓝）作为叠穿内搭核心单品需求稳定，契合泰国/马来西亚年轻人的休闲穿搭。设计用宽松剪裁+柔软面料+极简设计，可搭配牛仔/阔腿裤，复购率高、风险低。",
+  "tags": [
+   "松弛感",
+   "大地色",
+   "叠穿",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "今日头条·不费力穿搭",
+    "type": "trends",
+    "url": "https://www.toutiao.com/article/7680445104095609373",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "街头趋势",
+    "desc": "松弛感大地色T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/74371cde4dba46b6b542f4b1.jpg",
+    "caption": "松弛感大地色宽松T恤（优先B）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/74371cde4dba46b6b542f4b1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.toutiao.com/article/7680445104095609373",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "962186c64cc878ce33ed71da",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 4,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "纯棉180GSM+透气网眼百搭款T恤（优先A）",
+  "titleOrig": "Plain cotton breathable tee（纯棉180GSM+高密透气网眼百搭T恤，全市场刚需，东南亚高温潮湿适应款）",
+  "summary": "东南亚高温潮湿+强日晒贯穿全年，舒适透气的纯棉/网眼T恤是长期刚需。亿邦动力报道的多SKU服装卖家案例：主推纯色运动短袖采用高密透气网眼面料出汗不易贴身，销售稳定。纯棉180GSM百搭款（白/黑/灰）+透气网眼运动款是Shopee/Lazada全市场走量核心，风险低、复购高，是9.9大促的引流基本盘。",
+  "tags": [
+   "纯棉",
+   "透气",
+   "基础款",
+   "优先A"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "亿邦动力·多SKU服装卖家",
+    "type": "news",
+    "url": "https://www.ebrun.com/20260901/704026.shtml",
+    "credibility": "高",
+    "region": "multi",
+    "mention": 5
+   }
+  ],
+  "credibilityScore": 82,
+  "buzzIndex": 70,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "刚需选品",
+    "desc": "纯棉透气百搭款全市场刚需"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0ae0e4170de0490597510abe.jpg",
+    "caption": "纯棉180GSM+透气网眼百搭款T恤（优先A）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/0ae0e4170de0490597510abe.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.ebrun.com/20260901/704026.shtml",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "ecdcbd375ef7b6717ef10255",
+  "country": "th",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "弹力熊/TikTok卡通动物图案T恤（优先B）",
+  "titleOrig": "Viral animal cartoon tee TikTok（TikTok动物卡通图案T恤：弹力熊等萌宠形象，短视频带货驱动爆单）",
+  "summary": "TikTok泰国弹力熊图案T恤曾月销爆单，动物卡通（小熊、萌宠、动物表情）图案T恤契合短视频视觉冲击与'可爱治愈'需求。设计可用大版萌宠印花+趣味表情+泰文互动文案，直播/短视频展示效果好。但需注意动物形象原创性避免侵权，风险中等。",
+  "tags": [
+   "弹力熊",
+   "卡通动物",
+   "短视频",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "FindNiche TikTok泰国男装趋势",
+    "type": "trends",
+    "url": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+    "credibility": "高",
+    "region": "th",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "短视频带货",
+    "desc": "动物卡通图案T恤爆单"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/b7a553ec78c1b70487c5a749.jpg",
+    "caption": "弹力熊/TikTok卡通动物图案T恤（优先B）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/b7a553ec78c1b70487c5a749.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "5d12b8b37460b0a7cdb42385",
+  "country": "my",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "巴迪蜡染Batik风格印花T恤（优先A）",
+  "titleOrig": "Batik-style print tee（马来西亚Batik蜡染风格印花T恤，本地文化IP，手工纹理+民族几何）",
+  "summary": "Batik蜡染是马来西亚标志性本土文化IP，近年复兴并走向国际。Batik风格印花T恤（蜡染手工纹理+民族几何/花卉图案+蓝棕配色）契合马来消费者的文化认同与游客市场。TikTok泰国泰式纹样爆单的逻辑同样适用于马来西亚Batik。设计用Batik传统图案数字化处理，风险低、文化价值高。",
+  "tags": [
+   "Batik",
+   "蜡染",
+   "马来西亚",
+   "优先A"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "FindNiche TikTok马来西亚趋势",
+    "type": "trends",
+    "url": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+    "credibility": "高",
+    "region": "my",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "文化IP",
+    "desc": "Batik蜡染印花T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/305a9ba38e254c0c837222e3.jpg",
+    "caption": "巴迪蜡染Batik风格印花T恤（优先A）",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/305a9ba38e254c0c837222e3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8c7b54de0f9b9b1d29e9048d",
+  "country": "th",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "Lisa同款/K-POP潮流关联T恤（优先B）",
+  "titleOrig": "Lisa & K-POP trend tee（Lisa/BLACKPINK/K-POP潮流关联T恤：MINISO×Lisa泰国首发+Lisa登VOGUE金九刊带动话题）",
+  "summary": "Lisa作为泰国籍BLACKPINK成员，其MINISO×Lisa联名9/1泰国首发+登VOGUE金九刊封面，泰国市场'Lisa同款'、'BLACKPINK'、'K-POP'话题度极高。K-POP潮流关联T恤（粉黑配色、偶像Slogan、Y2K图形）契合泰国年轻粉丝群体。但涉及明星形象需谨慎、避免直接使用真人肖像，风险中等。",
+  "tags": [
+   "Lisa",
+   "K-POP",
+   "BLACKPINK",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "商派ShopeX·时尚日报",
+    "type": "news",
+    "url": "https://www.shopex.cn/news/35988",
+    "credibility": "中",
+    "region": "th",
+    "mention": 4
+   },
+   {
+    "name": "微博·VOGUE金九刊封面",
+    "type": "news",
+    "url": "https://weibo.com/6405637991/5338290245862902",
+    "credibility": "中",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-01",
+    "label": "Lisa话题",
+    "desc": "MINISO×Lisa首发+金九刊登封"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/52651259102241c1b26e3b49.jpg",
+    "caption": "Lisa同款/K-POP潮流关联T恤（优先B）",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/52651259102241c1b26e3b49.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.shopex.cn/news/35988",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "0db5d59fd6adf3047861dab0",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "樱花粉/软粉+芭蕾蝴蝶结T恤（优先B）",
+  "titleOrig": "Soft pink ballet bow tee（2026秋冬软粉色+芭蕾元素T恤：soft pink关键色+芭蕾回归，蝴蝶结+缎带）",
+  "summary": "2026秋冬四大秀场趋势之一为软粉色系，同时芭蕾风回归（Yohji Yamamoto×Repetto、Gohar World×ASICS等联名）。软粉色+蝴蝶结/缎带/芭蕾舞者线条主题T恤契合女性客群，尤其BLACKPINK粉色审美在东南亚有基础。设计用soft pink打底+白色蝴蝶结/芭蕾图形，做女装与少女线，风险低、契合秋季。",
+  "tags": [
+   "软粉",
+   "芭蕾",
+   "蝴蝶结",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Fashion Style & Beauty秋冬趋势",
+    "type": "trends",
+    "url": "https://www.fashsb.com/what-everyone-will-be-wearing-in-fall-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "秋冬趋势",
+    "desc": "软粉+芭蕾元素T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/a4fbe2d030bd4297a2ab847c.jpg",
+    "caption": "樱花粉/软粉+芭蕾蝴蝶结T恤（优先B）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/a4fbe2d030bd4297a2ab847c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.fashsb.com/what-everyone-will-be-wearing-in-fall-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "2447f41c46bab12d1808de9a",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "条纹polo/高对比条纹T恤（优先B）",
+  "titleOrig": "Bold stripe polo & tee（2026秋冬大胆高对比条纹+条纹polo：rugby风、宽条纹，ELLE称polo仍是9月必备）",
+  "summary": "2026秋冬条纹趋势：宽条纹、rugby风、高对比组合，条纹polo（Mango巧克力棕条纹款）仍是9月必备过渡季单品。高对比宽条纹T恤/polo（黑白/蓝白/棕白）是经典+季节款，契合秋季。设计用醒目宽条纹+boxy剪裁+对比领，做polo与T恤双线，风险低、辨识度高。",
+  "tags": [
+   "条纹",
+   "polo",
+   "rugby",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sada Elbalad 7条秋冬趋势",
+    "type": "trends",
+    "url": "https://see.news/7-wearable-fall-fashion-trends-set-to-define-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   },
+   {
+    "name": "ELLE UK·polo衫趋势",
+    "type": "news",
+    "url": "https://www.elle.com/uk/fashion/what-to-wear/a73578411/preppy-polo-shirt-mango",
+    "credibility": "高",
+    "region": "global",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "条纹趋势",
+    "desc": "高对比条纹polo/T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/04f41eee2d8a44088351d5e7.jpg",
+    "caption": "条纹polo/高对比条纹T恤（优先B）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/04f41eee2d8a44088351d5e7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.elle.com/uk/fashion/what-to-wear/a73578411/preppy-polo-shirt-mango",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a6d20933f09fbd1402566e97",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "动物纹（豹纹斑马纹）T恤（优先B）",
+  "titleOrig": "Animal print leopard zebra tee（动物纹T恤：虎纹/豹纹/斑马纹，2026秋冬野性纹理方向）",
+  "summary": "2026秋冬印花趋势明确含'Faux Fur, Animal Print & Wild Texture'（人造皮草、动物纹与野性纹理）方向，豹纹腰带、斑马纹鞋成点睛单品。动物纹T恤（虎纹/豹纹/斑马纹）是时装周驱动的时尚印花，契合'Loud Luxury'张扬审美。设计用大面积动物纹+撞色或局部点缀，话题度高但需注意避免过度俗艳，风险中等。",
+  "tags": [
+   "动物纹",
+   "豹纹",
+   "野性纹理",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Fashion Style & Beauty秋冬印花",
+    "type": "trends",
+    "url": "https://www.fashsb.com/what-everyone-will-be-wearing-in-fall-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "动物纹趋势",
+    "desc": "豹纹斑马纹野性纹理T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ef35fcc1114140edadddce52.jpg",
+    "caption": "动物纹（豹纹斑马纹）T恤（优先B）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ef35fcc1114140edadddce52.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.fashsb.com/what-everyone-will-be-wearing-in-fall-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8b44478389e149e5f7fb628b",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "Cherry Red樱桃红点缀T恤（优先B）",
+  "titleOrig": "Cherry red accent tee（2026秋冬樱桃红点缀色T恤：配巧克力棕、炭灰、米白、牛仔等秋日常规中性色）",
+  "summary": "2026秋冬更新色为更亮的cherry red樱桃红（取代深红），不必全身穿，可通过手袋、围巾、鞋、毛衣与配饰融入，天然搭配巧克力棕、炭灰、米白、牛仔。樱桃红点缀T恤（樱桃红字标/樱桃图形/红色描边）契合秋季中性色穿搭，风险低、点亮整体造型，适合做男女同款。",
+  "tags": [
+   "樱桃红",
+   "点缀色",
+   "秋季",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sada Elbalad 7条秋冬趋势",
+    "type": "trends",
+    "url": "https://see.news/7-wearable-fall-fashion-trends-set-to-define-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 75,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "点缀色趋势",
+    "desc": "樱桃红点缀T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/9d8d2aa402940ff554b1a30d.jpg",
+    "caption": "Cherry Red樱桃红点缀T恤（优先B）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/9d8d2aa402940ff554b1a30d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://see.news/7-wearable-fall-fashion-trends-set-to-define-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a03572d9e7af20766ab161c5",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "格纹tartan/statement plaid T恤（优先C）",
+  "titleOrig": "Tartan plaid tee（格纹tartan/statement plaid T恤：12月回归+16%，秋冬复古格纹方向）",
+  "summary": "2026趋势显示12月格纹tartan回归（男装+16%、女装+12%），statement plaid（醒目格纹）是2026秋冬四大印花方向之一。格纹T恤（苏格兰格、棋盘格、校服格）作为秋冬季经典印花有稳定需求，尤其搭配大地色外套叠穿。设计用格纹局部拼接/格纹袖口/全格纹+纯色对比，风险低、秋冬适配。",
+  "tags": [
+   "格纹",
+   "tartan",
+   "复古",
+   "优先C"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2026时装元素趋势",
+    "type": "trends",
+    "url": "https://www.accio.com/business/what-styles-are-trending-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-12-01",
+    "label": "格纹回归",
+    "desc": "tartan格纹12月+16%"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/59178c596cd04f7d96848aa0.jpg",
+    "caption": "格纹tartan/statement plaid T恤（优先C）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/59178c596cd04f7d96848aa0.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/what-styles-are-trending-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "a99f9dd537e06b1fe8fde5a7",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "功能性环保棉/UPF防晒主题T恤（优先C）",
+  "titleOrig": "Sustainable UPF functional tee（功能性环保T恤：有机棉+UPF防晒+环保主题印花，东南亚气候适应+可持续消费）",
+  "summary": "2026服装趋势：可持续性从环保转向个人生存+自我实现，天然棉/亚麻、UPF防晒服因气候挑战崛起。东南亚高温强日晒环境，有机棉+UPF防晒卖点的T恤（环保主题印花：香蕉叶、地球、森林、海洋）契合年轻消费者的可持续意识。设计用天然色系+环保图形+功能标签（UPF50+/有机棉），风险低、长线需求。",
+  "tags": [
+   "有机棉",
+   "UPF",
+   "可持续",
+   "优先C"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2026趋势分析",
+    "type": "trends",
+    "url": "https://www.accio.com/business/what-styles-are-trending-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 56,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "功能趋势",
+    "desc": "有机棉+UPF防晒环保T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6208ded8887eb8fa206c8a93.jpg",
+    "caption": "功能性环保棉/UPF防晒主题T恤（优先C）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/6208ded8887eb8fa206c8a93.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/what-styles-are-trending-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "8621b4290a89efbfa0ff50ca",
+  "country": "th",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "高风险",
+  "hotDays": 30,
+  "titleCn": "12月5日泰国国庆黄T恤（优先B）",
+  "titleOrig": "Thailand National Day yellow tee（泰国国庆日+父亲节黄色T恤：12月5日全黄穿衣，康乃馨+爱国主题）",
+  "summary": "泰国12月5日国庆日+父亲节，全国穿黄衣纪念已故拉玛九世。黄色T恤+康乃馨/爱国主题在12月初有高需求，泰国人习惯穿黄表达敬重。设计用黄色打底+泰文'我爱泰国'/康乃馨图形/爱国标语，但涉及王室与国王的内容须严守礼法规矩、避免任何不敬元素，风险较高，建议做中性爱国/父亲主题而非王室肖像。",
+  "tags": [
+   "泰国国庆",
+   "黄衣",
+   "父亲节",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Edarabia·泰国国庆日",
+    "type": "news",
+    "url": "https://www.edarabia.com/?p=265475",
+    "credibility": "中",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 78,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-12-05",
+    "label": "国庆日+父亲节",
+    "desc": "泰国黄T恤应季"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "12月5日泰国国庆黄T恤（优先B）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.edarabia.com/?p=265475",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6027e12aebe42acd12eaface",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "动物卡通/萌宠T恤（优先C）",
+  "titleOrig": "Cute animal pet tee（萌宠/宠物主题T恤：宠物爱好者细分市场，情感共鸣+个性化）",
+  "summary": "T恤市场细分：宠物爱好者、萌宠、动物图形等'微细分'主题因让穿着者感觉'被看见'而积累忠实粉丝。萌宠/宠物主题T恤（猫狗插画、宠物肖像定制、动物表情包）契合东南亚宠物经济与情感消费。设计用手绘萌宠+趣味文案+可定制宠物肖像，风险低、社群属性强，适合抖音/Instagram种草。",
+  "tags": [
+   "萌宠",
+   "宠物",
+   "细分",
+   "优先C"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2025-26 T恤趋势",
+    "type": "trends",
+    "url": "https://www.accio.com/business/2025-trendy-tshirts",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 56,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "细分市场",
+    "desc": "萌宠宠物主题T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/78cd70e071f7463dbae350d7.jpg",
+    "caption": "动物卡通/萌宠T恤（优先C）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/78cd70e071f7463dbae350d7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/2025-trendy-tshirts",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "7ae031ae4eac16ed0e307ac4",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "灵感/励志Slogan T恤（优先C）",
+  "titleOrig": "Inspirational slogan tee（励志/激励Slogan T恤：hustle文化、自我肯定、心理健康主题，TikTok+Instagram内容传播）",
+  "summary": "励志Slogan T恤融合时尚与心态，契合hustle文化、心理健康、自我肯定主题，在健身、健康、个人成长社群流行，是'可穿的肯定语'，TikTok/Instagram传播效果好。设计用醒目大号英文/泰文/马来文励志语+极简排版，契合运动休闲与正念客群，风险低、内容传播属性强。",
+  "tags": [
+   "励志",
+   "Slogan",
+   "自我肯定",
+   "优先C"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2025-26 T恤趋势",
+    "type": "trends",
+    "url": "https://www.accio.com/business/2025-trendy-tshirts",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "Slogan趋势",
+    "desc": "励志Slogan T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ab733de94ae7c05650288e49.jpg",
+    "caption": "灵感/励志Slogan T恤（优先C）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ab733de94ae7c05650288e49.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/2025-trendy-tshirts",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "345bff3cc9ad2f5893cb88f4",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "Y2K/90年代复古T恤（优先C）",
+  "titleOrig": "Y2K 90s retro tee（Y2K/90年代复古T恤：粗体字体、大胆Slogan、鲜艳色，Gen Z个性表达）",
+  "summary": "Y2K与90年代复古风格在2026持续，粗体chunky字体、大胆Slogan、鲜艳色块与千禧图形尤其吸引Gen Z。Y2K复古T恤（荧光色、火焰字、千禧图标、Cyber风）契合泰国/马来西亚年轻消费者的个性表达与社交分享。Gohar World×ASICS等联名也印证Y2K回潮。设计用复古字型+高饱和色+千禧元素，风险中等。",
+  "tags": [
+   "Y2K",
+   "90年代",
+   "复古",
+   "优先C"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2025-26 T恤趋势",
+    "type": "trends",
+    "url": "https://www.accio.com/business/2025-trendy-tshirts",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 60,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "复古趋势",
+    "desc": "Y2K/90年代复古T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/3abc633af88d42b28f4ee220.jpg",
+    "caption": "Y2K/90年代复古T恤（优先C）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/3abc633af88d42b28f4ee220.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/2025-trendy-tshirts",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "695b9c130cdf20b8c1dd6453",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "不对称剪裁/单肩设计T恤（优先C）",
+  "titleOrig": "Asymmetrical detail tee（2026秋冬不对称细节T恤：单肩领口、斜裁下摆、偏中心纽扣，刷新基础款）",
+  "summary": "2026秋冬可穿戴趋势含不对称设计（单肩领口、斜裁下摆、偏中心纽扣、柔和垂坠），给基础单品当代感又不过于戏剧化。不对称剪裁/单肩设计T恤是'单件即焕新'的优质方向，契合女性消费者对基础款升级的需求，风险低、区分度高，可做差异化女装线。",
+  "tags": [
+   "不对称",
+   "剪裁",
+   "女装",
+   "优先C"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sada Elbalad 7条秋冬趋势",
+    "type": "trends",
+    "url": "https://see.news/7-wearable-fall-fashion-trends-set-to-define-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "不对称趋势",
+    "desc": "不对称剪裁T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/efe4b4ab1d0eec4089f4fa98.jpg",
+    "caption": "不对称剪裁/单肩设计T恤（优先C）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/efe4b4ab1d0eec4089f4fa98.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://see.news/7-wearable-fall-fashion-trends-set-to-define-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "4ef46365285be2e709ce257d",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 2,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "可持续环保主题T恤（优先C）",
+  "titleOrig": "Eco sustainability message tee（可持续环保主题T恤：环保信息+自然图形+大地色，契合可持续消费价值观）",
+  "summary": "T恤设计趋势含可持续主题：环保信息、自然图形、大地色T恤让消费者通过穿着反映价值观。设计用环保Slogan（REUSE/RECYCLE/Protect the Earth）+自然图形（树叶、地球、海洋、森林）+有机棉材质，契合东南亚年轻消费者的环保意识与品牌溢价意愿，风险低、长线需求。",
+  "tags": [
+   "可持续",
+   "环保",
+   "自然图形",
+   "优先C"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2025-26 T恤趋势",
+    "type": "trends",
+    "url": "https://www.accio.com/business/2025-trendy-tshirts",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 54,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "可持续趋势",
+    "desc": "环保主题T恤"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ea5dbd13f61743039037029c.jpg",
+    "caption": "可持续环保主题T恤（优先C）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ea5dbd13f61743039037029c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/2025-trendy-tshirts",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "0516a5ea3227bf37808b5989",
+  "country": "th",
+  "cat": "other",
+  "catCn": "T恤设计",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "万圣节南瓜鬼怪T恤（优先B）",
+  "titleOrig": "Halloween pumpkin ghost tee（万圣节主题T恤：南瓜、鬼怪、蝙蝠、幽灵，10月31日应季）",
+  "summary": "万圣节10月31日，曼谷等泰国城市变装派对与主题服饰热度高，年轻群体参与度高。南瓜、鬼怪、蝙蝠、幽灵、骷髅主题T恤在10月中下旬应季，契合派对穿搭与情侣/朋友装。设计用橙黑配色+卡通恐怖图形+趣味文案（Boo!/Trick or Treat），风险中等（恐怖元素需适度）。",
+  "tags": [
+   "万圣节",
+   "南瓜",
+   "鬼怪",
+   "优先B"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Denz Phuket·普吉活动",
+    "type": "news",
+    "url": "https://denzphuket.com/best-events-and-festivals-in-phuket-this-september",
+    "credibility": "高",
+    "region": "th",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 64,
+  "timeline": [
+   {
+    "date": "2026-10-31",
+    "label": "万圣节",
+    "desc": "南瓜鬼怪T恤应季"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/40df5f29fef94c1bb9730a5f.jpg",
+    "caption": "万圣节南瓜鬼怪T恤（优先B）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/40df5f29fef94c1bb9730a5f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://denzphuket.com/best-events-and-festivals-in-phuket-this-september",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "dce9e3fdd15d6b2747688fba",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "时间窗口",
+  "stars": 4,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "【红色窗口】10-11月大促+屠妖节+水灯节密集，T恤销售最旺期",
+  "titleOrig": "RED window Oct-Nov peak（【红色窗口】10-11月大促+节日密集，9.9/10.10/11.11大促叠加屠妖节11/8+水灯节11/24，T恤销售最旺期）",
+  "summary": "10-11月是泰马T恤销售的红色窗口（最旺期）：Shopee 9.9（9/9）、10.10品牌节（10/10）、11.11超级大促（11/11）三场大促接棒，叠加马来西亚屠妖节Deepavali（11/8）、泰国水灯节Loy Krathong（11/24）、普吉素食节（10/8-17）、万圣节（10/31）等密集节庆。9月上旬是提前备货窗口，11月是全年最大购物节。",
+  "tags": [
+   "红色窗口",
+   "大促",
+   "11.11",
+   "销售旺季"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Cloud Ecommerce Shopee 9.9指南",
+    "type": "news",
+    "url": "https://www.cloudecommerce.com/blog/shopee-99-super-shopping-day-2026-complete-seller-preparation-guide",
+    "credibility": "高",
+    "region": "multi",
+    "mention": 4
+   },
+   {
+    "name": "Outside·Diwali 2026",
+    "type": "news",
+    "url": "https://outside.so/what-day-is/what-day-is-diwali-2026",
+    "credibility": "中",
+    "region": "my",
+    "mention": 2
+   }
+  ],
+  "credibilityScore": 84,
+  "buzzIndex": 80,
+  "timeline": [
+   {
+    "date": "2026-09-09",
+    "label": "9.9大促",
+    "desc": "双位数大促季开启"
+   },
+   {
+    "date": "2026-11-11",
+    "label": "11.11超级大促",
+    "desc": "全年最大购物节"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4557b7000ee80c39e4d23ef8.jpg",
+    "caption": "【红色窗口】10-11月大促+屠妖节+水灯节密集，T恤销售最旺期",
+    "source": "同类目复用"
+   }
+  ],
+  "cover": "real/4557b7000ee80c39e4d23ef8.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用",
+  "primaryUrl": "https://www.cloudecommerce.com/blog/shopee-99-super-shopping-day-2026-complete-seller-preparation-guide",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "99d9900b2f74f3749157ecfb",
+  "country": "multi",
+  "cat": "other",
+  "catCn": "时间窗口",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "【黄色窗口】9月上旬备货期，为大促+节日做库存准备",
+  "titleOrig": "YELLOW window early-Sept stock-up（【黄色窗口】9月上旬备货期，为9.9大促/中秋9/25/马来西亚日9/16做库存与选品准备）",
+  "summary": "9月上旬是黄色备货窗口：Shopee 9.9大促9/9、中秋节9/25、马来西亚成立日9/16、普吉素食节10/8-17临近，正是T恤卖家补货、备SKU、上架节日款的最佳时机。亿邦动力案例建议库存覆盖40-60天销售、每周分两批补货，9月上旬应完成中秋/国庆主题款上架与大促备货。",
+  "tags": [
+   "黄色窗口",
+   "备货",
+   "库存",
+   "选品"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "亿邦动力·多SKU服装卖家",
+    "type": "news",
+    "url": "https://www.ebrun.com/20260901/704026.shtml",
+    "credibility": "高",
+    "region": "multi",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-05",
+    "label": "备货关键期",
+    "desc": "为9.9+节日款补货上架"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/54eee948d4b648199e67383c.jpg",
+    "caption": "【黄色窗口】9月上旬备货期，为大促+节日做库存准备",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/54eee948d4b648199e67383c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.ebrun.com/20260901/704026.shtml",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "226581567f418d7f68b4424c",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "Art Deco几何/串珠/流苏印花，取代极简主义",
+  "titleOrig": "Art Deco geometric beading print（Art Deco艺术装饰风印花：垂坠腰线、串珠、几何图案、流苏，成为2026秋冬对极简主义的解药）",
+  "summary": "Vogue持续报道Art Deco参考（垂坠腰线、串珠、几何图案、流苏）作为对去年'stark minimalism'（严格极简主义）的解药。Art Deco几何印花T恤（扇面、阳光射线、对称几何、流苏纹理）契合2026秋冬'装饰感回归'，可在女装与派对T恤上应用，风险低、设计语言清晰。",
+  "tags": [
+   "Art Deco",
+   "几何",
+   "流苏",
+   "装饰感"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "mark541 Fashion Trend分析",
+    "type": "trends",
+    "url": "https://www.mark541.com/single-post/fall-fashion-chartreuse",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "Art Deco趋势",
+    "desc": "几何串珠流苏印花，极简主义解药"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/b73d351708e04a48830078b1.jpg",
+    "caption": "Art Deco几何/串珠/流苏印花，取代极简主义",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/b73d351708e04a48830078b1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.mark541.com/single-post/fall-fashion-chartreuse",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "981d519fbda9e1ceaf785b92",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "Y2K千禧/90年代Chunky字体与荧光色印花",
+  "titleOrig": "Y2K chunky font neon print（Y2K千禧风格印花：粗体chunky字体、大胆Slogan、鲜艳色块、千禧图形，Gen Z潮流）",
+  "summary": "Y2K与90年代复古风格主导T恤印花：粗体chunky字体、大胆Slogan、鲜艳色块（荧光色、Cyber风、火焰字），尤其吸引Gen Z。Gohar World×ASICS、adidas×Neighborhood等联名印证Y2K回潮。Y2K印花T恤在Instagram/TikTok分享度高，契合泰国/马来西亚年轻消费群，风险中等。",
+  "tags": [
+   "Y2K",
+   "荧光色",
+   "Chunky字体",
+   "Gen Z"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2025-26 T恤趋势",
+    "type": "trends",
+    "url": "https://www.accio.com/business/2025-trendy-tshirts",
+    "credibility": "中",
+    "region": "global",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "Y2K印花",
+    "desc": "Chunky字体荧光色千禧图形"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7c4bb437c1fb46519e110385.jpg",
+    "caption": "Y2K千禧/90年代Chunky字体与荧光色印花",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7c4bb437c1fb46519e110385.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/2025-trendy-tshirts",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "6827a67ed3c7c14ed6e2c5ed",
+  "country": "multi",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "平锁缝线flat-lock细节+功能性运动印花（Q4+19%）",
+  "titleOrig": "Flat-lock stitching detail trend（2026Q4平锁缝线flat-lock stitching预计+19%，运动功能细节印花与缝线装饰）",
+  "summary": "Accio数据显示10月平锁缝线（flat-lock stitching）预计增长+19%（Q4），反映运动/功能性细节在服装上的回归。T恤可借力运动功能元素：平锁缝线纹路、运动织带、反光条、数字号码、比赛号码牌等运动印花，契合TikTok运动休闲潮，风险低、功能感强。",
+  "tags": [
+   "平锁缝线",
+   "运动功能",
+   "织带",
+   "反光"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio 2026时装元素趋势",
+    "type": "trends",
+    "url": "https://www.accio.com/business/what-styles-are-trending-2026",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 58,
+  "timeline": [
+   {
+    "date": "2026-10-01",
+    "label": "平锁缝线峰值",
+    "desc": "Q4预计+19%"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f5fc7f7c756c4e139d2bad73.jpg",
+    "caption": "平锁缝线flat-lock细节+功能性运动印花（Q4+19%）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/f5fc7f7c756c4e139d2bad73.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://www.accio.com/business/what-styles-are-trending-2026",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "09e098c33112ec6887a016d7",
+  "country": "th",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 4,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 45,
+  "titleCn": "泰式纹样/大象佛塔莲花文化印花（Instagram传播）",
+  "titleOrig": "Thai pattern elephant pagoda lotus print（泰式纹样印花：大象、佛塔、莲花、金色几何，泰国文化认同+游客文创，Instagram/TikTok传播）",
+  "summary": "泰式纹样polo衫在TikTok爆单印证泰式文化元素（大象、佛塔、莲花、金色几何）的吸金力。泰式纹样印花T恤契合泰国人的文化认同与游客文创市场，在Instagram/TikTok传播力强。设计用泰式民族几何+金色点缀+大象/佛塔剪影，是泰国本土与游客双重市场的高确定性图案，风险低。",
+  "tags": [
+   "泰式纹样",
+   "大象",
+   "佛塔",
+   "文化印花"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "FindNiche TikTok泰国男装趋势",
+    "type": "trends",
+    "url": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+    "credibility": "高",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 72,
+  "timeline": [
+   {
+    "date": "2026-09-02",
+    "label": "泰式印花",
+    "desc": "大象佛塔莲花文化印花"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/5da82800cf2c457b98f53185.jpg",
+    "caption": "泰式纹样/大象佛塔莲花文化印花（Instagram传播）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/5da82800cf2c457b98f53185.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://findniche.com/tiktok/trending-menswear-and-underwear-products",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "229283a3aeabf35e4ee14721",
+  "country": "th",
+  "cat": "society",
+  "catCn": "印花图案",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "万圣节主题印花：南瓜、骷髅、蝙蝠（Pinterest热门）",
+  "titleOrig": "Halloween print pumpkin skull bat（万圣节主题印花：南瓜、骷髅、蝙蝠、幽灵，10月Pinterest/Instagram应季热图）",
+  "summary": "万圣节10月31日临近，Pinterest与Instagram的万圣节主题印花（南瓜、骷髅、蝙蝠、幽灵、蜘蛛网）在10月迎来应季搜索高峰。泰国的年轻群体与派对文化带动万圣节T恤需求。设计用橙黑配色+卡通恐怖图形+趣味文案，契合派对/情侣装，风险中等。",
+  "tags": [
+   "万圣节",
+   "南瓜",
+   "骷髅",
+   "应季"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio TikTok趋势",
+    "type": "trends",
+    "url": "https://accio.com/business/tiktok_trends_with_pictures",
+    "credibility": "中",
+    "region": "global",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-10-31",
+    "label": "万圣节",
+    "desc": "万圣节印花T恤应季"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/43692b48c335ae6533ea2138.jpg",
+    "caption": "万圣节主题印花：南瓜、骷髅、蝙蝠（Pinterest热门）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/43692b48c335ae6533ea2138.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://accio.com/business/tiktok_trends_with_pictures",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9a2135e3f7f69e463c2bf682",
+  "country": "th",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 15,
+  "titleCn": "9月2日泰国普吉Por Tor中元节（亡魂节）主题印花（尾声）",
+  "titleOrig": "Por Tor festival Thai ghost festival print（泰国普吉Por Tor亡魂节/中元节：泰华祭祖、蒸鬼币蒸糕、街头贡品与戏曲，8/19-9/6）",
+  "summary": "普吉Por Tor（中元节/亡魂节）8月19日-9月6日举行，泰华社区在普吉镇神坛祭祖，供奉巨型蒸‘鬼币’馒头、街头贡品与戏曲。9月2日临近尾声，中元节/祭祖主题与蒸糕图形在泰国华人文化中有辨识度，可作为普吉游客文创T恤元素。涉及宗教祭祖需谨慎，风险中等。",
+  "tags": [
+   "中元节",
+   "Por Tor",
+   "普吉",
+   "祭祖"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Denz Phuket·9月普吉活动",
+    "type": "news",
+    "url": "https://denzphuket.com/best-events-and-festivals-in-phuket-this-september",
+    "credibility": "高",
+    "region": "th",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 74,
+  "buzzIndex": 56,
+  "timeline": [
+   {
+    "date": "2026-08-19",
+    "label": "Por Tor开始",
+    "desc": "普吉中元节祭祖蒸糕"
+   },
+   {
+    "date": "2026-09-06",
+    "label": "Por Tor结束",
+    "desc": "最后一周在9月上旬"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7278fa66223845849c74ca82.jpg",
+    "caption": "9月2日泰国普吉Por Tor中元节（亡魂节）主题印花（尾声）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7278fa66223845849c74ca82.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://denzphuket.com/best-events-and-festivals-in-phuket-this-september",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9dfd1dac3e9aea73576d01c0",
+  "country": "my",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "马来西亚屠妖节前Diwali购物季10月下旬启动（灯饰+新衣）",
+  "titleOrig": "Diwali shopping season late-Oct（马来西亚屠妖节Diwali购物季10月下旬启动：灯饰、新衣、礼物采购高峰，11/8屠妖节）",
+  "summary": "马来西亚屠妖节Diwali购物季通常提前2-3周（10月下旬）启动：印度裔家庭采购灯饰、新衣、礼物、甜点与家居装饰，是节庆零售高峰。屠妖节新衣T恤（油灯/kolam/绚丽色块/吉祥图案）在10月下旬-11月8日有明确需求，契合印度裔家庭节庆着装，风险低。",
+  "tags": [
+   "屠妖节",
+   "Diwali",
+   "购物季",
+   "新衣"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Journey DMC·Diwali庆典",
+    "type": "news",
+    "url": "https://journeydmc.com/festival/diwali",
+    "credibility": "中",
+    "region": "my",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 66,
+  "timeline": [
+   {
+    "date": "2026-10-20",
+    "label": "购物季启动",
+    "desc": "屠妖节灯饰新衣采购高峰"
+   },
+   {
+    "date": "2026-11-08",
+    "label": "屠妖节",
+    "desc": "Diwali主庆典"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/3421e2e8e26d1f32851c3f45.jpg",
+    "caption": "马来西亚屠妖节前Diwali购物季10月下旬启动（灯饰+新衣）",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/3421e2e8e26d1f32851c3f45.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://journeydmc.com/festival/diwali",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "e82e26a7c4ab609ce332631b",
+  "country": "th",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "中风险",
+  "hotDays": 30,
+  "titleCn": "泰国万圣节10月31日曼谷变装派对，服装+饰品应季",
+  "titleOrig": "Thailand Halloween Oct 31 parties（泰国万圣节10月31日：曼谷变装派对与主题服饰热度，年轻群体+游客参与）",
+  "summary": "泰国虽非法定假日但万圣节10月31日在曼谷等城市人气高，变装派对、酒吧活动与主题服饰热，年轻群体与游客参与度高。万圣节主题T恤（南瓜/鬼怪/骷髅/蝙蝠+趣味文案）在10月中下旬应季，契合派对穿搭，风险中等。",
+  "tags": [
+   "万圣节",
+   "变装派对",
+   "泰国",
+   "应季"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Accio TikTok趋势",
+    "type": "trends",
+    "url": "https://accio.com/business/tiktok_trends_with_pictures",
+    "credibility": "中",
+    "region": "th",
+    "mention": 3
+   }
+  ],
+  "credibilityScore": 70,
+  "buzzIndex": 62,
+  "timeline": [
+   {
+    "date": "2026-10-31",
+    "label": "万圣节",
+    "desc": "曼谷变装派对服饰热"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1befcb7a330a56e2deae649a.jpg",
+    "caption": "泰国万圣节10月31日曼谷变装派对，服装+饰品应季",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/1befcb7a330a56e2deae649a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://accio.com/business/tiktok_trends_with_pictures",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
+  "fresh": true
+ },
+ {
+  "id": "9c2bb748f44dd9281ce8875a",
+  "country": "my",
+  "cat": "society",
+  "catCn": "节日印花",
+  "stars": 3,
+  "printType": "图案款",
+  "risk": "低风险",
+  "hotDays": 30,
+  "titleCn": "2026年印度排灯节/屠妖节五连假（11/6-11/10），节庆消费高峰",
+  "titleOrig": "Diwali five-day festival Nov 6-10（2026屠妖节五连庆：11/5 Vasubaras、11/6 Dhanteras、11/8 Lakshmi Pujan、11/10 Diwali Padwa、11/11 Bhaubeej）",
+  "summary": "2026年屠妖节Diwali五连庆：11月5日Vasubaras、6日Dhanteras（吉祥购物日）、8日Lakshmi Pujan（主庆典）、10日Diwali Padwa、11日Bhaubeej。Dhanteras被视为吉祥购物日（买金/新物），11月上旬是印度裔消费高峰。屠妖节主题T恤（油灯/莲花/吉祥符号）在11月上旬高需求，风险低。",
+  "tags": [
+   "屠妖节",
+   "Diwali",
+   "五连庆",
+   "吉祥购物日"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Kalnirnay November 2026",
+    "type": "news",
+    "url": "https://kalnirnay.io/november",
+    "credibility": "中",
+    "region": "my",
+    "mention": 4
+   }
+  ],
+  "credibilityScore": 76,
+  "buzzIndex": 68,
+  "timeline": [
+   {
+    "date": "2026-11-05",
+    "label": "Vasubaras",
+    "desc": "屠妖节五连庆开始"
+   },
+   {
+    "date": "2026-11-08",
+    "label": "Lakshmi Pujan",
+    "desc": "主庆典日"
+   }
+  ],
+  "timeAbs": "2026-09-02",
+  "timeRel": "2026-09-02 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ad49847983f44648b04b086a.jpg",
+    "caption": "2026年印度排灯节/屠妖节五连假（11/6-11/10），节庆消费高峰",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ad49847983f44648b04b086a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "https://kalnirnay.io/november",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 0
+  },
+  "batch": "daily-2026-09-02",
   "fresh": true
  }
 ];
