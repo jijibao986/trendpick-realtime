@@ -1,4 +1,4 @@
-window.SITE_UPDATED = "2026-09-09T09:29:24";
+window.SITE_UPDATED = "2026-09-10T09:14:31";
 window.EVENTS = [
  {
   "id": "eb8a9cfd0f3b4edaa410f165",
@@ -268035,6 +268035,9368 @@ window.EVENTS = [
    "social_only": 1
   },
   "batch": "daily-2026-09-09",
+  "fresh": true
+ },
+ {
+  "id": "16883084b3cfa6d3e8c090fc",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：LOVERRUKK AT COACH NYFW27",
+  "titleOrig": "LOVERRUKK AT COACH NYFW27（时装/联名）",
+  "summary": "trends24 泰国榜今日热趋「LOVERRUKK AT COACH NYFW27（时装/联名）」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "LOVERRUKK AT COACH NYFW27",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：LOVERRUKK AT COACH NYFW27",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7af9694b5c0749c4b575d744.jpg",
+    "caption": "泰国X热趋：LOVERRUKK AT COACH NYFW27",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7af9694b5c0749c4b575d744.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "1645946992f4b509e7239991",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：OLFDreamOninMexico",
+  "titleOrig": "#OLFDreamOninMexico（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#OLFDreamOninMexico（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "OLFDreamOninMexico",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：OLFDreamOninMexico",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/9143d8efe8bf44b18f3cbcde.jpg",
+    "caption": "泰国X热趋：OLFDreamOninMexico",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/9143d8efe8bf44b18f3cbcde.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "a80d7f544a413b80c46861f0",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：HBDOurZEEPRUK",
+  "titleOrig": "#HBDOurZEEPRUK（系列剧/剧集）",
+  "summary": "trends24 泰国榜今日热趋「#HBDOurZEEPRUK（系列剧/剧集）」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "HBDOurZEEPRUK",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：HBDOurZEEPRUK",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/cbfef9103af11ca37a0962dc.jpg",
+    "caption": "泰国X热趋：HBDOurZEEPRUK",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/cbfef9103af11ca37a0962dc.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "9772bf6e384702d59df892b9",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：JOSSGAWIN OFDO IN MEXICO",
+  "titleOrig": "JOSSGAWIN OFDO IN MEXICO（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「JOSSGAWIN OFDO IN MEXICO（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "JOSSGAWIN OFDO IN MEXICO",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：JOSSGAWIN OFDO IN MEXICO",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/8ab71b32409d209e045c1b1d.jpg",
+    "caption": "泰国X热趋：JOSSGAWIN OFDO IN MEXICO",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/8ab71b32409d209e045c1b1d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "f7e0eda02c8053664225b586",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：EARTHMIX LOVE ACROSS THE MILES",
+  "titleOrig": "EARTHMIX LOVE ACROSS THE MILES（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「EARTHMIX LOVE ACROSS THE MILES（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "EARTHMIX LOVE ACROSS THE MILES",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：EARTHMIX LOVE ACROSS THE MILES",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1e06133d2cc29acb99e30e1c.jpg",
+    "caption": "泰国X热趋：EARTHMIX LOVE ACROSS THE MILES",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/1e06133d2cc29acb99e30e1c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "a01f21dcd678ddcfbaae4931",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：CalvinKleinxThomas",
+  "titleOrig": "#CalvinKleinxThomas（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#CalvinKleinxThomas（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "CalvinKleinxThomas",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：CalvinKleinxThomas",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1437f7eeaa45b2e0f3720382.jpg",
+    "caption": "泰国X热趋：CalvinKleinxThomas",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/1437f7eeaa45b2e0f3720382.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "88cde1d3157be7db766e8746",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：AppleEvent",
+  "titleOrig": "#AppleEvent（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#AppleEvent（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "AppleEvent",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：AppleEvent",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/17f59f6d03ac6074ee325447.jpg",
+    "caption": "泰国X热趋：AppleEvent",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/17f59f6d03ac6074ee325447.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "b4c190c128cbcb74426bc1c0",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：PRECIOUS TIME CHARLOTTE10",
+  "titleOrig": "PRECIOUS TIME CHARLOTTE10（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「PRECIOUS TIME CHARLOTTE10（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "PRECIOUS TIME CHARLOTTE10",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：PRECIOUS TIME CHARLOTTE10",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ec320a351878064eadcf5b89.jpg",
+    "caption": "泰国X热趋：PRECIOUS TIME CHARLOTTE10",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ec320a351878064eadcf5b89.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "a91a71fe05306e4dd6c978da",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：iPhone Duo",
+  "titleOrig": "iPhone Duo（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「iPhone Duo（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "iPhone Duo",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：iPhone Duo",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ce11c19f3afe599d76ecbafe.jpg",
+    "caption": "泰国X热趋：iPhone Duo",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ce11c19f3afe599d76ecbafe.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "125635c75bbb6a6288ec722e",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：AOUBOOM X OFDO MEXICO",
+  "titleOrig": "AOUBOOM X OFDO MEXICO（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「AOUBOOM X OFDO MEXICO（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "AOUBOOM X OFDO MEXICO",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：AOUBOOM X OFDO MEXICO",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/2743ed44a09f48eda9da6788.jpg",
+    "caption": "泰国X热趋：AOUBOOM X OFDO MEXICO",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/2743ed44a09f48eda9da6788.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "37891956f5e5ca40250813f7",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：sea_tawinan",
+  "titleOrig": "#sea_tawinan（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#sea_tawinan（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "sea_tawinan",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：sea_tawinan",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4963ee8de03f440185f99cbf.jpg",
+    "caption": "泰国X热趋：sea_tawinan",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/4963ee8de03f440185f99cbf.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "2481a8ad92ca0e9f22597c8a",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：PHUWIN STINT IN NYC",
+  "titleOrig": "PHUWIN STINT IN NYC（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「PHUWIN STINT IN NYC（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "PHUWIN STINT IN NYC",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：PHUWIN STINT IN NYC",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4059dba400be4b21b83ceced.jpg",
+    "caption": "泰国X热趋：PHUWIN STINT IN NYC",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/4059dba400be4b21b83ceced.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "2db8d371f44cb01ad76130cf",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：PERTHSANTA 99 DEALS DRPONG",
+  "titleOrig": "PERTHSANTA 99 DEALS DRPONG（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「PERTHSANTA 99 DEALS DRPONG（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "PERTHSANTA 99 DEALS DRPONG",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：PERTHSANTA 99 DEALS DRPONG",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/aeb95429492ff4b7cfdb590c.jpg",
+    "caption": "泰国X热趋：PERTHSANTA 99 DEALS DRPONG",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/aeb95429492ff4b7cfdb590c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "315b1086d702997ac7254676",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：LINGLING LIVE WITH MISTINE",
+  "titleOrig": "LINGLING LIVE WITH MISTINE（直播/现场活动）",
+  "summary": "trends24 泰国榜今日热趋「LINGLING LIVE WITH MISTINE（直播/现场活动）」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "LINGLING LIVE WITH MISTINE",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：LINGLING LIVE WITH MISTINE",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7f255d2028851b3c7cf2df19.jpg",
+    "caption": "泰国X热趋：LINGLING LIVE WITH MISTINE",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7f255d2028851b3c7cf2df19.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "62f37946047017e37ac79afd",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：FOURTH IN NEW YORK",
+  "titleOrig": "FOURTH IN NEW YORK（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「FOURTH IN NEW YORK（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "FOURTH IN NEW YORK",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：FOURTH IN NEW YORK",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/59e9c4e40e548af00bebd7b2.jpg",
+    "caption": "泰国X热趋：FOURTH IN NEW YORK",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/59e9c4e40e548af00bebd7b2.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "2be9b54b3cc7b9cc5c5bbca2",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：Secret of Shadow",
+  "titleOrig": "Secret of Shadow（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「Secret of Shadow（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "Secret of Shadow",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：Secret of Shadow",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/5a346d7fe4d2e25f7b984462.jpg",
+    "caption": "泰国X热趋：Secret of Shadow",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/5a346d7fe4d2e25f7b984462.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "3ff3bfdabd4425e931375327",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：เอิร์ทมิกซ์",
+  "titleOrig": "#เอิร์ทมิกซ์（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#เอิร์ทมิกซ์（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "เอิร์ทมิกซ์",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：เอิร์ทมิกซ์",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/f978c1b98921ef2fe835bf43.jpg",
+    "caption": "泰国X热趋：เอิร์ทมิกซ์",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/f978c1b98921ef2fe835bf43.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "c1f65fb49e3f2d62ede18b9c",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：MoonshadowSeriesEP5",
+  "titleOrig": "#MoonshadowSeriesEP5（系列剧/剧集）",
+  "summary": "trends24 泰国榜今日热趋「#MoonshadowSeriesEP5（系列剧/剧集）」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "MoonshadowSeriesEP5",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：MoonshadowSeriesEP5",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c7d7c856d060812402c28a85.jpg",
+    "caption": "泰国X热趋：MoonshadowSeriesEP5",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/c7d7c856d060812402c28a85.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "d3aea76ab212726414b7db5c",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：bbrightvc",
+  "titleOrig": "#bbrightvc（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#bbrightvc（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "bbrightvc",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：bbrightvc",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/74429751454c16eb1cc336ef.jpg",
+    "caption": "泰国X热趋：bbrightvc",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/74429751454c16eb1cc336ef.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "480dd4b9c8dbfef9b6d34d19",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：TommyFamily",
+  "titleOrig": "#TommyFamily（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#TommyFamily（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "TommyFamily",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：TommyFamily",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/aed1cacf457eaf68e09b26b0.jpg",
+    "caption": "泰国X热趋：TommyFamily",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/aed1cacf457eaf68e09b26b0.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "9002b3a4bf76de6076df8e31",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：TommyHilfiger",
+  "titleOrig": "#TommyHilfiger（Tommy Hilfiger（汤米·希尔费格））",
+  "summary": "trends24 泰国榜今日热趋「#TommyHilfiger（Tommy Hilfiger（汤米·希尔费格））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "TommyHilfiger",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：TommyHilfiger",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/61ff67ef69673534360141d7.jpg",
+    "caption": "泰国X热趋：TommyHilfiger",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/61ff67ef69673534360141d7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "67afe3dd23ed64fe72c7e0ce",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：99LIVEDrPONGxPERTHSANTA",
+  "titleOrig": "#99LIVEDrPONGxPERTHSANTA（直播/现场活动）",
+  "summary": "trends24 泰国榜今日热趋「#99LIVEDrPONGxPERTHSANTA（直播/现场活动）」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "99LIVEDrPONGxPERTHSANTA",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：99LIVEDrPONGxPERTHSANTA",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c02bc2aa719047e5a6aea4b8.jpg",
+    "caption": "泰国X热趋：99LIVEDrPONGxPERTHSANTA",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/c02bc2aa719047e5a6aea4b8.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "850ad1740924db28f18938d9",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：ONENIGHTwithMISTINExLINGLING",
+  "titleOrig": "#ONENIGHTwithMISTINExLINGLING（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#ONENIGHTwithMISTINExLINGLING（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "ONENIGHTwithMISTINExLINGLING",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：ONENIGHTwithMISTINExLINGLING",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/58c6b29865c96290d2605b5f.jpg",
+    "caption": "泰国X热趋：ONENIGHTwithMISTINExLINGLING",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/58c6b29865c96290d2605b5f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "ae2bca96e03119478a82a2c8",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：NOURTheSeriesEP5",
+  "titleOrig": "#NOURTheSeriesEP5（系列剧/剧集）",
+  "summary": "trends24 泰国榜今日热趋「#NOURTheSeriesEP5（系列剧/剧集）」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "NOURTheSeriesEP5",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：NOURTheSeriesEP5",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/70a030c60349499498ec8f36.jpg",
+    "caption": "泰国X热趋：NOURTheSeriesEP5",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/70a030c60349499498ec8f36.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "9888b3fd23db9244e98769b4",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：สวัสดีอู่อู๋เซฟ",
+  "titleOrig": "#สวัสดีอู่อู๋เซฟ（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#สวัสดีอู่อู๋เซฟ（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "สวัสดีอู่อู๋เซฟ",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：สวัสดีอู่อู๋เซฟ",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/74429751454c16eb1cc336ef.jpg",
+    "caption": "泰国X热趋：สวัสดีอู่อู๋เซฟ",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/74429751454c16eb1cc336ef.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "34c0633f149471ba2698dbde",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：SupalaixMchoiceMintAwards2026",
+  "titleOrig": "#SupalaixMchoiceMintAwards2026（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#SupalaixMchoiceMintAwards2026（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "SupalaixMchoiceMintAwards2026",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：SupalaixMchoiceMintAwards2026",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ba39ad5e9b6650ac9841077a.jpg",
+    "caption": "泰国X热趋：SupalaixMchoiceMintAwards2026",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ba39ad5e9b6650ac9841077a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "1961f46b81c800b61e7d05ba",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：TommySS27",
+  "titleOrig": "#TommySS27（时装/联名）",
+  "summary": "trends24 泰国榜今日热趋「#TommySS27（时装/联名）」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "TommySS27",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：TommySS27",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/59e9c4e40e548af00bebd7b2.jpg",
+    "caption": "泰国X热趋：TommySS27",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/59e9c4e40e548af00bebd7b2.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "4c638d306338393f75ea7a7f",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：VogueGala2026",
+  "titleOrig": "#VogueGala2026（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#VogueGala2026（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "VogueGala2026",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：VogueGala2026",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/79b9100470ed4b41940e62a5.jpg",
+    "caption": "泰国X热趋：VogueGala2026",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/79b9100470ed4b41940e62a5.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "da9476f13d53296d21c6e8e3",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：VogueGala2026xNamping",
+  "titleOrig": "#VogueGala2026xNamping（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#VogueGala2026xNamping（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "VogueGala2026xNamping",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：VogueGala2026xNamping",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e4cc4485e978c13594b5939b.jpg",
+    "caption": "泰国X热趋：VogueGala2026xNamping",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/e4cc4485e978c13594b5939b.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "542e4264c091b114db918fc3",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：Schiaparelli",
+  "titleOrig": "#Schiaparelli（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「#Schiaparelli（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "Schiaparelli",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：Schiaparelli",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/db289ead13bc76f4e85ca8c4.jpg",
+    "caption": "泰国X热趋：Schiaparelli",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/db289ead13bc76f4e85ca8c4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "359ab867c7dff13bb6af16dd",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：ShopeelivexTleFirstoneTaketwo",
+  "titleOrig": "#ShopeelivexTleFirstoneTaketwo（直播/现场活动）",
+  "summary": "trends24 泰国榜今日热趋「#ShopeelivexTleFirstoneTaketwo（直播/现场活动）」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "ShopeelivexTleFirstoneTaketwo",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：ShopeelivexTleFirstoneTaketwo",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/5d40ca5f414a42d1a6e81c0f.jpg",
+    "caption": "泰国X热趋：ShopeelivexTleFirstoneTaketwo",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/5d40ca5f414a42d1a6e81c0f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "7cbcf0b002c8a541b7edebbd",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：FIRSTONE SHOPEE TLE",
+  "titleOrig": "FIRSTONE SHOPEE TLE（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「FIRSTONE SHOPEE TLE（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "FIRSTONE SHOPEE TLE",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：FIRSTONE SHOPEE TLE",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/17f59f6d03ac6074ee325447.jpg",
+    "caption": "泰国X热趋：FIRSTONE SHOPEE TLE",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/17f59f6d03ac6074ee325447.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "2c3b7e9d4ae690ebf3646a8a",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：SKINTIFICLiveXBKPP",
+  "titleOrig": "#SKINTIFICLiveXBKPP（直播/现场活动）",
+  "summary": "trends24 泰国榜今日热趋「#SKINTIFICLiveXBKPP（直播/现场活动）」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "SKINTIFICLiveXBKPP",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：SKINTIFICLiveXBKPP",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "泰国X热趋：SKINTIFICLiveXBKPP",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "7bbad1e454517c8f0bc6e286",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：TLEFIRSTONE SKINUP",
+  "titleOrig": "TLEFIRSTONE SKINUP（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「TLEFIRSTONE SKINUP（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "TLEFIRSTONE SKINUP",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：TLEFIRSTONE SKINUP",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/da9f9578a2644aaf96b89640.jpg",
+    "caption": "泰国X热趋：TLEFIRSTONE SKINUP",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/da9f9578a2644aaf96b89640.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "8ea574cb07814e472648ce01",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：TTP UNLOCK OVERTIME GLOW",
+  "titleOrig": "TTP UNLOCK OVERTIME GLOW（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「TTP UNLOCK OVERTIME GLOW（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "TTP UNLOCK OVERTIME GLOW",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：TTP UNLOCK OVERTIME GLOW",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/5b8c2f0ff8c40f3e91610bc7.jpg",
+    "caption": "泰国X热趋：TTP UNLOCK OVERTIME GLOW",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/5b8c2f0ff8c40f3e91610bc7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "c7056b447ff55b24dd79aa5c",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：JOONGDUNK 5TH MEMORIES",
+  "titleOrig": "JOONGDUNK 5TH MEMORIES（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「JOONGDUNK 5TH MEMORIES（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "JOONGDUNK 5TH MEMORIES",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：JOONGDUNK 5TH MEMORIES",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/fb646f7a87aa46e5b8c905fe.jpg",
+    "caption": "泰国X热趋：JOONGDUNK 5TH MEMORIES",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/fb646f7a87aa46e5b8c905fe.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "01e43d11d3c29332e14d899d",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：ENGFA THE BELOVED STAR10",
+  "titleOrig": "ENGFA THE BELOVED STAR10（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜今日热趋「ENGFA THE BELOVED STAR10（（泰/英热趋·详见事件说明））」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "ENGFA THE BELOVED STAR10",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：ENGFA THE BELOVED STAR10",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/75f17bb4e1f446f2810d19bb.jpg",
+    "caption": "泰国X热趋：ENGFA THE BELOVED STAR10",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/75f17bb4e1f446f2810d19bb.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "6ec5d4260c1eeefa2b177fab",
+  "country": "th",
+  "cat": "other",
+  "catCn": "X热趋·泰国",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国X热趋：3CE NEX LIVE",
+  "titleOrig": "3CE NEX LIVE（直播/现场活动）",
+  "summary": "trends24 泰国榜今日热趋「3CE NEX LIVE（直播/现场活动）」，可用于泰语印花文案/梗图选题，反映当日社媒讨论峰值。",
+  "tags": [
+   "3CE NEX LIVE",
+   "泰国X热趋"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国X热趋：3CE NEX LIVE",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7342ba296c44d9bcd40e784b.jpg",
+    "caption": "泰国X热趋：3CE NEX LIVE",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7342ba296c44d9bcd40e784b.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "8019d6dcb1dfec2031022da2",
+  "country": "th",
+  "cat": "other",
+  "catCn": "音乐单曲",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰榜单曲：Not A Single Day Goes By Without Missing You (starlost.)",
+  "titleOrig": "Not A Single Day Goes By Without Missing You (starlost.)（（泰/英热趋·详见事件说明））",
+  "summary": "Billboard Thailand Songs（公告牌泰国歌曲榜）在榜单曲「Not A Single Day Goes By Without Missing You (starlost.)（泰国歌手）」，TikTok 翻跳/歌词印花高潜。",
+  "tags": [
+   "Not A Single Day Goes By Without Missing You (starlost.)",
+   "泰国歌曲榜"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Billboard Thailand Songs（公告牌泰国歌曲榜）",
+    "type": "chart",
+    "url": "https://www.billboard.com/charts/thailand-songs/",
+    "credibility": "高",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰榜单曲：Not A Single Day Goes By Without Missing You (starlost.)",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/c747c2364c764741bb143424.jpg",
+    "caption": "泰榜单曲：Not A Single Day Goes By Without Missing You (starlost.)",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/c747c2364c764741bb143424.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "3d35f648ea2105a3b97a3dcb",
+  "country": "th",
+  "cat": "other",
+  "catCn": "音乐单曲",
+  "stars": 3,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰榜单曲：Hate That I Made You Love Me",
+  "titleOrig": "Hate That I Made You Love Me（（泰/英热趋·详见事件说明））",
+  "summary": "Billboard Thailand Songs（公告牌泰国歌曲榜）在榜单曲「Hate That I Made You Love Me（泰国歌手）」，TikTok 翻跳/歌词印花高潜。",
+  "tags": [
+   "Hate That I Made You Love Me",
+   "泰国歌曲榜"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Billboard Thailand Songs（公告牌泰国歌曲榜）",
+    "type": "chart",
+    "url": "https://www.billboard.com/charts/thailand-songs/",
+    "credibility": "高",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰榜单曲：Hate That I Made You Love Me",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/396f54b3e27a48cea445a139.jpg",
+    "caption": "泰榜单曲：Hate That I Made You Love Me",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/396f54b3e27a48cea445a139.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "cc03182a73b5f43a8e099394",
+  "country": "th",
+  "cat": "other",
+  "catCn": "音乐专辑",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 21,
+  "titleCn": "泰榜专辑向：Fallen Angel",
+  "titleOrig": "Fallen Angel（（泰/英热趋·详见事件说明））",
+  "summary": "Billboard 泰国榜在榜曲目「Fallen Angel（泰国歌手）」，可作专辑/主打歌主题印花。",
+  "tags": [
+   "Fallen Angel",
+   "专辑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Billboard Thailand Songs（公告牌泰国歌曲榜）",
+    "type": "chart",
+    "url": "https://www.billboard.com/charts/thailand-songs/",
+    "credibility": "高",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰榜专辑向：Fallen Angel",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6874695b4fa64b1da96944d1.jpg",
+    "caption": "泰榜专辑向：Fallen Angel",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6874695b4fa64b1da96944d1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "9019cee70f55c51850158193",
+  "country": "th",
+  "cat": "other",
+  "catCn": "音乐专辑",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 21,
+  "titleCn": "泰榜专辑向：Bookmark (Sometimes)",
+  "titleOrig": "Bookmark (Sometimes)（（泰/英热趋·详见事件说明））",
+  "summary": "Billboard 泰国榜在榜曲目「Bookmark (Sometimes)（泰国歌手）」，可作专辑/主打歌主题印花。",
+  "tags": [
+   "Bookmark (Sometimes)",
+   "专辑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Billboard Thailand Songs（公告牌泰国歌曲榜）",
+    "type": "chart",
+    "url": "https://www.billboard.com/charts/thailand-songs/",
+    "credibility": "高",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰榜专辑向：Bookmark (Sometimes)",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6874695b4fa64b1da96944d1.jpg",
+    "caption": "泰榜专辑向：Bookmark (Sometimes)",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6874695b4fa64b1da96944d1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "58113a5a407f0e46a6894897",
+  "country": "th",
+  "cat": "other",
+  "catCn": "音乐专辑",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 21,
+  "titleCn": "泰榜专辑向：Less Than A Lover",
+  "titleOrig": "Less Than A Lover（（泰/英热趋·详见事件说明））",
+  "summary": "Billboard 泰国榜在榜曲目「Less Than A Lover（泰国歌手）」，可作专辑/主打歌主题印花。",
+  "tags": [
+   "Less Than A Lover",
+   "专辑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Billboard Thailand Songs（公告牌泰国歌曲榜）",
+    "type": "chart",
+    "url": "https://www.billboard.com/charts/thailand-songs/",
+    "credibility": "高",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰榜专辑向：Less Than A Lover",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6874695b4fa64b1da96944d1.jpg",
+    "caption": "泰榜专辑向：Less Than A Lover",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6874695b4fa64b1da96944d1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "9283411baebf5bad3081ce97",
+  "country": "th",
+  "cat": "other",
+  "catCn": "音乐专辑",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 21,
+  "titleCn": "泰榜专辑向：Blingy",
+  "titleOrig": "Blingy（（泰/英热趋·详见事件说明））",
+  "summary": "Billboard 泰国榜在榜曲目「Blingy（泰国歌手）」，可作专辑/主打歌主题印花。",
+  "tags": [
+   "Blingy",
+   "专辑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Billboard Thailand Songs（公告牌泰国歌曲榜）",
+    "type": "chart",
+    "url": "https://www.billboard.com/charts/thailand-songs/",
+    "credibility": "高",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰榜专辑向：Blingy",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/9fd70bfe387443938150e833.jpg",
+    "caption": "泰榜专辑向：Blingy",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/9fd70bfe387443938150e833.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "3be070adb335c6a55494cdb5",
+  "country": "th",
+  "cat": "other",
+  "catCn": "音乐专辑",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 21,
+  "titleCn": "泰榜专辑向：Bloody Paradise",
+  "titleOrig": "Bloody Paradise（（泰/英热趋·详见事件说明））",
+  "summary": "Billboard 泰国榜在榜曲目「Bloody Paradise（泰国歌手）」，可作专辑/主打歌主题印花。",
+  "tags": [
+   "Bloody Paradise",
+   "专辑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Billboard Thailand Songs（公告牌泰国歌曲榜）",
+    "type": "chart",
+    "url": "https://www.billboard.com/charts/thailand-songs/",
+    "credibility": "高",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰榜专辑向：Bloody Paradise",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6874695b4fa64b1da96944d1.jpg",
+    "caption": "泰榜专辑向：Bloody Paradise",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6874695b4fa64b1da96944d1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "4778d77bf80bf8797da8c219",
+  "country": "th",
+  "cat": "other",
+  "catCn": "音乐专辑",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 21,
+  "titleCn": "泰榜专辑向：Lonely... I Understand",
+  "titleOrig": "Lonely... I Understand（（泰/英热趋·详见事件说明））",
+  "summary": "Billboard 泰国榜在榜曲目「Lonely... I Understand（泰国歌手）」，可作专辑/主打歌主题印花。",
+  "tags": [
+   "Lonely... I Understand",
+   "专辑"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Billboard Thailand Songs（公告牌泰国歌曲榜）",
+    "type": "chart",
+    "url": "https://www.billboard.com/charts/thailand-songs/",
+    "credibility": "高",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 80,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰榜专辑向：Lonely... I Understand",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6874695b4fa64b1da96944d1.jpg",
+    "caption": "泰榜专辑向：Lonely... I Understand",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/6874695b4fa64b1da96944d1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "811f8f08a267200c037be9c0",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：iPhone",
+  "titleOrig": "iPhone（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「iPhone（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "iPhone",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：iPhone",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/e32be3c8ea7e4dbc91ea107b.jpg",
+    "caption": "全球TikTok：iPhone",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/e32be3c8ea7e4dbc91ea107b.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "babe7a2a3632760009f1f886",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：Apple",
+  "titleOrig": "Apple（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「Apple（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "Apple",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：Apple",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/305a9ba38e254c0c837222e3.jpg",
+    "caption": "全球TikTok：Apple",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/305a9ba38e254c0c837222e3.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "746f099029ad9968ba756b81",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：Samsung",
+  "titleOrig": "Samsung（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「Samsung（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "Samsung",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：Samsung",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/201d5873942c4882a13c2f4c.jpg",
+    "caption": "全球TikTok：Samsung",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/201d5873942c4882a13c2f4c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "d1ec673719e808332c1a8af5",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：Lyanco",
+  "titleOrig": "Lyanco（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「Lyanco（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "Lyanco",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：Lyanco",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/b839953459a64fb88cd5873a.jpg",
+    "caption": "全球TikTok：Lyanco",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/b839953459a64fb88cd5873a.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "fc9c0d7a054e8f97f24693c4",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：SCPvGS",
+  "titleOrig": "#SCPvGS（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「#SCPvGS（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "SCPvGS",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：SCPvGS",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/aa9dc170cc0f4d84b7596cff.jpg",
+    "caption": "全球TikTok：SCPvGS",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/aa9dc170cc0f4d84b7596cff.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "8d3e85620d674cf3790f12cd",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：Seahawks",
+  "titleOrig": "Seahawks（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「Seahawks（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "Seahawks",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：Seahawks",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/a6e2ee048999491abdf3dd3f.jpg",
+    "caption": "全球TikTok：Seahawks",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/a6e2ee048999491abdf3dd3f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "1d55b1ab0cc2728911b0f58c",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：AEWDynamite",
+  "titleOrig": "#AEWDynamite（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「#AEWDynamite（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "AEWDynamite",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：AEWDynamite",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d5252a4d76e97dad13d07d96.jpg",
+    "caption": "全球TikTok：AEWDynamite",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/d5252a4d76e97dad13d07d96.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "38eb5a47980d60fa0145d125",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：harry styles",
+  "titleOrig": "harry styles（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「harry styles（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "harry styles",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：harry styles",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/6593b5bbfcf80bb928ce95bc.jpg",
+    "caption": "全球TikTok：harry styles",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/6593b5bbfcf80bb928ce95bc.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "ef88afaf11b021b1e8a12045",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：Okan",
+  "titleOrig": "Okan（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「Okan（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "Okan",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：Okan",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/35985d4425ee42a2b86a0bbb.jpg",
+    "caption": "全球TikTok：Okan",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/35985d4425ee42a2b86a0bbb.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "eab4aa3d9c60420a6cf24a25",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：LOVERRUKK AT COACH NYFW27",
+  "titleOrig": "LOVERRUKK AT COACH NYFW27（时装/联名）",
+  "summary": "trends24 全球榜热趋「LOVERRUKK AT COACH NYFW27（时装/联名）」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "LOVERRUKK AT COACH NYFW27",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：LOVERRUKK AT COACH NYFW27",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7dd9690fe430b5fa668640db.jpg",
+    "caption": "全球TikTok：LOVERRUKK AT COACH NYFW27",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7dd9690fe430b5fa668640db.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "10945cf15094bd6389cee842",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：QuemAmaCuida",
+  "titleOrig": "#QuemAmaCuida（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「#QuemAmaCuida（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "QuemAmaCuida",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：QuemAmaCuida",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ff1b2ec38ff00320b7570fcd.jpg",
+    "caption": "全球TikTok：QuemAmaCuida",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ff1b2ec38ff00320b7570fcd.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "deed07fb64ca61197256621b",
+  "country": "global",
+  "cat": "meme",
+  "catCn": "TikTok热趋·全球",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 10,
+  "titleCn": "全球TikTok：iPad",
+  "titleOrig": "iPad（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热趋「iPad（（泰/英热趋·详见事件说明））」，跨境通用挑战/梗，适合全球款印花选题。",
+  "tags": [
+   "iPad",
+   "TikTok全球"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球TikTok：iPad",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/072becd5659a43d39d220c84.jpg",
+    "caption": "全球TikTok：iPad",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/072becd5659a43d39d220c84.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "4a181fe2a5c50716b878e4a7",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：LENAMIU PLS LOVE BLESSING",
+  "titleOrig": "LENAMIU PLS LOVE BLESSING（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热趋「LENAMIU PLS LOVE BLESSING（（泰/英热趋·详见事件说明））」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "LENAMIU PLS LOVE BLESSING",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：LENAMIU PLS LOVE BLESSING",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ddadcd82880f43d6acde100c.jpg",
+    "caption": "泰国TikTok：LENAMIU PLS LOVE BLESSING",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ddadcd82880f43d6acde100c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "47e80c34434e2c57c9362640",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：teeteepor enjoy eating",
+  "titleOrig": "teeteepor enjoy eating（系列剧/剧集）",
+  "summary": "trends24 泰国榜热趋「teeteepor enjoy eating（系列剧/剧集）」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "teeteepor enjoy eating",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：teeteepor enjoy eating",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7643642f436f44b5a2e8ac61.jpg",
+    "caption": "泰国TikTok：teeteepor enjoy eating",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7643642f436f44b5a2e8ac61.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "8ccc756dfc2c2f26e61cd804",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：JAY DID NOT INVITE YOU",
+  "titleOrig": "JAY DID NOT INVITE YOU（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热趋「JAY DID NOT INVITE YOU（（泰/英热趋·详见事件说明））」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "JAY DID NOT INVITE YOU",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：JAY DID NOT INVITE YOU",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7bf5b37701284d7790842a36.jpg",
+    "caption": "泰国TikTok：JAY DID NOT INVITE YOU",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7bf5b37701284d7790842a36.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "67752642f0775f1a4ab9785b",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：yourtuber q3",
+  "titleOrig": "yourtuber q3（系列剧/剧集）",
+  "summary": "trends24 泰国榜热趋「yourtuber q3（系列剧/剧集）」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "yourtuber q3",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：yourtuber q3",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/eade02d6afc010e312078bfd.jpg",
+    "caption": "泰国TikTok：yourtuber q3",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/eade02d6afc010e312078bfd.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "764c1fbbd78ecedce1480cf2",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：laglace special x daouoffroad",
+  "titleOrig": "laglace special x daouoffroad（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热趋「laglace special x daouoffroad（（泰/英热趋·详见事件说明））」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "laglace special x daouoffroad",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：laglace special x daouoffroad",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/bdaa75dd9ce347cbbf532fea.jpg",
+    "caption": "泰国TikTok：laglace special x daouoffroad",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/bdaa75dd9ce347cbbf532fea.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "b2adaf604ddd20538129950a",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：baby rainy 80k",
+  "titleOrig": "baby rainy 80k（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热趋「baby rainy 80k（（泰/英热趋·详见事件说明））」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "baby rainy 80k",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：baby rainy 80k",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ff1b2ec38ff00320b7570fcd.jpg",
+    "caption": "泰国TikTok：baby rainy 80k",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ff1b2ec38ff00320b7570fcd.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "f4ecfceb083c2d595155765b",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：tfo exclusive live 99",
+  "titleOrig": "tfo exclusive live 99（直播/现场活动）",
+  "summary": "trends24 泰国榜热趋「tfo exclusive live 99（直播/现场活动）」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "tfo exclusive live 99",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：tfo exclusive live 99",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ef35fcc1114140edadddce52.jpg",
+    "caption": "泰国TikTok：tfo exclusive live 99",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ef35fcc1114140edadddce52.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "95222a52090f36cff990ae40",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：9.9 GARNIER LIVE WITH NH",
+  "titleOrig": "9.9 GARNIER LIVE WITH NH（直播/现场活动）",
+  "summary": "trends24 泰国榜热趋「9.9 GARNIER LIVE WITH NH（直播/现场活动）」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "9.9 GARNIER LIVE WITH NH",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：9.9 GARNIER LIVE WITH NH",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/af60b2e3cf8e03293adeeec8.jpg",
+    "caption": "泰国TikTok：9.9 GARNIER LIVE WITH NH",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/af60b2e3cf8e03293adeeec8.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "5522859af4c4383d37301a4b",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：LOVE IS ALL AROUND JUNNIORRS",
+  "titleOrig": "LOVE IS ALL AROUND JUNNIORRS（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热趋「LOVE IS ALL AROUND JUNNIORRS（（泰/英热趋·详见事件说明））」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "LOVE IS ALL AROUND JUNNIORRS",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：LOVE IS ALL AROUND JUNNIORRS",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/763e23bc8540c936e3efa447.jpg",
+    "caption": "泰国TikTok：LOVE IS ALL AROUND JUNNIORRS",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/763e23bc8540c936e3efa447.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "8afdcab3d7c0b2c1c5784b61",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：PERTH LOCKITFIT CUSHION",
+  "titleOrig": "PERTH LOCKITFIT CUSHION（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热趋「PERTH LOCKITFIT CUSHION（（泰/英热趋·详见事件说明））」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "PERTH LOCKITFIT CUSHION",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：PERTH LOCKITFIT CUSHION",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ad0de7e0d07d41dbbe84a8ab.jpg",
+    "caption": "泰国TikTok：PERTH LOCKITFIT CUSHION",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ad0de7e0d07d41dbbe84a8ab.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "5cdd5741bfb48910398942af",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：love emibonnie under the moon",
+  "titleOrig": "love emibonnie under the moon（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热趋「love emibonnie under the moon（（泰/英热趋·详见事件说明））」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "love emibonnie under the moon",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：love emibonnie under the moon",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/96e510a1b716443da8d5d664.jpg",
+    "caption": "泰国TikTok：love emibonnie under the moon",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/96e510a1b716443da8d5d664.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "33f7582b0ded8039f1af2e46",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "TikTok热趋·泰国",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰国TikTok：VINYL MILKSHAKE NANI",
+  "titleOrig": "VINYL MILKSHAKE NANI（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热趋「VINYL MILKSHAKE NANI（（泰/英热趋·详见事件说明））」，泰国本土挑战/音频类，适合泰语梗图。",
+  "tags": [
+   "VINYL MILKSHAKE NANI",
+   "TikTok泰国"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰国TikTok：VINYL MILKSHAKE NANI",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/0055d3d13adfcf0ad94b1d73.jpg",
+    "caption": "泰国TikTok：VINYL MILKSHAKE NANI",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/0055d3d13adfcf0ad94b1d73.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "5e6a5ce68c77db05e82ca4f7",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "TikTok热趋·马来",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来TikTok：Long Lellang",
+  "titleOrig": "Long Lellang（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热趋「Long Lellang（（泰/英热趋·详见事件说明））」，马来本土挑战类印花选题。",
+  "tags": [
+   "Long Lellang",
+   "TikTok马来"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来TikTok：Long Lellang",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/774d98e8708f472284f42aba.jpg",
+    "caption": "马来TikTok：Long Lellang",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/774d98e8708f472284f42aba.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "2a7d6aa0a30b3e6a0e51a410",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "TikTok热趋·马来",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来TikTok：MR FANBOY Q46",
+  "titleOrig": "MR FANBOY Q46（系列剧/剧集）",
+  "summary": "trends24 马来西亚榜热趋「MR FANBOY Q46（系列剧/剧集）」，马来本土挑战类印花选题。",
+  "tags": [
+   "MR FANBOY Q46",
+   "TikTok马来"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来TikTok：MR FANBOY Q46",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/1e114ec9f8b760ae221218b4.jpg",
+    "caption": "马来TikTok：MR FANBOY Q46",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/1e114ec9f8b760ae221218b4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "f2750ed1f31e9dfb75f863ab",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "TikTok热趋·马来",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来TikTok：Charlie Kirk",
+  "titleOrig": "Charlie Kirk（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热趋「Charlie Kirk（（泰/英热趋·详见事件说明））」，马来本土挑战类印花选题。",
+  "tags": [
+   "Charlie Kirk",
+   "TikTok马来"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来TikTok：Charlie Kirk",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/53d99ca9dee94ecbadb1688f.jpg",
+    "caption": "马来TikTok：Charlie Kirk",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/53d99ca9dee94ecbadb1688f.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "00e51cfd6be2028770097e7a",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "TikTok热趋·马来",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来TikTok：Godzilla",
+  "titleOrig": "Godzilla（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热趋「Godzilla（（泰/英热趋·详见事件说明））」，马来本土挑战类印花选题。",
+  "tags": [
+   "Godzilla",
+   "TikTok马来"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来TikTok：Godzilla",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/3f30847a45aaaf145c5e4e8d.jpg",
+    "caption": "马来TikTok：Godzilla",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/3f30847a45aaaf145c5e4e8d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "603734bd94e651cf9638462c",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "TikTok热趋·马来",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来TikTok：Terengganu",
+  "titleOrig": "Terengganu（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热趋「Terengganu（（泰/英热趋·详见事件说明））」，马来本土挑战类印花选题。",
+  "tags": [
+   "Terengganu",
+   "TikTok马来"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来TikTok：Terengganu",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ddb85e89c6c946798c0f155d.jpg",
+    "caption": "马来TikTok：Terengganu",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/ddb85e89c6c946798c0f155d.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "59e0c9f70afb54e2f037074b",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "TikTok热趋·马来",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来TikTok：Arsenal",
+  "titleOrig": "Arsenal（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热趋「Arsenal（（泰/英热趋·详见事件说明））」，马来本土挑战类印花选题。",
+  "tags": [
+   "Arsenal",
+   "TikTok马来"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来TikTok：Arsenal",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/40a8b9f4e31b3d21c13c9cb5.jpg",
+    "caption": "马来TikTok：Arsenal",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/40a8b9f4e31b3d21c13c9cb5.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "31393ccc40abb243e6cca4d2",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "TikTok热趋·马来",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来TikTok：MEET YOUR OOMF",
+  "titleOrig": "MEET YOUR OOMF（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热趋「MEET YOUR OOMF（（泰/英热趋·详见事件说明））」，马来本土挑战类印花选题。",
+  "tags": [
+   "MEET YOUR OOMF",
+   "TikTok马来"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来TikTok：MEET YOUR OOMF",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/7278fa66223845849c74ca82.jpg",
+    "caption": "马来TikTok：MEET YOUR OOMF",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/7278fa66223845849c74ca82.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "8aae6dc8a63792f7e66ea259",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "TikTok热趋·马来",
+  "stars": 2,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来TikTok：tabung haji",
+  "titleOrig": "tabung haji（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热趋「tabung haji（（泰/英热趋·详见事件说明））」，马来本土挑战类印花选题。",
+  "tags": [
+   "tabung haji",
+   "TikTok马来"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来TikTok：tabung haji",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/4b7073291c6fe433551560a7.jpg",
+    "caption": "马来TikTok：tabung haji",
+    "source": "全局真实图兜底"
+   }
+  ],
+  "cover": "real/4b7073291c6fe433551560a7.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "全局真实图兜底",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "8fe9718a156f43dfdd0d7ed4",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：LOVERRUKK AT COACH NYFW27",
+  "titleOrig": "LOVERRUKK AT COACH NYFW27（时装/联名）",
+  "summary": "【深度】trends24 泰国榜热梗「LOVERRUKK AT COACH NYFW27（时装/联名）」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "LOVERRUKK AT COACH NYFW27",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：LOVERRUKK AT COACH NYFW27",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：LOVERRUKK AT COACH NYFW27",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "acaf0f10f0d07f1cad2db977",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：OLFDreamOninMexico",
+  "titleOrig": "#OLFDreamOninMexico（（泰/英热趋·详见事件说明））",
+  "summary": "【深度】trends24 泰国榜热梗「#OLFDreamOninMexico（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "OLFDreamOninMexico",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：OLFDreamOninMexico",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：OLFDreamOninMexico",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "5868955b811005ff27d325a7",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：JOSSGAWIN OFDO IN MEXICO",
+  "titleOrig": "JOSSGAWIN OFDO IN MEXICO（（泰/英热趋·详见事件说明））",
+  "summary": "【深度】trends24 泰国榜热梗「JOSSGAWIN OFDO IN MEXICO（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "JOSSGAWIN OFDO IN MEXICO",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：JOSSGAWIN OFDO IN MEXICO",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：JOSSGAWIN OFDO IN MEXICO",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "c89c6993b743d4749115f88f",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：EARTHMIX LOVE ACROSS THE MILES",
+  "titleOrig": "EARTHMIX LOVE ACROSS THE MILES（（泰/英热趋·详见事件说明））",
+  "summary": "【深度】trends24 泰国榜热梗「EARTHMIX LOVE ACROSS THE MILES（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "EARTHMIX LOVE ACROSS THE MILES",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：EARTHMIX LOVE ACROSS THE MILES",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：EARTHMIX LOVE ACROSS THE MILES",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "6e54ecdb15c983fe6b16d452",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：CalvinKleinxThomas",
+  "titleOrig": "#CalvinKleinxThomas（（泰/英热趋·详见事件说明））",
+  "summary": "【深度】trends24 泰国榜热梗「#CalvinKleinxThomas（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "CalvinKleinxThomas",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：CalvinKleinxThomas",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：CalvinKleinxThomas",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "2e6d413a995b97ae313506e0",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：AppleEvent",
+  "titleOrig": "#AppleEvent（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「#AppleEvent（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "AppleEvent",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：AppleEvent",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：AppleEvent",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "a148960f5f78261494f376e6",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：PRECIOUS TIME CHARLOTTE10",
+  "titleOrig": "PRECIOUS TIME CHARLOTTE10（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「PRECIOUS TIME CHARLOTTE10（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "PRECIOUS TIME CHARLOTTE10",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：PRECIOUS TIME CHARLOTTE10",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：PRECIOUS TIME CHARLOTTE10",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "4fbd0fe0c22a3102e1bf3c98",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：iPhone Duo",
+  "titleOrig": "iPhone Duo（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「iPhone Duo（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "iPhone Duo",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：iPhone Duo",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：iPhone Duo",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "2ed3becbf6b33679f71c67bc",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：AOUBOOM X OFDO MEXICO",
+  "titleOrig": "AOUBOOM X OFDO MEXICO（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「AOUBOOM X OFDO MEXICO（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "AOUBOOM X OFDO MEXICO",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：AOUBOOM X OFDO MEXICO",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：AOUBOOM X OFDO MEXICO",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "2dde76742ff97189d7307e7f",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：sea_tawinan",
+  "titleOrig": "#sea_tawinan（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「#sea_tawinan（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "sea_tawinan",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：sea_tawinan",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：sea_tawinan",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "ab8b6b06105f2909b0116e4b",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：PHUWIN STINT IN NYC",
+  "titleOrig": "PHUWIN STINT IN NYC（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「PHUWIN STINT IN NYC（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "PHUWIN STINT IN NYC",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：PHUWIN STINT IN NYC",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：PHUWIN STINT IN NYC",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "962eca1573a759457495fffb",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：PERTHSANTA 99 DEALS DRPONG",
+  "titleOrig": "PERTHSANTA 99 DEALS DRPONG（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「PERTHSANTA 99 DEALS DRPONG（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "PERTHSANTA 99 DEALS DRPONG",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：PERTHSANTA 99 DEALS DRPONG",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：PERTHSANTA 99 DEALS DRPONG",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "fe9445a589c6181e32ef0c37",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：LINGLING LIVE WITH MISTINE",
+  "titleOrig": "LINGLING LIVE WITH MISTINE（直播/现场活动）",
+  "summary": "trends24 泰国榜热梗「LINGLING LIVE WITH MISTINE（直播/现场活动）」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "LINGLING LIVE WITH MISTINE",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：LINGLING LIVE WITH MISTINE",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：LINGLING LIVE WITH MISTINE",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "e3c581de9856b38f33a01c78",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：FOURTH IN NEW YORK",
+  "titleOrig": "FOURTH IN NEW YORK（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「FOURTH IN NEW YORK（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "FOURTH IN NEW YORK",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：FOURTH IN NEW YORK",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：FOURTH IN NEW YORK",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "0d74ab4f293aada6b94bc7f2",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：Secret of Shadow",
+  "titleOrig": "Secret of Shadow（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「Secret of Shadow（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "Secret of Shadow",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：Secret of Shadow",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：Secret of Shadow",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "d6c96641bc298ce24dd683e8",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：เอิร์ทมิกซ์",
+  "titleOrig": "#เอิร์ทมิกซ์（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「#เอิร์ทมิกซ์（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "เอิร์ทมิกซ์",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：เอิร์ทมิกซ์",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：เอิร์ทมิกซ์",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "dd7d3c34aae5c7a518e1c499",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：bbrightvc",
+  "titleOrig": "#bbrightvc（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「#bbrightvc（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "bbrightvc",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：bbrightvc",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：bbrightvc",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "33df3930c16c24a0d014a087",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：TommyFamily",
+  "titleOrig": "#TommyFamily（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「#TommyFamily（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "TommyFamily",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：TommyFamily",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：TommyFamily",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "6c7bee9b09389fbc1973801c",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：99LIVEDrPONGxPERTHSANTA",
+  "titleOrig": "#99LIVEDrPONGxPERTHSANTA（直播/现场活动）",
+  "summary": "trends24 泰国榜热梗「#99LIVEDrPONGxPERTHSANTA（直播/现场活动）」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "99LIVEDrPONGxPERTHSANTA",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：99LIVEDrPONGxPERTHSANTA",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：99LIVEDrPONGxPERTHSANTA",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "1d7bc931533f1aaf422400ca",
+  "country": "th",
+  "cat": "meme",
+  "catCn": "泰国热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "泰热梗：ONENIGHTwithMISTINExLINGLING",
+  "titleOrig": "#ONENIGHTwithMISTINExLINGLING（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 泰国榜热梗「#ONENIGHTwithMISTINExLINGLING（（泰/英热趋·详见事件说明））」，社媒原生梗，适合幽默文案/表情包款。",
+  "tags": [
+   "ONENIGHTwithMISTINExLINGLING",
+   "泰国热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（泰国X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/thailand/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰热梗：ONENIGHTwithMISTINExLINGLING",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/25f16ce20c0e995d04b8a679.jpg",
+    "caption": "泰热梗：ONENIGHTwithMISTINExLINGLING",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/25f16ce20c0e995d04b8a679.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "b64f6d5ac30a1d13a011de31",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：iPhone",
+  "titleOrig": "iPhone（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「iPhone（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "iPhone",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：iPhone",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：iPhone",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "3b5e0785c83d6d9535713356",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：Apple",
+  "titleOrig": "Apple（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「Apple（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "Apple",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：Apple",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：Apple",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "bd3840abc717bac960d40054",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：Samsung",
+  "titleOrig": "Samsung（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「Samsung（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "Samsung",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：Samsung",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：Samsung",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "eae1eb03f5775a23e9c6f331",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：Lyanco",
+  "titleOrig": "Lyanco（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「Lyanco（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "Lyanco",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：Lyanco",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：Lyanco",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "35a16d71e494bb4058fda5bf",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：SCPvGS",
+  "titleOrig": "#SCPvGS（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「#SCPvGS（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "SCPvGS",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：SCPvGS",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：SCPvGS",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "773d1c969977163a326f9615",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：Seahawks",
+  "titleOrig": "Seahawks（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「Seahawks（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "Seahawks",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：Seahawks",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：Seahawks",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "5503826d8629007319652719",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：AEWDynamite",
+  "titleOrig": "#AEWDynamite（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「#AEWDynamite（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "AEWDynamite",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：AEWDynamite",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：AEWDynamite",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "a0532db451d84cecec269de7",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：harry styles",
+  "titleOrig": "harry styles（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「harry styles（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "harry styles",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：harry styles",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：harry styles",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "8f99781b8b679a644e31ea56",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：Okan",
+  "titleOrig": "Okan（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「Okan（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "Okan",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：Okan",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：Okan",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "b3f7ae999ec8a73b4ac10836",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：LOVERRUKK AT COACH NYFW27",
+  "titleOrig": "LOVERRUKK AT COACH NYFW27（时装/联名）",
+  "summary": "trends24 全球榜热点「LOVERRUKK AT COACH NYFW27（时装/联名）」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "LOVERRUKK AT COACH NYFW27",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：LOVERRUKK AT COACH NYFW27",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：LOVERRUKK AT COACH NYFW27",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "9bcb980211a5b4841d6401f0",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：QuemAmaCuida",
+  "titleOrig": "#QuemAmaCuida（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「#QuemAmaCuida（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "QuemAmaCuida",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：QuemAmaCuida",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：QuemAmaCuida",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "08390a847b92cb5de7ef55ca",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：iPad",
+  "titleOrig": "iPad（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「iPad（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "iPad",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：iPad",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：iPad",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "297401cc6dd0261810e22a5e",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：TheOnlyBlessedHope",
+  "titleOrig": "#TheOnlyBlessedHope（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「#TheOnlyBlessedHope（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "TheOnlyBlessedHope",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：TheOnlyBlessedHope",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：TheOnlyBlessedHope",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "719a913db131bbb1ebd1efbb",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：CoachNYxLoverrukk",
+  "titleOrig": "#CoachNYxLoverrukk（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「#CoachNYxLoverrukk（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "CoachNYxLoverrukk",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：CoachNYxLoverrukk",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：CoachNYxLoverrukk",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "7b15c992d71e49aca0fbd483",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：Leeds",
+  "titleOrig": "Leeds（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「Leeds（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "Leeds",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：Leeds",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：Leeds",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "6a1900149c74c871f85feac9",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：Patriots",
+  "titleOrig": "Patriots（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「Patriots（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "Patriots",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：Patriots",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：Patriots",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "f12aa66f2a75f3905ede3dce",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：ANA COM BIODERMA PHOTODERM",
+  "titleOrig": "ANA COM BIODERMA PHOTODERM（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「ANA COM BIODERMA PHOTODERM（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "ANA COM BIODERMA PHOTODERM",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：ANA COM BIODERMA PHOTODERM",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：ANA COM BIODERMA PHOTODERM",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "b7a36f550eb03833203374e5",
+  "country": "global",
+  "cat": "society",
+  "catCn": "世界热点",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "中风险",
+  "hotDays": 10,
+  "titleCn": "全球：Sane",
+  "titleOrig": "Sane（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 全球榜热点「Sane（（泰/英热趋·详见事件说明））」，政治/社会/科技类，适合观点/梗图款（不屏蔽任何内容）。",
+  "tags": [
+   "Sane",
+   "世界热点"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（全球X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "全球：Sane",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/ac292be629c9d74ed444a4a4.jpg",
+    "caption": "全球：Sane",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/ac292be629c9d74ed444a4a4.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "7af74ded37872fe661aa7e13",
+  "country": "global",
+  "cat": "other",
+  "catCn": "世界热点·科技",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "科技：Muse the band lost its social media handles to Muse Meta's n",
+  "titleOrig": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent（（泰/英热趋·详见事件说明））",
+  "summary": "Hacker News 科技热点「Muse, the band, lost its social media handles to Muse, Meta's new AI agent（科技资讯）」热度 158，AI/科研类话题可做极客款印花。",
+  "tags": [
+   "Muse the band lost its social media handles to Muse Meta's n",
+   "科技"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Hacker News（黑客新闻）",
+    "type": "news",
+    "url": "https://news.ycombinator.com/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "科技：Muse the band lost its social media handles to Muse Meta's n",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d60a216778234d538e1a5484.jpg",
+    "caption": "科技：Muse the band lost its social media handles to Muse Meta's n",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/d60a216778234d538e1a5484.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "978ecf83bc5609055e35a533",
+  "country": "global",
+  "cat": "other",
+  "catCn": "世界热点·科技",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "科技：iPhone Duo",
+  "titleOrig": "iPhone Duo（（泰/英热趋·详见事件说明））",
+  "summary": "Hacker News 科技热点「iPhone Duo（科技资讯）」热度 857，AI/科研类话题可做极客款印花。",
+  "tags": [
+   "iPhone Duo",
+   "科技"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Hacker News（黑客新闻）",
+    "type": "news",
+    "url": "https://news.ycombinator.com/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "科技：iPhone Duo",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d60a216778234d538e1a5484.jpg",
+    "caption": "科技：iPhone Duo",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/d60a216778234d538e1a5484.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.apple.com/iphone-duo/",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "371d465d120b078fd396d982",
+  "country": "global",
+  "cat": "other",
+  "catCn": "世界热点·科技",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "科技：Shopify acquires Tailwind",
+  "titleOrig": "Shopify acquires Tailwind（（泰/英热趋·详见事件说明））",
+  "summary": "Hacker News 科技热点「Shopify acquires Tailwind（科技资讯）」热度 879，AI/科研类话题可做极客款印花。",
+  "tags": [
+   "Shopify acquires Tailwind",
+   "科技"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Hacker News（黑客新闻）",
+    "type": "news",
+    "url": "https://news.ycombinator.com/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "科技：Shopify acquires Tailwind",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d60a216778234d538e1a5484.jpg",
+    "caption": "科技：Shopify acquires Tailwind",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/d60a216778234d538e1a5484.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "a348ad20990b1459e73a6d9d",
+  "country": "global",
+  "cat": "other",
+  "catCn": "世界热点·科技",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "科技：What do Visa and Mastercard do An intro to card networks",
+  "titleOrig": "What do Visa and Mastercard do? An intro to card networks（（泰/英热趋·详见事件说明））",
+  "summary": "Hacker News 科技热点「What do Visa and Mastercard do? An intro to card networks（科技资讯）」热度 356，AI/科研类话题可做极客款印花。",
+  "tags": [
+   "What do Visa and Mastercard do An intro to card networks",
+   "科技"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Hacker News（黑客新闻）",
+    "type": "news",
+    "url": "https://news.ycombinator.com/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "科技：What do Visa and Mastercard do An intro to card networks",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d60a216778234d538e1a5484.jpg",
+    "caption": "科技：What do Visa and Mastercard do An intro to card networks",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/d60a216778234d538e1a5484.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://tautology.town/2026/06/01/card-networks.html",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "d25677118f2dbc091dce5d49",
+  "country": "global",
+  "cat": "other",
+  "catCn": "世界热点·科技",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "科技：AirPods 5",
+  "titleOrig": "AirPods 5（（泰/英热趋·详见事件说明））",
+  "summary": "Hacker News 科技热点「AirPods 5（科技资讯）」热度 366，AI/科研类话题可做极客款印花。",
+  "tags": [
+   "AirPods 5",
+   "科技"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Hacker News（黑客新闻）",
+    "type": "news",
+    "url": "https://news.ycombinator.com/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "科技：AirPods 5",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d60a216778234d538e1a5484.jpg",
+    "caption": "科技：AirPods 5",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/d60a216778234d538e1a5484.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "a2be68a4e44fb6c34cce34e1",
+  "country": "global",
+  "cat": "other",
+  "catCn": "世界热点·科技",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "科技：Growing proof that autonomous cars save lives",
+  "titleOrig": "Growing proof that autonomous cars save lives（直播/现场活动）",
+  "summary": "Hacker News 科技热点「Growing proof that autonomous cars save lives（科技资讯）」热度 201，AI/科研类话题可做极客款印花。",
+  "tags": [
+   "Growing proof that autonomous cars save lives",
+   "科技"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Hacker News（黑客新闻）",
+    "type": "news",
+    "url": "https://news.ycombinator.com/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "科技：Growing proof that autonomous cars save lives",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d60a216778234d538e1a5484.jpg",
+    "caption": "科技：Growing proof that autonomous cars save lives",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/d60a216778234d538e1a5484.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "c793c96a03bd1c81dc07d6c1",
+  "country": "global",
+  "cat": "other",
+  "catCn": "世界热点·科技",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "科技：iPhone 18 Pro and iPhone 18 Pro Max",
+  "titleOrig": "iPhone 18 Pro and iPhone 18 Pro Max（（泰/英热趋·详见事件说明））",
+  "summary": "Hacker News 科技热点「iPhone 18 Pro and iPhone 18 Pro Max（科技资讯）」热度 267，AI/科研类话题可做极客款印花。",
+  "tags": [
+   "iPhone 18 Pro and iPhone 18 Pro Max",
+   "科技"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Hacker News（黑客新闻）",
+    "type": "news",
+    "url": "https://news.ycombinator.com/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "科技：iPhone 18 Pro and iPhone 18 Pro Max",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d60a216778234d538e1a5484.jpg",
+    "caption": "科技：iPhone 18 Pro and iPhone 18 Pro Max",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/d60a216778234d538e1a5484.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "7f533ba21144985fecc87a84",
+  "country": "global",
+  "cat": "other",
+  "catCn": "世界热点·科技",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "科技：No Man's Sky Cosmos",
+  "titleOrig": "No Man's Sky Cosmos（（泰/英热趋·详见事件说明））",
+  "summary": "Hacker News 科技热点「No Man's Sky Cosmos（科技资讯）」热度 291，AI/科研类话题可做极客款印花。",
+  "tags": [
+   "No Man's Sky Cosmos",
+   "科技"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Hacker News（黑客新闻）",
+    "type": "news",
+    "url": "https://news.ycombinator.com/",
+    "credibility": "中",
+    "region": "global",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "科技：No Man's Sky Cosmos",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/d60a216778234d538e1a5484.jpg",
+    "caption": "科技：No Man's Sky Cosmos",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/d60a216778234d538e1a5484.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "https://www.nomanssky.com/cosmos-update/",
+  "sourceBreadth": {
+   "local": 0,
+   "global": 1,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "910f8aa4131aa7f09141e628",
+  "country": "th",
+  "cat": "society",
+  "catCn": "泰国社会·Sanook",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "泰资讯：บอกลาท้องผูก! 15 เมนูอาหารเช้า \"ไฟเบอร์ส",
+  "titleOrig": "บอกลาท้องผูก! 15 เมนูอาหารเช้า \"ไฟเบอร์สูง\" กินง่าย-อิ่มนาน-ขับถ่ายคล่อง（（泰/英热趋·详见事件说明））",
+  "summary": "Sanook 泰国门户头条「บอกลาท้องผูก! 15 เมนูอาหารเช้า \"ไฟเบอร์สูง\" กินง่าย-อิ่มนาน-ขับถ่ายคล่อง（泰语资讯）」，生活/社会类印花选题。",
+  "tags": [
+   "บอกลาท้องผูก! 15 เมนูอาหารเช้า \"ไฟเบอร์ส",
+   "泰国资讯"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sanook（泰国综合门户）",
+    "type": "news",
+    "url": "https://www.sanook.com/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰资讯：บอกลาท้องผูก! 15 เมนูอาหารเช้า \"ไฟเบอร์ส",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/008e0a6aa2044c0ea5ebf87c.jpg",
+    "caption": "泰资讯：บอกลาท้องผูก! 15 เมนูอาหารเช้า \"ไฟเบอร์ส",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/008e0a6aa2044c0ea5ebf87c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "35256a3c3e83b4208f756ade",
+  "country": "th",
+  "cat": "society",
+  "catCn": "泰国社会·Sanook",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "泰资讯：ช่องทางถ่ายทอดสด ไทย VS ออสเตรเลีย ศึกวอ",
+  "titleOrig": "ช่องทางถ่ายทอดสด ไทย VS ออสเตรเลีย ศึกวอลเลย์บอลชาย ชิงแชมป์เอเชีย 2026（（泰/英热趋·详见事件说明））",
+  "summary": "Sanook 泰国门户头条「ช่องทางถ่ายทอดสด ไทย VS ออสเตรเลีย ศึกวอลเลย์บอลชาย ชิงแชมป์เอเชีย 2026（泰语资讯）」，生活/社会类印花选题。",
+  "tags": [
+   "ช่องทางถ่ายทอดสด ไทย VS ออสเตรเลีย ศึกวอ",
+   "泰国资讯"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sanook（泰国综合门户）",
+    "type": "news",
+    "url": "https://www.sanook.com/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰资讯：ช่องทางถ่ายทอดสด ไทย VS ออสเตรเลีย ศึกวอ",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/008e0a6aa2044c0ea5ebf87c.jpg",
+    "caption": "泰资讯：ช่องทางถ่ายทอดสด ไทย VS ออสเตรเลีย ศึกวอ",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/008e0a6aa2044c0ea5ebf87c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "97ce35c822506a9f8b7fc6db",
+  "country": "th",
+  "cat": "society",
+  "catCn": "泰国社会·Sanook",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "泰资讯：หน้าฝนต้องระวัง! วิธีตะขาบออกจากบ้าน สบา",
+  "titleOrig": "หน้าฝนต้องระวัง! วิธีตะขาบออกจากบ้าน สบายใจได้ผลชัวร์（（泰/英热趋·详见事件说明））",
+  "summary": "Sanook 泰国门户头条「หน้าฝนต้องระวัง! วิธีตะขาบออกจากบ้าน สบายใจได้ผลชัวร์（泰语资讯）」，生活/社会类印花选题。",
+  "tags": [
+   "หน้าฝนต้องระวัง! วิธีตะขาบออกจากบ้าน สบา",
+   "泰国资讯"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sanook（泰国综合门户）",
+    "type": "news",
+    "url": "https://www.sanook.com/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰资讯：หน้าฝนต้องระวัง! วิธีตะขาบออกจากบ้าน สบา",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/008e0a6aa2044c0ea5ebf87c.jpg",
+    "caption": "泰资讯：หน้าฝนต้องระวัง! วิธีตะขาบออกจากบ้าน สบา",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/008e0a6aa2044c0ea5ebf87c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "a8b74deaf657306c5d6ad26f",
+  "country": "th",
+  "cat": "society",
+  "catCn": "泰国社会·Sanook",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "泰资讯：\"ชาบูชิ\" จัดโปรเด็ด 9.9 คนที่สองจ่ายเพีย",
+  "titleOrig": "\"ชาบูชิ\" จัดโปรเด็ด 9.9 คนที่สองจ่ายเพียง 27 บาท วันเดียวเท่านั้น（（泰/英热趋·详见事件说明））",
+  "summary": "Sanook 泰国门户头条「\"ชาบูชิ\" จัดโปรเด็ด 9.9 คนที่สองจ่ายเพียง 27 บาท วันเดียวเท่านั้น（泰语资讯）」，生活/社会类印花选题。",
+  "tags": [
+   "\"ชาบูชิ\" จัดโปรเด็ด 9.9 คนที่สองจ่ายเพีย",
+   "泰国资讯"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sanook（泰国综合门户）",
+    "type": "news",
+    "url": "https://www.sanook.com/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰资讯：\"ชาบูชิ\" จัดโปรเด็ด 9.9 คนที่สองจ่ายเพีย",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/008e0a6aa2044c0ea5ebf87c.jpg",
+    "caption": "泰资讯：\"ชาบูชิ\" จัดโปรเด็ด 9.9 คนที่สองจ่ายเพีย",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/008e0a6aa2044c0ea5ebf87c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "9aba64004c59f68c3cbc00c2",
+  "country": "th",
+  "cat": "society",
+  "catCn": "泰国社会·Sanook",
+  "stars": 2,
+  "printType": "文字款",
+  "risk": "低风险",
+  "hotDays": 7,
+  "titleCn": "泰资讯：\"ข่มขลัง\" เปิดตัวแรง! EP.1 ขึ้นอันดับ 1",
+  "titleOrig": "\"ข่มขลัง\" เปิดตัวแรง! EP.1 ขึ้นอันดับ 1 X ไทย ปุยนุ่น-บิ๊นท์ เคมีสะกดใจ（系列剧/剧集）",
+  "summary": "Sanook 泰国门户头条「\"ข่มขลัง\" เปิดตัวแรง! EP.1 ขึ้นอันดับ 1 X ไทย ปุยนุ่น-บิ๊นท์ เคมีสะกดใจ（泰语资讯）」，生活/社会类印花选题。",
+  "tags": [
+   "\"ข่มขลัง\" เปิดตัวแรง! EP.1 ขึ้นอันดับ 1 ",
+   "泰国资讯"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "Sanook（泰国综合门户）",
+    "type": "news",
+    "url": "https://www.sanook.com/",
+    "credibility": "中",
+    "region": "th",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 76,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "泰资讯：\"ข่มขลัง\" เปิดตัวแรง! EP.1 ขึ้นอันดับ 1",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/008e0a6aa2044c0ea5ebf87c.jpg",
+    "caption": "泰资讯：\"ข่มขลัง\" เปิดตัวแรง! EP.1 ขึ้นอันดับ 1",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/008e0a6aa2044c0ea5ebf87c.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "9eda68a9d3ce7a4f348d4677",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：CKxLinglingAirportLook",
+  "titleOrig": "#CKxLinglingAirportLook（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「#CKxLinglingAirportLook（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "CKxLinglingAirportLook",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：CKxLinglingAirportLook",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：CKxLinglingAirportLook",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "6c715ed450cf69d55161c125",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：NAMPING SHINES AT VOGUEGALA",
+  "titleOrig": "NAMPING SHINES AT VOGUEGALA（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「NAMPING SHINES AT VOGUEGALA（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "NAMPING SHINES AT VOGUEGALA",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：NAMPING SHINES AT VOGUEGALA",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：NAMPING SHINES AT VOGUEGALA",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "eb28a992f015bf99d89ab21e",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Wirtz",
+  "titleOrig": "Wirtz（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Wirtz（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Wirtz",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Wirtz",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Wirtz",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "ccee2bde56a376a1537a87e4",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Araujo",
+  "titleOrig": "Araujo（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Araujo（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Araujo",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Araujo",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Araujo",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "34da16aaeef3c19307669930",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：SAROCHA LIVE WITH ELEMIS",
+  "titleOrig": "SAROCHA LIVE WITH ELEMIS（直播/现场活动）",
+  "summary": "trends24 马来西亚榜热梗「SAROCHA LIVE WITH ELEMIS（直播/现场活动）」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "SAROCHA LIVE WITH ELEMIS",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：SAROCHA LIVE WITH ELEMIS",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：SAROCHA LIVE WITH ELEMIS",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "5679ef225d08f9b0aed872d4",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：mingyu",
+  "titleOrig": "mingyu（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「mingyu（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "mingyu",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：mingyu",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：mingyu",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "61bd1b34416d220b43c9b237",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：flying doctor service",
+  "titleOrig": "flying doctor service（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「flying doctor service（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "flying doctor service",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：flying doctor service",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：flying doctor service",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "c9de48d83351c9a6263e0f64",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Llorente",
+  "titleOrig": "Llorente（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Llorente（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Llorente",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Llorente",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Llorente",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "1c4720c1e7221ff5fa2ab24b",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Rogers",
+  "titleOrig": "Rogers（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Rogers（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Rogers",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Rogers",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Rogers",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "07306ad1693f7ead53b4da61",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：serve the feels with est",
+  "titleOrig": "serve the feels with est（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「serve the feels with est（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "serve the feels with est",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：serve the feels with est",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：serve the feels with est",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "d3f45231842d0405e4fd2948",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Najib",
+  "titleOrig": "Najib（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Najib（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Najib",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Najib",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Najib",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "16cf151da6587437937bda85",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Palmer",
+  "titleOrig": "Palmer（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Palmer（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Palmer",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Palmer",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Palmer",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "fc753ed44be57259d0f588da",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：$LAPTOP",
+  "titleOrig": "$LAPTOP（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「$LAPTOP（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "$LAPTOP",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：$LAPTOP",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：$LAPTOP",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "9b42fbe122f1d06d944f2edf",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Switch 2",
+  "titleOrig": "Switch 2（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Switch 2（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Switch 2",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Switch 2",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Switch 2",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "834ab506d4a143af2bcd1831",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：PISA",
+  "titleOrig": "PISA（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「PISA（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "PISA",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：PISA",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：PISA",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "f3cb71f69cb35452e0031b6d",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：MILKPANSA VOGUE GALA26",
+  "titleOrig": "MILKPANSA VOGUE GALA26（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「MILKPANSA VOGUE GALA26（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "MILKPANSA VOGUE GALA26",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：MILKPANSA VOGUE GALA26",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：MILKPANSA VOGUE GALA26",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "57de6a5e7900f27a3b9a5cb5",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Scoups",
+  "titleOrig": "Scoups（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Scoups（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Scoups",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Scoups",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Scoups",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "58235784149864a9e6ccd4e6",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Barcola",
+  "titleOrig": "Barcola（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Barcola（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Barcola",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Barcola",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Barcola",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "2097dd2593675d93f8e6fcb8",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Kirby",
+  "titleOrig": "Kirby（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Kirby（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Kirby",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Kirby",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Kirby",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "4e85f443c8859f8fbec8fd76",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Exciting",
+  "titleOrig": "Exciting（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Exciting（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Exciting",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Exciting",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Exciting",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "d3c9b5ecf70b0256be97570e",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Napoli",
+  "titleOrig": "Napoli（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Napoli（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Napoli",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Napoli",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Napoli",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
+  "fresh": true
+ },
+ {
+  "id": "edb3458661eb931dce9ba85c",
+  "country": "my",
+  "cat": "meme",
+  "catCn": "马来热梗",
+  "stars": 3,
+  "printType": "文字+图案",
+  "risk": "低风险",
+  "hotDays": 14,
+  "titleCn": "马来热梗：Barcelona",
+  "titleOrig": "Barcelona（（泰/英热趋·详见事件说明））",
+  "summary": "trends24 马来西亚榜热梗「Barcelona（（泰/英热趋·详见事件说明））」，含马来社会/政治/娱乐梗，适合马来语印花。",
+  "tags": [
+   "Barcelona",
+   "马来热梗"
+  ],
+  "sensitive": false,
+  "sources": [
+   {
+    "name": "trends24.in（马来西亚X热趋）",
+    "type": "trends",
+    "url": "https://trends24.in/malaysia/",
+    "credibility": "中",
+    "region": "my",
+    "mention": 0
+   }
+  ],
+  "credibilityScore": 72,
+  "buzzIndex": 84,
+  "timeline": [
+   {
+    "date": "2026-09-10",
+    "label": "入选今日印选热点",
+    "desc": "马来热梗：Barcelona",
+    "verified": false
+   }
+  ],
+  "timeAbs": "2026-09-10",
+  "timeRel": "2026-09-10 研究",
+  "timezoneNote": "UTC+8",
+  "media": [
+   {
+    "type": "poster",
+    "url": "",
+    "thumb": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+    "caption": "马来热梗：Barcelona",
+    "source": "同类目复用·关键词命中"
+   }
+  ],
+  "cover": "real/926e4c3ebf7a538d20a1c8f1.jpg",
+  "coverType": "real",
+  "hasMedia": true,
+  "imageSource": "同类目复用·关键词命中",
+  "primaryUrl": "",
+  "sourceBreadth": {
+   "local": 1,
+   "global": 0,
+   "social_only": 1
+  },
+  "batch": "daily-2026-09-10",
   "fresh": true
  }
 ];
