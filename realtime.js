@@ -226,8 +226,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/6f/75/456f7594-f475-9985-4de9-dd8b812f9a2e/cover.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 92,
-  "summary": "苹果音乐 泰国 热门歌曲第4：ไม่รักดีกว่า（Z9）",
+  "buzzIndex": 90,
+  "summary": "苹果音乐 泰国 热门歌曲第5：ไม่รักดีกว่า（Z9）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -442,8 +442,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/34/21/da342137-0489-acd3-35b5-c66e454e63a5/26UMGIM34735.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 90,
-  "summary": "苹果音乐 泰国 热门歌曲第5：ขอแค่นี้ (Forever n ever)（PUN）",
+  "buzzIndex": 92,
+  "summary": "苹果音乐 泰国 热门歌曲第4：ขอแค่นี้ (Forever n ever)（PUN）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -810,60 +810,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/th/album/%E0%B9%83%E0%B8%88%E0%B8%89-%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%84%E0%B8%9B/1844797312?i=1844797800"
  },
  {
-  "id": "rt-94fc1132844d",
-  "titleCn": "One Of My Life (feat. K6Y) - BLVCKHEART",
-  "titleOrig": "One Of My Life (feat. K6Y) - BLVCKHEART",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/25/e3/6925e350-8b5f-f593-4447-6d0daac59b84/cover.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 76,
-  "summary": "苹果音乐 泰国 热门歌曲第12：One Of My Life (feat. K6Y)（BLVCKHEART）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://music.apple.com/th/album/one-of-my-life-feat-k6y/1785191164?i=1785191170"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 5,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/25/e3/6925e350-8b5f-f593-4447-6d0daac59b84/cover.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/th/album/one-of-my-life-feat-k6y/1785191164?i=1785191170"
- },
- {
   "id": "rt-816013a1d580",
   "titleCn": "ได้แค่เดินมาส่ง (The Last Walk) [feat. BLVCKHEART] - GAVIN:D",
   "titleOrig": "ได้แค่เดินมาส่ง (The Last Walk) [feat. BLVCKHEART] - GAVIN:D",
@@ -874,8 +820,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/42/0d/5a420d26-a339-7aea-d03a-68d87c752d3d/cover.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 74,
-  "summary": "苹果音乐 泰国 热门歌曲第13：ได้แค่เดินมาส่ง (The Last Walk) [feat. BLVCKHEART]（GAVIN:D）",
+  "buzzIndex": 76,
+  "summary": "苹果音乐 泰国 热门歌曲第12：ได้แค่เดินมาส่ง (The Last Walk) [feat. BLVCKHEART]（GAVIN:D）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -916,6 +862,60 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://music.apple.com/th/album/%E0%B9%84%E0%B8%94-%E0%B9%81%E0%B8%84-%E0%B9%80%E0%B8%94-%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%AA-%E0%B8%87-the-last-walk-feat-blvckheart/1880021381?i=1880021410"
+ },
+ {
+  "id": "rt-94fc1132844d",
+  "titleCn": "One Of My Life (feat. K6Y) - BLVCKHEART",
+  "titleOrig": "One Of My Life (feat. K6Y) - BLVCKHEART",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/25/e3/6925e350-8b5f-f593-4447-6d0daac59b84/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 74,
+  "summary": "苹果音乐 泰国 热门歌曲第13：One Of My Life (feat. K6Y)（BLVCKHEART）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/one-of-my-life-feat-k6y/1785191164?i=1785191170"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/25/e3/6925e350-8b5f-f593-4447-6d0daac59b84/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://music.apple.com/th/album/one-of-my-life-feat-k6y/1785191164?i=1785191170"
  },
  {
   "id": "rt-e51deb9bd61a",
@@ -972,60 +972,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/th/album/1-100/6807398729?i=6807399080"
  },
  {
-  "id": "rt-83890aad574b",
-  "titleCn": "PLEASE - Atom Chanakan",
-  "titleOrig": "PLEASE - Atom Chanakan",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/0d/ba/e50dba9c-86f9-9ce7-8981-b62ab1e36951/888332937771.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 70,
-  "summary": "苹果音乐 泰国 热门歌曲第15：PLEASE（Atom Chanakan）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://music.apple.com/th/album/please/1792752610?i=1792752613"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/0d/ba/e50dba9c-86f9-9ce7-8981-b62ab1e36951/888332937771.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/th/album/please/1792752610?i=1792752613"
- },
- {
   "id": "rt-0fd4bfeacfcf",
   "titleCn": "RAIN ZONE (feat. Z9) - Maiyarap",
   "titleOrig": "RAIN ZONE (feat. Z9) - Maiyarap",
@@ -1036,8 +982,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/43/4f/68434f26-0b26-6e4b-56ba-8b065dd24e4d/cover.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 68,
-  "summary": "苹果音乐 泰国 热门歌曲第16：RAIN ZONE (feat. Z9)（Maiyarap）",
+  "buzzIndex": 70,
+  "summary": "苹果音乐 泰国 热门歌曲第15：RAIN ZONE (feat. Z9)（Maiyarap）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1078,6 +1024,60 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://music.apple.com/th/album/rain-zone-feat-z9/1870748656?i=1870748665"
+ },
+ {
+  "id": "rt-83890aad574b",
+  "titleCn": "PLEASE - Atom Chanakan",
+  "titleOrig": "PLEASE - Atom Chanakan",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/0d/ba/e50dba9c-86f9-9ce7-8981-b62ab1e36951/888332937771.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 68,
+  "summary": "苹果音乐 泰国 热门歌曲第16：PLEASE（Atom Chanakan）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/please/1792752610?i=1792752613"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/0d/ba/e50dba9c-86f9-9ce7-8981-b62ab1e36951/888332937771.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://music.apple.com/th/album/please/1792752610?i=1792752613"
  },
  {
   "id": "rt-e5eac1223253",
@@ -1242,72 +1242,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/th/album/hate-that-i-made-you-love-me/1895420989?i=6763656876"
  },
  {
-  "id": "rt-b01c6b674cc5",
-  "titleCn": "Nakorn Dara - YOUNGOHM",
-  "titleOrig": "Nakorn Dara - YOUNGOHM",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a5/51/a8a55109-5a16-7633-b953-48d91bedfd70/cover.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "苹果音乐 泰国 热门歌曲第20：Nakorn Dara（YOUNGOHM）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://music.apple.com/th/album/nakorn-dara/1792155056?i=1792155060"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a5/51/a8a55109-5a16-7633-b953-48d91bedfd70/cover.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/th/album/nakorn-dara/1792155056?i=1792155060"
- },
- {
   "id": "rt-0fac187223f7",
   "titleCn": "ที่คั่นหนังสือ (Sometimes) [feat. NONT TANONT] - BOWKYLION",
   "titleOrig": "ที่คั่นหนังสือ (Sometimes) [feat. NONT TANONT] - BOWKYLION",
   "catCn": "音乐榜单",
   "cat": "music",
   "country": "泰国",
-  "stars": "🔥",
+  "stars": "🔥🔥",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/39/f0/6b39f021-a558-caba-f937-5e2505691b2a/25UMGIM82152.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 58,
-  "summary": "苹果音乐 泰国 热门歌曲第21：ที่คั่นหนังสือ (Sometimes) [feat. NONT TANONT]（BOWKYLION）",
+  "buzzIndex": 60,
+  "summary": "苹果音乐 泰国 热门歌曲第20：ที่คั่นหนังสือ (Sometimes) [feat. NONT TANONT]（BOWKYLION）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1348,6 +1294,60 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://music.apple.com/th/album/%E0%B8%97-%E0%B8%84-%E0%B8%99%E0%B8%AB%E0%B8%99-%E0%B8%87%E0%B8%AA-%E0%B8%AD-sometimes-feat-nont-tanont/1829905631?i=1829905640"
+ },
+ {
+  "id": "rt-b01c6b674cc5",
+  "titleCn": "Nakorn Dara - YOUNGOHM",
+  "titleOrig": "Nakorn Dara - YOUNGOHM",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a5/51/a8a55109-5a16-7633-b953-48d91bedfd70/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 58,
+  "summary": "苹果音乐 泰国 热门歌曲第21：Nakorn Dara（YOUNGOHM）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/nakorn-dara/1792155056?i=1792155060"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a5/51/a8a55109-5a16-7633-b953-48d91bedfd70/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://music.apple.com/th/album/nakorn-dara/1792155056?i=1792155060"
  },
  {
   "id": "rt-d6f8ea6e61cc",
@@ -1404,18 +1404,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/th/album/%E0%B8%95-%E0%B8%A2%E0%B8%94-%E0%B8%A2-loser/6807720384?i=6807720394"
  },
  {
-  "id": "rt-e423e830a935",
-  "titleCn": "BF (feat. URBOYTJ) - PUN",
-  "titleOrig": "BF (feat. URBOYTJ) - PUN",
+  "id": "rt-f497c11006bb",
+  "titleCn": "DAY ONE - PUN",
+  "titleOrig": "DAY ONE - PUN",
   "catCn": "音乐榜单",
   "cat": "music",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/600x600bb.jpg",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/80/47/7380474c-b3a6-3411-bfe9-2ef792c66768/24UMGIM55985.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 54,
-  "summary": "苹果音乐 泰国 热门歌曲第23：BF (feat. URBOYTJ)（PUN）",
+  "summary": "苹果音乐 泰国 热门歌曲第23：DAY ONE（PUN）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1425,7 +1425,7 @@ window.EVENTS_REALTIME = [
     "name": "Apple Music 榜单",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://music.apple.com/th/album/bf-feat-urboytj/1767346199?i=1767346202"
+    "url": "https://music.apple.com/th/album/day-one/1748093791?i=1748093799"
    }
   ],
   "sourceBreadth": {
@@ -1448,14 +1448,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/600x600bb.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/80/47/7380474c-b3a6-3411-bfe9-2ef792c66768/24UMGIM55985.rgb.jpg/600x600bb.jpg",
     "source": "Apple Music 专辑图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/th/album/bf-feat-urboytj/1767346199?i=1767346202"
+  "primaryUrl": "https://music.apple.com/th/album/day-one/1748093791?i=1748093799"
  },
  {
   "id": "rt-d59af351a8a6",
@@ -1512,18 +1512,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/th/album/%E0%B8%9F-%E0%B9%82%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%99-feat-2tflow/1604151720?i=1604152220"
  },
  {
-  "id": "rt-f497c11006bb",
-  "titleCn": "DAY ONE - PUN",
-  "titleOrig": "DAY ONE - PUN",
+  "id": "rt-e423e830a935",
+  "titleCn": "BF (feat. URBOYTJ) - PUN",
+  "titleOrig": "BF (feat. URBOYTJ) - PUN",
   "catCn": "音乐榜单",
   "cat": "music",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/80/47/7380474c-b3a6-3411-bfe9-2ef792c66768/24UMGIM55985.rgb.jpg/600x600bb.jpg",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 50,
-  "summary": "苹果音乐 泰国 热门歌曲第25：DAY ONE（PUN）",
+  "summary": "苹果音乐 泰国 热门歌曲第25：BF (feat. URBOYTJ)（PUN）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1533,7 +1533,7 @@ window.EVENTS_REALTIME = [
     "name": "Apple Music 榜单",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://music.apple.com/th/album/day-one/1748093791?i=1748093799"
+    "url": "https://music.apple.com/th/album/bf-feat-urboytj/1767346199?i=1767346202"
    }
   ],
   "sourceBreadth": {
@@ -1556,14 +1556,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/80/47/7380474c-b3a6-3411-bfe9-2ef792c66768/24UMGIM55985.rgb.jpg/600x600bb.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/600x600bb.jpg",
     "source": "Apple Music 专辑图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/th/album/day-one/1748093791?i=1748093799"
+  "primaryUrl": "https://music.apple.com/th/album/bf-feat-urboytj/1767346199?i=1767346202"
  },
  {
   "id": "rt-f1e796f40080",
@@ -1836,60 +1836,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/my/album/astaga-bercanda/1895710936?i=6764270080"
  },
  {
-  "id": "rt-bb82015458a5",
-  "titleCn": "The Fate of Ophelia - Taylor Swift",
-  "titleOrig": "The Fate of Ophelia - Taylor Swift",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "马来西亚",
-  "stars": "🔥🔥🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 86,
-  "summary": "苹果音乐 马来西亚 热门歌曲第7：The Fate of Ophelia（Taylor Swift）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "马来西亚",
-    "credibility": 88,
-    "url": "https://music.apple.com/my/album/the-fate-of-ophelia/1833328839?i=1833328840"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 7,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/my/album/the-fate-of-ophelia/1833328839?i=1833328840"
- },
- {
   "id": "rt-0a9717e7de50",
   "titleCn": "Ain't In LA - ADÉLA",
   "titleOrig": "Ain't In LA - ADÉLA",
@@ -1900,8 +1846,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 82,
-  "summary": "苹果音乐 马来西亚 热门歌曲第9：Ain't In LA（ADÉLA）",
+  "buzzIndex": 86,
+  "summary": "苹果音乐 马来西亚 热门歌曲第7：Ain't In LA（ADÉLA）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1954,8 +1900,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/fb/b2/f5fbb244-5aae-f06b-39e1-ca0ff7422560/820233746380.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 80,
-  "summary": "苹果音乐 马来西亚 热门歌曲第10：MMG (My Mine Gueh)（Naykilla）",
+  "buzzIndex": 84,
+  "summary": "苹果音乐 马来西亚 热门歌曲第8：MMG (My Mine Gueh)（Naykilla）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1996,6 +1942,60 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://music.apple.com/my/album/mmg-my-mine-gueh/6781390906?i=6781391180"
+ },
+ {
+  "id": "rt-bb82015458a5",
+  "titleCn": "The Fate of Ophelia - Taylor Swift",
+  "titleOrig": "The Fate of Ophelia - Taylor Swift",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "马来西亚",
+  "stars": "🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 82,
+  "summary": "苹果音乐 马来西亚 热门歌曲第9：The Fate of Ophelia（Taylor Swift）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://music.apple.com/my/album/the-fate-of-ophelia/1833328839?i=1833328840"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://music.apple.com/my/album/the-fate-of-ophelia/1833328839?i=1833328840"
  },
  {
   "id": "rt-b257e2b23820",
@@ -2160,6 +2160,60 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/my/album/beauty-and-a-beat-feat-nicki-minaj/1440650852?i=1440650961"
  },
  {
+  "id": "rt-a37d39da568d",
+  "titleCn": "the cure - Olivia Rodrigo",
+  "titleOrig": "the cure - Olivia Rodrigo",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 72,
+  "summary": "苹果音乐 马来西亚 热门歌曲第14：the cure（Olivia Rodrigo）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://music.apple.com/my/album/the-cure/1889992111?i=1889992123"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://music.apple.com/my/album/the-cure/1889992111?i=1889992123"
+ },
+ {
   "id": "rt-2281c6cf4e7a",
   "titleCn": "Nicole Kidman - ADÉLA",
   "titleOrig": "Nicole Kidman - ADÉLA",
@@ -2170,8 +2224,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 72,
-  "summary": "苹果音乐 马来西亚 热门歌曲第14：Nicole Kidman（ADÉLA）",
+  "buzzIndex": 70,
+  "summary": "苹果音乐 马来西亚 热门歌曲第15：Nicole Kidman（ADÉLA）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2199,7 +2253,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 5,
+  "hotDays": 3,
   "imageSource": "Apple Music 专辑图",
   "hasMedia": true,
   "media": [
@@ -2214,9 +2268,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/my/album/nicole-kidman/6792883860?i=6792884088"
  },
  {
-  "id": "rt-a37d39da568d",
-  "titleCn": "the cure - Olivia Rodrigo",
-  "titleOrig": "the cure - Olivia Rodrigo",
+  "id": "rt-72619d29066e",
+  "titleCn": "stupid song - Olivia Rodrigo",
+  "titleOrig": "stupid song - Olivia Rodrigo",
   "catCn": "音乐榜单",
   "cat": "music",
   "country": "马来西亚",
@@ -2224,8 +2278,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 70,
-  "summary": "苹果音乐 马来西亚 热门歌曲第15：the cure（Olivia Rodrigo）",
+  "buzzIndex": 68,
+  "summary": "苹果音乐 马来西亚 热门歌曲第16：stupid song（Olivia Rodrigo）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2235,7 +2289,7 @@ window.EVENTS_REALTIME = [
     "name": "Apple Music 榜单",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://music.apple.com/my/album/the-cure/1889992111?i=1889992123"
+    "url": "https://music.apple.com/my/album/stupid-song/1889992111?i=1889992115"
    }
   ],
   "sourceBreadth": {
@@ -2265,7 +2319,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/my/album/the-cure/1889992111?i=1889992123"
+  "primaryUrl": "https://music.apple.com/my/album/stupid-song/1889992111?i=1889992115"
  },
  {
   "id": "rt-3e2191b97176",
@@ -2278,8 +2332,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/53/d1/f053d15c-e4b0-7577-dc4d-2ab7d192e1b9/25UM1IM42518.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 68,
-  "summary": "苹果音乐 马来西亚 热门歌曲第16：Die On This Hill（SIENNA SPIRO）",
+  "buzzIndex": 66,
+  "summary": "苹果音乐 马来西亚 热门歌曲第17：Die On This Hill（SIENNA SPIRO）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2320,60 +2374,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://music.apple.com/my/album/die-on-this-hill/1841769601?i=1841769602"
- },
- {
-  "id": "rt-93f4aad8efec",
-  "titleCn": "WILDFLOWER - Billie Eilish",
-  "titleOrig": "WILDFLOWER - Billie Eilish",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 66,
-  "summary": "苹果音乐 马来西亚 热门歌曲第17：WILDFLOWER（Billie Eilish）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "马来西亚",
-    "credibility": 88,
-    "url": "https://music.apple.com/my/album/wildflower/1739659134?i=1739659144"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/my/album/wildflower/1739659134?i=1739659144"
  },
  {
   "id": "rt-05d323fa4a75",
@@ -2430,18 +2430,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/my/album/sesi-potret/1868326919?i=1868326920"
  },
  {
-  "id": "rt-72619d29066e",
-  "titleCn": "stupid song - Olivia Rodrigo",
-  "titleOrig": "stupid song - Olivia Rodrigo",
+  "id": "rt-93f4aad8efec",
+  "titleCn": "WILDFLOWER - Billie Eilish",
+  "titleOrig": "WILDFLOWER - Billie Eilish",
   "catCn": "音乐榜单",
   "cat": "music",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 62,
-  "summary": "苹果音乐 马来西亚 热门歌曲第19：stupid song（Olivia Rodrigo）",
+  "summary": "苹果音乐 马来西亚 热门歌曲第19：WILDFLOWER（Billie Eilish）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2451,7 +2451,7 @@ window.EVENTS_REALTIME = [
     "name": "Apple Music 榜单",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://music.apple.com/my/album/stupid-song/1889992111?i=1889992115"
+    "url": "https://music.apple.com/my/album/wildflower/1739659134?i=1739659144"
    }
   ],
   "sourceBreadth": {
@@ -2474,14 +2474,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg",
     "source": "Apple Music 专辑图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/my/album/stupid-song/1889992111?i=1889992115"
+  "primaryUrl": "https://music.apple.com/my/album/wildflower/1739659134?i=1739659144"
  },
  {
   "id": "rt-2ba24dbb068f",
@@ -2538,60 +2538,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/my/album/honeybee/1889992111?i=1889992116"
  },
  {
-  "id": "rt-331a17d15c6a",
-  "titleCn": "Pink Clouding - Taylor Swift",
-  "titleOrig": "Pink Clouding - Taylor Swift",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 58,
-  "summary": "苹果音乐 马来西亚 热门歌曲第21：Pink Clouding（Taylor Swift）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "马来西亚",
-    "credibility": 88,
-    "url": "https://music.apple.com/my/album/pink-clouding/6814997249?i=6814997428"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/my/album/pink-clouding/6814997249?i=6814997428"
- },
- {
   "id": "rt-8ff1e529b939",
   "titleCn": "drop dead - Olivia Rodrigo",
   "titleOrig": "drop dead - Olivia Rodrigo",
@@ -2602,8 +2548,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 56,
-  "summary": "苹果音乐 马来西亚 热门歌曲第22：drop dead（Olivia Rodrigo）",
+  "buzzIndex": 58,
+  "summary": "苹果音乐 马来西亚 热门歌曲第21：drop dead（Olivia Rodrigo）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2656,8 +2602,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ee/ec/56eeecfb-a5f3-ced0-fa69-4eda0e474aec/20UMGIM34924.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 54,
-  "summary": "苹果音乐 马来西亚 热门歌曲第23：Stuck with U（Ariana Grande & Justin Bieber）",
+  "buzzIndex": 56,
+  "summary": "苹果音乐 马来西亚 热门歌曲第22：Stuck with U（Ariana Grande & Justin Bieber）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2700,18 +2646,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/my/album/stuck-with-u/1511562938?i=1511562950"
  },
  {
-  "id": "rt-b78f1b6bdd10",
-  "titleCn": "Cleveland! - Taylor Swift",
-  "titleOrig": "Cleveland! - Taylor Swift",
+  "id": "rt-331a17d15c6a",
+  "titleCn": "Pink Clouding - Taylor Swift",
+  "titleOrig": "Pink Clouding - Taylor Swift",
   "catCn": "音乐榜单",
   "cat": "music",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/600x600bb.jpg",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 52,
-  "summary": "苹果音乐 马来西亚 热门歌曲第24：Cleveland!（Taylor Swift）",
+  "buzzIndex": 54,
+  "summary": "苹果音乐 马来西亚 热门歌曲第23：Pink Clouding（Taylor Swift）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2721,7 +2667,7 @@ window.EVENTS_REALTIME = [
     "name": "Apple Music 榜单",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://music.apple.com/my/album/cleveland/6814995859?i=6814996161"
+    "url": "https://music.apple.com/my/album/pink-clouding/6814997249?i=6814997428"
    }
   ],
   "sourceBreadth": {
@@ -2744,14 +2690,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/600x600bb.jpg",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
     "source": "Apple Music 专辑图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://music.apple.com/my/album/cleveland/6814995859?i=6814996161"
+  "primaryUrl": "https://music.apple.com/my/album/pink-clouding/6814997249?i=6814997428"
  },
  {
   "id": "rt-129c281a7976",
@@ -2764,8 +2710,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/89/15/828915ea-d716-61c4-3de7-ef00c1f800fb/5054197853630.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 50,
-  "summary": "苹果音乐 马来西亚 热门歌曲第25：Training Season（Dua Lipa）",
+  "buzzIndex": 52,
+  "summary": "苹果音乐 马来西亚 热门歌曲第24：Training Season（Dua Lipa）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2806,6 +2752,121 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://music.apple.com/my/album/training-season/1727526670?i=1727526894"
+ },
+ {
+  "id": "rt-01c06cf6b4fa",
+  "titleCn": "The One That Got Away - Katy Perry",
+  "titleOrig": "The One That Got Away - Katy Perry",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/3a/a3/cf3aa3ef-731b-6b77-1277-eaa9975ee27e/13UABIM57790.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 50,
+  "summary": "苹果音乐 马来西亚 热门歌曲第25：The One That Got Away（Katy Perry）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://music.apple.com/my/album/the-one-that-got-away/716340563?i=716341216"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/3a/a3/cf3aa3ef-731b-6b77-1277-eaa9975ee27e/13UABIM57790.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://music.apple.com/my/album/the-one-that-got-away/716340563?i=716341216"
+ },
+ {
+  "id": "rt-22012691fc4c",
+  "titleCn": "#วอลเลย์บอลชาย",
+  "titleOrig": "#วอลเลย์บอลชาย",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥🔥🔥🔥",
+  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/960px-Flag_of_Thailand.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 98,
+  "summary": "泰国 Twitter/X 今日热搜：#วอลเลย์บอลชาย",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%8A%E0%B8%B2%E0%B8%A2"
+   },
+   {
+    "type": "wiki",
+    "name": "维基百科词条图",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "维基百科词条图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/960px-Flag_of_Thailand.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科词条图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%8A%E0%B8%B2%E0%B8%A2"
  },
  {
   "id": "rt-0b6755600eab",
@@ -3270,79 +3331,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": ""
  },
  {
-  "id": "rt-25a066a1e17f",
-  "titleCn": "#รักสุดใจนายแฟนบอยSeries",
-  "titleOrig": "#รักสุดใจนายแฟนบอยSeries",
+  "id": "rt-f8ffd8a0b377",
+  "titleCn": "#FeedxKhaosod2026xPNB",
+  "titleOrig": "#FeedxKhaosod2026xPNB",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/5452/18666753020_2e84f651b4_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 98,
-  "summary": "泰国 Twitter/X 今日热搜：#รักสุดใจนายแฟนบอยSeries",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=%23%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A2Series"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 14,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/5452/18666753020_2e84f651b4_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=%23%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A2Series"
- },
- {
-  "id": "rt-458f0c38d782",
-  "titleCn": "#MrFanboySeries",
-  "titleOrig": "#MrFanboySeries",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/5/10600936_5a4833e8bb_b.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 80,
   "buzzIndex": 96,
-  "summary": "泰国 Twitter/X 今日热搜：#MrFanboySeries",
+  "summary": "泰国 Twitter/X 今日热搜：#FeedxKhaosod2026xPNB",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3352,14 +3352,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23MrFanboySeries"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
+    "url": "https://twitter.com/search?q=%23FeedxKhaosod2026xPNB"
    }
   ],
   "sourceBreadth": {
@@ -3378,32 +3371,26 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 14,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/5/10600936_5a4833e8bb_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=%23MrFanboySeries"
+  "primaryUrl": "https://twitter.com/search?q=%23FeedxKhaosod2026xPNB"
  },
  {
-  "id": "rt-9a8d4422d1e5",
-  "titleCn": "#Schiaparelli",
-  "titleOrig": "#Schiaparelli",
+  "id": "rt-b71ccdc63daa",
+  "titleCn": "PUINOONBINT X FEED KHAOSOD",
+  "titleOrig": "PUINOONBINT X FEED KHAOSOD",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/1114/716613063_ee4dd5a60b_b.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 80,
   "buzzIndex": 94,
-  "summary": "泰国 Twitter/X 今日热搜：#Schiaparelli",
+  "summary": "泰国 Twitter/X 今日热搜：PUINOONBINT X FEED KHAOSOD",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3413,14 +3400,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23Schiaparelli"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
+    "url": "https://twitter.com/search?q=PUINOONBINT%20X%20FEED%20KHAOSOD"
    }
   ],
   "sourceBreadth": {
@@ -3439,32 +3419,26 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 14,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/1114/716613063_ee4dd5a60b_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=%23Schiaparelli"
+  "primaryUrl": "https://twitter.com/search?q=PUINOONBINT%20X%20FEED%20KHAOSOD"
  },
  {
-  "id": "rt-8359c66c2909",
-  "titleCn": "#DiorSummer27",
-  "titleOrig": "#DiorSummer27",
+  "id": "rt-c6f5bf0e858d",
+  "titleCn": "#FEEDxKHAOSODAwards2026",
+  "titleOrig": "#FEEDxKHAOSODAwards2026",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/65535/54736624750_7f7c58e172_b.jpg",
+  "cover": "https://live.staticflickr.com/2275/1612331140_32e01ed25b_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 92,
-  "summary": "泰国 Twitter/X 今日热搜：#DiorSummer27",
+  "summary": "泰国 Twitter/X 今日热搜：#FEEDxKHAOSODAwards2026",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3474,7 +3448,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23DiorSummer27"
+    "url": "https://twitter.com/search?q=%23FEEDxKHAOSODAwards2026"
    },
    {
     "type": "openverse",
@@ -3504,19 +3478,19 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/65535/54736624750_7f7c58e172_b.jpg",
+    "url": "https://live.staticflickr.com/2275/1612331140_32e01ed25b_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=%23DiorSummer27"
+  "primaryUrl": "https://twitter.com/search?q=%23FEEDxKHAOSODAwards2026"
  },
  {
-  "id": "rt-0cce5c5ad03a",
-  "titleCn": "#WANGYIBOx8HSHANGHAI26",
-  "titleOrig": "#WANGYIBOx8HSHANGHAI26",
+  "id": "rt-4c94b7c09965",
+  "titleCn": "#ATLASRisingUpConcertatImpact",
+  "titleOrig": "#ATLASRisingUpConcertatImpact",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
@@ -3525,6 +3499,54 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 80,
   "buzzIndex": 90,
+  "summary": "泰国 Twitter/X 今日热搜：#ATLASRisingUpConcertatImpact",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=%23ATLASRisingUpConcertatImpact"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=%23ATLASRisingUpConcertatImpact"
+ },
+ {
+  "id": "rt-0cce5c5ad03a",
+  "titleCn": "#WANGYIBOx8HSHANGHAI26",
+  "titleOrig": "#WANGYIBOx8HSHANGHAI26",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 88,
   "summary": "泰国 Twitter/X 今日热搜：#WANGYIBOx8HSHANGHAI26",
   "tags": [],
   "timeRel": "",
@@ -3562,79 +3584,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=%23WANGYIBOx8HSHANGHAI26"
  },
  {
-  "id": "rt-3d274737ce45",
-  "titleCn": "2Y LITTLE BOY NONGNOOONG",
-  "titleOrig": "2Y LITTLE BOY NONGNOOONG",
+  "id": "rt-4371c5a0d540",
+  "titleCn": "POOHPAVEL GOLDEN NIGHT FEED",
+  "titleOrig": "POOHPAVEL GOLDEN NIGHT FEED",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/5577/14142505591_6385f3a3de_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 88,
-  "summary": "泰国 Twitter/X 今日热搜：2Y LITTLE BOY NONGNOOONG",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=2Y%20LITTLE%20BOY%20NONGNOOONG"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 14,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/5577/14142505591_6385f3a3de_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=2Y%20LITTLE%20BOY%20NONGNOOONG"
- },
- {
-  "id": "rt-41f6a6256434",
-  "titleCn": "AVOCEAN SUGOIDESUNE",
-  "titleOrig": "AVOCEAN SUGOIDESUNE",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/65535/48501755076_8672d84027_b.jpg",
+  "cover": "https://live.staticflickr.com/2712/4228947129_b2467141f6_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 86,
-  "summary": "泰国 Twitter/X 今日热搜：AVOCEAN SUGOIDESUNE",
+  "summary": "泰国 Twitter/X 今日热搜：POOHPAVEL GOLDEN NIGHT FEED",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3644,7 +3605,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=AVOCEAN%20SUGOIDESUNE"
+    "url": "https://twitter.com/search?q=POOHPAVEL%20GOLDEN%20NIGHT%20FEED"
    },
    {
     "type": "openverse",
@@ -3674,14 +3635,123 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/65535/48501755076_8672d84027_b.jpg",
+    "url": "https://live.staticflickr.com/2712/4228947129_b2467141f6_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=AVOCEAN%20SUGOIDESUNE"
+  "primaryUrl": "https://twitter.com/search?q=POOHPAVEL%20GOLDEN%20NIGHT%20FEED"
+ },
+ {
+  "id": "rt-2162e1b6e627",
+  "titleCn": "AOU X URANUS KORAT",
+  "titleOrig": "AOU X URANUS KORAT",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥🔥",
+  "cover": "https://live.staticflickr.com/3703/13515402544_7a07f46882.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 84,
+  "summary": "泰国 Twitter/X 今日热搜：AOU X URANUS KORAT",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=AOU%20X%20URANUS%20KORAT"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3703/13515402544_7a07f46882.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=AOU%20X%20URANUS%20KORAT"
+ },
+ {
+  "id": "rt-11e63c886744",
+  "titleCn": "PFWSS27 CALLING MILK PANSA",
+  "titleOrig": "PFWSS27 CALLING MILK PANSA",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 82,
+  "summary": "泰国 Twitter/X 今日热搜：PFWSS27 CALLING MILK PANSA",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=PFWSS27%20CALLING%20MILK%20PANSA"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=PFWSS27%20CALLING%20MILK%20PANSA"
  },
  {
   "id": "rt-19341dcc8481",
@@ -3694,7 +3764,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/1/15/%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9B_%E0%B8%88%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%B0_%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A1_%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD_%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87_%E0%B8%AB%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B9%8C_%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 84,
+  "buzzIndex": 80,
   "summary": "泰国 Twitter/X 今日热搜：Keng Harit",
   "tags": [],
   "timeRel": "",
@@ -3745,78 +3815,17 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Keng%20Harit"
  },
  {
-  "id": "rt-4ff11cf04adf",
-  "titleCn": "PRECIOUS TIME CHARLOTTE27",
-  "titleOrig": "PRECIOUS TIME CHARLOTTE27",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/753/22315309428_425c931b7d_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 82,
-  "summary": "泰国 Twitter/X 今日热搜：PRECIOUS TIME CHARLOTTE27",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=PRECIOUS%20TIME%20CHARLOTTE27"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 7,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/753/22315309428_425c931b7d_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=PRECIOUS%20TIME%20CHARLOTTE27"
- },
- {
   "id": "rt-c9e8e9bce7a8",
   "titleCn": "Paris Fashion Week",
   "titleOrig": "Paris Fashion Week",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
-  "stars": "🔥🔥🔥",
+  "stars": "🔥🔥",
   "cover": "https://live.staticflickr.com/2846/9094076931_d3b746fc11_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 80,
+  "buzzIndex": 78,
   "summary": "泰国 Twitter/X 今日热搜：Paris Fashion Week",
   "tags": [],
   "timeRel": "",
@@ -3852,7 +3861,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 7,
+  "hotDays": 5,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
@@ -3867,79 +3876,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=Paris%20Fashion%20Week"
  },
  {
-  "id": "rt-6d3caa12101e",
-  "titleCn": "Lingling Kwong",
-  "titleOrig": "Lingling Kwong",
+  "id": "rt-7c9b544a5054",
+  "titleCn": "BESEVBOOM X URANUS SURAT",
+  "titleOrig": "BESEVBOOM X URANUS SURAT",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lingling_Kwong_%40_The_Secret_Of_Us.png",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 78,
-  "summary": "泰国 Twitter/X 今日热搜：Lingling Kwong",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Lingling%20Kwong"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 5,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lingling_Kwong_%40_The_Secret_Of_Us.png",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Lingling%20Kwong"
- },
- {
-  "id": "rt-22b1565d1801",
-  "titleCn": "MR FANBOY CHAPTER 5",
-  "titleOrig": "MR FANBOY CHAPTER 5",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/5/10600936_5a4833e8bb_b.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 80,
   "buzzIndex": 76,
-  "summary": "泰国 Twitter/X 今日热搜：MR FANBOY CHAPTER 5",
+  "summary": "泰国 Twitter/X 今日热搜：BESEVBOOM X URANUS SURAT",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3949,7 +3897,55 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=MR%20FANBOY%20CHAPTER%205"
+    "url": "https://twitter.com/search?q=BESEVBOOM%20X%20URANUS%20SURAT"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=BESEVBOOM%20X%20URANUS%20SURAT"
+ },
+ {
+  "id": "rt-4d2c53aec72e",
+  "titleCn": "TTP MOONLIT GLOW",
+  "titleOrig": "TTP MOONLIT GLOW",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/1643/24556804631_406bc7110f_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 74,
+  "summary": "泰国 Twitter/X 今日热搜：TTP MOONLIT GLOW",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=TTP%20MOONLIT%20GLOW"
    },
    {
     "type": "openverse",
@@ -3979,14 +3975,380 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/5/10600936_5a4833e8bb_b.jpg",
+    "url": "https://live.staticflickr.com/1643/24556804631_406bc7110f_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=MR%20FANBOY%20CHAPTER%205"
+  "primaryUrl": "https://twitter.com/search?q=TTP%20MOONLIT%20GLOW"
+ },
+ {
+  "id": "rt-3d274737ce45",
+  "titleCn": "2Y LITTLE BOY NONGNOOONG",
+  "titleOrig": "2Y LITTLE BOY NONGNOOONG",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/5577/14142505591_6385f3a3de_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 72,
+  "summary": "泰国 Twitter/X 今日热搜：2Y LITTLE BOY NONGNOOONG",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=2Y%20LITTLE%20BOY%20NONGNOOONG"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/5577/14142505591_6385f3a3de_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=2Y%20LITTLE%20BOY%20NONGNOOONG"
+ },
+ {
+  "id": "rt-24530fdf36f1",
+  "titleCn": "FORCEBOOK X BONCHON TRIP D2",
+  "titleOrig": "FORCEBOOK X BONCHON TRIP D2",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/6/65/%28Book%29_Kasidet_Plookphol.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 70,
+  "summary": "泰国 Twitter/X 今日热搜：FORCEBOOK X BONCHON TRIP D2",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=FORCEBOOK%20X%20BONCHON%20TRIP%20D2"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/%28Book%29_Kasidet_Plookphol.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=FORCEBOOK%20X%20BONCHON%20TRIP%20D2"
+ },
+ {
+  "id": "rt-4ff11cf04adf",
+  "titleCn": "PRECIOUS TIME CHARLOTTE27",
+  "titleOrig": "PRECIOUS TIME CHARLOTTE27",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/753/22315309428_425c931b7d_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 68,
+  "summary": "泰国 Twitter/X 今日热搜：PRECIOUS TIME CHARLOTTE27",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=PRECIOUS%20TIME%20CHARLOTTE27"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/753/22315309428_425c931b7d_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=PRECIOUS%20TIME%20CHARLOTTE27"
+ },
+ {
+  "id": "rt-41f6a6256434",
+  "titleCn": "AVOCEAN SUGOIDESUNE",
+  "titleOrig": "AVOCEAN SUGOIDESUNE",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/65535/48501755076_8672d84027_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 66,
+  "summary": "泰国 Twitter/X 今日热搜：AVOCEAN SUGOIDESUNE",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=AVOCEAN%20SUGOIDESUNE"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/65535/48501755076_8672d84027_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=AVOCEAN%20SUGOIDESUNE"
+ },
+ {
+  "id": "rt-5d1bf55983e0",
+  "titleCn": "SMILE OF LIES EP3",
+  "titleOrig": "SMILE OF LIES EP3",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://live.staticflickr.com/8/8032380_819d9b94df_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 64,
+  "summary": "泰国 Twitter/X 今日热搜：SMILE OF LIES EP3",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=SMILE%20OF%20LIES%20EP3"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/8/8032380_819d9b94df_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=SMILE%20OF%20LIES%20EP3"
+ },
+ {
+  "id": "rt-0ce80af31dfb",
+  "titleCn": "Gen Z",
+  "titleOrig": "Gen Z",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e9/2025_Nepalese_Gen_Z_protesters_infront_of_Bharatpur_mahanagarpalika_office.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 62,
+  "summary": "泰国 Twitter/X 今日热搜：Gen Z",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "泰国",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Gen%20Z"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/2025_Nepalese_Gen_Z_protesters_infront_of_Bharatpur_mahanagarpalika_office.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=Gen%20Z"
  },
  {
   "id": "rt-1bfa7447da9e",
@@ -3999,7 +4361,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Engfa_Waraha.png",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 74,
+  "buzzIndex": 60,
   "summary": "泰国 Twitter/X 今日热搜：ENGFA THE BELOVED STAR27",
   "tags": [],
   "timeRel": "",
@@ -4035,7 +4397,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 5,
+  "hotDays": 2,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
@@ -4050,139 +4412,17 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=ENGFA%20THE%20BELOVED%20STAR27"
  },
  {
-  "id": "rt-b7bc780029a7",
-  "titleCn": "BOTTEGA VENETA MFW SS27",
-  "titleOrig": "BOTTEGA VENETA MFW SS27",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bottega_Giotti_Logo.svg/960px-Bottega_Giotti_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 72,
-  "summary": "泰国 Twitter/X 今日热搜：BOTTEGA VENETA MFW SS27",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=BOTTEGA%20VENETA%20MFW%20SS27"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 5,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bottega_Giotti_Logo.svg/960px-Bottega_Giotti_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=BOTTEGA%20VENETA%20MFW%20SS27"
- },
- {
-  "id": "rt-5d1bf55983e0",
-  "titleCn": "SMILE OF LIES EP3",
-  "titleOrig": "SMILE OF LIES EP3",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Rutecarpine.svg/960px-Rutecarpine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 70,
-  "summary": "泰国 Twitter/X 今日热搜：SMILE OF LIES EP3",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=SMILE%20OF%20LIES%20EP3"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Rutecarpine.svg/960px-Rutecarpine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=SMILE%20OF%20LIES%20EP3"
- },
- {
   "id": "rt-7cd21bacd60c",
   "titleCn": "TONGTONG GLOWING AT 31",
   "titleOrig": "TONGTONG GLOWING AT 31",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e8/%E0%B8%95%E0%B8%87%E0%B8%95%E0%B8%87_%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%81%E0%B8%A3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "stars": "🔥",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tongtong_Kitsakorn_Kanogtorn_%40_MGR_ONLINE_VDO_2020.png",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 68,
+  "buzzIndex": 58,
   "summary": "泰国 Twitter/X 今日热搜：TONGTONG GLOWING AT 31",
   "tags": [],
   "timeRel": "",
@@ -4196,8 +4436,8 @@ window.EVENTS_REALTIME = [
     "url": "https://twitter.com/search?q=TONGTONG%20GLOWING%20AT%2031"
    },
    {
-    "type": "wiki",
-    "name": "维基百科词条图",
+    "type": "openverse",
+    "name": "Openverse 共享图库",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -4218,13 +4458,13 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 3,
-  "imageSource": "维基百科词条图",
+  "hotDays": 2,
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/%E0%B8%95%E0%B8%87%E0%B8%95%E0%B8%87_%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%81%E0%B8%A3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "source": "维基百科词条图",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tongtong_Kitsakorn_Kanogtorn_%40_MGR_ONLINE_VDO_2020.png",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
@@ -4233,310 +4473,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=TONGTONG%20GLOWING%20AT%2031"
  },
  {
-  "id": "rt-0ce80af31dfb",
-  "titleCn": "Gen Z",
-  "titleOrig": "Gen Z",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2025_Nepalese_Gen_Z_protesters_infront_of_Bharatpur_mahanagarpalika_office.jpg/960px-2025_Nepalese_Gen_Z_protesters_infront_of_Bharatpur_mahanagarpalika_office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 66,
-  "summary": "泰国 Twitter/X 今日热搜：Gen Z",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Gen%20Z"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2025_Nepalese_Gen_Z_protesters_infront_of_Bharatpur_mahanagarpalika_office.jpg/960px-2025_Nepalese_Gen_Z_protesters_infront_of_Bharatpur_mahanagarpalika_office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Gen%20Z"
- },
- {
-  "id": "rt-e2da37e25896",
-  "titleCn": "Excel",
-  "titleOrig": "Excel",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Excel_Classic_Formation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 64,
-  "summary": "泰国 Twitter/X 今日热搜：Excel",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Excel"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Excel_Classic_Formation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Excel"
- },
- {
-  "id": "rt-cb9fc37202d6",
-  "titleCn": "ACTIVITRENINE X OBEYPHINGPUMA",
-  "titleOrig": "ACTIVITRENINE X OBEYPHINGPUMA",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 80,
-  "buzzIndex": 62,
-  "summary": "泰国 Twitter/X 今日热搜：ACTIVITRENINE X OBEYPHINGPUMA",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=ACTIVITRENINE%20X%20OBEYPHINGPUMA"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=ACTIVITRENINE%20X%20OBEYPHINGPUMA"
- },
- {
-  "id": "rt-cf029234f24b",
-  "titleCn": "FAYE FOR FERRAGAMO MFW",
-  "titleOrig": "FAYE FOR FERRAGAMO MFW",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/72/193256934_4141b8a5d0_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 60,
-  "summary": "泰国 Twitter/X 今日热搜：FAYE FOR FERRAGAMO MFW",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=FAYE%20FOR%20FERRAGAMO%20MFW"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/72/193256934_4141b8a5d0_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=FAYE%20FOR%20FERRAGAMO%20MFW"
- },
- {
-  "id": "rt-c78d647533f0",
-  "titleCn": "iPad",
-  "titleOrig": "iPad",
+  "id": "rt-9a8d4422d1e5",
+  "titleCn": "#Schiaparelli",
+  "titleOrig": "#Schiaparelli",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/4012/4614567379_5c2119825e.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 58,
-  "summary": "泰国 Twitter/X 今日热搜：iPad",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "泰国",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=iPad"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/4012/4614567379_5c2119825e.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=iPad"
- },
- {
-  "id": "rt-a0c48641e0f0",
-  "titleCn": "#GoodBoySeries",
-  "titleOrig": "#GoodBoySeries",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/2240/2193814688_37228d4de8_b.jpg",
+  "cover": "https://live.staticflickr.com/1114/716613063_ee4dd5a60b_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 56,
-  "summary": "泰国 Twitter/X 今日热搜：#GoodBoySeries",
+  "summary": "泰国 Twitter/X 今日热搜：#Schiaparelli",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4546,7 +4494,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23GoodBoySeries"
+    "url": "https://twitter.com/search?q=%23Schiaparelli"
    },
    {
     "type": "openverse",
@@ -4576,28 +4524,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2240/2193814688_37228d4de8_b.jpg",
+    "url": "https://live.staticflickr.com/1114/716613063_ee4dd5a60b_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=%23GoodBoySeries"
+  "primaryUrl": "https://twitter.com/search?q=%23Schiaparelli"
  },
  {
-  "id": "rt-c8c3ea05381a",
-  "titleCn": "#ATLASRisingUpConcert",
-  "titleOrig": "#ATLASRisingUpConcert",
+  "id": "rt-acf76faf393e",
+  "titleCn": "#LingOrmDiorSummer27",
+  "titleOrig": "#LingOrmDiorSummer27",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
+  "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 54,
-  "summary": "泰国 Twitter/X 今日热搜：#ATLASRisingUpConcert",
+  "summary": "泰国 Twitter/X 今日热搜：#LingOrmDiorSummer27",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4607,7 +4555,14 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23ATLASRisingUpConcert"
+    "url": "https://twitter.com/search?q=%23LingOrmDiorSummer27"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse(LINGORM)",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -4626,26 +4581,32 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse(LINGORM)",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Runsten_%281%29_i_Gotlands_Fornsal_-_KMB_-_16000300018226.jpg",
+    "source": "Openverse(LINGORM)",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=%23ATLASRisingUpConcert"
+  "primaryUrl": "https://twitter.com/search?q=%23LingOrmDiorSummer27"
  },
  {
-  "id": "rt-c37a8799193e",
-  "titleCn": "#MaxkyBas2ndFM",
-  "titleOrig": "#MaxkyBas2ndFM",
+  "id": "rt-4b9816f39299",
+  "titleCn": "#TheaterOfTHAITake22",
+  "titleOrig": "#TheaterOfTHAITake22",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://live.staticflickr.com/2818/9718153199_d00e92fea7.jpg",
+  "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 52,
-  "summary": "泰国 Twitter/X 今日热搜：#MaxkyBas2ndFM",
+  "summary": "泰国 Twitter/X 今日热搜：#TheaterOfTHAITake22",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4655,7 +4616,14 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23MaxkyBas2ndFM"
+    "url": "https://twitter.com/search?q=%23TheaterOfTHAITake22"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -4674,26 +4642,32 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/2818/9718153199_d00e92fea7.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=%23MaxkyBas2ndFM"
+  "primaryUrl": "https://twitter.com/search?q=%23TheaterOfTHAITake22"
  },
  {
-  "id": "rt-566cd298db18",
-  "titleCn": "#BeMyPlayerTour",
-  "titleOrig": "#BeMyPlayerTour",
+  "id": "rt-d14d8438b8d9",
+  "titleCn": "#GangnamClinicxInnOngsa",
+  "titleOrig": "#GangnamClinicxInnOngsa",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/4043/4626389236_d6e548a609_b.jpg",
+  "cover": "https://live.staticflickr.com/3724/10171339525_e5d02faec1_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 50,
-  "summary": "泰国 Twitter/X 今日热搜：#BeMyPlayerTour",
+  "summary": "泰国 Twitter/X 今日热搜：#GangnamClinicxInnOngsa",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4703,7 +4677,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "泰国",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=%23BeMyPlayerTour"
+    "url": "https://twitter.com/search?q=%23GangnamClinicxInnOngsa"
    },
    {
     "type": "openverse",
@@ -4733,14 +4707,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/4043/4626389236_d6e548a609_b.jpg",
+    "url": "https://live.staticflickr.com/3724/10171339525_e5d02faec1_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=%23BeMyPlayerTour"
+  "primaryUrl": "https://twitter.com/search?q=%23GangnamClinicxInnOngsa"
  },
  {
   "id": "rt-8ea2e1c9592d",
@@ -4865,6 +4839,128 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=%23MrFanboyEP5"
  },
  {
+  "id": "rt-8359c66c2909",
+  "titleCn": "#DiorSummer27",
+  "titleOrig": "#DiorSummer27",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥🔥🔥",
+  "cover": "https://live.staticflickr.com/65535/54736624750_7f7c58e172_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 94,
+  "summary": "马来西亚 Twitter/X 今日热搜：#DiorSummer27",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=%23DiorSummer27"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/65535/54736624750_7f7c58e172_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=%23DiorSummer27"
+ },
+ {
+  "id": "rt-22b1565d1801",
+  "titleCn": "MR FANBOY CHAPTER 5",
+  "titleOrig": "MR FANBOY CHAPTER 5",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥🔥🔥",
+  "cover": "https://live.staticflickr.com/5/10600936_5a4833e8bb_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 80,
+  "buzzIndex": 92,
+  "summary": "马来西亚 Twitter/X 今日热搜：MR FANBOY CHAPTER 5",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=MR%20FANBOY%20CHAPTER%205"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/5/10600936_5a4833e8bb_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=MR%20FANBOY%20CHAPTER%205"
+ },
+ {
   "id": "rt-594597282dc1",
   "titleCn": "LENAMIU PLS LOVE EP3",
   "titleOrig": "LENAMIU PLS LOVE EP3",
@@ -4875,7 +4971,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Miu_Natsha_Taechamongkalapiwat_at_LenaMiu_Fan_Meeting_in_Taiwan_2026-03-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 92,
+  "buzzIndex": 90,
   "summary": "马来西亚 Twitter/X 今日热搜：LENAMIU PLS LOVE EP3",
   "tags": [],
   "timeRel": "",
@@ -4997,7 +5093,7 @@ window.EVENTS_REALTIME = [
   "cover": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mix_Sahaphap%2C_Aug_2023.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 86,
+  "buzzIndex": 84,
   "summary": "马来西亚 Twitter/X 今日热搜：JOONGDUNK JAIDEE SEOUL SMILES",
   "tags": [],
   "timeRel": "",
@@ -5048,79 +5144,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=JOONGDUNK%20JAIDEE%20SEOUL%20SMILES"
  },
  {
-  "id": "rt-0462917b6694",
-  "titleCn": "#IN2ITxHendery",
-  "titleOrig": "#IN2ITxHendery",
+  "id": "rt-cf029234f24b",
+  "titleCn": "FAYE FOR FERRAGAMO MFW",
+  "titleOrig": "FAYE FOR FERRAGAMO MFW",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hendery_Wong_%EB%B3%B4%EB%8A%94_%EB%9D%BC%EB%94%94%EC%98%A4_201124_07.png",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 84,
-  "summary": "马来西亚 Twitter/X 今日热搜：#IN2ITxHendery",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=%23IN2ITxHendery"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 7,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hendery_Wong_%EB%B3%B4%EB%8A%94_%EB%9D%BC%EB%94%94%EC%98%A4_201124_07.png",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=%23IN2ITxHendery"
- },
- {
-  "id": "rt-969987725e96",
-  "titleCn": "Dean",
-  "titleOrig": "Dean",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥🔥",
-  "cover": "https://live.staticflickr.com/8254/8651645445_c5c61b7545_b.jpg",
+  "cover": "https://live.staticflickr.com/72/193256934_4141b8a5d0_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 82,
-  "summary": "马来西亚 Twitter/X 今日热搜：Dean",
+  "summary": "马来西亚 Twitter/X 今日热搜：FAYE FOR FERRAGAMO MFW",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5130,7 +5165,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=Dean"
+    "url": "https://twitter.com/search?q=FAYE%20FOR%20FERRAGAMO%20MFW"
    },
    {
     "type": "openverse",
@@ -5160,28 +5195,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/8254/8651645445_c5c61b7545_b.jpg",
+    "url": "https://live.staticflickr.com/72/193256934_4141b8a5d0_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Dean"
+  "primaryUrl": "https://twitter.com/search?q=FAYE%20FOR%20FERRAGAMO%20MFW"
  },
  {
-  "id": "rt-b2d448e0582c",
-  "titleCn": "CONVERGENCE OF TWO STARS",
-  "titleOrig": "CONVERGENCE OF TWO STARS",
+  "id": "rt-1de8cb84a491",
+  "titleCn": "convergence of two stars",
+  "titleOrig": "convergence of two stars",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
-  "stars": "🔥🔥",
+  "stars": "🔥🔥🔥",
   "cover": "https://live.staticflickr.com/5585/14748418039_af8354128b_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
-  "buzzIndex": 78,
-  "summary": "马来西亚 Twitter/X 今日热搜：CONVERGENCE OF TWO STARS",
+  "buzzIndex": 80,
+  "summary": "马来西亚 Twitter/X 今日热搜：convergence of two stars",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5191,7 +5226,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=CONVERGENCE%20OF%20TWO%20STARS"
+    "url": "https://twitter.com/search?q=convergence%20of%20two%20stars"
    },
    {
     "type": "openverse",
@@ -5216,7 +5251,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 5,
+  "hotDays": 7,
   "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
@@ -5228,7 +5263,7 @@ window.EVENTS_REALTIME = [
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=CONVERGENCE%20OF%20TWO%20STARS"
+  "primaryUrl": "https://twitter.com/search?q=convergence%20of%20two%20stars"
  },
  {
   "id": "rt-404cf97f003b",
@@ -5292,18 +5327,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=FORCEBOOK%20X%20BONCHON%20TRIP%20D1"
  },
  {
-  "id": "rt-8546c1dea719",
-  "titleCn": "Sepang",
-  "titleOrig": "Sepang",
+  "id": "rt-969987725e96",
+  "titleCn": "Dean",
+  "titleOrig": "Dean",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sepang.svg",
+  "cover": "https://live.staticflickr.com/8254/8651645445_c5c61b7545_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 74,
-  "summary": "马来西亚 Twitter/X 今日热搜：Sepang",
+  "summary": "马来西亚 Twitter/X 今日热搜：Dean",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5313,7 +5348,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=Sepang"
+    "url": "https://twitter.com/search?q=Dean"
    },
    {
     "type": "openverse",
@@ -5343,28 +5378,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sepang.svg",
+    "url": "https://live.staticflickr.com/8254/8651645445_c5c61b7545_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Sepang"
+  "primaryUrl": "https://twitter.com/search?q=Dean"
  },
  {
-  "id": "rt-94850223d987",
-  "titleCn": "Oscar",
-  "titleOrig": "Oscar",
+  "id": "rt-1e47729eed85",
+  "titleCn": "Noah",
+  "titleOrig": "Noah",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/2719/4454160728_f5707f2190_b.jpg",
+  "cover": "https://live.staticflickr.com/7084/7378172036_17684f8ccd_b.jpg",
   "coverType": "remote",
   "credibilityScore": 80,
   "buzzIndex": 72,
-  "summary": "马来西亚 Twitter/X 今日热搜：Oscar",
+  "summary": "马来西亚 Twitter/X 今日热搜：Noah",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5374,7 +5409,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=Oscar"
+    "url": "https://twitter.com/search?q=Noah"
    },
    {
     "type": "openverse",
@@ -5404,28 +5439,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2719/4454160728_f5707f2190_b.jpg",
+    "url": "https://live.staticflickr.com/7084/7378172036_17684f8ccd_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Oscar"
+  "primaryUrl": "https://twitter.com/search?q=Noah"
  },
  {
-  "id": "rt-f3677d0364cf",
-  "titleCn": "Man City",
-  "titleOrig": "Man City",
+  "id": "rt-e16b727a7af5",
+  "titleCn": "Renji",
+  "titleOrig": "Renji",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/6141/5958257503_cd5fb99133_b.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 80,
   "buzzIndex": 70,
-  "summary": "马来西亚 Twitter/X 今日热搜：Man City",
+  "summary": "马来西亚 Twitter/X 今日热搜：Renji",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5435,14 +5470,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=Man%20City"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
+    "url": "https://twitter.com/search?q=Renji"
    }
   ],
   "sourceBreadth": {
@@ -5461,18 +5489,12 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 3,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/6141/5958257503_cd5fb99133_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Man%20City"
+  "primaryUrl": "https://twitter.com/search?q=Renji"
  },
  {
   "id": "rt-19a51b9ea24e",
@@ -5482,8 +5504,8 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/4005/4182879425_8a1fcc97d2_b.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 80,
   "buzzIndex": 68,
   "summary": "马来西亚 Twitter/X 今日热搜：PIL SERIES EP3",
@@ -5497,13 +5519,6 @@ window.EVENTS_REALTIME = [
     "region": "马来西亚",
     "credibility": 80,
     "url": "https://twitter.com/search?q=PIL%20SERIES%20EP3"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -5522,215 +5537,26 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 3,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/4005/4182879425_8a1fcc97d2_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://twitter.com/search?q=PIL%20SERIES%20EP3"
  },
  {
-  "id": "rt-e16b727a7af5",
-  "titleCn": "Renji",
-  "titleOrig": "Renji",
+  "id": "rt-e427cc9930fa",
+  "titleCn": "Phuwin",
+  "titleOrig": "Phuwin",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/232/452961667_62d8133b7f_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 66,
-  "summary": "马来西亚 Twitter/X 今日热搜：Renji",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Renji"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/232/452961667_62d8133b7f_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Renji"
- },
- {
-  "id": "rt-1c9e651a6229",
-  "titleCn": "Lando",
-  "titleOrig": "Lando",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/4052/4319732135_5981f68544_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 62,
-  "summary": "马来西亚 Twitter/X 今日热搜：Lando",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Lando"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/4052/4319732135_5981f68544_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Lando"
- },
- {
-  "id": "rt-92210a8ec7d8",
-  "titleCn": "Gordon",
-  "titleOrig": "Gordon",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥🔥",
-  "cover": "https://live.staticflickr.com/212/466575225_414efe81a3.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 60,
-  "summary": "马来西亚 Twitter/X 今日热搜：Gordon",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Gordon"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/212/466575225_414efe81a3.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Gordon"
- },
- {
-  "id": "rt-e93b932f2329",
-  "titleCn": "Pheem",
-  "titleOrig": "Pheem",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 58,
-  "summary": "马来西亚 Twitter/X 今日热搜：Pheem",
+  "buzzIndex": 66,
+  "summary": "马来西亚 Twitter/X 今日热搜：Phuwin",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5740,7 +5566,103 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=Pheem"
+    "url": "https://twitter.com/search?q=Phuwin"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=Phuwin"
+ },
+ {
+  "id": "rt-8546c1dea719",
+  "titleCn": "Sepang",
+  "titleOrig": "Sepang",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 64,
+  "summary": "马来西亚 Twitter/X 今日热搜：Sepang",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Sepang"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=Sepang"
+ },
+ {
+  "id": "rt-f3677d0364cf",
+  "titleCn": "Man City",
+  "titleOrig": "Man City",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 60,
+  "summary": "马来西亚 Twitter/X 今日热搜：Man City",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Man%20City"
    }
   ],
   "sourceBreadth": {
@@ -5764,68 +5686,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Pheem"
- },
- {
-  "id": "rt-a909d8a5d2cd",
-  "titleCn": "Cleveland",
-  "titleOrig": "Cleveland",
-  "catCn": "平台热搜",
-  "cat": "platform_search",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/7381/14165315442_bd838177ba_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 80,
-  "buzzIndex": 56,
-  "summary": "马来西亚 Twitter/X 今日热搜：Cleveland",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "trends24",
-    "name": "Twitter/X 热搜榜",
-    "region": "马来西亚",
-    "credibility": 80,
-    "url": "https://twitter.com/search?q=Cleveland"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": true
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/7381/14165315442_bd838177ba_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=Cleveland"
+  "primaryUrl": "https://twitter.com/search?q=Man%20City"
  },
  {
   "id": "rt-35e54356b699",
@@ -5835,10 +5696,10 @@ window.EVENTS_REALTIME = [
   "cat": "platform_search",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d6/ElBulli_Ferran_Adri%C3%A0.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 54,
+  "buzzIndex": 58,
   "summary": "马来西亚 Twitter/X 今日热搜：Ferran",
   "tags": [],
   "timeRel": "",
@@ -5850,13 +5711,6 @@ window.EVENTS_REALTIME = [
     "region": "马来西亚",
     "credibility": 80,
     "url": "https://twitter.com/search?q=Ferran"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -5875,15 +5729,9 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/ElBulli_Ferran_Adri%C3%A0.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://twitter.com/search?q=Ferran"
@@ -5899,7 +5747,7 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 52,
+  "buzzIndex": 56,
   "summary": "马来西亚 Twitter/X 今日热搜：precious time charlotte26",
   "tags": [],
   "timeRel": "",
@@ -5937,9 +5785,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://twitter.com/search?q=precious%20time%20charlotte26"
  },
  {
-  "id": "rt-883df3eb357c",
-  "titleCn": "soobin",
-  "titleOrig": "soobin",
+  "id": "rt-0a6738ae8cf3",
+  "titleCn": "JUNIOR HAPPY TRIP DAY1",
+  "titleOrig": "JUNIOR HAPPY TRIP DAY1",
   "catCn": "平台热搜",
   "cat": "platform_search",
   "country": "马来西亚",
@@ -5947,8 +5795,8 @@ window.EVENTS_REALTIME = [
   "cover": "",
   "coverType": "placeholder",
   "credibilityScore": 80,
-  "buzzIndex": 50,
-  "summary": "马来西亚 Twitter/X 今日热搜：soobin",
+  "buzzIndex": 54,
+  "summary": "马来西亚 Twitter/X 今日热搜：JUNIOR HAPPY TRIP DAY1",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5958,7 +5806,7 @@ window.EVENTS_REALTIME = [
     "name": "Twitter/X 热搜榜",
     "region": "马来西亚",
     "credibility": 80,
-    "url": "https://twitter.com/search?q=soobin"
+    "url": "https://twitter.com/search?q=JUNIOR%20HAPPY%20TRIP%20DAY1"
    }
   ],
   "sourceBreadth": {
@@ -5982,7 +5830,157 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://twitter.com/search?q=soobin"
+  "primaryUrl": "https://twitter.com/search?q=JUNIOR%20HAPPY%20TRIP%20DAY1"
+ },
+ {
+  "id": "rt-a33140fe9a58",
+  "titleCn": "2026 ARIA Music Awards",
+  "titleOrig": "2026 ARIA Music Awards",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 52,
+  "summary": "马来西亚 Twitter/X 今日热搜：2026 ARIA Music Awards",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=2026%20ARIA%20Music%20Awards"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=2026%20ARIA%20Music%20Awards"
+ },
+ {
+  "id": "rt-8b0038bb4464",
+  "titleCn": "Bangkok",
+  "titleOrig": "Bangkok",
+  "catCn": "平台热搜",
+  "cat": "platform_search",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 80,
+  "buzzIndex": 50,
+  "summary": "马来西亚 Twitter/X 今日热搜：Bangkok",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "trends24",
+    "name": "Twitter/X 热搜榜",
+    "region": "马来西亚",
+    "credibility": 80,
+    "url": "https://twitter.com/search?q=Bangkok"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": true
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://twitter.com/search?q=Bangkok"
+ },
+ {
+  "id": "rt-32e1a603c0f0",
+  "titleCn": "You and I Are Polar Opposites Season 2",
+  "titleOrig": "You and I Are Polar Opposites Season 2",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 98,
+  "summary": "AniList 人气动漫第1：You and I Are Polar Opposites Season 2",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/210031"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://anilist.co/anime/210031"
  },
  {
   "id": "rt-5d5ea7a1c9cf",
@@ -5995,8 +5993,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 98,
-  "summary": "AniList 人气动漫第1：That Time I Got Reincarnated as a Slime Season 4",
+  "buzzIndex": 96,
+  "summary": "AniList 人气动漫第2：That Time I Got Reincarnated as a Slime Season 4",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6037,60 +6035,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://anilist.co/anime/182205"
- },
- {
-  "id": "rt-a709d54e1935",
-  "titleCn": "Smoking Behind the Supermarket with You",
-  "titleOrig": "Smoking Behind the Supermarket with You",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 96,
-  "summary": "AniList 人气动漫第2：Smoking Behind the Supermarket with You",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/196187"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 14,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://anilist.co/anime/196187"
  },
  {
   "id": "rt-c4edf1b7e015",
@@ -6147,6 +6091,60 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/21"
  },
  {
+  "id": "rt-a709d54e1935",
+  "titleCn": "Smoking Behind the Supermarket with You",
+  "titleOrig": "Smoking Behind the Supermarket with You",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 92,
+  "summary": "AniList 人气动漫第4：Smoking Behind the Supermarket with You",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/196187"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://anilist.co/anime/196187"
+ },
+ {
   "id": "rt-4a8e8952db02",
   "titleCn": "Hanaori-san Still Wants to Fight in the Next Life",
   "titleOrig": "Hanaori-san Still Wants to Fight in the Next Life",
@@ -6157,8 +6155,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 92,
-  "summary": "AniList 人气动漫第4：Hanaori-san Still Wants to Fight in the Next Life",
+  "buzzIndex": 90,
+  "summary": "AniList 人气动漫第5：Hanaori-san Still Wants to Fight in the Next Life",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6199,60 +6197,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://anilist.co/anime/199066"
- },
- {
-  "id": "rt-e61868d64061",
-  "titleCn": "Re:ZERO -Starting Life in Another World- Season 4",
-  "titleOrig": "Re:ZERO -Starting Life in Another World- Season 4",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 90,
-  "summary": "AniList 人气动漫第5：Re:ZERO -Starting Life in Another World- Season 4",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/189046"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 14,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://anilist.co/anime/189046"
  },
  {
   "id": "rt-e62d24050a0f",
@@ -6309,60 +6253,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/178789"
  },
  {
-  "id": "rt-d8d94f98ef6e",
-  "titleCn": "Welcome to Demon School! Iruma-kun Season 4",
-  "titleOrig": "Welcome to Demon School! Iruma-kun Season 4",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 86,
-  "summary": "AniList 人气动漫第7：Welcome to Demon School! Iruma-kun Season 4",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/184492"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 7,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://anilist.co/anime/184492"
- },
- {
   "id": "rt-8172e8532822",
   "titleCn": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
   "titleOrig": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
@@ -6373,8 +6263,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 84,
-  "summary": "AniList 人气动漫第8：HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+  "buzzIndex": 86,
+  "summary": "AniList 人气动漫第7：HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6417,6 +6307,114 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/209983"
  },
  {
+  "id": "rt-d8d94f98ef6e",
+  "titleCn": "Welcome to Demon School! Iruma-kun Season 4",
+  "titleOrig": "Welcome to Demon School! Iruma-kun Season 4",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 84,
+  "summary": "AniList 人气动漫第8：Welcome to Demon School! Iruma-kun Season 4",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/184492"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://anilist.co/anime/184492"
+ },
+ {
+  "id": "rt-e61868d64061",
+  "titleCn": "Re:ZERO -Starting Life in Another World- Season 4",
+  "titleOrig": "Re:ZERO -Starting Life in Another World- Season 4",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 82,
+  "summary": "AniList 人气动漫第9：Re:ZERO -Starting Life in Another World- Season 4",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/189046"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://anilist.co/anime/189046"
+ },
+ {
   "id": "rt-75922f004726",
   "titleCn": "Chainsmoker Cat",
   "titleOrig": "Chainsmoker Cat",
@@ -6427,8 +6425,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 82,
-  "summary": "AniList 人气动漫第9：Chainsmoker Cat",
+  "buzzIndex": 80,
+  "summary": "AniList 人气动漫第10：Chainsmoker Cat",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6477,12 +6475,12 @@ window.EVENTS_REALTIME = [
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
-  "stars": "🔥🔥🔥",
+  "stars": "🔥🔥",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 80,
-  "summary": "AniList 人气动漫第10：Daemons of the Shadow Realm",
+  "buzzIndex": 78,
+  "summary": "AniList 人气动漫第11：Daemons of the Shadow Realm",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6510,7 +6508,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 7,
+  "hotDays": 5,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
@@ -6523,60 +6521,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-09-27",
   "primaryUrl": "https://anilist.co/anime/195600"
- },
- {
-  "id": "rt-b79e0241dfd6",
-  "titleCn": "A Wild Last Boss Appeared! Season 2",
-  "titleOrig": "A Wild Last Boss Appeared! Season 2",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 78,
-  "summary": "AniList 人气动漫第11：A Wild Last Boss Appeared! Season 2",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/204389"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 5,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://anilist.co/anime/204389"
  },
  {
   "id": "rt-c971c150c30b",
@@ -6633,18 +6577,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/269"
  },
  {
-  "id": "rt-82de334203bc",
-  "titleCn": "DIGIMON BEATBREAK",
-  "titleOrig": "DIGIMON BEATBREAK",
+  "id": "rt-47f388c41ca1",
+  "titleCn": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+  "titleOrig": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 74,
-  "summary": "AniList 人气动漫第13：DIGIMON BEATBREAK",
+  "summary": "AniList 人气动漫第13：STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6654,7 +6598,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/188388"
+    "url": "https://anilist.co/anime/210482"
    }
   ],
   "sourceBreadth": {
@@ -6677,14 +6621,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://anilist.co/anime/188388"
+  "primaryUrl": "https://anilist.co/anime/210482"
  },
  {
   "id": "rt-4a049db4c7ed",
@@ -6741,60 +6685,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/171110"
  },
  {
-  "id": "rt-47f388c41ca1",
-  "titleCn": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-  "titleOrig": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 70,
-  "summary": "AniList 人气动漫第15：STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/210482"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://anilist.co/anime/210482"
- },
- {
   "id": "rt-d56e98fcd717",
   "titleCn": "The Exiled Heavy Knight Knows How to Game the System",
   "titleOrig": "The Exiled Heavy Knight Knows How to Game the System",
@@ -6805,8 +6695,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 68,
-  "summary": "AniList 人气动漫第16：The Exiled Heavy Knight Knows How to Game the System",
+  "buzzIndex": 70,
+  "summary": "AniList 人气动漫第15：The Exiled Heavy Knight Knows How to Game the System",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6849,18 +6739,72 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/180136"
  },
  {
-  "id": "rt-d2e199a29b9f",
-  "titleCn": "Grow Up Show",
-  "titleOrig": "Grow Up Show",
+  "id": "rt-a55d6222ad60",
+  "titleCn": "From Old Country Bumpkin to Master Swordsman II",
+  "titleOrig": "From Old Country Bumpkin to Master Swordsman II",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 68,
+  "summary": "AniList 人气动漫第16：From Old Country Bumpkin to Master Swordsman II",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/194829"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://anilist.co/anime/194829"
+ },
+ {
+  "id": "rt-b79e0241dfd6",
+  "titleCn": "A Wild Last Boss Appeared! Season 2",
+  "titleOrig": "A Wild Last Boss Appeared! Season 2",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 66,
-  "summary": "AniList 人气动漫第17：Grow Up Show",
+  "summary": "AniList 人气动漫第17：A Wild Last Boss Appeared! Season 2",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -6870,7 +6814,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/196017"
+    "url": "https://anilist.co/anime/204389"
    }
   ],
   "sourceBreadth": {
@@ -6893,68 +6837,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://anilist.co/anime/196017"
- },
- {
-  "id": "rt-f4d17f1fa714",
-  "titleCn": "Saga of Tanya the Evil Season 2",
-  "titleOrig": "Saga of Tanya the Evil Season 2",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 64,
-  "summary": "AniList 人气动漫第18：Saga of Tanya the Evil Season 2",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/135865"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://anilist.co/anime/135865"
+  "primaryUrl": "https://anilist.co/anime/204389"
  },
  {
   "id": "rt-0e6b53a934b5",
@@ -6967,8 +6857,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 62,
-  "summary": "AniList 人气动漫第19：Love Unseen Beneath the Clear Night Sky",
+  "buzzIndex": 64,
+  "summary": "AniList 人气动漫第18：Love Unseen Beneath the Clear Night Sky",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7011,18 +6901,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/202269"
  },
  {
-  "id": "rt-a55d6222ad60",
-  "titleCn": "From Old Country Bumpkin to Master Swordsman II",
-  "titleOrig": "From Old Country Bumpkin to Master Swordsman II",
+  "id": "rt-f4d17f1fa714",
+  "titleCn": "Saga of Tanya the Evil Season 2",
+  "titleOrig": "Saga of Tanya the Evil Season 2",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "AniList 人气动漫第20：From Old Country Bumpkin to Master Swordsman II",
+  "buzzIndex": 62,
+  "summary": "AniList 人气动漫第19：Saga of Tanya the Evil Season 2",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7032,7 +6922,61 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/194829"
+    "url": "https://anilist.co/anime/135865"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://anilist.co/anime/135865"
+ },
+ {
+  "id": "rt-60527eb4e7e2",
+  "titleCn": "Clevatess Season 2",
+  "titleOrig": "Clevatess Season 2",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "AniList 人气动漫第20：Clevatess Season 2",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/198946"
    }
   ],
   "sourceBreadth": {
@@ -7055,19 +6999,19 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://anilist.co/anime/194829"
+  "primaryUrl": "https://anilist.co/anime/198946"
  },
  {
-  "id": "rt-ec17e404a66e",
-  "titleCn": "'อู่อู๋-เซฟ-เจมส์-ริวจิน-แพทจิ' ปลื้มหนัก MR.FANBOY EP.1 กระแสแรงติดเทรนด์ X - komchadluek",
-  "titleOrig": "'อู่อู๋-เซฟ-เจมส์-ริวจิน-แพทจิ' ปลื้มหนัก MR.FANBOY EP.1 กระแสแรงติดเทรนด์ X - komchadluek",
+  "id": "rt-218c56ce8d71",
+  "titleCn": "\"ไทย พบ อินโดนีเซีย\" ถ่ายทอดสด วอลเลย์บอลชาย เอเชียนเกมส์ 2026 - komchadluek",
+  "titleOrig": "\"ไทย พบ อินโดนีเซีย\" ถ่ายทอดสด วอลเลย์บอลชาย เอเชียนเกมส์ 2026 - komchadluek",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "泰国",
@@ -7076,7 +7020,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国新闻热点：'อู่อู๋-เซฟ-เจมส์-ริวจิน-แพทจิ' ปลื้มหนัก MR.FANBOY EP.1 กระแสแรงติดเทรนด์ X - komchadluek",
+  "summary": "泰国新闻热点：\"ไทย พบ อินโดนีเซีย\" ถ่ายทอดสด วอลเลย์บอลชาย เอเชียนเกมส์ 2026 - komchadluek",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7086,7 +7030,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54UUNMaE5DQW9TM21VZ1ZjLVRzbzFTNkgxRGI3cV9HSEJZSVIwbXkxcnFfak9YNmRCenZjVThmUzdzMVJtT2xWWEZWbkhXay1KcGJ1NzAzSFBPalN1MUtXYWZ1bmNmTDBWc2NvQ0hB?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpV193U3dFQlNERFdtTnV4bXJaZ1lUTFV1MkpjaGNyS2tOSFdZaGpnR0NkV1NOZ0RrUU1Mb2lFeldaRHdySzVLb0M4YVBzbTFVTWFVREZfM00?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7110,12 +7054,12 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54UUNMaE5DQW9TM21VZ1ZjLVRzbzFTNkgxRGI3cV9HSEJZSVIwbXkxcnFfak9YNmRCenZjVThmUzdzMVJtT2xWWEZWbkhXay1KcGJ1NzAzSFBPalN1MUtXYWZ1bmNmTDBWc2NvQ0hB?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpV193U3dFQlNERFdtTnV4bXJaZ1lUTFV1MkpjaGNyS2tOSFdZaGpnR0NkV1NOZ0RrUU1Mb2lFeldaRHdySzVLb0M4YVBzbTFVTWFVREZfM00?oc=5"
  },
  {
-  "id": "rt-269816239736",
-  "titleCn": "OFFICIAL PILOT | รักสุดใจนายแฟนบอย | Mr. Fanboy Series - youtu.be",
-  "titleOrig": "OFFICIAL PILOT | รักสุดใจนายแฟนบอย | Mr. Fanboy Series - youtu.be",
+  "id": "rt-faed9f49de12",
+  "titleCn": "FEED X KHAOSOD AWARDS 2026 ANNOUNCES NOMINEES IN SIX POPULAR CATEGORIES - feedforfuture.co",
+  "titleOrig": "FEED X KHAOSOD AWARDS 2026 ANNOUNCES NOMINEES IN SIX POPULAR CATEGORIES - feedforfuture.co",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "泰国",
@@ -7124,7 +7068,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国新闻热点：OFFICIAL PILOT | รักสุดใจนายแฟนบอย | Mr. Fanboy Series - youtu.be",
+  "summary": "泰国新闻热点：FEED X KHAOSOD AWARDS 2026 ANNOUNCES NOMINEES IN SIX POPULAR CATEGORIES - feedforfuture.co",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7134,7 +7078,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZcGVxeFhoT2JONVBRcWE5a3hxcThkZWo0TjJINkpidzh1eXlPbzd6bUtJTzBzRXFlUGxOa01Yel84RW0zUWRNOUhxYUpuMWNCV0x5cmNRTXFBb1pB?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PbFdIaHNYaFUydU9SZC0wcGltS3NZc0RDTTJvd2E5aktiYWljOGN6S0JleXExRENna3ZGRDBscjBNZjBtVjBnY2VfTmZ1ZzhmbUNSdg?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7158,55 +7102,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZcGVxeFhoT2JONVBRcWE5a3hxcThkZWo0TjJINkpidzh1eXlPbzd6bUtJTzBzRXFlUGxOa01Yel84RW0zUWRNOUhxYUpuMWNCV0x5cmNRTXFBb1pB?oc=5"
- },
- {
-  "id": "rt-ce2ffedea568",
-  "titleCn": "Schiaparelli เปิดประเดิมโอตกูตูร์แฟชั่นวีก ขนเอาสรรพสัตว์ทุกชนิดบนโลกมาไว้บนรันเวย์เดียว! - Vogue Thailand",
-  "titleOrig": "Schiaparelli เปิดประเดิมโอตกูตูร์แฟชั่นวีก ขนเอาสรรพสัตว์ทุกชนิดบนโลกมาไว้บนรันเวย์เดียว! - Vogue Thailand",
-  "catCn": "新闻热点",
-  "cat": "news",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国新闻热点：Schiaparelli เปิดประเดิมโอตกูตูร์แฟชั่นวีก ขนเอาสรรพสัตว์ทุกชนิดบนโลกมาไว้บนรันเวย์เดียว! - Vogue Thailand",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxN0wyWGxlTXB0OGRFNmZYajZ6Wi04SEpjTVpIRk1sbVVFYTBzMW81TjN6ZmdUTjBvYmlKUXVxSmY3a0JsU2hzNHNSeHY5MndudU56elV4dlJESG1JTXRhVzNKNHd3bllXQmNlWm5tTUJmTDVaWC02bXBieWZQQQ?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxN0wyWGxlTXB0OGRFNmZYajZ6Wi04SEpjTVpIRk1sbVVFYTBzMW81TjN6ZmdUTjBvYmlKUXVxSmY3a0JsU2hzNHNSeHY5MndudU56elV4dlJESG1JTXRhVzNKNHd3bllXQmNlWm5tTUJmTDVaWC02bXBieWZQQQ?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PbFdIaHNYaFUydU9SZC0wcGltS3NZc0RDTTJvd2E5aktiYWljOGN6S0JleXExRENna3ZGRDBscjBNZjBtVjBnY2VfTmZ1ZzhmbUNSdg?oc=5"
  },
  {
   "id": "rt-c72ba069cc27",
@@ -7257,9 +7153,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12MVVpZmZMSzlJbndVRHE5SnFzMjZTOWJxVUZ6RXg1eklWOFhURHJMTG1fcE5qRkxpTDJJODNlOGFXVW1vWDN1bDZMdldCQU9pcENSd1d1UQ?oc=5"
  },
  {
-  "id": "rt-7072e89f7164",
-  "titleCn": "ไปกันต่อปารีส “ซี พฤกษ์” ฮอตไม่ไหว เตรียมร่วมงาน “BONBOM x ASPARAGUS – PARIS FASHION WEEK 2027” - daradaily.com",
-  "titleOrig": "ไปกันต่อปารีส “ซี พฤกษ์” ฮอตไม่ไหว เตรียมร่วมงาน “BONBOM x ASPARAGUS – PARIS FASHION WEEK 2027” - daradaily.com",
+  "id": "rt-94a01baff89f",
+  "titleCn": "ไป กัน ต่อ ปารีส “ซี พฤกษ์” ฮอต ไม่ ไหว เตรียม ร่วม งาน “BONBOM x ASPARAGUS – PARIS FASHION WEEK 2027” - Daradaily",
+  "titleOrig": "ไป กัน ต่อ ปารีส “ซี พฤกษ์” ฮอต ไม่ ไหว เตรียม ร่วม งาน “BONBOM x ASPARAGUS – PARIS FASHION WEEK 2027” - Daradaily",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "泰国",
@@ -7268,7 +7164,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国新闻热点：ไปกันต่อปารีส “ซี พฤกษ์” ฮอตไม่ไหว เตรียมร่วมงาน “BONBOM x ASPARAGUS – PARIS FASHION WEEK 2027” - daradaily.com",
+  "summary": "泰国新闻热点：ไป กัน ต่อ ปารีส “ซี พฤกษ์” ฮอต ไม่ ไหว เตรียม ร่วม งาน “BONBOM x ASPARAGUS – PARIS FASHION WEEK 2027” - Daradaily",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7278,7 +7174,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa2w1NFk2VUhnZmFkU0F2R01pVVNTVG95ZUFHN21yeGFjM3lCMWc0NnZMQnByVG5zVXRlNmFPWUJ5Qmo2SEtIZHFUWU8wTWJha19LSXQ1Q2szWUFrSmZyZUs0ZHBEbVBGa3l3YkFfSF81UUk5bWFoSWo0X1daUTN2bmc4SFVQOTZyaENkTHdnNXpyV0lLcTVZUVEyV2tHT1JaRjIzcnVObmRzakVhTEdUYmwwMDhRUy1ucWFsZGI2SG5wZ053SmlGczhrUS1GVzZQUkRXUTZsVDJMUnlxbmtYTHoxRlF0WVRaR2c?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80dTRWNHdWazBqZzA0a19rcUhQRmg1WV9Ha0c5V1NHV0FfQVl3NEJlcVptZmg5Y01tcVliSy0zaXp0OEZyWmtPY1hrRGJzMTAtYzRqUg?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7302,108 +7198,12 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa2w1NFk2VUhnZmFkU0F2R01pVVNTVG95ZUFHN21yeGFjM3lCMWc0NnZMQnByVG5zVXRlNmFPWUJ5Qmo2SEtIZHFUWU8wTWJha19LSXQ1Q2szWUFrSmZyZUs0ZHBEbVBGa3l3YkFfSF81UUk5bWFoSWo0X1daUTN2bmc4SFVQOTZyaENkTHdnNXpyV0lLcTVZUVEyV2tHT1JaRjIzcnVObmRzakVhTEdUYmwwMDhRUy1ucWFsZGI2SG5wZ053SmlGczhrUS1GVzZQUkRXUTZsVDJMUnlxbmtYTHoxRlF0WVRaR2c?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80dTRWNHdWazBqZzA0a19rcUhQRmg1WV9Ha0c5V1NHV0FfQVl3NEJlcVptZmg5Y01tcVliSy0zaXp0OEZyWmtPY1hrRGJzMTAtYzRqUg?oc=5"
  },
  {
-  "id": "rt-15b1679fc15e",
-  "titleCn": "สัมภาษณ์พิเศษ หลิงหลิง คอง เกี่ยวกับนิวยอร์กและการได้ขึ้นแคมเปญใหม่ของ Calvin Klein - thestandard.co",
-  "titleOrig": "สัมภาษณ์พิเศษ หลิงหลิง คอง เกี่ยวกับนิวยอร์กและการได้ขึ้นแคมเปญใหม่ของ Calvin Klein - thestandard.co",
-  "catCn": "新闻热点",
-  "cat": "news",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国新闻热点：สัมภาษณ์พิเศษ หลิงหลิง คอง เกี่ยวกับนิวยอร์กและการได้ขึ้นแคมเปญใหม่ของ Calvin Klein - thestandard.co",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MQXNqTk9WZHNDZW5aLVpPaXU3S3JmV0Y3NXhvQ0RwVmQzZnhuWUptWjd4U0JzaEZJWmhSOHFzc25NUHVZUmpWVDdoU2NTbzZmb1BCa3lYbzJaekQyZXJKRzgzaXpsN0c5RlZIaA?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MQXNqTk9WZHNDZW5aLVpPaXU3S3JmV0Y3NXhvQ0RwVmQzZnhuWUptWjd4U0JzaEZJWmhSOHFzc25NUHVZUmpWVDdoU2NTbzZmb1BCa3lYbzJaekQyZXJKRzgzaXpsN0c5RlZIaA?oc=5"
- },
- {
-  "id": "rt-39b3d5b1cc75",
-  "titleCn": "รักสุดใจนายแฟนบอย | Mr. Fanboy Series (@MrFanboySeries) on X - t.co",
-  "titleOrig": "รักสุดใจนายแฟนบอย | Mr. Fanboy Series (@MrFanboySeries) on X - t.co",
-  "catCn": "新闻热点",
-  "cat": "news",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国新闻热点：รักสุดใจนายแฟนบอย | Mr. Fanboy Series (@MrFanboySeries) on X - t.co",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5Hc3FNdEZKQmEtQnB4WmcyZHp3QnZCNzk3V3psazBtYzM1UnhKTmlUcXdkMXhrdkIxN1dv?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5Hc3FNdEZKQmEtQnB4WmcyZHp3QnZCNzk3V3psazBtYzM1UnhKTmlUcXdkMXhrdkIxN1dv?oc=5"
- },
- {
-  "id": "rt-ecbaab957565",
-  "titleCn": "Dayang Areeda tak terdesak kahwin meski usia dah meningkat, sanggup tunggu Hazeeq Dean - mStar",
-  "titleOrig": "Dayang Areeda tak terdesak kahwin meski usia dah meningkat, sanggup tunggu Hazeeq Dean - mStar",
+  "id": "rt-84a5a1ee3f23",
+  "titleCn": "Sawitri Khan, Model Bali Tinggi 174CM Yang Menghiasi Vogue &amp; Paris Fashion Week - nona.my",
+  "titleOrig": "Sawitri Khan, Model Bali Tinggi 174CM Yang Menghiasi Vogue &amp; Paris Fashion Week - nona.my",
   "catCn": "新闻热点",
   "cat": "news",
   "country": "马来西亚",
@@ -7412,7 +7212,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚新闻热点：Dayang Areeda tak terdesak kahwin meski usia dah meningkat, sanggup tunggu Hazeeq Dean - mStar",
+  "summary": "马来西亚新闻热点：Sawitri Khan, Model Bali Tinggi 174CM Yang Menghiasi Vogue &amp; Paris Fashion Week - nona.my",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7422,7 +7222,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQekVPV1JNdDlpVDN3VURiYkhkNXVPQkt1Rl9SY2IxVVdIVGprNEJobHdCNlpndW95bG9qSW9YendXU28zZTJYM01YazAtTDFGZ3FJWXVvTkpkbmRKTUI3QzJ1VkxJU2ltRUN3VS1FLXNsOXZoRE1HM216b0dzOVVWdm9QelNZQTZXa3dLTF9tWXFhVUZ4eGt3NS1IRExMNTJxSkFyR2NkMU83U0lZT29FN1MtU2c3TTJOcFR2dEZ5LVhuZjFDazBpMlhBRnEtUFAxZk10Q3Rn?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4ZC1TRUhocmdNNEpJTThWZ0o5RHBkTktWWHd0WmpKUnNMQ0VycGlKUm9aR3hIOTN5RTczWUMtZUNhaktXeG1EVW1kcDlJMXJZMHhZeC1WV0lYY2plM2pac1hISWpnLXhsRWdFdk4xdXFwazlZc19PRNIBfkFVX3lxTE1WNGFsNXAzM25BM0dIREFiNHJOUUpMd2c3N2lRSjZ3bUstNUFvQWg3X1hlejhQZl95blFuLUh3VFJzNnNYbV9VTXllX3BiM28tMmoxVWhWbVJ3ZWFWeVFfN0U3MDVQMzFlX08wNVBmQ3BsMVNpV0NMekFyNDlQdw?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7446,7 +7246,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQekVPV1JNdDlpVDN3VURiYkhkNXVPQkt1Rl9SY2IxVVdIVGprNEJobHdCNlpndW95bG9qSW9YendXU28zZTJYM01YazAtTDFGZ3FJWXVvTkpkbmRKTUI3QzJ1VkxJU2ltRUN3VS1FLXNsOXZoRE1HM216b0dzOVVWdm9QelNZQTZXa3dLTF9tWXFhVUZ4eGt3NS1IRExMNTJxSkFyR2NkMU83U0lZT29FN1MtU2c3TTJOcFR2dEZ5LVhuZjFDazBpMlhBRnEtUFAxZk10Q3Rn?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4ZC1TRUhocmdNNEpJTThWZ0o5RHBkTktWWHd0WmpKUnNMQ0VycGlKUm9aR3hIOTN5RTczWUMtZUNhaktXeG1EVW1kcDlJMXJZMHhZeC1WV0lYY2plM2pac1hISWpnLXhsRWdFdk4xdXFwazlZc19PRNIBfkFVX3lxTE1WNGFsNXAzM25BM0dIREFiNHJOUUpMd2c3N2lRSjZ3bUstNUFvQWg3X1hlejhQZl95blFuLUh3VFJzNnNYbV9VTXllX3BiM28tMmoxVWhWbVJ3ZWFWeVFfN0U3MDVQMzFlX08wNVBmQ3BsMVNpV0NMekFyNDlQdw?oc=5"
  },
  {
   "id": "rt-6b8a64fed242",
@@ -7737,9 +7537,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTJUSGxna0lfNHJnbDlsNU5nWHJScEV5N1c2S1lPQ3JxUlp4Y2l5UHZtdnY0TnIxX2EtWDFUNXNtUk1tdDZOS2ZnOE0wa1dZY0tMOEpGd0dyT3FDSjN6Q2xQMkRIWkl5ZW5oTjdva1l5dVNyVFNfbUJQZk5SX2Y1blJoQVBXc0MtOFAxbFliWkoxanM?oc=5"
  },
  {
-  "id": "rt-ffd79b0094d2",
-  "titleCn": "World Cinema 8-9 พ.ย.68 - ch7.com",
-  "titleOrig": "World Cinema 8-9 พ.ย.68 - ch7.com",
+  "id": "rt-fb0630d192c4",
+  "titleCn": "Official Trailer Ver.3 | ลูกผู้ชายหัวใจเพชร - ch7.com",
+  "titleOrig": "Official Trailer Ver.3 | ลูกผู้ชายหัวใจเพชร - ch7.com",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "泰国",
@@ -7748,7 +7548,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国影视剧：World Cinema 8-9 พ.ย.68 - ch7.com",
+  "summary": "泰国影视剧：Official Trailer Ver.3 | ลูกผู้ชายหัวใจเพชร - ch7.com",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7758,7 +7558,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsMHNaVW1SOUZuZDFUYmVWMDVEZGI1MzVYMmc3dkxOMHdLbWhoenFsR2lCWDVIX3RqLXZ0Ymw3eFBxdlZBZm1MelZfVQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pNDROTEY0OFFYd2tXOWJrNC1DR1NsRHhQRWlqZkh2Qm0xOXk4NU1DM29oNk9ZUHJrWGdQNkprNW9BbE05amlUTkgyMEI?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7782,7 +7582,55 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsMHNaVW1SOUZuZDFUYmVWMDVEZGI1MzVYMmc3dkxOMHdLbWhoenFsR2lCWDVIX3RqLXZ0Ymw3eFBxdlZBZm1MelZfVQ?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pNDROTEY0OFFYd2tXOWJrNC1DR1NsRHhQRWlqZkh2Qm0xOXk4NU1DM29oNk9ZUHJrWGdQNkprNW9BbE05amlUTkgyMEI?oc=5"
+ },
+ {
+  "id": "rt-1a726c5f4fe1",
+  "titleCn": "World Cinema 10-11 ม.ค.69 - ch7.com",
+  "titleOrig": "World Cinema 10-11 ม.ค.69 - ch7.com",
+  "catCn": "影视剧",
+  "cat": "film_tv",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国影视剧：World Cinema 10-11 ม.ค.69 - ch7.com",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HMlpiZlBSNnlNU3JFQ3NWakR6aWcwTHFBT21FOTZvTTBZRGFhZm9jR0RrLUstRVFFQ0VxU2xTSlZSM1IwSWhkSE9nWQ?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HMlpiZlBSNnlNU3JFQ3NWakR6aWcwTHFBT21FOTZvTTBZRGFhZm9jR0RrLUstRVFFQ0VxU2xTSlZSM1IwSWhkSE9nWQ?oc=5"
  },
  {
   "id": "rt-e67d78a0f6ef",
@@ -7833,54 +7681,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YOE9Qa2tYdXVfRy0tV1gxY2lHMXd1YUJxWVdqNDV4TEV4STh1R2tDX00wbGFwWWNOZ1BsODhBakVlQ2R4bjlKcHBsWQ?oc=5"
  },
  {
-  "id": "rt-919e41aeb9ee",
-  "titleCn": "World Cinema 4-5 ก.ค.69 - ch7.com",
-  "titleOrig": "World Cinema 4-5 ก.ค.69 - ch7.com",
-  "catCn": "影视剧",
-  "cat": "film_tv",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国影视剧：World Cinema 4-5 ก.ค.69 - ch7.com",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBud2Yyd2dWeEEybGZkNWcxdXJNMEQ5Tm1nMDU3aFJqa3hLblRCbWxKSXNsVDJ4MW1QV1Npd3NLbDlmRW5nRHVxdWs5bU4?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBud2Yyd2dWeEEybGZkNWcxdXJNMEQ5Tm1nMDU3aFJqa3hLblRCbWxKSXNsVDJ4MW1QV1Npd3NLbDlmRW5nRHVxdWs5bU4?oc=5"
- },
- {
   "id": "rt-51a33fda30b6",
   "titleCn": "Drama Good Boys Go To Heaven - Myinfotaip",
   "titleOrig": "Drama Good Boys Go To Heaven - Myinfotaip",
@@ -7929,9 +7729,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZaDRzcnIwT1R6a0ljbk55a2w1LWdyeGhucmVtWFpGbDQydDMtdDVKVk9rLXpHb0lrWEVCTVFNY0pycnZKRGkwSjNfT2psdThtUmRWWUpFbENlQi1Yd2dvRG1qczBIdlc0MWtYUzdWYw?oc=5"
  },
  {
-  "id": "rt-d6f9ecee035b",
-  "titleCn": "#SHOWBIZ: Return of the Palmolive Girl - NST Online",
-  "titleOrig": "#SHOWBIZ: Return of the Palmolive Girl - NST Online",
+  "id": "rt-f2fcc7bef61d",
+  "titleCn": "#SHOWBIZ: Yusof Haslam: I never thought my sons would create phenomenal movies - NST Online",
+  "titleOrig": "#SHOWBIZ: Yusof Haslam: I never thought my sons would create phenomenal movies - NST Online",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "马来西亚",
@@ -7940,7 +7740,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚影视剧：#SHOWBIZ: Return of the Palmolive Girl - NST Online",
+  "summary": "马来西亚影视剧：#SHOWBIZ: Yusof Haslam: I never thought my sons would create phenomenal movies - NST Online",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7950,7 +7750,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGNvTXB2WGdYS0pHaGZzYzFVUE4xYUhtbElLSlZONVhFa3UzWExQck1NTXRTNmpHYnB6X1VjQUtuT2ZDbVhtS3Y1YlE4MWRpejhoSkp6R21XWFdSajFJUS16Wmk4b29fSUp1NDFFXzdSSklNYjJDMmdOQngwOHBWdXZvUF9VRDB2eng1R09R?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYWN1QWxZcGl3c1hZaUNxQmNKQkpPZkx1a2RpWGhPWGpwUWZEVVhzMWVuUndGNkFZZ0ZCel9rdnBSSnlKQ3IwbHdnaHVhcDlOcDhxLXNUS0pkWTZyV3E4b3JwYW52OUNCZXBlSkpXWHJvX0NRS0JPOGU5TklDUi00SWQ5OTVVOE16RHJRRDhrbDN1ODdQalJsSjUyWm5UQk1WU2NvM1U4bWdXNWRnTjkyNHpXWENGTnFIYzJNSG02YjRlT2x1Rnc?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -7974,12 +7774,12 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGNvTXB2WGdYS0pHaGZzYzFVUE4xYUhtbElLSlZONVhFa3UzWExQck1NTXRTNmpHYnB6X1VjQUtuT2ZDbVhtS3Y1YlE4MWRpejhoSkp6R21XWFdSajFJUS16Wmk4b29fSUp1NDFFXzdSSklNYjJDMmdOQngwOHBWdXZvUF9VRDB2eng1R09R?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYWN1QWxZcGl3c1hZaUNxQmNKQkpPZkx1a2RpWGhPWGpwUWZEVVhzMWVuUndGNkFZZ0ZCel9rdnBSSnlKQ3IwbHdnaHVhcDlOcDhxLXNUS0pkWTZyV3E4b3JwYW52OUNCZXBlSkpXWHJvX0NRS0JPOGU5TklDUi00SWQ5OTVVOE16RHJRRDhrbDN1ODdQalJsSjUyWm5UQk1WU2NvM1U4bWdXNWRnTjkyNHpXWENGTnFIYzJNSG02YjRlT2x1Rnc?oc=5"
  },
  {
-  "id": "rt-aac437eda28e",
-  "titleCn": "Cabaran Uqasha Senrose BawaWatak Sebagai Isteri Hilang Penglihatan | #SinggahSet - Gempak",
-  "titleOrig": "Cabaran Uqasha Senrose BawaWatak Sebagai Isteri Hilang Penglihatan | #SinggahSet - Gempak",
+  "id": "rt-7793f7f4e8b6",
+  "titleCn": "Apa Celop Toqq... 2012 #Action #Comedy #Drama #Movie #Film #Cinema #Malaysia - YouTube",
+  "titleOrig": "Apa Celop Toqq... 2012 #Action #Comedy #Drama #Movie #Film #Cinema #Malaysia - YouTube",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "马来西亚",
@@ -7988,7 +7788,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚影视剧：Cabaran Uqasha Senrose BawaWatak Sebagai Isteri Hilang Penglihatan | #SinggahSet - Gempak",
+  "summary": "马来西亚影视剧：Apa Celop Toqq... 2012 #Action #Comedy #Drama #Movie #Film #Cinema #Malaysia - YouTube",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -7998,7 +7798,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2xTWURjWkFrbG9OVTlKNWJULVRfMElibEdyNi1ualJJSEJUT3dJU0NYVExqeGdtVGJVRDRUdmdRVEFoNE5pTmNhQjJBbGZfZ1VLVkR6LUZaaGZFY2hPdXVIV0E1NFNjcTJoOVFjRDl1SERtSjRPMlpkNmg2ODA4WXZVMzJ0ZHdDRXV2TXdSQlBlNzlaME81bUFLWVVidWJTUlBOLW1ITC1LeVBNUDhoUE93?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzeVZBdmRoaXYtaVpoYXJYcG0teXBzRjExUzRYN2Q0ZXdBTmRBNEJPWGVsQVhfd2hoNmh4aXZobGE4SEIxaW5BZnhkMmdkTUdnbEtPYlNnSWFDOUJm?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -8022,7 +7822,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2xTWURjWkFrbG9OVTlKNWJULVRfMElibEdyNi1ualJJSEJUT3dJU0NYVExqeGdtVGJVRDRUdmdRVEFoNE5pTmNhQjJBbGZfZ1VLVkR6LUZaaGZFY2hPdXVIV0E1NFNjcTJoOVFjRDl1SERtSjRPMlpkNmg2ODA4WXZVMzJ0ZHdDRXV2TXdSQlBlNzlaME81bUFLWVVidWJTUlBOLW1ITC1LeVBNUDhoUE93?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzeVZBdmRoaXYtaVpoYXJYcG0teXBzRjExUzRYN2Q0ZXdBTmRBNEJPWGVsQVhfd2hoNmh4aXZobGE4SEIxaW5BZnhkMmdkTUdnbEtPYlNnSWFDOUJm?oc=5"
  },
  {
   "id": "rt-1299cc991f01",
@@ -8169,9 +7969,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanV1czZXYmtlTXdFWUJpOENaXzZFRjFaaFRpaU1YdU1YTURfYXN3clhsMlNvd3ZDaDNQV3FHOXc1Wi1WVTFaTElNSG1xeDlHQldyM2RTTGFfTUxvUzh3MXY3UGR4eTNzZHdqcUFTOGFuaG56QzZvQUMzeXQzZTc1Q3Z2WVVCTWNLcXF6TUVJck9PbS1ITEFoZTVkMNIBoAFBVV95cUxQcWVvTW50cVA3bGNDRk0yTnN5UC1mbGxJMU9wRlNKN01kUnlDODdxSENTV19pNUd4OTJwS3lULUowN0JGOVRJYkxKcHNtMURYYkliY3Q3X3dSYmdMRTB5VlpVX21PRzNVSXNQN0tSUHcyMHJ5dmJfdjVsWU95aXQ5NnEzYTJuWlZWSWplRXhTc2xLVHNqdEZWQk11VnZkdGJZ?oc=5"
  },
  {
-  "id": "rt-80a70f981fc5",
-  "titleCn": "pple Music menyiarkan festival Head Trip secara percuma - jablickar.cz",
-  "titleOrig": "pple Music menyiarkan festival Head Trip secara percuma - jablickar.cz",
+  "id": "rt-dc2f2b6d745c",
+  "titleCn": "pple Music menyiarkan festival Head Trip secara percuma - Jablíčkář.cz",
+  "titleOrig": "pple Music menyiarkan festival Head Trip secara percuma - Jablíčkář.cz",
   "catCn": "演唱会综艺",
   "cat": "concert_show",
   "country": "马来西亚",
@@ -8180,7 +7980,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚演唱会综艺：pple Music menyiarkan festival Head Trip secara percuma - jablickar.cz",
+  "summary": "马来西亚演唱会综艺：pple Music menyiarkan festival Head Trip secara percuma - Jablíčkář.cz",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -8409,9 +8209,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbl9ULVdyMW9aLV96T2ZGZEtpaWx3WVNRWFRRaWNnaWlqa3dnQ0lxeXNlNl80LWxwY1VaM0hzakgwNGJLS2kzYkdsMEgtZXU0NndUU0Q5aG5oYlhCbk53a281SVlOODFkaU5qdG1CQ1RqS1NKb2ZGQy1GTDAyNklDNA?oc=5"
  },
  {
-  "id": "rt-4ceeccd18e74",
-  "titleCn": "More popular than SpaceX, oversubscribed by over 6,586 times, what is the Meme power behind Liuliumei (06658.HK)? - Odaily星球日报",
-  "titleOrig": "More popular than SpaceX, oversubscribed by over 6,586 times, what is the Meme power behind Liuliumei (06658.HK)? - Odaily星球日报",
+  "id": "rt-f72d8ecd3935",
+  "titleCn": "จากมีมไวรัลสู่งานของจริง! เมื่อรูปมะเขือเทศบน X กลายเป็นกระเป๋าใบใหม่ของ LOEWE - ELLE Thailand",
+  "titleOrig": "จากมีมไวรัลสู่งานของจริง! เมื่อรูปมะเขือเทศบน X กลายเป็นกระเป๋าใบใหม่ของ LOEWE - ELLE Thailand",
   "catCn": "网络热梗",
   "cat": "meme",
   "country": "泰国",
@@ -8420,7 +8220,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国网络热梗：More popular than SpaceX, oversubscribed by over 6,586 times, what is the Meme power behind Liuliumei (06658.HK)? - Odaily星球日报",
+  "summary": "泰国网络热梗：จากมีมไวรัลสู่งานของจริง! เมื่อรูปมะเขือเทศบน X กลายเป็นกระเป๋าใบใหม่ของ LOEWE - ELLE Thailand",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -8430,7 +8230,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EWUJZdnV2UmcwWm9VblprRHpxQjFibjFnSFZxaEt0RThLWUwyRkRqZkVGc2thV3NaVnpZRjlCVUdCUmVESUN5LVBhM1dzcnRI?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16NVcwdVg0TVo0NzZQellmU1YxT3RieFYycFdSNVd0Yk0tY2dBOHdUUFF0R0JpSmNUSUFHeXdOTTlPQjFUU3lodWtDYjhLNkdQc21LNENFOEI1X094d18tZVp2NktBTU1yMjFzRTdXcXdfRXQzNmhJ?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -8454,7 +8254,7 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EWUJZdnV2UmcwWm9VblprRHpxQjFibjFnSFZxaEt0RThLWUwyRkRqZkVGc2thV3NaVnpZRjlCVUdCUmVESUN5LVBhM1dzcnRI?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16NVcwdVg0TVo0NzZQellmU1YxT3RieFYycFdSNVd0Yk0tY2dBOHdUUFF0R0JpSmNUSUFHeXdOTTlPQjFUU3lodWtDYjhLNkdQc21LNENFOEI1X094d18tZVp2NktBTU1yMjFzRTdXcXdfRXQzNmhJ?oc=5"
  },
  {
   "id": "rt-4d2245da94e0",
@@ -8697,9 +8497,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMi0wdBVV95cUxOYVpwR2xyWWtxUUlIOHpEdG9JbEE2QmYxV0dEX1hkcWtqYWRsU3RRbXBDMjhXTk81UjVDb0N3QVZkTE1NcWltMG04bzZVb1NqWkpLNDNGbnlKNnpGOWlITXB2SlFJVF9rNEN2Z2ZsanJfSG12RU1BdjJmVkFyZEdBblVVMnZaT0xZUnJscUl0Z21uaFVGZlRGeUo4ZzU2M3dNdWdWM0xpYTA2TEx4UmJ4blowMVdNVTc4YWFMc29sQmx3Y1ZCRjdVb3FvekI2eGMzdXJ1Z2NDMU5PcDB3MjZEeG9KSzF5dWUtdTVaUjQ5MU9CeGNWTE5nbzRmenNCS1NDUkk1OUtmampOYklLRFAyWWctYmxNcDZkTC11QmVaOHZqckpUU0Vab1RMMjFDUDdBRDhwcVJMSDY0THVJZF9ubEd5V3IyVHUyeHhVYkF1bGJfeUJYRWhBbGxVbFZ1SHF1NFF3Y1QtMUdOekZnd1YteXgtM1ExSURlZ185YVpIV25oV283Z29ZRmthSXdiTzNDNElWOGhVR01WVTFJekUxY2Z0dVNNZ0FIWUkxMVdoMmtJSFVlbENCS05ha3psM3pzQXdZSEU1ZFNYRlFucHF6TFpaTVJyUkxFSmRDM2Z5RGhjX2d5TXhYYVVQRWZma25xUUNJaVh2ZkMwRC03UldPRXFBT09sZXFsN1A1bDdRYW5zcGxtTUV1MHlmT0VIVlVyTklUcDJWZnVnQjlIRmJFMV9oaTVIZHpnS19SYXRGbmVMbkRzaHo1V0dVWU9SdEwwR0pMS2kyaklLWHRGUU1EY1dzUDFOSDhrckhNVXc0V3BFcHlGUm5YRGl2V1lWWnB3T0RaMUFxVzVrVjNTMElZc2w2SWt0U0tYdTI5ZFg2bjBCb1drREZGeUVQOTZwWnFabndKVmFPYVNMS050NkNwVVhjM3h3S2VZVUlsZUFTN3NoZzV6RVRZQmJPRG01c3ZEWVptZUlMbGhCTFlNRm9jQUVocVZTTnJQcDZ4em5fQWlkcUVxak1teTYwaG01MktuY3YxTFNqcTZ2a3gteUlBT3doUmxNUnRmOFlUZDhxNzBNNURSQTdtRzloN1JKbFYzMlBUQ2x1a2V6Z0ZMVnBieFBoUVdSRldiNFdWMGplQUE1SzdkLTZUMnBaWFREWmlVUWlHN0Vabkx4d1JIY1RvRWh2Z3AzcEZMQ3gzbW5VeDZ2ZjRIWVh3NGFCdXZsYi1IRmdWSUViOElPcHItUFZubl82ay0tMExmT18wUUF4WHkxYTFMME1IZFpub0E0MGhNS244?oc=5"
  },
  {
-  "id": "rt-f1f40d8a8614",
-  "titleCn": "[ถายทอดสด] ชมฟร FIFA ASEAN Cup 26 กนยายน 2026 - czechinvest.gov.cz",
-  "titleOrig": "[ถายทอดสด] ชมฟร FIFA ASEAN Cup 26 กนยายน 2026 - czechinvest.gov.cz",
+  "id": "rt-942ee20b973c",
+  "titleCn": "++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] ออสเตรเลีย vs บราซิล LIVE Updates - czechinvest.gov.cz",
+  "titleOrig": "++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] ออสเตรเลีย vs บราซิล LIVE Updates - czechinvest.gov.cz",
   "catCn": "体育",
   "cat": "sports",
   "country": "泰国",
@@ -8708,7 +8508,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国体育：[ถายทอดสด] ชมฟร FIFA ASEAN Cup 26 กนยายน 2026 - czechinvest.gov.cz",
+  "summary": "泰国体育：++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] ออสเตรเลีย vs บราซิล LIVE Updates - czechinvest.gov.cz",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -8718,7 +8518,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNX3pEUUh6Y1FkY2xxRmxQd0FrcC1mOVdWekhnM0JFUEIwenY5WnAtN2Q1cmhqV3hMR2poZjRrV3RlX1A0R3ZDUkQ2V3ZVUU1VcHFjZHBSdktjR0dLTVlEejQ1WmZMcjczNjcxS2dmXzdQRDdhYWZmTzd2Rm92X1NuckFYcEN5aS1GLWdPSllPRmJHOHNnam5TZDBjbGhLOThXQ3pOT1NJWXpNM1NRZGI5d0JWUE9MZ0dqWW1rZlk4ZWRZTEo1bDJJbzRRSllTQWNWSC04bEhNNjNkR2lMR1dBOVVaSDdYRTVNM0F6OTNTU3g5M05IcldOeDRiLXFsN1Z3S0N6SURwTGYtS2xyUTFfdVBnVmNCOUtmRENzdEhDdDFyUjA0Qk5DSDFjYTlTYzRGd001Z2FyMlNuSjVuZ2RB?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcmRIMFZjeG1POWphV3JPTTN4VHBXWHpzajNfTGxBNFZSVFRkWEhhcElqT2VhTVRqck5aX2dScV83allWSkQ3REU5a3NMbUFoUmtuTGo1b1g3TmRZeE80VEhaMmJHVXpHNXNJMVZWdGFXV1FjdTI1MmRweno5UGlwN2RXRjUtZGd6ZUNGRHR6YTNYVE1SczZPRVRzOU1XZUp1R3RaekV2UEx3N3AxWTA3Z3gwTlFlSk1xcE1Vckk2cGZkeGstR3NfOVY4OGFkd2MzQ2xkb2NlcGhFa1FzWHh2NW5FRjhQR3kzRndHdWdMRXZTYjROWmxNUmdoSFZNd1BUU2x1cFp0SmFEbmlwNG11Rkd0WWxROEQ2b0RLblRNMmZQU2JrT0k2Z2ppY3BZLTNRMUZVNDU1RkhpUzBndG5oX09B?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -8742,12 +8542,12 @@ window.EVENTS_REALTIME = [
   "media": [],
   "fresh": true,
   "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNX3pEUUh6Y1FkY2xxRmxQd0FrcC1mOVdWekhnM0JFUEIwenY5WnAtN2Q1cmhqV3hMR2poZjRrV3RlX1A0R3ZDUkQ2V3ZVUU1VcHFjZHBSdktjR0dLTVlEejQ1WmZMcjczNjcxS2dmXzdQRDdhYWZmTzd2Rm92X1NuckFYcEN5aS1GLWdPSllPRmJHOHNnam5TZDBjbGhLOThXQ3pOT1NJWXpNM1NRZGI5d0JWUE9MZ0dqWW1rZlk4ZWRZTEo1bDJJbzRRSllTQWNWSC04bEhNNjNkR2lMR1dBOVVaSDdYRTVNM0F6OTNTU3g5M05IcldOeDRiLXFsN1Z3S0N6SURwTGYtS2xyUTFfdVBnVmNCOUtmRENzdEhDdDFyUjA0Qk5DSDFjYTlTYzRGd001Z2FyMlNuSjVuZ2RB?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcmRIMFZjeG1POWphV3JPTTN4VHBXWHpzajNfTGxBNFZSVFRkWEhhcElqT2VhTVRqck5aX2dScV83allWSkQ3REU5a3NMbUFoUmtuTGo1b1g3TmRZeE80VEhaMmJHVXpHNXNJMVZWdGFXV1FjdTI1MmRweno5UGlwN2RXRjUtZGd6ZUNGRHR6YTNYVE1SczZPRVRzOU1XZUp1R3RaekV2UEx3N3AxWTA3Z3gwTlFlSk1xcE1Vckk2cGZkeGstR3NfOVY4OGFkd2MzQ2xkb2NlcGhFa1FzWHh2NW5FRjhQR3kzRndHdWdMRXZTYjROWmxNUmdoSFZNd1BUU2x1cFp0SmFEbmlwNG11Rkd0WWxROEQ2b0RLblRNMmZQU2JrT0k2Z2ppY3BZLTNRMUZVNDU1RkhpUzBndG5oX09B?oc=5"
  },
  {
-  "id": "rt-94463d3d7330",
-  "titleCn": "FIFA ASEAN Cup: Indonesia Beat Singapore 2-0 - bernama.com",
-  "titleOrig": "FIFA ASEAN Cup: Indonesia Beat Singapore 2-0 - bernama.com",
+  "id": "rt-54506c718026",
+  "titleCn": "Arif Aiman, Bergson make Indonesian team and supporters anxious - NST Online",
+  "titleOrig": "Arif Aiman, Bergson make Indonesian team and supporters anxious - NST Online",
   "catCn": "体育",
   "cat": "sports",
   "country": "马来西亚",
@@ -8756,7 +8556,55 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚体育：FIFA ASEAN Cup: Indonesia Beat Singapore 2-0 - bernama.com",
+  "summary": "马来西亚体育：Arif Aiman, Bergson make Indonesian team and supporters anxious - NST Online",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFBOaGcwY1p6NGZQcWt6R1R6RzUzWEdQeG03V1hKMldmMFl1SGhTVGZhRFZKOV9NTFJTWk44YVlGZmtId3prZ2MzUGlUTWl3VWhzNWRiX0ktaTNOakRGeUMwWHctYVVSVU42U0w5OTRIYkZTNi1CRF9PLUpTMzh6WG85OFY5QnkwRVFZSS1PbjJCOHNabWFrZjFwZnhWb0FFaW1DRUFJZlQ5Qm4xTnVDVmJmZksyMmhE?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-09-27",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-09-27",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFBOaGcwY1p6NGZQcWt6R1R6RzUzWEdQeG03V1hKMldmMFl1SGhTVGZhRFZKOV9NTFJTWk44YVlGZmtId3prZ2MzUGlUTWl3VWhzNWRiX0ktaTNOakRGeUMwWHctYVVSVU42U0w5OTRIYkZTNi1CRF9PLUpTMzh6WG85OFY5QnkwRVFZSS1PbjJCOHNabWFrZjFwZnhWb0FFaW1DRUFJZlQ5Qm4xTnVDVmJmZksyMmhE?oc=5"
+ },
+ {
+  "id": "rt-33b0ba430c60",
+  "titleCn": "FIFA ASEAN Cup: Indonesia Beat Singapore 2-0 - Bernama",
+  "titleOrig": "FIFA ASEAN Cup: Indonesia Beat Singapore 2-0 - Bernama",
+  "catCn": "体育",
+  "cat": "sports",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "马来西亚体育：FIFA ASEAN Cup: Indonesia Beat Singapore 2-0 - Bernama",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -8841,57 +8689,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPdUdKa3I3bDhTVFM4TzNVOElXSUVlXzFyVGFGNFI0aTVCTTRyekU5Qmhqa0ZYTVZjSU1iaFlFTUJNTkx5NUd6cTl4RnhmazVCSVk2dnoySGdfZTFUQ2lOb08zTmN5SDlGWWZpeWpsQWJlbkpUcF9iaU5QVS0yWUE4cGo0Ql9ONWtoYnc1RUxma2VaY09mMDlVdy1FYTVKWTdGMl83R2doTnBBUDFDWGRnSDY5WjRQUU1RT0ZLTl9pYzRNZWdZRk9xTENkSlAzWkdvUTQxWXJ4QW0xUmlZZVZKZHhpMHlISDNBRG10UlVBRVpZVUd6RnE2TlVvWXh5c3p5UTF6bDF4MUJKMS1Ya05nRXFSZFNEemY4TS1UMVczbHpHTW9VZDl0bHp4UllDbGJYR1JicWZUWER3bEg2WmlHREZDOGJRVEE?oc=5"
  },
  {
-  "id": "rt-8290443a3ba6",
-  "titleCn": "RTM confirms live broadcast of Harimau Malaya’s FIFA ASEAN Cup opener - scoop.my",
-  "titleOrig": "RTM confirms live broadcast of Harimau Malaya’s FIFA ASEAN Cup opener - scoop.my",
-  "catCn": "体育",
-  "cat": "sports",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "马来西亚体育：RTM confirms live broadcast of Harimau Malaya’s FIFA ASEAN Cup opener - scoop.my",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "马来西亚",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWhTT2dtNGlCdFRqd3VUcEhpV01hcHVMMmtSNkVsWEV6dWhlazZ0TXJCN1ZnVEJYaVBaOEFuN2I3cW1iMTNSNklkaGtuY3pjOHhRZkg1ZnQ0Q0JuWmtnV0hRZFhNMWhaUDhHVHNsQThPTTMzOElLUE54bXowRkdjZ0RueDFGenprZXB3Qkl2aGpTVzktVTlvbmdmOHp6cmsxYnRJZGl4NA?oc=5"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-09-27",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
-  "fresh": true,
-  "batch": "realtime-2026-09-27",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWhTT2dtNGlCdFRqd3VUcEhpV01hcHVMMmtSNkVsWEV6dWhlazZ0TXJCN1ZnVEJYaVBaOEFuN2I3cW1iMTNSNklkaGtuY3pjOHhRZkg1ZnQ0Q0JuWmtnV0hRZFhNMWhaUDhHVHNsQThPTTMzOElLUE54bXowRkdjZ0RueDFGenprZXB3Qkl2aGpTVzktVTlvbmdmOHp6cmsxYnRJZGl4NA?oc=5"
- },
- {
-  "id": "rt-5e4639e76dc9",
-  "titleCn": "MR. D.I.Y. Marks 10 Years Alongside Thai Communities, Extending its BMA Partnership for a Third Year to Support Green Spaces at Benchakitti Forest Park, with More Than 900 Trees Planted to Date - thaipr.net",
-  "titleOrig": "MR. D.I.Y. Marks 10 Years Alongside Thai Communities, Extending its BMA Partnership for a Third Year to Support Green Spaces at Benchakitti Forest Park, with More Than 900 Trees Planted to Date - thaipr.net",
+  "id": "rt-ffe09bfa9b50",
+  "titleCn": "MR. D.I.Y. Marks 10 Years Alongside Thai Communities, Extending its BMA Partnership for a Third Year to Support Green Spaces at Benchakitti Forest Park, with More Than 900 Trees Planted to Date - ThaiPR.NET",
+  "titleOrig": "MR. D.I.Y. Marks 10 Years Alongside Thai Communities, Extending its BMA Partnership for a Third Year to Support Green Spaces at Benchakitti Forest Park, with More Than 900 Trees Planted to Date - ThaiPR.NET",
   "catCn": "社会民生",
   "cat": "society",
   "country": "泰国",
@@ -8900,7 +8700,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国社会民生：MR. D.I.Y. Marks 10 Years Alongside Thai Communities, Extending its BMA Partnership for a Third Year to Support Green Spaces at Benchakitti Forest Park, with More Than 900 Trees Planted to Date - thaipr.net",
+  "summary": "泰国社会民生：MR. D.I.Y. Marks 10 Years Alongside Thai Communities, Extending its BMA Partnership for a Third Year to Support Green Spaces at Benchakitti Forest Park, with More Than 900 Trees Planted to Date - ThaiPR.NET",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -8985,9 +8785,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wUEgyM0x4T1VPVXBYeW4xcVpodzdHS2hmQWhIb0JZaXpvNWQ3QnZscVIwZFlJdFpiSWJWTHpjaHhQMmIyQndUa09fODJ1b3NERmZPOTRB?oc=5"
  },
  {
-  "id": "rt-0040434be3f2",
-  "titleCn": "Death Fest 2026: re-member Returns, Inviting Thai Society to Rethink Living Well and Dying Well - thaipr.net",
-  "titleOrig": "Death Fest 2026: re-member Returns, Inviting Thai Society to Rethink Living Well and Dying Well - thaipr.net",
+  "id": "rt-c0d151b40ed0",
+  "titleCn": "Death Fest 2026: re-member Returns, Inviting Thai Society to Rethink Living Well and Dying Well - ThaiPR.NET",
+  "titleOrig": "Death Fest 2026: re-member Returns, Inviting Thai Society to Rethink Living Well and Dying Well - ThaiPR.NET",
   "catCn": "社会民生",
   "cat": "society",
   "country": "泰国",
@@ -8996,7 +8796,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国社会民生：Death Fest 2026: re-member Returns, Inviting Thai Society to Rethink Living Well and Dying Well - thaipr.net",
+  "summary": "泰国社会民生：Death Fest 2026: re-member Returns, Inviting Thai Society to Rethink Living Well and Dying Well - ThaiPR.NET",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -9033,9 +8833,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ldUU1ZXh2NGM2cmo2b3pzV01YMGFDSEk3SWJVNVFobzhwZ1ZBUnZ5SFBZQ2FzU3cxNDlybGJSb21XLS1ZUTllNG8zSWNEWElQUHNVZTI4Yw?oc=5"
  },
  {
-  "id": "rt-bd214cef42c7",
-  "titleCn": "SKM Hands Over CSR Boat To Kampung Sungai Tiang Orang Asli Cooperative - bernama.com",
-  "titleOrig": "SKM Hands Over CSR Boat To Kampung Sungai Tiang Orang Asli Cooperative - bernama.com",
+  "id": "rt-dabac0cd46c8",
+  "titleCn": "SKM Hands Over CSR Boat To Kampung Sungai Tiang Orang Asli Cooperative - Bernama",
+  "titleOrig": "SKM Hands Over CSR Boat To Kampung Sungai Tiang Orang Asli Cooperative - Bernama",
   "catCn": "社会民生",
   "cat": "society",
   "country": "马来西亚",
@@ -9044,7 +8844,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚社会民生：SKM Hands Over CSR Boat To Kampung Sungai Tiang Orang Asli Cooperative - bernama.com",
+  "summary": "马来西亚社会民生：SKM Hands Over CSR Boat To Kampung Sungai Tiang Orang Asli Cooperative - Bernama",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -9081,9 +8881,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zdVdZVXY5ck84bUhjUW52T2g1eS1kN09WREZYMmszazRqbWY1NjBUVEFucTU5ZURFTkt0OC0yNUZQQXdKUEY1UzFCUzI0VlRQYWpUSG0xSE8wbFF5QTZuT2ZaMA?oc=5"
  },
  {
-  "id": "rt-ea0b1777a5ca",
-  "titleCn": "Worldwide Holdings Channels RM300,000 Into Youth, Community Development - BusinessToday Malaysia",
-  "titleOrig": "Worldwide Holdings Channels RM300,000 Into Youth, Community Development - BusinessToday Malaysia",
+  "id": "rt-2d8554ee0c6b",
+  "titleCn": "Worldwide Holdings Channels RM300,000 Into Youth, Community Development - businesstoday.com.my",
+  "titleOrig": "Worldwide Holdings Channels RM300,000 Into Youth, Community Development - businesstoday.com.my",
   "catCn": "社会民生",
   "cat": "society",
   "country": "马来西亚",
@@ -9092,7 +8892,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚社会民生：Worldwide Holdings Channels RM300,000 Into Youth, Community Development - BusinessToday Malaysia",
+  "summary": "马来西亚社会民生：Worldwide Holdings Channels RM300,000 Into Youth, Community Development - businesstoday.com.my",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -9321,9 +9121,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdS0wUVdpSDNIcXFQYU5TTmFpS3VVcUVhZGNHSDJfdS15TENkWjRQbkhmZ0RZRkR5T3cxVHpJYkNyQUYzOG9VYUg5cnUteUl3MXJ2bnBsNVVkaVF2TmsxdHZscndjeEU2M0paMnhEMkNJZzctUldCOWQtLWd4REt0QlFsOGpVdjJrbWJFb2VKU190YjloZFNVSFBnMGNhLTdGNmlLY1g1SmQ3RDBYX205eW04c09KMkpCYjJqOXpiSmg1YnBIY2g5MmJSdURsNXJDbUNPR1RBTE52LTNuVXRwMkU4QUtnUmdwb2x2eVctWGNsbTU2WmRwLTFRbGdzZw?oc=5"
  },
  {
-  "id": "rt-d7118a8219fb",
-  "titleCn": "Umno seeks early Malaysian election to cement conservative Malay bloc - scmp.com",
-  "titleOrig": "Umno seeks early Malaysian election to cement conservative Malay bloc - scmp.com",
+  "id": "rt-05fc9cbcfa31",
+  "titleCn": "Umno seeks early Malaysian election to cement conservative Malay bloc - South China Morning Post",
+  "titleOrig": "Umno seeks early Malaysian election to cement conservative Malay bloc - South China Morning Post",
   "catCn": "政党选举",
   "cat": "politics",
   "country": "马来西亚",
@@ -9332,7 +9132,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚政党选举：Umno seeks early Malaysian election to cement conservative Malay bloc - scmp.com",
+  "summary": "马来西亚政党选举：Umno seeks early Malaysian election to cement conservative Malay bloc - South China Morning Post",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -9561,9 +9361,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96UURNUW1wWno2aVpKUkVyQXhiUzdHdE5pY3ZxdlZEd3BCaVZQRkp3a0diaWNUWGZEQThCeU5Ra1YxbEdjX0FTSE1zUm40TXpQV0VSdGdCVlVOWHd2QzlGTVRCeHpYRmlDckFmUUZhR0U?oc=5"
  },
  {
-  "id": "rt-ce8117d59c0b",
-  "titleCn": "TikTok Shop Signs MOU with the Department of Business Development to Uplift Thai SMEs by Leveraging the Strengths of Shoppertainment to Empower Thai Entrepreneurs - thaipr.net",
-  "titleOrig": "TikTok Shop Signs MOU with the Department of Business Development to Uplift Thai SMEs by Leveraging the Strengths of Shoppertainment to Empower Thai Entrepreneurs - thaipr.net",
+  "id": "rt-edfd15cf4a99",
+  "titleCn": "TikTok Shop Signs MOU with the Department of Business Development to Uplift Thai SMEs by Leveraging the Strengths of Shoppertainment to Empower Thai Entrepreneurs - ThaiPR.NET",
+  "titleOrig": "TikTok Shop Signs MOU with the Department of Business Development to Uplift Thai SMEs by Leveraging the Strengths of Shoppertainment to Empower Thai Entrepreneurs - ThaiPR.NET",
   "catCn": "电商政策",
   "cat": "ecommerce",
   "country": "泰国",
@@ -9572,7 +9372,7 @@ window.EVENTS_REALTIME = [
   "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国电商政策：TikTok Shop Signs MOU with the Department of Business Development to Uplift Thai SMEs by Leveraging the Strengths of Shoppertainment to Empower Thai Entrepreneurs - thaipr.net",
+  "summary": "泰国电商政策：TikTok Shop Signs MOU with the Department of Business Development to Uplift Thai SMEs by Leveraging the Strengths of Shoppertainment to Empower Thai Entrepreneurs - ThaiPR.NET",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -9657,5 +9457,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSFhXRzhJTGdDWkRaaXpjOEx1WTl6eVYwQkpvZU9RUzBMQnBSa2F4VFBqVERtZjRiLWFNMjhGcElDanNfQzF3a051a0liZERlZUVMNmdMeFNIVlJjWTc3RElOUTFraEQ1d2V2WmNOVlVKYVh1eW8xZnZTc1pCWDZFOTBad2lCczFQd2JQeWNMekbSAZYBQVVfeXFMT29ETWZIWGFxalJPR05GamFWa3F6cDNPRjRja0p2TlZYRW5pWFo3aUYwZkozSENoaXlDbVBlYWpvZGVpYWgtLW8yNnY0ZGNQNElDRTlZNm4xU1RBS3NGcHZnakxNU2Q2VTFoMmpGT3lmNTVOVVVONkdpTVFRZmJXZlZ6VW93NEJGaFU2SHA3enNnT0FKcVpn?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-09-27T13:32:24";
+window.REALTIME_UPDATED = "2026-09-27T18:42:55";
 window.REALTIME_CARRIED = false;
