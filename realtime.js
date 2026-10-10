@@ -1404,60 +1404,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/th/album/one-of-my-life-feat-k6y/1785191164?i=1785191170"
  },
  {
-  "id": "rt-903b1fb00587",
-  "titleCn": "เพลงของเรา - Tattoo Colour",
-  "titleOrig": "เพลงของเรา - Tattoo Colour",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "泰国",
-  "stars": "🔥🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/71/92/c5719260-75b7-b01c-338c-fbf89d6bdfdd/cover.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 70,
-  "summary": "苹果音乐 泰国 热门歌曲第15：เพลงของเรา（Tattoo Colour）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://music.apple.com/th/album/%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2/1221366662?i=1221366839"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-11",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/71/92/c5719260-75b7-b01c-338c-fbf89d6bdfdd/cover.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://music.apple.com/th/album/%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2/1221366662?i=1221366839"
- },
- {
   "id": "rt-2281c6cf4e7a",
   "titleCn": "Nicole Kidman - ADÉLA",
   "titleOrig": "Nicole Kidman - ADÉLA",
@@ -1468,8 +1414,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 68,
-  "summary": "苹果音乐 泰国 热门歌曲第16：Nicole Kidman（ADÉLA）",
+  "buzzIndex": 70,
+  "summary": "苹果音乐 泰国 热门歌曲第15：Nicole Kidman（ADÉLA）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1510,6 +1456,60 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-10-11",
   "primaryUrl": "https://music.apple.com/th/album/nicole-kidman/6792883860?i=6792884088"
+ },
+ {
+  "id": "rt-903b1fb00587",
+  "titleCn": "เพลงของเรา - Tattoo Colour",
+  "titleOrig": "เพลงของเรา - Tattoo Colour",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/71/92/c5719260-75b7-b01c-338c-fbf89d6bdfdd/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 68,
+  "summary": "苹果音乐 泰国 热门歌曲第16：เพลงของเรา（Tattoo Colour）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2/1221366662?i=1221366839"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-11",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/71/92/c5719260-75b7-b01c-338c-fbf89d6bdfdd/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-11",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2/1221366662?i=1221366839"
  },
  {
   "id": "rt-b01c6b674cc5",
@@ -1728,6 +1728,60 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://music.apple.com/th/album/%E0%B8%9F-%E0%B9%82%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%99-feat-2tflow/1604151720?i=1604152220"
  },
  {
+  "id": "rt-e37b5c7c035e",
+  "titleCn": "One Of The Girls - The Weeknd, JENNIE & Lily Rose Depp",
+  "titleOrig": "One Of The Girls - The Weeknd, JENNIE & Lily Rose Depp",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 58,
+  "summary": "苹果音乐 泰国 热门歌曲第21：One Of The Girls（The Weeknd, JENNIE & Lily Rose Depp）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/one-of-the-girls/1693891133?i=1693891139"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-11",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-11",
+  "primaryUrl": "https://music.apple.com/th/album/one-of-the-girls/1693891133?i=1693891139"
+ },
+ {
   "id": "rt-a440238292f2",
   "titleCn": "SaWaDiKa - LISA",
   "titleOrig": "SaWaDiKa - LISA",
@@ -1738,8 +1792,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/de/67/1dde6726-f217-b447-46cd-94d5f9621797/196874712696.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 58,
-  "summary": "苹果音乐 泰国 热门歌曲第21：SaWaDiKa（LISA）",
+  "buzzIndex": 56,
+  "summary": "苹果音乐 泰国 热门歌曲第22：SaWaDiKa（LISA）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1792,8 +1846,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/39/f0/6b39f021-a558-caba-f937-5e2505691b2a/25UMGIM82152.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 56,
-  "summary": "苹果音乐 泰国 热门歌曲第22：ที่คั่นหนังสือ (Sometimes) [feat. NONT TANONT]（BOWKYLION）",
+  "buzzIndex": 54,
+  "summary": "苹果音乐 泰国 热门歌曲第23：ที่คั่นหนังสือ (Sometimes) [feat. NONT TANONT]（BOWKYLION）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1846,8 +1900,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/74/a3/7d74a39b-906e-d336-29f9-ece2b00ee6f0/0840517265833_Cover.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 54,
-  "summary": "苹果音乐 泰国 热门歌曲第23：ไม่ได้เลวขนาดนั้น（PORZAX）",
+  "buzzIndex": 52,
+  "summary": "苹果音乐 泰国 热门歌曲第24：ไม่ได้เลวขนาดนั้น（PORZAX）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1900,8 +1954,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/80/47/7380474c-b3a6-3411-bfe9-2ef792c66768/24UMGIM55985.rgb.jpg/600x600bb.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 52,
-  "summary": "苹果音乐 泰国 热门歌曲第24：DAY ONE（PUN）",
+  "buzzIndex": 50,
+  "summary": "苹果音乐 泰国 热门歌曲第25：DAY ONE（PUN）",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1942,60 +1996,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-10-11",
   "primaryUrl": "https://music.apple.com/th/album/day-one/1748093791?i=1748093799"
- },
- {
-  "id": "rt-e51deb9bd61a",
-  "titleCn": "1-100 - Tattoo Colour",
-  "titleOrig": "1-100 - Tattoo Colour",
-  "catCn": "音乐榜单",
-  "cat": "music",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/69/0d/b9690dab-d32e-dd25-c1d7-b8830f8f7165/cover.jpg/600x600bb.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 50,
-  "summary": "苹果音乐 泰国 热门歌曲第25：1-100（Tattoo Colour）",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "apple",
-    "name": "Apple Music 榜单",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://music.apple.com/th/album/1-100/6807398729?i=6807399080"
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-11",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Apple Music 专辑图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/69/0d/b9690dab-d32e-dd25-c1d7-b8830f8f7165/cover.jpg/600x600bb.jpg",
-    "source": "Apple Music 专辑图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://music.apple.com/th/album/1-100/6807398729?i=6807399080"
  },
  {
   "id": "rt-0b6755600eab",
@@ -2514,18 +2514,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/195604"
  },
  {
-  "id": "rt-b79e0241dfd6",
-  "titleCn": "A Wild Last Boss Appeared! Season 2",
-  "titleOrig": "A Wild Last Boss Appeared! Season 2",
+  "id": "rt-3796158a1437",
+  "titleCn": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+  "titleOrig": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 96,
-  "summary": "AniList 人气动漫第2：A Wild Last Boss Appeared! Season 2",
+  "summary": "AniList 人气动漫第2：Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2535,7 +2535,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/204389"
+    "url": "https://anilist.co/anime/202250"
    }
   ],
   "sourceBreadth": {
@@ -2558,28 +2558,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/204389"
+  "primaryUrl": "https://anilist.co/anime/202250"
  },
  {
-  "id": "rt-f9f118cac776",
-  "titleCn": "A Tale of the Secret Saint",
-  "titleOrig": "A Tale of the Secret Saint",
+  "id": "rt-cdec990f1f95",
+  "titleCn": "Dr.STONE: TERRAFORMING",
+  "titleOrig": "Dr.STONE: TERRAFORMING",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218099-D8t4YUt0Jonv.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 94,
-  "summary": "AniList 人气动漫第3：A Tale of the Secret Saint",
+  "summary": "AniList 人气动漫第3：Dr.STONE: TERRAFORMING",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2589,7 +2589,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/187402"
+    "url": "https://anilist.co/anime/218099"
    }
   ],
   "sourceBreadth": {
@@ -2612,14 +2612,122 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218099-D8t4YUt0Jonv.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/187402"
+  "primaryUrl": "https://anilist.co/anime/218099"
+ },
+ {
+  "id": "rt-779ef0c90830",
+  "titleCn": "Even the Student Council Has Its Holes!",
+  "titleOrig": "Even the Student Council Has Its Holes!",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 92,
+  "summary": "AniList 人气动漫第4：Even the Student Council Has Its Holes!",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/191656"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-11",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-11",
+  "primaryUrl": "https://anilist.co/anime/191656"
+ },
+ {
+  "id": "rt-4ecd9d5bf13e",
+  "titleCn": "Magical Explorer",
+  "titleOrig": "Magical Explorer",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 90,
+  "summary": "AniList 人气动漫第5：Magical Explorer",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/169581"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-11",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-11",
+  "primaryUrl": "https://anilist.co/anime/169581"
  },
  {
   "id": "rt-a53f3f775ee9",
@@ -2628,12 +2736,12 @@ window.EVENTS_REALTIME = [
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
-  "stars": "🔥🔥🔥🔥",
+  "stars": "🔥🔥🔥",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 92,
-  "summary": "AniList 人气动漫第4：The Apothecary Diaries Season 3",
+  "buzzIndex": 88,
+  "summary": "AniList 人气动漫第6：The Apothecary Diaries Season 3",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2676,18 +2784,72 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/195516"
  },
  {
+  "id": "rt-b79e0241dfd6",
+  "titleCn": "A Wild Last Boss Appeared! Season 2",
+  "titleOrig": "A Wild Last Boss Appeared! Season 2",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 86,
+  "summary": "AniList 人气动漫第7：A Wild Last Boss Appeared! Season 2",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/204389"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-11",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-11",
+  "primaryUrl": "https://anilist.co/anime/204389"
+ },
+ {
   "id": "rt-4e2439ee55c5",
   "titleCn": "Romelia War Chronicle",
   "titleOrig": "Romelia War Chronicle",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
-  "stars": "🔥🔥🔥🔥",
+  "stars": "🔥🔥🔥",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 90,
-  "summary": "AniList 人气动漫第5：Romelia War Chronicle",
+  "buzzIndex": 84,
+  "summary": "AniList 人气动漫第8：Romelia War Chronicle",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2715,7 +2877,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 14,
+  "hotDays": 7,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
@@ -2730,18 +2892,126 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/180894"
  },
  {
+  "id": "rt-584e154c4d68",
+  "titleCn": "Ranma1/2 (2024) Season 3",
+  "titleOrig": "Ranma1/2 (2024) Season 3",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 82,
+  "summary": "AniList 人气动漫第9：Ranma1/2 (2024) Season 3",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/209872"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-11",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-11",
+  "primaryUrl": "https://anilist.co/anime/209872"
+ },
+ {
+  "id": "rt-f9f118cac776",
+  "titleCn": "A Tale of the Secret Saint",
+  "titleOrig": "A Tale of the Secret Saint",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 80,
+  "summary": "AniList 人气动漫第10：A Tale of the Secret Saint",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/187402"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-11",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-11",
+  "primaryUrl": "https://anilist.co/anime/187402"
+ },
+ {
   "id": "rt-c4edf1b7e015",
   "titleCn": "ONE PIECE",
   "titleOrig": "ONE PIECE",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
-  "stars": "🔥🔥🔥",
+  "stars": "🔥🔥",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 88,
-  "summary": "AniList 人气动漫第6：ONE PIECE",
+  "buzzIndex": 78,
+  "summary": "AniList 人气动漫第11：ONE PIECE",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2769,7 +3039,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 14,
+  "hotDays": 5,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
@@ -2784,72 +3054,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/21"
  },
  {
-  "id": "rt-0c76aeafe629",
-  "titleCn": "Firefly Wedding",
-  "titleOrig": "Firefly Wedding",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 86,
-  "summary": "AniList 人气动漫第7：Firefly Wedding",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/205909"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-11",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 7,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/205909"
- },
- {
   "id": "rt-47f388c41ca1",
   "titleCn": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
   "titleOrig": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
-  "stars": "🔥🔥🔥",
+  "stars": "🔥🔥",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 84,
-  "summary": "AniList 人气动漫第8：STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+  "buzzIndex": 76,
+  "summary": "AniList 人气动漫第12：STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2877,7 +3093,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 7,
+  "hotDays": 5,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
@@ -2892,18 +3108,72 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/210482"
  },
  {
+  "id": "rt-0c76aeafe629",
+  "titleCn": "Firefly Wedding",
+  "titleOrig": "Firefly Wedding",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 74,
+  "summary": "AniList 人气动漫第13：Firefly Wedding",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/205909"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-11",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-11",
+  "primaryUrl": "https://anilist.co/anime/205909"
+ },
+ {
   "id": "rt-b20cff045695",
   "titleCn": "Black Clover",
   "titleOrig": "Black Clover",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
-  "stars": "🔥🔥🔥",
+  "stars": "🔥🔥",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 82,
-  "summary": "AniList 人气动漫第9：Black Clover",
+  "buzzIndex": 72,
+  "summary": "AniList 人气动漫第14：Black Clover",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2931,7 +3201,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 7,
+  "hotDays": 5,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
@@ -2946,114 +3216,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/97940"
  },
  {
-  "id": "rt-6ba7d6d71225",
-  "titleCn": "The Vermilion Mask",
-  "titleOrig": "The Vermilion Mask",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 80,
-  "summary": "AniList 人气动漫第10：The Vermilion Mask",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/195571"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-11",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 7,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/195571"
- },
- {
-  "id": "rt-0ced2fc3c5f4",
-  "titleCn": "#I'm Looking For a Zombie",
-  "titleOrig": "#I'm Looking For a Zombie",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-8R1HsnflnHJE.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 78,
-  "summary": "AniList 人气动漫第11：#I'm Looking For a Zombie",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/199007"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-11",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 5,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-8R1HsnflnHJE.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/199007"
- },
- {
   "id": "rt-5d5ea7a1c9cf",
   "titleCn": "That Time I Got Reincarnated as a Slime Season 4",
   "titleOrig": "That Time I Got Reincarnated as a Slime Season 4",
@@ -3064,8 +3226,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 76,
-  "summary": "AniList 人气动漫第12：That Time I Got Reincarnated as a Slime Season 4",
+  "buzzIndex": 70,
+  "summary": "AniList 人气动漫第15：That Time I Got Reincarnated as a Slime Season 4",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3093,7 +3255,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 5,
+  "hotDays": 3,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
@@ -3108,18 +3270,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/182205"
  },
  {
-  "id": "rt-7eb57c227e47",
-  "titleCn": "Tokyo Revengers: War of the Three Titans Arc",
-  "titleOrig": "Tokyo Revengers: War of the Three Titans Arc",
+  "id": "rt-0ced2fc3c5f4",
+  "titleCn": "#I'm Looking For a Zombie",
+  "titleOrig": "#I'm Looking For a Zombie",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-8R1HsnflnHJE.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 74,
-  "summary": "AniList 人气动漫第13：Tokyo Revengers: War of the Three Titans Arc",
+  "buzzIndex": 68,
+  "summary": "AniList 人气动漫第16：#I'm Looking For a Zombie",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3129,7 +3291,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/178083"
+    "url": "https://anilist.co/anime/199007"
    }
   ],
   "sourceBreadth": {
@@ -3147,33 +3309,33 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 5,
+  "hotDays": 3,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-8R1HsnflnHJE.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/178083"
+  "primaryUrl": "https://anilist.co/anime/199007"
  },
  {
-  "id": "rt-4ecd9d5bf13e",
-  "titleCn": "Magical Explorer",
-  "titleOrig": "Magical Explorer",
+  "id": "rt-6ba7d6d71225",
+  "titleCn": "The Vermilion Mask",
+  "titleOrig": "The Vermilion Mask",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 72,
-  "summary": "AniList 人气动漫第14：Magical Explorer",
+  "buzzIndex": 66,
+  "summary": "AniList 人气动漫第17：The Vermilion Mask",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3183,7 +3345,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/169581"
+    "url": "https://anilist.co/anime/195571"
    }
   ],
   "sourceBreadth": {
@@ -3201,19 +3363,19 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 5,
+  "hotDays": 3,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/169581"
+  "primaryUrl": "https://anilist.co/anime/195571"
  },
  {
   "id": "rt-e61868d64061",
@@ -3226,8 +3388,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 70,
-  "summary": "AniList 人气动漫第15：Re:ZERO -Starting Life in Another World- Season 4",
+  "buzzIndex": 64,
+  "summary": "AniList 人气动漫第18：Re:ZERO -Starting Life in Another World- Season 4",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3270,18 +3432,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/189046"
  },
  {
-  "id": "rt-d56e98fcd717",
-  "titleCn": "The Exiled Heavy Knight Knows How to Game the System",
-  "titleOrig": "The Exiled Heavy Knight Knows How to Game the System",
+  "id": "rt-e62d24050a0f",
+  "titleCn": "Mushoku Tensei: Jobless Reincarnation Season 3",
+  "titleOrig": "Mushoku Tensei: Jobless Reincarnation Season 3",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 68,
-  "summary": "AniList 人气动漫第16：The Exiled Heavy Knight Knows How to Game the System",
+  "buzzIndex": 62,
+  "summary": "AniList 人气动漫第19：Mushoku Tensei: Jobless Reincarnation Season 3",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3291,7 +3453,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/180136"
+    "url": "https://anilist.co/anime/178789"
    }
   ],
   "sourceBreadth": {
@@ -3314,14 +3476,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/180136"
+  "primaryUrl": "https://anilist.co/anime/178789"
  },
  {
   "id": "rt-c971c150c30b",
@@ -3334,8 +3496,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 66,
-  "summary": "AniList 人气动漫第17：Bleach",
+  "buzzIndex": 60,
+  "summary": "AniList 人气动漫第20：Bleach",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3363,7 +3525,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 3,
+  "hotDays": 2,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
@@ -3378,168 +3540,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/269"
  },
  {
-  "id": "rt-5fd93cb1a288",
-  "titleCn": "The Ramparts of Ice Season 2",
-  "titleOrig": "The Ramparts of Ice Season 2",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 64,
-  "summary": "AniList 人气动漫第18：The Ramparts of Ice Season 2",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/213805"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-11",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/213805"
- },
- {
-  "id": "rt-c56e23de70c0",
-  "titleCn": "The Seven Knights of the Marronnier Kingdom",
-  "titleOrig": "The Seven Knights of the Marronnier Kingdom",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212799-n7WDdic7IL1z.png",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 62,
-  "summary": "AniList 人气动漫第19：The Seven Knights of the Marronnier Kingdom",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/212799"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-11",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212799-n7WDdic7IL1z.png",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/212799"
- },
- {
-  "id": "rt-20df3b5a0e94",
-  "titleCn": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-  "titleOrig": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "AniList 人气动漫第20：TOUGEN ANKI: Nikko Kegon Falls Arc",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/204650"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-11",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://anilist.co/anime/204650"
- },
- {
   "id": "rt-6a4f827cfc33",
   "titleCn": "บันเทิง - Celebrity Gossip : 30 มีนาคม 2568 - แนวหน้า",
   "titleOrig": "บันเทิง - Celebrity Gossip : 30 มีนาคม 2568 - แนวหน้า",
@@ -3547,7 +3547,7 @@ window.EVENTS_REALTIME = [
   "cat": "celebrity",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/2174/2223407585_3a66dd6bcd_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Angelica_Nwandu_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
@@ -3564,8 +3564,8 @@ window.EVENTS_REALTIME = [
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoemtlTmhNY1RDVVZnYWhtUGJ1STZWTFVvXzIzSGlTZktFU3lWZUNSNWlROHlDUXNLZmNPTlB3X0lMdzB0T21jRE1yQWZkV3ot?oc=5"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -3587,12 +3587,12 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2174/2223407585_3a66dd6bcd_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Angelica_Nwandu_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -3608,7 +3608,7 @@ window.EVENTS_REALTIME = [
   "cat": "celebrity",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/2174/2223407585_3a66dd6bcd_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Angelica_Nwandu_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
@@ -3625,8 +3625,8 @@ window.EVENTS_REALTIME = [
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lV0h2T3l1SDBmb1EzUVVxOXpYaXF5V1dwdUFnbGE2TzFpenZpaW0tVGVoOWZBX19MNW9LV0FpRHNIRkU5MVhnejI2OEgteGZT?oc=5"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -3648,12 +3648,12 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2174/2223407585_3a66dd6bcd_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Angelica_Nwandu_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -3669,7 +3669,7 @@ window.EVENTS_REALTIME = [
   "cat": "celebrity",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/2174/2223407585_3a66dd6bcd_b.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Angelica_Nwandu_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
@@ -3686,8 +3686,8 @@ window.EVENTS_REALTIME = [
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CTFNhdThvaFRWRVlWZW5SR3pjQWtPeXpkaGlzd2RHZ0JnUWpuRzB4NE5menFqLS00MlVrM09OTFgtYXhDRUxJOG4zYWVvOUtK?oc=5"
    },
    {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
+    "type": "wiki",
+    "name": "维基百科词条图",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -3709,12 +3709,12 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "维基百科词条图",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2174/2223407585_3a66dd6bcd_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Angelica_Nwandu_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "维基百科词条图",
     "caption": ""
    }
   ],
@@ -3730,7 +3730,7 @@ window.EVENTS_REALTIME = [
   "cat": "celebrity",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ive_-_I%27ve_Ive.png/960px-Ive_-_I%27ve_Ive.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
@@ -3747,8 +3747,8 @@ window.EVENTS_REALTIME = [
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0MwbF92WndoZXF4ejBxT0NvemYyZ1ExYjFuaXdONE5iRnU1ZE9xLVdTOFl4M2lrTUJoYTJ0MkwtajF1aGR1OGNmc2lfZm5UcWlKM2hhaVFjMjVaSHhoRFRvcjAxZ0I1aXhLclg2amszQUlPVllHcXAwZUR3cnB5RDdrWEdKWmVjUHQ4RzA5YmJ2bVc1QlJvd0U3MTd3SDQ0eTR2TG1NckFvN0ktdlFYMEY5WHhOc1ZlNjhncVVUbWtEN1FmaldLLUpHTUk?oc=5"
    },
    {
-    "type": "openverse",
-    "name": "Openverse(IVE)",
+    "type": "wiki",
+    "name": "维基百科(IVE)",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -3770,12 +3770,12 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "Openverse(IVE)",
+  "imageSource": "维基百科(IVE)",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
-    "source": "Openverse(IVE)",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ive_-_I%27ve_Ive.png/960px-Ive_-_I%27ve_Ive.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "维基百科(IVE)",
     "caption": ""
    }
   ],
@@ -3967,6 +3967,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhb0FfdU9oUEdUOTZ1UkFfMmdkMmFjUHYxWDl1VDBvZE9JamJpVDFCdE1oMENvbE9xeXdubDVKRkVZeWp4azFmSndOQko?oc=5"
  },
  {
+  "id": "rt-7e968620a975",
+  "titleCn": "World Cinema 24-25 ม.ค.69 - ch7.com",
+  "titleOrig": "World Cinema 24-25 ม.ค.69 - ch7.com",
+  "catCn": "影视剧",
+  "cat": "film_tv",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/6071/6093591982_6431ed8985_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国影视剧：World Cinema 24-25 ม.ค.69 - ch7.com",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CMUlXbGNoMHZEN2ZISWE4TnBqZUlhM0NRb2o5QUktN0dyS3pWRm1iajZvRzhVTkNrOGROQWFLc2MtdGw3Q3hhSDhuOA?oc=5"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-11",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/6071/6093591982_6431ed8985_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-11",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CMUlXbGNoMHZEN2ZISWE4TnBqZUlhM0NRb2o5QUktN0dyS3pWRm1iajZvRzhVTkNrOGROQWFLc2MtdGw3Q3hhSDhuOA?oc=5"
+ },
+ {
   "id": "rt-0a0bbe890da2",
   "titleCn": "World Cinema 14-15 มี.ค.69 - www.ch7.com",
   "titleOrig": "World Cinema 14-15 มี.ค.69 - www.ch7.com",
@@ -4026,67 +4087,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-10-11",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rckl1S05FS0Z0RmpiWlBnb1drX1M1MVBNN0VhUE0yWXY4Vi1NZDVhY1h3LVlVUnhEZ1BObVlvaGtnQzg5NDBfSEE3QQ?oc=5"
- },
- {
-  "id": "rt-41304d3fb50e",
-  "titleCn": "World Cinema 7-8 ก.พ.69 - ch7.com",
-  "titleOrig": "World Cinema 7-8 ก.พ.69 - ch7.com",
-  "catCn": "影视剧",
-  "cat": "film_tv",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/6071/6093591982_6431ed8985_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国影视剧：World Cinema 7-8 ก.พ.69 - ch7.com",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Sbl9Bdi1NSEhnRXBxanAwQ092a3dYS3VuTlZaT3UzUHJRbzFsdUtxYWNrWUtodmxUQmhQWUE2V3V6eXpXY24yczc3QQ?oc=5"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-11",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/6071/6093591982_6431ed8985_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Sbl9Bdi1NSEhnRXBxanAwQ092a3dYS3VuTlZaT3UzUHJRbzFsdUtxYWNrWUtodmxUQmhQWUE2V3V6eXpXY24yczc3QQ?oc=5"
  },
  {
   "id": "rt-afd51319afd5",
@@ -4198,18 +4198,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPd1RaV0NOdXZPQTd1anA5a2ExT2JCT0JwcHBEZFFmbmVlSmhCRUlKb3dVUmV1UHpDWDdMVlg0VUVfaS1QMnF3ZURHeFVuaFZ6bHFZZzZwbnZVRHJtOUNRNTlpT1FXSmxNRzJkMWUzTjN3dUpDVGYwTE9qdUFwMWx0dUpCV2FON2JCdDJLeXZ2VDA3Qm4zTFhfdHA0cWNrS0FFWXpobWx0V0czVWlqczkwTHV6N21oTUtzUXRYekFTSEtKd2NaQUlYZlJSV0JDNzBCSXpyOUlrOFlYQVFYTHZDRDlVNUNGMExsbEhhM0RYN1hHWWYzLVVleklybjlqckYwbFVva213?oc=5"
  },
  {
-  "id": "rt-aac437eda28e",
-  "titleCn": "Cabaran Uqasha Senrose BawaWatak Sebagai Isteri Hilang Penglihatan | #SinggahSet - Gempak",
-  "titleOrig": "Cabaran Uqasha Senrose BawaWatak Sebagai Isteri Hilang Penglihatan | #SinggahSet - Gempak",
+  "id": "rt-d6f9ecee035b",
+  "titleCn": "#SHOWBIZ: Return of the Palmolive Girl - NST Online",
+  "titleOrig": "#SHOWBIZ: Return of the Palmolive Girl - NST Online",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/4137/4797720515_e9d9bde920_m.jpg",
+  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚影视剧：Cabaran Uqasha Senrose BawaWatak Sebagai Isteri Hilang Penglihatan | #SinggahSet - Gempak",
+  "summary": "马来西亚影视剧：#SHOWBIZ: Return of the Palmolive Girl - NST Online",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4219,11 +4219,11 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2xTWURjWkFrbG9OVTlKNWJULVRfMElibEdyNi1ualJJSEJUT3dJU0NYVExqeGdtVGJVRDRUdmdRVEFoNE5pTmNhQjJBbGZfZ1VLVkR6LUZaaGZFY2hPdXVIV0E1NFNjcTJoOVFjRDl1SERtSjRPMlpkNmg2ODA4WXZVMzJ0ZHdDRXV2TXdSQlBlNzlaME81bUFLWVVidWJTUlBOLW1ITC1LeVBNUDhoUE93?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGNvTXB2WGdYS0pHaGZzYzFVUE4xYUhtbElLSlZONVhFa3UzWExQck1NTXRTNmpHYnB6X1VjQUtuT2ZDbVhtS3Y1YlE4MWRpejhoSkp6R21XWFdSajFJUS16Wmk4b29fSUp1NDFFXzdSSklNYjJDMmdOQngwOHBWdXZvUF9VRDB2eng1R09R?oc=5"
    },
    {
     "type": "openverse",
-    "name": "Openverse 共享图库",
+    "name": "Openverse(IVE)",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -4245,18 +4245,18 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "Openverse(IVE)",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/4137/4797720515_e9d9bde920_m.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+    "source": "Openverse(IVE)",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2xTWURjWkFrbG9OVTlKNWJULVRfMElibEdyNi1ualJJSEJUT3dJU0NYVExqeGdtVGJVRDRUdmdRVEFoNE5pTmNhQjJBbGZfZ1VLVkR6LUZaaGZFY2hPdXVIV0E1NFNjcTJoOVFjRDl1SERtSjRPMlpkNmg2ODA4WXZVMzJ0ZHdDRXV2TXdSQlBlNzlaME81bUFLWVVidWJTUlBOLW1ITC1LeVBNUDhoUE93?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGNvTXB2WGdYS0pHaGZzYzFVUE4xYUhtbElLSlZONVhFa3UzWExQck1NTXRTNmpHYnB6X1VjQUtuT2ZDbVhtS3Y1YlE4MWRpejhoSkp6R21XWFdSajFJUS16Wmk4b29fSUp1NDFFXzdSSklNYjJDMmdOQngwOHBWdXZvUF9VRDB2eng1R09R?oc=5"
  },
  {
   "id": "rt-1299cc991f01",
@@ -5113,18 +5113,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOWTQteVgwbXk4S2NYdzlaMmRNWEZZUk00MnJoOThmcjJlS3BjQVlCOXZrOGlvZkFtUkQ4a1lOeG5ocFRjZmNCLWs3RElXZExmWEtUZ1ZWSFpBQmVPR01pUFpfLTRSMkpBWm04YnJMdVp1WTQySE9iblRyQ1hhMW0yaG5Sal9Ga3REeV9vZEZEc212Q2tZWV9qYXZnSXdJQjdJeGxfSURnanJEaDFyOXJITUxqRTg5RWxnZmtCeUQtV3Y3YTFsMTJJMGRZRk1DWlZ6UzJ1czlWaGdMVlZVT1dlbjBiWW5zZFpPTGxxNkZhQ0g3RUk5UXFPek9tZ2t2NUlycjRIQURUQXpYODVTOXdneW5tT2FfVGowT0RjempuR3J0MUxkNDh4Vy1WU1Y2dHdVMUp2Smp1ekRGSW5VcHhYM2lXSTJpckg1ZWQ4bnZR?oc=5"
  },
  {
-  "id": "rt-0c293f62e68e",
-  "titleCn": "𝗠𝗔𝗧𝗖𝗛 𝗗𝗔𝗬 : 𝗔𝗙𝗖 𝗨𝟭𝟳 𝗪𝗼𝗺𝗲𝗻’𝘀 𝗔𝘀𝗶𝗮𝗻 𝗖𝘂𝗽 𝟮𝟬𝟮𝟳 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗲𝗿𝘀 🎉🇹🇭 ร่วมเชียร์ #ฟุตบอลหญิงทีมชาติไทยรุ่นอายุไม่เกิน 17 ปี ในการแข่งขันฟุตบอล 𝗔𝗙𝗖 𝗨𝟭𝟳 𝗪𝗼𝗺𝗲𝗻’𝘀 𝗔𝘀𝗶𝗮𝗻 𝗖𝘂𝗽 𝟮𝟬𝟮𝟳 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗲𝗿𝘀 รอบแบ่งกลุ่ม กลุ่มเอฟ นัดที่สอง ​ 🇲🇴 มาเก๊า พบ ไท - Facebook",
-  "titleOrig": "𝗠𝗔𝗧𝗖𝗛 𝗗𝗔𝗬 : 𝗔𝗙𝗖 𝗨𝟭𝟳 𝗪𝗼𝗺𝗲𝗻’𝘀 𝗔𝘀𝗶𝗮𝗻 𝗖𝘂𝗽 𝟮𝟬𝟮𝟳 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗲𝗿𝘀 🎉🇹🇭 ร่วมเชียร์ #ฟุตบอลหญิงทีมชาติไทยรุ่นอายุไม่เกิน 17 ปี ในการแข่งขันฟุตบอล 𝗔𝗙𝗖 𝗨𝟭𝟳 𝗪𝗼𝗺𝗲𝗻’𝘀 𝗔𝘀𝗶𝗮𝗻 𝗖𝘂𝗽 𝟮𝟬𝟮𝟳 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗲𝗿𝘀 รอบแบ่งกลุ่ม กลุ่มเอฟ นัดที่สอง ​ 🇲🇴 มาเก๊า พบ ไท - Facebook",
+  "id": "rt-3c732d7158f0",
+  "titleCn": "𝗚𝗢𝗔𝗟 𝗚𝗢𝗔𝗟 𝗚𝗢𝗔𝗟! บุรีรัมย์ ยูไนเต็ด 0-1 ระยอง เอฟซี ​ ยิงอย่างงาม! เจา เฟลิเป้ ยิงไกลสุดสวยพา RYFC - ระยองเอฟซี บุกขึ้นนำ บุรีรัมย์ ยูไนเต็ด ด้วยสกอร์ 0-1 ในนาทีที่ 13 ​ 📺 ถ่ายทอดสดทาง AIS PLAY และ Monomax ​ #ตุลากลับมาเดือด #BYDSealion6League1 #Theedgeofg - Facebook",
+  "titleOrig": "𝗚𝗢𝗔𝗟 𝗚𝗢𝗔𝗟 𝗚𝗢𝗔𝗟! บุรีรัมย์ ยูไนเต็ด 0-1 ระยอง เอฟซี ​ ยิงอย่างงาม! เจา เฟลิเป้ ยิงไกลสุดสวยพา RYFC - ระยองเอฟซี บุกขึ้นนำ บุรีรัมย์ ยูไนเต็ด ด้วยสกอร์ 0-1 ในนาทีที่ 13 ​ 📺 ถ่ายทอดสดทาง AIS PLAY และ Monomax ​ #ตุลากลับมาเดือด #BYDSealion6League1 #Theedgeofg - Facebook",
   "catCn": "体育",
   "cat": "sports",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/1042/858165506_25ff0b78cc.jpg",
+  "cover": "https://live.staticflickr.com/3020/2876872052_12b12ae782_b.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国体育：𝗠𝗔𝗧𝗖𝗛 𝗗𝗔𝗬 : 𝗔𝗙𝗖 𝗨𝟭𝟳 𝗪𝗼𝗺𝗲𝗻’𝘀 𝗔𝘀𝗶𝗮𝗻 𝗖𝘂𝗽 𝟮𝟬𝟮𝟳 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗲𝗿𝘀 🎉🇹🇭 ร่วมเชียร์ #ฟุตบอลหญิงทีมชาติไทยรุ่นอายุไม่เกิน 17 ปี ในการแข่งขันฟุตบอล 𝗔𝗙𝗖 𝗨𝟭𝟳 𝗪𝗼𝗺𝗲𝗻’𝘀 𝗔𝘀𝗶𝗮𝗻 𝗖𝘂𝗽 𝟮𝟬𝟮𝟳 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗲𝗿𝘀 รอบแบ่งกลุ่ม กลุ่มเอฟ นัดที่สอง ​ 🇲🇴 มาเก๊า พบ ไท - Facebook",
+  "summary": "泰国体育：𝗚𝗢𝗔𝗟 𝗚𝗢𝗔𝗟 𝗚𝗢𝗔𝗟! บุรีรัมย์ ยูไนเต็ด 0-1 ระยอง เอฟซี ​ ยิงอย่างงาม! เจา เฟลิเป้ ยิงไกลสุดสวยพา RYFC - ระยองเอฟซี บุกขึ้นนำ บุรีรัมย์ ยูไนเต็ด ด้วยสกอร์ 0-1 ในนาทีที่ 13 ​ 📺 ถ่ายทอดสดทาง AIS PLAY และ Monomax ​ #ตุลากลับมาเดือด #BYDSealion6League1 #Theedgeofg - Facebook",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -5134,7 +5134,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMi9AhBVV95cUxPTGNyaktDWFRodVdKaXhQbkhYY184SEpTMFRaTERpVVB3T2hNSTBvMnVCSndEYnczNFdWZGpyRXlxNnQyVXE4RWFyOTk3dWNPRGlCbm9uUmJQXzk3YVNmSmN4V0EzeDk5bHBDVjBMa0ZxV3lsZFRuX1Zxc2o1YkVSUkZrME9JTWlzcHk0QlNGQ21YN0tpR01vcTRRellNQ29ZT0xURFRaWEJ3RG9Nc25pMUdDY0xfdmJsUUdVY2tMT0hnT3luTlp6SmI1ZG83c2FBc05rRXJCSkJoeHJrNzh3RmpXUEVuY0Y1bEVoalVXNHEzeUtUVXJFSkt0MHowNXItSUxLLXFPOGpGaFFtdDhkelJvVkF3Q2VfT1VrR2JFV3ZGT0wyNlFBZ2Mwa1k4Y1ZQaUdfQ2pDSW5wVTh6Q2w5dzFDaVRtV01hT1FTVzBMeHNUeDZKVElLUndDbm52MGFqOU5ZcWZoNXZibG10aG1zeGNOdF9RbXBlZlpRX2sxRTFmbkFXSWE1Rm9mZmJ3QVpmS1c1ZHFaOHFkZDlDN2JvRzJtYnUtTVlCRU5vTF9QdlctU29VcnY1Q2RCdnRPU3ZoOC1UMFRwdkN4eWw5c2F0d3RfMHZyVm9PTXNHd1BVeFlRUlkxd19oWDl3cklpWUxWRlhWVHFMYklkanBWbmRZdjB3VmdXOXliOXQ5bTBtU3d1cWxpMFhmbkNoLTEyM3hiUHZSQ1JjTjUzcnRweGxYTmNvYUVPRDdzbDRaMWZWVnlMOVl0YTU3OFNiRmNVX19KN3pOUjZxSDBBcVhkRnloSzZDbzIzVWJFVHhOVl9DUjZaamlhMTBnQVc5TUVIdDlHb212ZU1uWFB6eHVLUHRyVWFzTUM0bWxjUUIxNDRFWTV3TnNUa2xLNzJ2R3lRQ0N2MElKM1p5eDRrTjFxS0NJWmlVa1czREdsdW94TXlSUFJNXy0zMzVfNlc4ZXZTWmhYOVhQYVY4cVU5QWlxUnJUUUd6ZnZtNy1DZkhpSmFSNkhjWjFVWG5GNVNQRXVycWs0Q0pNQ0M4YTV5VFdINXA5YzlVMkRMZ0dKYVdLRDRvUVVRMHAtTEZWMkFmbVVQczRmc055eW1LTlcxMjJWY19lNG9QTTlFa2pzQjdiT1FSMlQ0Yk9MWW9ZWTZXcnpjTzNjZDNlaXo0YnY1elJ0ZGFKaDE3bFZjVGVzYk8tX09wVE1CU09qaVdKYldIVWJQTE9KUktIOWdkb3ZqOHNSQ3BUTVMwM2lVZTA0cEUtb2NkMlo1amZ3cEk1Vjdlc3kwRnMxSHF1SDBNcXZRUGZVUVpVcFp6YXdiRVM2Q0I2dWdsSlk0Q1VqbF85V1A0dHVUb2xzaGI5cUxvbVdzb2x2dnV1cmVUQnZFVW1ITzVDUFFnSjJNMndaaEhsa0V1bWJ0eTRwWHZ4ZEFfR0tRVHNsQjBITk9BZ2JvWVNrdG1DZk9BSW9OV0FXdUFveGNZejZyMjlWOFVxODdqUW9DZkZPZGpFSDBDLTU?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi6AdBVV95cUxNa0IzMlJmcVBMYTZFMVRSb1FOcDlMdjhzS1h4SjRSZE1Nc01Qb0E0LXhQRXBKSXFXdFc0NlNCR0lOUi1UcHF2d3Q5RTN4NGJ0MlhRckN5LXF4UUdWY3ZVSGxiSENPbVh0VTRFcXo0VGVwR092S2Z0ZlRFYUVTVk52UDVyMEFVQjBUazRtVkt5OXVoR01WX293Yzlrd1prNkRkMlNibmZmMWVqaGdvVVFLc29IRHR5b21vdFRfZ3VUaTU3cjUzZmkwMFFtLXBNUGxxYm5CS3BlYzh6aHJqdndYbFQ4M0FfNGQ3V1NGMW96OXlwWFJJWU5WVm5jaGU0MU9DTkhGR01mNXJXQkpwM0RDSkc1Sklkc2tGa2YtY0U5UlVzQ3Y3dVMwd29JNDNneXJkel93cDJyUDVGQ1RGMWpheGRuT2tDQnhsaDdaMW1uV204MWFJcWk1a2JzV2M2S0x0dm53cmhBY1hTQ1lpZjgtTEFvaXZEX3JLZm5MVUJQWkFHVzdWUkNKWlNnMVFKZ0NKZFQyNXVSZjFLb3hsR2xZalktb2NXU0lmYlI3cEJBQkNmMnZteUFveXFRREItek1VbmdQZE9Na1hSLWRyZ3NfRS1VX1Z3cHNJbl9xbW5EbjdBUmlHOVZGRm5xTzVTcmxUQWczLU9ibkpfU2IwSlZfMmk1ck1HY29xY1c3dEFaV1E2eEdMNVQxT3NKWGJOTmxyeEpnZ1R6Y0VYR251UW9Fc1RCN1ZGb19qNUFrYWdIdkZtTEtnZnRsNGtwZU9HdHIyNHhYYW9ILTFNVXZINEdjNmRWQVZlMExvMHNWYzR6RGl3el9vQ0hFY1ZjM2lQbnRwVWczZHNoYzBFTG5tdHZ4aDJrTWsyMHgyVk1SajBVTl9iM0tUTmlna2RyVXZ6ZTlmTDlQMFpBNUczU1RVN2FmandLTmFNTjNYQkVpM1R4QmxGOVJhOFBfZ2FTYkI5WHZabWtPSEZTb1pGS1BkSk5XUDFLSUIxZ0NiVEZ5bG12UWMwSzF5SWpWN2xpQmRwOHpvbHlvT1lFQ2NoWEdveUVoVGJ5NVlhNDh6by1yTDd2Y01GdGhYTXhFZHZMRy1rS3JfVnJxN0VzRFl4WGZPYVdHT0VBRTVmbThpcHlBSTUzZG5GcWhoVzN0Z29ldEdfR2d3SDhGXzlxbC1zanFDZjA3TVhSbHlhaTdCVWRPWEZtc3AyQ1VkdWRxNFJGaTNfOUxRcHNlVFZCSnVYdThENlU1Tk03bzhfRElIN2p1VzVfUGExMm1TNGVnUjU3RWJJNG9QY0ttWXJqal9nLTFmZW56V1RfYlFOSkh4?oc=5"
    },
    {
     "type": "openverse",
@@ -5164,14 +5164,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/1042/858165506_25ff0b78cc.jpg",
+    "url": "https://live.staticflickr.com/3020/2876872052_12b12ae782_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-11",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMi9AhBVV95cUxPTGNyaktDWFRodVdKaXhQbkhYY184SEpTMFRaTERpVVB3T2hNSTBvMnVCSndEYnczNFdWZGpyRXlxNnQyVXE4RWFyOTk3dWNPRGlCbm9uUmJQXzk3YVNmSmN4V0EzeDk5bHBDVjBMa0ZxV3lsZFRuX1Zxc2o1YkVSUkZrME9JTWlzcHk0QlNGQ21YN0tpR01vcTRRellNQ29ZT0xURFRaWEJ3RG9Nc25pMUdDY0xfdmJsUUdVY2tMT0hnT3luTlp6SmI1ZG83c2FBc05rRXJCSkJoeHJrNzh3RmpXUEVuY0Y1bEVoalVXNHEzeUtUVXJFSkt0MHowNXItSUxLLXFPOGpGaFFtdDhkelJvVkF3Q2VfT1VrR2JFV3ZGT0wyNlFBZ2Mwa1k4Y1ZQaUdfQ2pDSW5wVTh6Q2w5dzFDaVRtV01hT1FTVzBMeHNUeDZKVElLUndDbm52MGFqOU5ZcWZoNXZibG10aG1zeGNOdF9RbXBlZlpRX2sxRTFmbkFXSWE1Rm9mZmJ3QVpmS1c1ZHFaOHFkZDlDN2JvRzJtYnUtTVlCRU5vTF9QdlctU29VcnY1Q2RCdnRPU3ZoOC1UMFRwdkN4eWw5c2F0d3RfMHZyVm9PTXNHd1BVeFlRUlkxd19oWDl3cklpWUxWRlhWVHFMYklkanBWbmRZdjB3VmdXOXliOXQ5bTBtU3d1cWxpMFhmbkNoLTEyM3hiUHZSQ1JjTjUzcnRweGxYTmNvYUVPRDdzbDRaMWZWVnlMOVl0YTU3OFNiRmNVX19KN3pOUjZxSDBBcVhkRnloSzZDbzIzVWJFVHhOVl9DUjZaamlhMTBnQVc5TUVIdDlHb212ZU1uWFB6eHVLUHRyVWFzTUM0bWxjUUIxNDRFWTV3TnNUa2xLNzJ2R3lRQ0N2MElKM1p5eDRrTjFxS0NJWmlVa1czREdsdW94TXlSUFJNXy0zMzVfNlc4ZXZTWmhYOVhQYVY4cVU5QWlxUnJUUUd6ZnZtNy1DZkhpSmFSNkhjWjFVWG5GNVNQRXVycWs0Q0pNQ0M4YTV5VFdINXA5YzlVMkRMZ0dKYVdLRDRvUVVRMHAtTEZWMkFmbVVQczRmc055eW1LTlcxMjJWY19lNG9QTTlFa2pzQjdiT1FSMlQ0Yk9MWW9ZWTZXcnpjTzNjZDNlaXo0YnY1elJ0ZGFKaDE3bFZjVGVzYk8tX09wVE1CU09qaVdKYldIVWJQTE9KUktIOWdkb3ZqOHNSQ3BUTVMwM2lVZTA0cEUtb2NkMlo1amZ3cEk1Vjdlc3kwRnMxSHF1SDBNcXZRUGZVUVpVcFp6YXdiRVM2Q0I2dWdsSlk0Q1VqbF85V1A0dHVUb2xzaGI5cUxvbVdzb2x2dnV1cmVUQnZFVW1ITzVDUFFnSjJNMndaaEhsa0V1bWJ0eTRwWHZ4ZEFfR0tRVHNsQjBITk9BZ2JvWVNrdG1DZk9BSW9OV0FXdUFveGNZejZyMjlWOFVxODdqUW9DZkZPZGpFSDBDLTU?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMi6AdBVV95cUxNa0IzMlJmcVBMYTZFMVRSb1FOcDlMdjhzS1h4SjRSZE1Nc01Qb0E0LXhQRXBKSXFXdFc0NlNCR0lOUi1UcHF2d3Q5RTN4NGJ0MlhRckN5LXF4UUdWY3ZVSGxiSENPbVh0VTRFcXo0VGVwR092S2Z0ZlRFYUVTVk52UDVyMEFVQjBUazRtVkt5OXVoR01WX293Yzlrd1prNkRkMlNibmZmMWVqaGdvVVFLc29IRHR5b21vdFRfZ3VUaTU3cjUzZmkwMFFtLXBNUGxxYm5CS3BlYzh6aHJqdndYbFQ4M0FfNGQ3V1NGMW96OXlwWFJJWU5WVm5jaGU0MU9DTkhGR01mNXJXQkpwM0RDSkc1Sklkc2tGa2YtY0U5UlVzQ3Y3dVMwd29JNDNneXJkel93cDJyUDVGQ1RGMWpheGRuT2tDQnhsaDdaMW1uV204MWFJcWk1a2JzV2M2S0x0dm53cmhBY1hTQ1lpZjgtTEFvaXZEX3JLZm5MVUJQWkFHVzdWUkNKWlNnMVFKZ0NKZFQyNXVSZjFLb3hsR2xZalktb2NXU0lmYlI3cEJBQkNmMnZteUFveXFRREItek1VbmdQZE9Na1hSLWRyZ3NfRS1VX1Z3cHNJbl9xbW5EbjdBUmlHOVZGRm5xTzVTcmxUQWczLU9ibkpfU2IwSlZfMmk1ck1HY29xY1c3dEFaV1E2eEdMNVQxT3NKWGJOTmxyeEpnZ1R6Y0VYR251UW9Fc1RCN1ZGb19qNUFrYWdIdkZtTEtnZnRsNGtwZU9HdHIyNHhYYW9ILTFNVXZINEdjNmRWQVZlMExvMHNWYzR6RGl3el9vQ0hFY1ZjM2lQbnRwVWczZHNoYzBFTG5tdHZ4aDJrTWsyMHgyVk1SajBVTl9iM0tUTmlna2RyVXZ6ZTlmTDlQMFpBNUczU1RVN2FmandLTmFNTjNYQkVpM1R4QmxGOVJhOFBfZ2FTYkI5WHZabWtPSEZTb1pGS1BkSk5XUDFLSUIxZ0NiVEZ5bG12UWMwSzF5SWpWN2xpQmRwOHpvbHlvT1lFQ2NoWEdveUVoVGJ5NVlhNDh6by1yTDd2Y01GdGhYTXhFZHZMRy1rS3JfVnJxN0VzRFl4WGZPYVdHT0VBRTVmbThpcHlBSTUzZG5GcWhoVzN0Z29ldEdfR2d3SDhGXzlxbC1zanFDZjA3TVhSbHlhaTdCVWRPWEZtc3AyQ1VkdWRxNFJGaTNfOUxRcHNlVFZCSnVYdThENlU1Tk03bzhfRElIN2p1VzVfUGExMm1TNGVnUjU3RWJJNG9QY0ttWXJqal9nLTFmZW56V1RfYlFOSkh4?oc=5"
  },
  {
   "id": "rt-3669d4834d21",
@@ -5242,7 +5242,7 @@ window.EVENTS_REALTIME = [
   "cat": "sports",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%E9%84%AD%E5%B0%91%E7%A7%8B.jpg/960px-%E9%84%AD%E5%B0%91%E7%A7%8B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://live.staticflickr.com/7140/7704403804_a43756fd3c_b.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
@@ -5259,8 +5259,8 @@ window.EVENTS_REALTIME = [
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONVNpYmV2dnplVXZOZ3hGR2hLM2ZlUnllZGxWMW9xOVV6MWg4X0FRZlFiOWxlWmlGTHhKZTdpYTRIaXl4dTZQVVIyaG5PdGo2NEFtNjdlSVNuV055cV8zTGJZNW1ZMFQ2T19IMVVFZFBHSEdRTHpnemhfWmZCM1JreFFYNzlCUzBYeVHSAY8BQVVfeXFMTmxaakNNQjl3UGExU21kV3BZWFA1UldxTVJJU2ZDUUhGVnhyNUdRZEtBM25iYXRwSGx5c1ZxaHY0c1dhTDJOcFNPbVhqQ1A4bTFxYkdjckVybXF3NVNDcWh0VXpiS0lyNVM5Zi1CTzJoYzlJaWZCMUNqd2JkS0VqZVphUWVTS1U2dlRWMlN3Y0U?oc=5"
    },
    {
-    "type": "wiki",
-    "name": "维基百科词条图",
+    "type": "openverse",
+    "name": "Openverse 共享图库",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5282,12 +5282,12 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "维基百科词条图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%E9%84%AD%E5%B0%91%E7%A7%8B.jpg/960px-%E9%84%AD%E5%B0%91%E7%A7%8B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
+    "url": "https://live.staticflickr.com/7140/7704403804_a43756fd3c_b.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
@@ -5303,7 +5303,7 @@ window.EVENTS_REALTIME = [
   "cat": "sports",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ive_-_I%27ve_Ive.png/960px-Ive_-_I%27ve_Ive.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
@@ -5320,8 +5320,8 @@ window.EVENTS_REALTIME = [
     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPY240TF9TaU1WYVduNzhrRnRUREZNQW5VOU1hMmQ3U1ZDVFU2dlRseEhyZlZVUkdoRkJCU3dRVFZtUlhpSXZscHY3ZTJMc0Y1R1V2Q3ZfZjVJcW1tYkJOR1BkRGZUeWJscnNMTkNORldOX29VLWxDT0hYTzFldUtNR0dpb3VVYURJOFBQRUhuSEFxNWZ6MlNCbWRhQU5TUVo1SjkwcC1GcV9LSm1VYzBGNzVSSURuZ3VOcGstX3FXS2xSS1ZabjZCSmd0SWYzLXdoeEtDcEFjLUxSVm13bEpJbXN1Qk9QUFM5MlpfSXZYYVFlTnFPZFByaG9KZllsVGl0dThpTk5QS0JGbkFKNzBZSkNXVl9ZRjFmOE1uMjJjRWhyVzhQZC05UXZiQmRhVDJON0Vtb1ZiX282TzNNQTRReVJVM1pZZ2M3cmVYMmRhaHUySWlO?oc=5"
    },
    {
-    "type": "wiki",
-    "name": "维基百科(IVE)",
+    "type": "openverse",
+    "name": "Openverse(IVE)",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -5343,12 +5343,12 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "维基百科(IVE)",
+  "imageSource": "Openverse(IVE)",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ive_-_I%27ve_Ive.png/960px-Ive_-_I%27ve_Ive.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科(IVE)",
+    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+    "source": "Openverse(IVE)",
     "caption": ""
    }
   ],
@@ -5791,8 +5791,8 @@ window.EVENTS_REALTIME = [
   "cat": "politics",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "",
-  "coverType": "placeholder",
+  "cover": "https://live.staticflickr.com/7174/6621493091_516eee284d_b.jpg",
+  "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
   "summary": "泰国政党选举：Spanish PM dissolves parliament, calls early elections after protests pressure government to solve high housing prices - TNN Thailand",
@@ -5806,6 +5806,13 @@ window.EVENTS_REALTIME = [
     "region": "泰国",
     "credibility": 88,
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMRjdTZ2JRTTZ4eGl6djV6S1J6LUxDMlo4X1ZiUHcyZUMtWWZoalNDNXp1RDFCRlRvV2wyVDdXT0xhM0ZnVlczWjBycWNfSDVCc19GLUdYSQ?oc=5"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
    }
   ],
   "sourceBreadth": {
@@ -5824,9 +5831,15 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "分类占位图（无自然配图）",
-  "hasMedia": false,
-  "media": [],
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/7174/6621493091_516eee284d_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
   "fresh": true,
   "batch": "realtime-2026-10-11",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMRjdTZ2JRTTZ4eGl6djV6S1J6LUxDMlo4X1ZiUHcyZUMtWWZoalNDNXp1RDFCRlRvV2wyVDdXT0xhM0ZnVlczWjBycWNfSDVCc19GLUdYSQ?oc=5"
@@ -6168,5 +6181,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Vd18yX09XWkZjYkI4eHZpZFpJRWkzbzNjMjRUY0p6UFJDWmRWN3puQ240TXIxMVpLVTZ0aVJSQVlMVFJ3N09kQlJicmFaQWN0c3ZiUDlwb1c?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-10-11T01:37:22";
+window.REALTIME_UPDATED = "2026-10-11T05:01:54";
 window.REALTIME_CARRIED = false;
