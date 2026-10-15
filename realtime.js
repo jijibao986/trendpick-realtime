@@ -648,6 +648,1356 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://store.steampowered.com/app/271590/"
  },
  {
+  "id": "rt-85e825634d78",
+  "titleCn": "ไม่รักดีกว่า - Z9",
+  "titleOrig": "ไม่รักดีกว่า - Z9",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/6f/75/456f7594-f475-9985-4de9-dd8b812f9a2e/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 78,
+  "summary": "苹果音乐 泰国 热门歌曲第11：ไม่รักดีกว่า（Z9）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B9%84%E0%B8%A1-%E0%B8%A3-%E0%B8%81%E0%B8%94-%E0%B8%81%E0%B8%A7-%E0%B8%B2/6800231937?i=6800231939"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/6f/75/456f7594-f475-9985-4de9-dd8b812f9a2e/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B9%84%E0%B8%A1-%E0%B8%A3-%E0%B8%81%E0%B8%94-%E0%B8%81%E0%B8%A7-%E0%B8%B2/6800231937?i=6800231939"
+ },
+ {
+  "id": "rt-522e8d23aac5",
+  "titleCn": "อย่ามากกว่าฉันก็พอ (Jealous) [feat. Violette Wautier] - GAVIN:D",
+  "titleOrig": "อย่ามากกว่าฉันก็พอ (Jealous) [feat. Violette Wautier] - GAVIN:D",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/f4/e9/f5f4e95f-4876-da83-7b93-b8b672873193/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 98,
+  "summary": "苹果音乐 泰国 热门歌曲第1：อย่ามากกว่าฉันก็พอ (Jealous) [feat. Violette Wautier]（GAVIN:D）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B8%AD%E0%B8%A2-%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%A7-%E0%B8%B2%E0%B8%89-%E0%B8%99%E0%B8%81-%E0%B8%9E%E0%B8%AD-jealous-feat-violette-wautier/6815117902?i=6815118211"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/f4/e9/f5f4e95f-4876-da83-7b93-b8b672873193/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B8%AD%E0%B8%A2-%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%A7-%E0%B8%B2%E0%B8%89-%E0%B8%99%E0%B8%81-%E0%B8%9E%E0%B8%AD-jealous-feat-violette-wautier/6815117902?i=6815118211"
+ },
+ {
+  "id": "rt-824ae1586099",
+  "titleCn": "ขึ้นใจ (3am call) [feat. BLVCKHEART] - Mirrr",
+  "titleOrig": "ขึ้นใจ (3am call) [feat. BLVCKHEART] - Mirrr",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/ce/69/65ce6958-e0c1-908b-e53e-5924a61cd000/26UMGIM86682.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 96,
+  "summary": "苹果音乐 泰国 热门歌曲第2：ขึ้นใจ (3am call) [feat. BLVCKHEART]（Mirrr）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B8%82-%E0%B8%99%E0%B9%83%E0%B8%88-3am-call-feat-blvckheart/6787021893?i=6787021897"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/ce/69/65ce6958-e0c1-908b-e53e-5924a61cd000/26UMGIM86682.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B8%82-%E0%B8%99%E0%B9%83%E0%B8%88-3am-call-feat-blvckheart/6787021893?i=6787021897"
+ },
+ {
+  "id": "rt-816013a1d580",
+  "titleCn": "ได้แค่เดินมาส่ง (The Last Walk) [feat. BLVCKHEART] - GAVIN:D",
+  "titleOrig": "ได้แค่เดินมาส่ง (The Last Walk) [feat. BLVCKHEART] - GAVIN:D",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/42/0d/5a420d26-a339-7aea-d03a-68d87c752d3d/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 94,
+  "summary": "苹果音乐 泰国 热门歌曲第3：ได้แค่เดินมาส่ง (The Last Walk) [feat. BLVCKHEART]（GAVIN:D）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B9%84%E0%B8%94-%E0%B9%81%E0%B8%84-%E0%B9%80%E0%B8%94-%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%AA-%E0%B8%87-the-last-walk-feat-blvckheart/1880021381?i=1880021410"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/42/0d/5a420d26-a339-7aea-d03a-68d87c752d3d/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B9%84%E0%B8%94-%E0%B9%81%E0%B8%84-%E0%B9%80%E0%B8%94-%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%AA-%E0%B8%87-the-last-walk-feat-blvckheart/1880021381?i=1880021410"
+ },
+ {
+  "id": "rt-67b1d6749768",
+  "titleCn": "เมื่อไหร่จะมี (มีใจให้กัน) - BLVCKHEART",
+  "titleOrig": "เมื่อไหร่จะมี (มีใจให้กัน) - BLVCKHEART",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/90/16/489016a7-a11d-b2ac-4457-35154bbe8c6a/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 92,
+  "summary": "苹果音乐 泰国 热门歌曲第4：เมื่อไหร่จะมี (มีใจให้กัน)（BLVCKHEART）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B9%80%E0%B8%A1-%E0%B8%AD%E0%B9%84%E0%B8%AB%E0%B8%A3-%E0%B8%88%E0%B8%B0%E0%B8%A1-%E0%B8%A1-%E0%B9%83%E0%B8%88%E0%B9%83%E0%B8%AB-%E0%B8%81-%E0%B8%99/1895694221?i=6764229100"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/90/16/489016a7-a11d-b2ac-4457-35154bbe8c6a/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B9%80%E0%B8%A1-%E0%B8%AD%E0%B9%84%E0%B8%AB%E0%B8%A3-%E0%B8%88%E0%B8%B0%E0%B8%A1-%E0%B8%A1-%E0%B9%83%E0%B8%88%E0%B9%83%E0%B8%AB-%E0%B8%81-%E0%B8%99/1895694221?i=6764229100"
+ },
+ {
+  "id": "rt-fbb20ffceeeb",
+  "titleCn": "เขียว เหลือง แดง (Get high) - PUN & THE TOYS",
+  "titleOrig": "เขียว เหลือง แดง (Get high) - PUN & THE TOYS",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/6e/26/1f6e26a6-f165-3785-f1a4-1a54c6e6ddf7/26UM1IM26484.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 90,
+  "summary": "苹果音乐 泰国 热门歌曲第5：เขียว เหลือง แดง (Get high)（PUN & THE TOYS）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B9%80%E0%B8%82-%E0%B8%A2%E0%B8%A7-%E0%B9%80%E0%B8%AB%E0%B8%A5-%E0%B8%AD%E0%B8%87-%E0%B9%81%E0%B8%94%E0%B8%87-get-high/6816859317?i=6816859318"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/6e/26/1f6e26a6-f165-3785-f1a4-1a54c6e6ddf7/26UM1IM26484.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B9%80%E0%B8%82-%E0%B8%A2%E0%B8%A7-%E0%B9%80%E0%B8%AB%E0%B8%A5-%E0%B8%AD%E0%B8%87-%E0%B9%81%E0%B8%94%E0%B8%87-get-high/6816859317?i=6816859318"
+ },
+ {
+  "id": "rt-e37b5c7c035e",
+  "titleCn": "One Of The Girls - The Weeknd, JENNIE & Lily Rose Depp",
+  "titleOrig": "One Of The Girls - The Weeknd, JENNIE & Lily Rose Depp",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 88,
+  "summary": "苹果音乐 泰国 热门歌曲第6：One Of The Girls（The Weeknd, JENNIE & Lily Rose Depp）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/one-of-the-girls/1693891133?i=1693891139"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/one-of-the-girls/1693891133?i=1693891139"
+ },
+ {
+  "id": "rt-773f1237882c",
+  "titleCn": "ขอแค่นี้ (Forever n ever) - PUN",
+  "titleOrig": "ขอแค่นี้ (Forever n ever) - PUN",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/34/21/da342137-0489-acd3-35b5-c66e454e63a5/26UMGIM34735.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 86,
+  "summary": "苹果音乐 泰国 热门歌曲第7：ขอแค่นี้ (Forever n ever)（PUN）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B8%82%E0%B8%AD%E0%B9%81%E0%B8%84-%E0%B8%99-forever-n-ever/6771737096?i=6771737104"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/34/21/da342137-0489-acd3-35b5-c66e454e63a5/26UMGIM34735.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B8%82%E0%B8%AD%E0%B9%81%E0%B8%84-%E0%B8%99-forever-n-ever/6771737096?i=6771737104"
+ },
+ {
+  "id": "rt-6092fb1b5c9f",
+  "titleCn": "นาฬิกาทราย (sign) - BOWKYLION",
+  "titleOrig": "นาฬิกาทราย (sign) - BOWKYLION",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/64/52/78645258-d0cb-05c4-eb75-12afdc7e5511/26UMGIM82670.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 84,
+  "summary": "苹果音乐 泰国 热门歌曲第8：นาฬิกาทราย (sign)（BOWKYLION）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B8%99%E0%B8%B2%E0%B8%AC-%E0%B8%81%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A2-sign/6784132767?i=6784132784"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/64/52/78645258-d0cb-05c4-eb75-12afdc7e5511/26UMGIM82670.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B8%99%E0%B8%B2%E0%B8%AC-%E0%B8%81%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A2-sign/6784132767?i=6784132784"
+ },
+ {
+  "id": "rt-63beb3be6e55",
+  "titleCn": "Starboy (feat. Daft Punk) - The Weeknd",
+  "titleOrig": "Starboy (feat. Daft Punk) - The Weeknd",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 82,
+  "summary": "苹果音乐 泰国 热门歌曲第9：Starboy (feat. Daft Punk)（The Weeknd）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/starboy-feat-daft-punk/1550877895?i=1550878097"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/starboy-feat-daft-punk/1550877895?i=1550878097"
+ },
+ {
+  "id": "rt-6828d22742ce",
+  "titleCn": "The Hills - The Weeknd",
+  "titleOrig": "The Hills - The Weeknd",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/cd/1a/40cd1a65-7948-eb96-74c6-1c4b3497456c/15UMGIM36513.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 80,
+  "summary": "苹果音乐 泰国 热门歌曲第10：The Hills（The Weeknd）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/the-hills/1440826239?i=1440826383"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 7,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/cd/1a/40cd1a65-7948-eb96-74c6-1c4b3497456c/15UMGIM36513.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/the-hills/1440826239?i=1440826383"
+ },
+ {
+  "id": "rt-3bad01e7ae55",
+  "titleCn": "ขี้แง (Boys Don't Cry) - PROXIE",
+  "titleOrig": "ขี้แง (Boys Don't Cry) - PROXIE",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/52/42/3952421c-6c1f-9636-22f1-5b89327f612b/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 76,
+  "summary": "苹果音乐 泰国 热门歌曲第12：ขี้แง (Boys Don't Cry)（PROXIE）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B8%82-%E0%B9%81%E0%B8%87-boys-dont-cry/6776809222?i=6776809226"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/52/42/3952421c-6c1f-9636-22f1-5b89327f612b/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B8%82-%E0%B9%81%E0%B8%87-boys-dont-cry/6776809222?i=6776809226"
+ },
+ {
+  "id": "rt-9226c778dbe2",
+  "titleCn": "รักให้เธอได้รู้ (Proof.) - PUN",
+  "titleOrig": "รักให้เธอได้รู้ (Proof.) - PUN",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/70/4a/a2704a1d-b9cf-bba5-bec3-80fbb5f75a99/26UMGIM34735.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 74,
+  "summary": "苹果音乐 泰国 热门歌曲第13：รักให้เธอได้รู้ (Proof.)（PUN）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B8%A3-%E0%B8%81%E0%B9%83%E0%B8%AB-%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%84%E0%B8%94-%E0%B8%A3-proof/1891261030?i=1891261032"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/70/4a/a2704a1d-b9cf-bba5-bec3-80fbb5f75a99/26UMGIM34735.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B8%A3-%E0%B8%81%E0%B9%83%E0%B8%AB-%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%84%E0%B8%94-%E0%B8%A3-proof/1891261030?i=1891261032"
+ },
+ {
+  "id": "rt-21b39168cb19",
+  "titleCn": "Timeless - The Weeknd & Playboi Carti",
+  "titleOrig": "Timeless - The Weeknd & Playboi Carti",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 72,
+  "summary": "苹果音乐 泰国 热门歌曲第14：Timeless（The Weeknd & Playboi Carti）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/timeless/1770380869?i=1770380890"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 5,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/timeless/1770380869?i=1770380890"
+ },
+ {
+  "id": "rt-b0f1d2a05ee5",
+  "titleCn": "After Hours - The Weeknd",
+  "titleOrig": "After Hours - The Weeknd",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/e7/44/7de744cb-490f-9f29-3fc7-4afdd5253f49/20UMGIM21167.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 70,
+  "summary": "苹果音乐 泰国 热门歌曲第15：After Hours（The Weeknd）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/after-hours/1615102584?i=1615102901"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/e7/44/7de744cb-490f-9f29-3fc7-4afdd5253f49/20UMGIM21167.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/after-hours/1615102584?i=1615102901"
+ },
+ {
+  "id": "rt-e8b094025a18",
+  "titleCn": "Living Death - PUN",
+  "titleOrig": "Living Death - PUN",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/1f/23/591f2336-81fc-d7ab-129c-fb13a2e1b69a/25UMGIM41477.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 68,
+  "summary": "苹果音乐 泰国 热门歌曲第16：Living Death（PUN）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/living-death/1801128040?i=1801128046"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/1f/23/591f2336-81fc-d7ab-129c-fb13a2e1b69a/25UMGIM41477.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/living-death/1801128040?i=1801128046"
+ },
+ {
+  "id": "rt-8d4deb842ae7",
+  "titleCn": "Blinding Lights - The Weeknd",
+  "titleOrig": "Blinding Lights - The Weeknd",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 66,
+  "summary": "苹果音乐 泰国 热门歌曲第17：Blinding Lights（The Weeknd）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/blinding-lights/1488408555?i=1488408568"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/blinding-lights/1488408555?i=1488408568"
+ },
+ {
+  "id": "rt-94fc1132844d",
+  "titleCn": "One Of My Life (feat. K6Y) - BLVCKHEART",
+  "titleOrig": "One Of My Life (feat. K6Y) - BLVCKHEART",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/25/e3/6925e350-8b5f-f593-4447-6d0daac59b84/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 64,
+  "summary": "苹果音乐 泰国 热门歌曲第18：One Of My Life (feat. K6Y)（BLVCKHEART）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/one-of-my-life-feat-k6y/1785191164?i=1785191170"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/25/e3/6925e350-8b5f-f593-4447-6d0daac59b84/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/one-of-my-life-feat-k6y/1785191164?i=1785191170"
+ },
+ {
+  "id": "rt-0fd4bfeacfcf",
+  "titleCn": "RAIN ZONE (feat. Z9) - Maiyarap",
+  "titleOrig": "RAIN ZONE (feat. Z9) - Maiyarap",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/43/4f/68434f26-0b26-6e4b-56ba-8b065dd24e4d/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 62,
+  "summary": "苹果音乐 泰国 热门歌曲第19：RAIN ZONE (feat. Z9)（Maiyarap）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/rain-zone-feat-z9/1870748656?i=1870748665"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/43/4f/68434f26-0b26-6e4b-56ba-8b065dd24e4d/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/rain-zone-feat-z9/1870748656?i=1870748665"
+ },
+ {
+  "id": "rt-80613cd1b9fa",
+  "titleCn": "ใจฉันตามเธอไป - YOUNGOHM",
+  "titleOrig": "ใจฉันตามเธอไป - YOUNGOHM",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/ce/a5/b8cea5de-4bb6-fc81-22aa-6c8deebf543b/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "苹果音乐 泰国 热门歌曲第20：ใจฉันตามเธอไป（YOUNGOHM）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/%E0%B9%83%E0%B8%88%E0%B8%89-%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%84%E0%B8%9B/1844797312?i=1844797800"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/ce/a5/b8cea5de-4bb6-fc81-22aa-6c8deebf543b/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/%E0%B9%83%E0%B8%88%E0%B8%89-%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%84%E0%B8%9B/1844797312?i=1844797800"
+ },
+ {
+  "id": "rt-625378a865e6",
+  "titleCn": "São Paulo - The Weeknd & Anitta",
+  "titleOrig": "São Paulo - The Weeknd & Anitta",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/33/6a/dd336ac3-a74a-87df-660a-49270b8c5fb3/24UM1IM21420.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 58,
+  "summary": "苹果音乐 泰国 热门歌曲第21：São Paulo（The Weeknd & Anitta）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/s%C3%A3o-paulo/1776914756?i=1776914757"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/33/6a/dd336ac3-a74a-87df-660a-49270b8c5fb3/24UM1IM21420.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/s%C3%A3o-paulo/1776914756?i=1776914757"
+ },
+ {
+  "id": "rt-0000e159a704",
+  "titleCn": "Die For You - The Weeknd",
+  "titleOrig": "Die For You - The Weeknd",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/32/7f/3d327fc3-271d-e4a1-a956-52fdb93c2d62/24UMGIM13979.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 56,
+  "summary": "苹果音乐 泰国 热门歌曲第22：Die For You（The Weeknd）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/die-for-you/1729918970?i=1729918972"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/32/7f/3d327fc3-271d-e4a1-a956-52fdb93c2d62/24UMGIM13979.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/die-for-you/1729918970?i=1729918972"
+ },
+ {
+  "id": "rt-7e59a66d384a",
+  "titleCn": "Love Me Harder - Ariana Grande & The Weeknd",
+  "titleOrig": "Love Me Harder - Ariana Grande & The Weeknd",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a5/39/86/a5398609-ad90-50d3-57ad-0f87a4df5ac4/14UMGIM28138.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 54,
+  "summary": "苹果音乐 泰国 热门歌曲第23：Love Me Harder（Ariana Grande & The Weeknd）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/love-me-harder/1440852353?i=1440852992"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a5/39/86/a5398609-ad90-50d3-57ad-0f87a4df5ac4/14UMGIM28138.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/love-me-harder/1440852353?i=1440852992"
+ },
+ {
+  "id": "rt-2281c6cf4e7a",
+  "titleCn": "Nicole Kidman - ADÉLA",
+  "titleOrig": "Nicole Kidman - ADÉLA",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 52,
+  "summary": "苹果音乐 泰国 热门歌曲第24：Nicole Kidman（ADÉLA）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/nicole-kidman/6792883860?i=6792884088"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/nicole-kidman/6792883860?i=6792884088"
+ },
+ {
+  "id": "rt-b01c6b674cc5",
+  "titleCn": "Nakorn Dara - YOUNGOHM",
+  "titleOrig": "Nakorn Dara - YOUNGOHM",
+  "catCn": "音乐榜单",
+  "cat": "music",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a5/51/a8a55109-5a16-7633-b953-48d91bedfd70/cover.jpg/600x600bb.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 50,
+  "summary": "苹果音乐 泰国 热门歌曲第25：Nakorn Dara（YOUNGOHM）",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "apple",
+    "name": "Apple Music 榜单",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://music.apple.com/th/album/nakorn-dara/1792155056?i=1792155060"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Apple Music 专辑图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a5/51/a8a55109-5a16-7633-b953-48d91bedfd70/cover.jpg/600x600bb.jpg",
+    "source": "Apple Music 专辑图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://music.apple.com/th/album/nakorn-dara/1792155056?i=1792155060"
+ },
+ {
   "id": "rt-0b6755600eab",
   "titleCn": "母亲节（泰国母亲节）",
   "titleOrig": "母亲节（泰国母亲节）",
@@ -1218,60 +2568,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/159042"
  },
  {
-  "id": "rt-5024067eb71e",
-  "titleCn": "A Returner's Magic Should be Special Season 2",
-  "titleOrig": "A Returner's Magic Should be Special Season 2",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 94,
-  "summary": "AniList 人气动漫第3：A Returner's Magic Should be Special Season 2",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/172192"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 14,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/172192"
- },
- {
   "id": "rt-b20cff045695",
   "titleCn": "Black Clover",
   "titleOrig": "Black Clover",
@@ -1282,8 +2578,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 92,
-  "summary": "AniList 人气动漫第4：Black Clover",
+  "buzzIndex": 94,
+  "summary": "AniList 人气动漫第3：Black Clover",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1324,6 +2620,60 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-10-15",
   "primaryUrl": "https://anilist.co/anime/97940"
+ },
+ {
+  "id": "rt-d3ddd4fecdda",
+  "titleCn": "FX Fighter Kurumi-chan",
+  "titleOrig": "FX Fighter Kurumi-chan",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 92,
+  "summary": "AniList 人气动漫第4：FX Fighter Kurumi-chan",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/206401"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://anilist.co/anime/206401"
  },
  {
   "id": "rt-f1394752fca9",
@@ -1380,6 +2730,60 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/207329"
  },
  {
+  "id": "rt-5024067eb71e",
+  "titleCn": "A Returner's Magic Should be Special Season 2",
+  "titleOrig": "A Returner's Magic Should be Special Season 2",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 88,
+  "summary": "AniList 人气动漫第6：A Returner's Magic Should be Special Season 2",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/172192"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 14,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://anilist.co/anime/172192"
+ },
+ {
   "id": "rt-16ee71449428",
   "titleCn": "The World's Strongest Witch",
   "titleOrig": "The World's Strongest Witch",
@@ -1390,8 +2794,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 88,
-  "summary": "AniList 人气动漫第6：The World's Strongest Witch",
+  "buzzIndex": 86,
+  "summary": "AniList 人气动漫第7：The World's Strongest Witch",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1419,7 +2823,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 14,
+  "hotDays": 7,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
@@ -1434,72 +2838,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/211778"
  },
  {
-  "id": "rt-c971c150c30b",
-  "titleCn": "Bleach",
-  "titleOrig": "Bleach",
+  "id": "rt-e62d24050a0f",
+  "titleCn": "Mushoku Tensei: Jobless Reincarnation Season 3",
+  "titleOrig": "Mushoku Tensei: Jobless Reincarnation Season 3",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 86,
-  "summary": "AniList 人气动漫第7：Bleach",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/269"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 7,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/269"
- },
- {
-  "id": "rt-0da4f7368ff0",
-  "titleCn": "Overgeared",
-  "titleOrig": "Overgeared",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 84,
-  "summary": "AniList 人气动漫第8：Overgeared",
+  "summary": "AniList 人气动漫第8：Mushoku Tensei: Jobless Reincarnation Season 3",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1509,7 +2859,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/212888"
+    "url": "https://anilist.co/anime/178789"
    }
   ],
   "sourceBreadth": {
@@ -1532,14 +2882,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/212888"
+  "primaryUrl": "https://anilist.co/anime/178789"
  },
  {
   "id": "rt-5d5ea7a1c9cf",
@@ -1596,18 +2946,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/182205"
  },
  {
-  "id": "rt-e62d24050a0f",
-  "titleCn": "Mushoku Tensei: Jobless Reincarnation Season 3",
-  "titleOrig": "Mushoku Tensei: Jobless Reincarnation Season 3",
+  "id": "rt-c971c150c30b",
+  "titleCn": "Bleach",
+  "titleOrig": "Bleach",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 80,
-  "summary": "AniList 人气动漫第10：Mushoku Tensei: Jobless Reincarnation Season 3",
+  "summary": "AniList 人气动漫第10：Bleach",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1617,7 +2967,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/178789"
+    "url": "https://anilist.co/anime/269"
    }
   ],
   "sourceBreadth": {
@@ -1640,28 +2990,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/178789"
+  "primaryUrl": "https://anilist.co/anime/269"
  },
  {
-  "id": "rt-e61868d64061",
-  "titleCn": "Re:ZERO -Starting Life in Another World- Season 4",
-  "titleOrig": "Re:ZERO -Starting Life in Another World- Season 4",
+  "id": "rt-0da4f7368ff0",
+  "titleCn": "Overgeared",
+  "titleOrig": "Overgeared",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 78,
-  "summary": "AniList 人气动漫第11：Re:ZERO -Starting Life in Another World- Season 4",
+  "summary": "AniList 人气动漫第11：Overgeared",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1671,7 +3021,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/189046"
+    "url": "https://anilist.co/anime/212888"
    }
   ],
   "sourceBreadth": {
@@ -1694,28 +3044,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/189046"
+  "primaryUrl": "https://anilist.co/anime/212888"
  },
  {
-  "id": "rt-a53f3f775ee9",
-  "titleCn": "The Apothecary Diaries Season 3",
-  "titleOrig": "The Apothecary Diaries Season 3",
+  "id": "rt-4972d7bda2f1",
+  "titleCn": "Black Clover Season 2",
+  "titleOrig": "Black Clover Season 2",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 76,
-  "summary": "AniList 人气动漫第12：The Apothecary Diaries Season 3",
+  "summary": "AniList 人气动漫第12：Black Clover Season 2",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1725,7 +3075,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/195516"
+    "url": "https://anilist.co/anime/195604"
    }
   ],
   "sourceBreadth": {
@@ -1748,14 +3098,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/195516"
+  "primaryUrl": "https://anilist.co/anime/195604"
  },
  {
   "id": "rt-5a828af7d9c9",
@@ -1812,114 +3162,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/206949"
  },
  {
-  "id": "rt-fe62cf7cd64a",
-  "titleCn": "Hunter x Hunter (2011)",
-  "titleOrig": "Hunter x Hunter (2011)",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 72,
-  "summary": "AniList 人气动漫第14：Hunter x Hunter (2011)",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/11061"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 5,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/11061"
- },
- {
-  "id": "rt-308702cb0b38",
-  "titleCn": "The Apothecary Diaries Season 2",
-  "titleOrig": "The Apothecary Diaries Season 2",
-  "catCn": "动漫热度",
-  "cat": "film_tv",
-  "country": "多市场",
-  "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-TIGmldLffQGX.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 70,
-  "summary": "AniList 人气动漫第15：The Apothecary Diaries Season 2",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "anilist",
-    "name": "AniList 动漫榜",
-    "region": "多市场",
-    "credibility": 88,
-    "url": "https://anilist.co/anime/176301"
-   }
-  ],
-  "sourceBreadth": {
-   "local": false,
-   "global": true,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 3,
-  "imageSource": "AniList 封面图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-TIGmldLffQGX.jpg",
-    "source": "AniList 封面图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/176301"
- },
- {
   "id": "rt-7c32339ad273",
   "titleCn": "Tomb Raider King",
   "titleOrig": "Tomb Raider King",
@@ -1930,8 +3172,8 @@ window.EVENTS_REALTIME = [
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png",
   "coverType": "remote",
   "credibilityScore": 88,
-  "buzzIndex": 68,
-  "summary": "AniList 人气动漫第16：Tomb Raider King",
+  "buzzIndex": 72,
+  "summary": "AniList 人气动漫第14：Tomb Raider King",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1959,7 +3201,7 @@ window.EVENTS_REALTIME = [
   ],
   "printType": "文字款",
   "risk": "低",
-  "hotDays": 3,
+  "hotDays": 5,
   "imageSource": "AniList 封面图",
   "hasMedia": true,
   "media": [
@@ -1974,18 +3216,126 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://anilist.co/anime/184356"
  },
  {
-  "id": "rt-86f7df107061",
-  "titleCn": "Daemons of the Shadow Realm",
-  "titleOrig": "Daemons of the Shadow Realm",
+  "id": "rt-a53f3f775ee9",
+  "titleCn": "The Apothecary Diaries Season 3",
+  "titleOrig": "The Apothecary Diaries Season 3",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 70,
+  "summary": "AniList 人气动漫第15：The Apothecary Diaries Season 3",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/195516"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://anilist.co/anime/195516"
+ },
+ {
+  "id": "rt-57b852d3ce39",
+  "titleCn": "Naruto: Shippuden",
+  "titleOrig": "Naruto: Shippuden",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 68,
+  "summary": "AniList 人气动漫第16：Naruto: Shippuden",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "anilist",
+    "name": "AniList 动漫榜",
+    "region": "多市场",
+    "credibility": 88,
+    "url": "https://anilist.co/anime/1735"
+   }
+  ],
+  "sourceBreadth": {
+   "local": false,
+   "global": true,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 3,
+  "imageSource": "AniList 封面图",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+    "source": "AniList 封面图",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://anilist.co/anime/1735"
+ },
+ {
+  "id": "rt-e61868d64061",
+  "titleCn": "Re:ZERO -Starting Life in Another World- Season 4",
+  "titleOrig": "Re:ZERO -Starting Life in Another World- Season 4",
+  "catCn": "动漫热度",
+  "cat": "film_tv",
+  "country": "多市场",
+  "stars": "🔥🔥",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 66,
-  "summary": "AniList 人气动漫第17：Daemons of the Shadow Realm",
+  "summary": "AniList 人气动漫第17：Re:ZERO -Starting Life in Another World- Season 4",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -1995,7 +3345,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/195600"
+    "url": "https://anilist.co/anime/189046"
    }
   ],
   "sourceBreadth": {
@@ -2018,28 +3368,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/195600"
+  "primaryUrl": "https://anilist.co/anime/189046"
  },
  {
-  "id": "rt-0972a5eb1758",
-  "titleCn": "Reincarnated as a Sword",
-  "titleOrig": "Reincarnated as a Sword",
+  "id": "rt-0a3366f449e3",
+  "titleCn": "AIYOU",
+  "titleOrig": "AIYOU",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139587-rbZVcigCRtHY.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218387-aSD6Bq5zFIis.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 64,
-  "summary": "AniList 人气动漫第18：Reincarnated as a Sword",
+  "summary": "AniList 人气动漫第18：AIYOU",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2049,7 +3399,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/139587"
+    "url": "https://anilist.co/anime/218387"
    }
   ],
   "sourceBreadth": {
@@ -2072,28 +3422,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139587-rbZVcigCRtHY.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218387-aSD6Bq5zFIis.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/139587"
+  "primaryUrl": "https://anilist.co/anime/218387"
  },
  {
-  "id": "rt-779ef0c90830",
-  "titleCn": "Even the Student Council Has Its Holes!",
-  "titleOrig": "Even the Student Council Has Its Holes!",
+  "id": "rt-e2d4bcc4253a",
+  "titleCn": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+  "titleOrig": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 62,
-  "summary": "AniList 人气动漫第19：Even the Student Council Has Its Holes!",
+  "summary": "AniList 人气动漫第19：Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2103,7 +3453,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/191656"
+    "url": "https://anilist.co/anime/207191"
    }
   ],
   "sourceBreadth": {
@@ -2126,28 +3476,28 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/191656"
+  "primaryUrl": "https://anilist.co/anime/207191"
  },
  {
-  "id": "rt-ba5122a1b242",
-  "titleCn": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
-  "titleOrig": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+  "id": "rt-1503b40a9154",
+  "titleCn": "The Cold Sato-san is Only Sweet to Me",
+  "titleOrig": "The Cold Sato-san is Only Sweet to Me",
   "catCn": "动漫热度",
   "cat": "film_tv",
   "country": "多市场",
   "stars": "🔥🔥",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164702-FjpM96MPdzVm.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "AniList 人气动漫第20：As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+  "summary": "AniList 人气动漫第20：The Cold Sato-san is Only Sweet to Me",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2157,7 +3507,7 @@ window.EVENTS_REALTIME = [
     "name": "AniList 动漫榜",
     "region": "多市场",
     "credibility": 88,
-    "url": "https://anilist.co/anime/164702"
+    "url": "https://anilist.co/anime/209502"
    }
   ],
   "sourceBreadth": {
@@ -2180,14 +3530,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164702-FjpM96MPdzVm.jpg",
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
     "source": "AniList 封面图",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://anilist.co/anime/164702"
+  "primaryUrl": "https://anilist.co/anime/209502"
  },
  {
   "id": "rt-6a4f827cfc33",
@@ -2617,6 +3967,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhb0FfdU9oUEdUOTZ1UkFfMmdkMmFjUHYxWDl1VDBvZE9JamJpVDFCdE1oMENvbE9xeXdubDVKRkVZeWp4azFmSndOQko?oc=5"
  },
  {
+  "id": "rt-d6ae6aebd79a",
+  "titleCn": "World Cinema 25-26 ต.ค.68 - www.ch7.com",
+  "titleOrig": "World Cinema 25-26 ต.ค.68 - www.ch7.com",
+  "catCn": "影视剧",
+  "cat": "film_tv",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/6071/6093591982_6431ed8985_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国影视剧：World Cinema 25-26 ต.ค.68 - www.ch7.com",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SbzhYc0tBeWJQN2VsRzY3VWdpeWRuTlVPQzBDdHRuak5lbS0ydHowVjdlV2FUaGlBeGVTbXAwRXM1cDRRQkY3SzdaUQ?oc=5"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "文字款",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/6071/6093591982_6431ed8985_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SbzhYc0tBeWJQN2VsRzY3VWdpeWRuTlVPQzBDdHRuak5lbS0ydHowVjdlV2FUaGlBeGVTbXAwRXM1cDRRQkY3SzdaUQ?oc=5"
+ },
+ {
   "id": "rt-488396d1f081",
   "titleCn": "World Cinema 2-3 พ.ค.69 - www.ch7.com",
   "titleOrig": "World Cinema 2-3 พ.ค.69 - www.ch7.com",
@@ -2676,67 +4087,6 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-10-15",
   "primaryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnSy1PbUUwckxrNE1hMmh0THY5Q2lVOUNNUzF2S3N0U29nOE8yTGlKa1NjRS1FMnJZNmdsbTV5T0ZZdW83WE5NWWVJSQ?oc=5"
- },
- {
-  "id": "rt-632ab52d07bc",
-  "titleCn": "World Cinema 27-28 มิ.ย.69 - www.ch7.com",
-  "titleOrig": "World Cinema 27-28 มิ.ย.69 - www.ch7.com",
-  "catCn": "影视剧",
-  "cat": "film_tv",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/6071/6093591982_6431ed8985_b.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国影视剧：World Cinema 27-28 มิ.ย.69 - www.ch7.com",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaTkV4bFdtQ1cxYkc5SGQ5and2VFo2ZUNIdjN1SEIxWVN0OEJVVU54Rmp2UjB6WUJHWnM4TkoyM21IaWFMWHplYUpSVWI?oc=5"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "文字款",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/6071/6093591982_6431ed8985_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaTkV4bFdtQ1cxYkc5SGQ5and2VFo2ZUNIdjN1SEIxWVN0OEJVVU54Rmp2UjB6WUJHWnM4TkoyM21IaWFMWHplYUpSVWI?oc=5"
  },
  {
   "id": "rt-afd51319afd5",
@@ -2848,18 +4198,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPd1RaV0NOdXZPQTd1anA5a2ExT2JCT0JwcHBEZFFmbmVlSmhCRUlKb3dVUmV1UHpDWDdMVlg0VUVfaS1QMnF3ZURHeFVuaFZ6bHFZZzZwbnZVRHJtOUNRNTlpT1FXSmxNRzJkMWUzTjN3dUpDVGYwTE9qdUFwMWx0dUpCV2FON2JCdDJLeXZ2VDA3Qm4zTFhfdHA0cWNrS0FFWXpobWx0V0czVWlqczkwTHV6N21oTUtzUXRYekFTSEtKd2NaQUlYZlJSV0JDNzBCSXpyOUlrOFlYQVFYTHZDRDlVNUNGMExsbEhhM0RYN1hHWWYzLVVleklybjlqckYwbFVva213?oc=5"
  },
  {
-  "id": "rt-51a33fda30b6",
-  "titleCn": "Drama Good Boys Go To Heaven - Myinfotaip",
-  "titleOrig": "Drama Good Boys Go To Heaven - Myinfotaip",
+  "id": "rt-d6f9ecee035b",
+  "titleCn": "#SHOWBIZ: Return of the Palmolive Girl - NST Online",
+  "titleOrig": "#SHOWBIZ: Return of the Palmolive Girl - NST Online",
   "catCn": "影视剧",
   "cat": "film_tv",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/2097/2149242307_68a9e86983_b.jpg",
+  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚影视剧：Drama Good Boys Go To Heaven - Myinfotaip",
+  "summary": "马来西亚影视剧：#SHOWBIZ: Return of the Palmolive Girl - NST Online",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -2869,11 +4219,11 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZaDRzcnIwT1R6a0ljbk55a2w1LWdyeGhucmVtWFpGbDQydDMtdDVKVk9rLXpHb0lrWEVCTVFNY0pycnZKRGkwSjNfT2psdThtUmRWWUpFbENlQi1Yd2dvRG1qczBIdlc0MWtYUzdWYw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGNvTXB2WGdYS0pHaGZzYzFVUE4xYUhtbElLSlZONVhFa3UzWExQck1NTXRTNmpHYnB6X1VjQUtuT2ZDbVhtS3Y1YlE4MWRpejhoSkp6R21XWFdSajFJUS16Wmk4b29fSUp1NDFFXzdSSklNYjJDMmdOQngwOHBWdXZvUF9VRDB2eng1R09R0gGTAUFVX3lxTE92bzh6SFhIWkpTZmtUS3pJeW1oN21QTUpzQklpWjFVdmZXZGthTUhIMVdLSzFPWWllMkZVR0tPMlZrUUdYRUdFRnoxUkFxcm0yN1VsODdsdWdLbDdBR1Z3bDVBZnZUVmRoc1I1bHl0UC12dm5yLUFKLVExMGs2OFhSckFuQjBhcUpXQ2g1b2hPcTJhWQ?oc=5"
    },
    {
     "type": "openverse",
-    "name": "Openverse 共享图库",
+    "name": "Openverse(IVE)",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -2895,18 +4245,18 @@ window.EVENTS_REALTIME = [
   "printType": "文字款",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
+  "imageSource": "Openverse(IVE)",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/2097/2149242307_68a9e86983_b.jpg",
-    "source": "Openverse 共享图库",
+    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+    "source": "Openverse(IVE)",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZaDRzcnIwT1R6a0ljbk55a2w1LWdyeGhucmVtWFpGbDQydDMtdDVKVk9rLXpHb0lrWEVCTVFNY0pycnZKRGkwSjNfT2psdThtUmRWWUpFbENlQi1Yd2dvRG1qczBIdlc0MWtYUzdWYw?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGNvTXB2WGdYS0pHaGZzYzFVUE4xYUhtbElLSlZONVhFa3UzWExQck1NTXRTNmpHYnB6X1VjQUtuT2ZDbVhtS3Y1YlE4MWRpejhoSkp6R21XWFdSajFJUS16Wmk4b29fSUp1NDFFXzdSSklNYjJDMmdOQngwOHBWdXZvUF9VRDB2eng1R09R0gGTAUFVX3lxTE92bzh6SFhIWkpTZmtUS3pJeW1oN21QTUpzQklpWjFVdmZXZGthTUhIMVdLSzFPWWllMkZVR0tPMlZrUUdYRUdFRnoxUkFxcm0yN1VsODdsdWdLbDdBR1Z3bDVBZnZUVmRoc1I1bHl0UC12dm5yLUFKLVExMGs2OFhSckFuQjBhcUpXQ2g1b2hPcTJhWQ?oc=5"
  },
  {
   "id": "rt-ac4dc27f0acb",
@@ -2970,9 +4320,9 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObUx4UzZ0elNsWlR6Wmo1YmtLU2g5RlgySVdDT1VGalNlMVU4TlN0eHdBcFRmOHNiWmNtSHJJQlNnd3lVWG0xTWhlUk1fN2RFX09VZEtiR3E5czhrVVhGWTJlWThVZVdETnEwUjAtU3hBMmpoLWNvUV9GSmY3UHYtY2o4YmVKV3ZUU0xQTWRkTGtjTEhBcC1yTUFrcHVGRHNPQzkwWFF4VjlSVUZITDA5LUItY3Z5RTE2T3c?oc=5"
  },
  {
-  "id": "rt-cf1e2f01c2f8",
-  "titleCn": "XG WORLD TOUR : THE CORE IN BANGKOK - thaiticketmajor",
-  "titleOrig": "XG WORLD TOUR : THE CORE IN BANGKOK - thaiticketmajor",
+  "id": "rt-1299cc991f01",
+  "titleCn": "XG WORLD TOUR : THE CORE IN BANGKOK - Thaiticketmajor",
+  "titleOrig": "XG WORLD TOUR : THE CORE IN BANGKOK - Thaiticketmajor",
   "catCn": "演唱会综艺",
   "cat": "concert_show",
   "country": "泰国",
@@ -2981,7 +4331,7 @@ window.EVENTS_REALTIME = [
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国演唱会综艺：XG WORLD TOUR : THE CORE IN BANGKOK - thaiticketmajor",
+  "summary": "泰国演唱会综艺：XG WORLD TOUR : THE CORE IN BANGKOK - Thaiticketmajor",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3641,67 +4991,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPblRnSENlMEc5S1Rya096djFpX3FQbG11V29xYndEQVptbW9RRmlkMnQ4djZ2QTc4QktabkNFTEtMbzlUb2NqaGJ6a0F2bHM0RUZuMXJaaHJEZ0FkdEJ4QjVMRmplUTR1eV9icDQwVERYSGZpTlgxX2RaNTVCVllReTYzeVg?oc=5"
  },
  {
-  "id": "rt-0c3089b6eefc",
-  "titleCn": "+ - Universidad de Córdoba (UCO)",
-  "titleOrig": "+ - Universidad de Córdoba (UCO)",
-  "catCn": "体育",
-  "cat": "sports",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国体育：+ - Universidad de Córdoba (UCO)",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNV3YyOElkMkw4R0NxcnNnZHZ4U2p0UGFrM0ZoQ295aV81ZDFNOHVac2EtTGcxZ0tKdXZJa21zMlBuTS1PVnJwYkVYdTA0N0xtcnN5djFlM1FRMHhqVUwyM0xJd24wY0RiZ05CTUY5MnNQeE1DUWxQdE5wZ3NsZmlZY1ByNWJROHV5VHVzMFhrZ3lDeEkxbmFoY1NiNnhJSmxzYURsNHdUdXd4ZkxjdmxLMzlSaUR2bm5wTWVnMHY1NFlLVjJ6Ym1MRlZaOGVTckE2MzA5bUVibGxrcUdyOUVKdU10RElhZG1UZHI0UXk5cnVLRzJ5NUhudllvWGJkeGFxZlJQYjd6OV80c0JuTnJJNDhjWDA2YmY5MEEwNjVNejV5Sktoc21sN2FuTVdyM1NxMUN6OVdPMUs3UQ?oc=5"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse(IVE)",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse(IVE)",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
-    "source": "Openverse(IVE)",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNV3YyOElkMkw4R0NxcnNnZHZ4U2p0UGFrM0ZoQ295aV81ZDFNOHVac2EtTGcxZ0tKdXZJa21zMlBuTS1PVnJwYkVYdTA0N0xtcnN5djFlM1FRMHhqVUwyM0xJd24wY0RiZ05CTUY5MnNQeE1DUWxQdE5wZ3NsZmlZY1ByNWJROHV5VHVzMFhrZ3lDeEkxbmFoY1NiNnhJSmxzYURsNHdUdXd4ZkxjdmxLMzlSaUR2bm5wTWVnMHY1NFlLVjJ6Ym1MRlZaOGVTckE2MzA5bUVibGxrcUdyOUVKdU10RElhZG1UZHI0UXk5cnVLRzJ5NUhudllvWGJkeGFxZlJQYjd6OV80c0JuTnJJNDhjWDA2YmY5MEEwNjVNejV5Sktoc21sN2FuTVdyM1NxMUN6OVdPMUs3UQ?oc=5"
- },
- {
   "id": "rt-d48cc5a1c8bf",
   "titleCn": "✈️NEXT MATCH ทัพ “กิเลนผยอง” เดินหน้าลุย พร้อมเยือนเกมนัดสำคัญกับ “ปูม่วงมหากาฬ” 🏆ไทยลีก 2 | สัปดาห์ที่ 7 📅 อาทิตย์ที่ 18 ตุลาคม 2026 🦀มหาสารคาม ซีซี เอฟซี - เมืองทอง ยูไนเต็ด 🔴⚫ 🏟สนามกีฬากลางจังหวัดมหาสารคาม ⏰แข่งขันเวลา 18:30 น. 📺 ถ่ายทอดสดทาง AIS PLA - Facebook",
   "titleOrig": "✈️NEXT MATCH ทัพ “กิเลนผยอง” เดินหน้าลุย พร้อมเยือนเกมนัดสำคัญกับ “ปูม่วงมหากาฬ” 🏆ไทยลีก 2 | สัปดาห์ที่ 7 📅 อาทิตย์ที่ 18 ตุลาคม 2026 🦀มหาสารคาม ซีซี เอฟซี - เมืองทอง ยูไนเต็ด 🔴⚫ 🏟สนามกีฬากลางจังหวัดมหาสารคาม ⏰แข่งขันเวลา 18:30 น. 📺 ถ่ายทอดสดทาง AIS PLA - Facebook",
@@ -3761,6 +5050,67 @@ window.EVENTS_REALTIME = [
   "fresh": true,
   "batch": "realtime-2026-10-15",
   "primaryUrl": "https://news.google.com/rss/articles/CBMipgdBVV95cUxNQmpEUjlYTGQ4emZxZG5hcW1qc09SbzZyZTZ3SGFoMDE2VjV4b1hfSTVVb0wtREoxbVh4eE5raEVfdlFEZjladHYtbm40dEdEejNRTlhHOXNCVnJUS203aEZjazhHUkJ4QUNCSTZZM2lWcE50MDFobGpYV2lqTThvODNVSXA4OUJiX0diSG15bVpVYi1jTWJSQmZvWWxRTzlCU1h0UTZpaThkUDhrTWplUHpldUdSZm9uRlo0TjFGNEZoQ1gzaWFqUU5veXhVTzQyTGdxUjFJZmtCR0haOUxVQ2ZVOWJzUlVjMlVZSExFTDNCQlNXcmVZYlltV3hUVEdiQVRuZk95YVFEVW5zNmw3aEVrN2IwZjNHT2pWV01QR210eGNOeTdHLXhZRHJNa2FmWTdyTTRNRXpLVk5kYzlBYkFuMVpuZTBnRm5rWG1YYko0RHNuQy1pN1p6YU9HNHlFOWluRUQtMDg3dDhpeFdhVkZiS3V3dEpRRjQ5SG1Wam4zc0tnS0J3cHVGNzl4emlFNmVQQmtBNXFuNXNHSW4xSGUxUHJvY1IwV3B0d0ROUVlHQU1SZFNpenJ4VEJQaVUxS3A3NVc4MlJUdUtXQnpvLTJkX1hWYUNqdmdTRXVHbjJyRV9EOXdFRmZMT2JhYUZmanZTYzVtRW5jWk9mRWxLQ3N3TzJNbndHQkFWaUpNWHl3SnNsRzVPTEZaZk0tM2d6WFE0LU93RU5pN2owcEU4eWROTDJlek1xZkVfVVU0NEluWjhUbVlPbHlfSElocnRGclNnLVNBT01JUzlVSTZmYm9ON2diRDAwNzhZblJ3d2JnMThiUUZIbVdJZS1PYXVRUnJwOFZsaEZVSXNaWGVxRDhuNTA3MFBoM25PbTBieEdUVThhMXZvOFUwMF9KblFoTmtRelVLVURyRXZMM0dDVENlRS0wNExlWmktbHB4X3FrbnRCcEg5cnp0dHVnNUJfbmZHeTVlWWpNZUJ3RnZ6WEN5QmZiUEl4UDBodUpTUHpyZHMtVy1BQ1lZYkRfSWtDSHZzRTFDNHQxeGJLVFUyNDRySGk3aVJIUXpQRVJIdGZnUFFMdDc5d0l5UG9WcXhaT05Heno4MDdmakozRG9FcXhkM3h5c2FEYXRiV3pPMjZaYlY1LTFLYldESmVSVnpidFRCRVNqeDRWRDBzdHY2d0ZydDk5SUV3ODAxeTQtVVNUQW90cEFzb0FjcVVLdWVYN0RZX0Vn?oc=5"
+ },
+ {
+  "id": "rt-0c3089b6eefc",
+  "titleCn": "+ - Universidad de Córdoba (UCO)",
+  "titleOrig": "+ - Universidad de Córdoba (UCO)",
+  "catCn": "体育",
+  "cat": "sports",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国体育：+ - Universidad de Córdoba (UCO)",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNV3YyOElkMkw4R0NxcnNnZHZ4U2p0UGFrM0ZoQ295aV81ZDFNOHVac2EtTGcxZ0tKdXZJa21zMlBuTS1PVnJwYkVYdTA0N0xtcnN5djFlM1FRMHhqVUwyM0xJd24wY0RiZ05CTUY5MnNQeE1DUWxQdE5wZ3NsZmlZY1ByNWJROHV5VHVzMFhrZ3lDeEkxbmFoY1NiNnhJSmxzYURsNHdUdXd4ZkxjdmxLMzlSaUR2bm5wTWVnMHY1NFlLVjJ6Ym1MRlZaOGVTckE2MzA5bUVibGxrcUdyOUVKdU10RElhZG1UZHI0UXk5cnVLRzJ5NUhudllvWGJkeGFxZlJQYjd6OV80c0JuTnJJNDhjWDA2YmY5MEEwNjVNejV5Sktoc21sN2FuTVdyM1NxMUN6OVdPMUs3UQ?oc=5"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse(IVE)",
+    "region": "泰国",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Openverse(IVE)",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
+    "source": "Openverse(IVE)",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNV3YyOElkMkw4R0NxcnNnZHZ4U2p0UGFrM0ZoQ295aV81ZDFNOHVac2EtTGcxZ0tKdXZJa21zMlBuTS1PVnJwYkVYdTA0N0xtcnN5djFlM1FRMHhqVUwyM0xJd24wY0RiZ05CTUY5MnNQeE1DUWxQdE5wZ3NsZmlZY1ByNWJROHV5VHVzMFhrZ3lDeEkxbmFoY1NiNnhJSmxzYURsNHdUdXd4ZkxjdmxLMzlSaUR2bm5wTWVnMHY1NFlLVjJ6Ym1MRlZaOGVTckE2MzA5bUVibGxrcUdyOUVKdU10RElhZG1UZHI0UXk5cnVLRzJ5NUhudllvWGJkeGFxZlJQYjd6OV80c0JuTnJJNDhjWDA2YmY5MEEwNjVNejV5Sktoc21sN2FuTVdyM1NxMUN6OVdPMUs3UQ?oc=5"
  },
  {
   "id": "rt-d5c5b48a13a2",
@@ -3824,6 +5174,67 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNVBCOWhtX2lvZ0N3cVB4M0VjWFVZcDd3UlBwOHFybGx6eGdfazNNclhqOW9vTnNDMV9jMTRlRkJ5YjV1Sm9xb3FvOE5HUlA2S2NoSkg0WXFqcFRXTmhydjN6Y2Q1V0lvdzRtbGVueWNKMDZYT1lUUVpWbXpBelJLcTZoM0dQWXJYMDdKb1NwVlFxMi1aQTF0YnhMcms0TkNTOUhvNEFmR0NOVkFlcmhIUHdyUXdXTGVnTUZXT1VGTkY5UHpuOS1HTTdDOXJqZ1pQYnpBcW9xTFpWNWJQY202RVNwM25jUWo3dVhtNUxNYXpJYjVuQ3pLLXhiOWdpNWRnTHRqbmRnU05CVVV1LWR3X2YycnVZc2ZCRnVVb3RTUjhpV0NwYm80eDhpTmFYSWxCZ21iQklLNGQ?oc=5"
  },
  {
+  "id": "rt-b430d04d56bb",
+  "titleCn": "Pan Gon fumes over poor teamwork ahead of Penang match - NST Online",
+  "titleOrig": "Pan Gon fumes over poor teamwork ahead of Penang match - NST Online",
+  "catCn": "体育",
+  "cat": "sports",
+  "country": "马来西亚",
+  "stars": "🔥",
+  "cover": "https://live.staticflickr.com/3200/2507849961_e013266b80_b.jpg",
+  "coverType": "remote",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "马来西亚体育：Pan Gon fumes over poor teamwork ahead of Penang match - NST Online",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "马来西亚",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVZoODJtdU1fYW9wYW00UmlxOWJHTnRMaTlJSkJvWUxtTEJyYWJ5SU53X2dvajlGcHJtTTdOQ0JPa3RhanN1WkhjejJkOGpZWE1NN3NGTk5yNVVCUDdISTVfQ3pweEZ2dmlmUGx6eFRSb1Zxa1hBNHYtZmlzeWRja29LUXI3SDVKZWVjQ3hjcXE5Q2ppdWJmM3o3YTRaeWFKeDZpb0tac3hOUdIBrwFBVV95cUxONW5JSFM2TFBxYUstZ1JXM2VGVEFyLTlXai1pR1ZZUHR3UVc4N0VPWTBOWUdiWWZRYlp3S21KTUduQWNJQlk2aXBpMEUwRWVCV3pLSU5GX0lHRTB5Yk9Xb3ItaUd4Rk1PRGpGRUhnbUR0bVB6WkM1YUo4eUdpZ3l3Zk91bDl1N0x6d2gzbWh0T2lZd0luZkxJOUI4dE1PcWRrdGNRMHVUbWp6RHpUQ2Fr?oc=5"
+   },
+   {
+    "type": "openverse",
+    "name": "Openverse 共享图库",
+    "region": "马来西亚",
+    "credibility": 82,
+    "url": ""
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "Openverse 共享图库",
+  "hasMedia": true,
+  "media": [
+   {
+    "url": "https://live.staticflickr.com/3200/2507849961_e013266b80_b.jpg",
+    "source": "Openverse 共享图库",
+    "caption": ""
+   }
+  ],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVZoODJtdU1fYW9wYW00UmlxOWJHTnRMaTlJSkJvWUxtTEJyYWJ5SU53X2dvajlGcHJtTTdOQ0JPa3RhanN1WkhjejJkOGpZWE1NN3NGTk5yNVVCUDdISTVfQ3pweEZ2dmlmUGx6eFRSb1Zxa1hBNHYtZmlzeWRja29LUXI3SDVKZWVjQ3hjcXE5Q2ppdWJmM3o3YTRaeWFKeDZpb0tac3hOUdIBrwFBVV95cUxONW5JSFM2TFBxYUstZ1JXM2VGVEFyLTlXai1pR1ZZUHR3UVc4N0VPWTBOWUdiWWZRYlp3S21KTUduQWNJQlk2aXBpMEUwRWVCV3pLSU5GX0lHRTB5Yk9Xb3ItaUd4Rk1PRGpGRUhnbUR0bVB6WkM1YUo4eUdpZ3l3Zk91bDl1N0x6d2gzbWh0T2lZd0luZkxJOUI4dE1PcWRrdGNRMHVUbWp6RHpUQ2Fr?oc=5"
+ },
+ {
   "id": "rt-51340f13b0ef",
   "titleCn": "![Tonton Langsung]FHD!] Strim Langsung Percuma LASK lwn Liverpool di TV - 14 Oktober 2026 - Universidad de Córdoba (UCO)",
   "titleOrig": "![Tonton Langsung]FHD!] Strim Langsung Percuma LASK lwn Liverpool di TV - 14 Oktober 2026 - Universidad de Córdoba (UCO)",
@@ -3885,18 +5296,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWklrRVVOaWV1T2xPZEVQTENyWExrZ241M09DLVJxZFlyWG9fbS1GM1RURS1mdlVMMmwzS3JENlFOUjNLckRKLXFHR0V1OWFzMnI5Q21wUlEzX3VCM1lFLUZpT0cwRVFnSy1HQXhJQ2taUXk4eU9Gb0hoOHpiZzJKR0dTTThCYm9rV0VHNVg5YUEyal9UZzRhbzJPNzdFY2xaMmtHRkxYdE5KUVo5NFlKbmRlUFA1WG5QM0hZdnhpbTdvVHlNNV9seHYwOEtHekplTmNKVk1pZTVIVk8zbllibU5ZMUtya2ZLb2tRUENNRmVvdC1BcFJlUTlOX1U2WmM3STR2SE9Tbm5sY01iTHhpLThpNTZ0ZDNMdnQ3VkFqa2lrTHppTlpKaVJlSjYzN2R4Z1VnakxacFg2S2hwb3RuYUpXUXVSVnN2ZlFKd3BMZG5lM2pvYUN0OFN0Y3JuazhkTEN1T3BMZHVaQQ?oc=5"
  },
  {
-  "id": "rt-b430d04d56bb",
-  "titleCn": "Pan Gon fumes over poor teamwork ahead of Penang match - NST Online",
-  "titleOrig": "Pan Gon fumes over poor teamwork ahead of Penang match - NST Online",
+  "id": "rt-1a2adf5830ff",
+  "titleCn": "CSTS Enterprises Teams Up with BVB Borussia Dortmund to Launch US Sports Campaign, Bringing the Football Heat to New York's Times Square - Kosmo Online",
+  "titleOrig": "CSTS Enterprises Teams Up with BVB Borussia Dortmund to Launch US Sports Campaign, Bringing the Football Heat to New York's Times Square - Kosmo Online",
   "catCn": "体育",
   "cat": "sports",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3200/2507849961_e013266b80_b.jpg",
+  "cover": "https://live.staticflickr.com/65535/47119338144_05c9f88bfa_b.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "马来西亚体育：Pan Gon fumes over poor teamwork ahead of Penang match - NST Online",
+  "summary": "马来西亚体育：CSTS Enterprises Teams Up with BVB Borussia Dortmund to Launch US Sports Campaign, Bringing the Football Heat to New York's Times Square - Kosmo Online",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -3906,7 +5317,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "马来西亚",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1lScFBhc3dzTzRXWGUyRmlZMWZDd1JmdEg4dkw0OWgxMEhJd0VJODYta3I1bm5xVTZtdXFDU1pEZzI0djI3UUhnRUEwMVQ0U2lFQnRocEx3WHNDSWVtN0o3bDJ3NXZlazBER3k4dlluVlhKSlN4UnVBN0s1RDRTYjRlek8wQjFUTlR1b3Y4NlZmVEhVazlJamphb1JYYnFTNzJfbkhWanNGWXBpUWsxOEVpaDhDTGk2R0tCedIBrwFBVV95cUxONW5JSFM2TFBxYUstZ1JXM2VGVEFyLTlXai1pR1ZZUHR3UVc4N0VPWTBOWUdiWWZRYlp3S21KTUduQWNJQlk2aXBpMEUwRWVCV3pLSU5GX0lHRTB5Yk9Xb3ItaUd4Rk1PRGpGRUhnbUR0bVB6WkM1YUo4eUdpZ3l3Zk91bDl1N0x6d2gzbWh0T2lZd0luZkxJOUI4dE1PcWRrdGNRMHVUbWp6RHpUQ2Fr?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbVhnaTRPaG9jWERxV0YycXNKa2wtZ0RheHJNQjVCT0FWemRYWkRTSk1VT0NLNi1tZEs1LW9rOEZvdEM2SjNfY21wSHMwaEs5Z2o0VEV3V2dkbUtxeGJJeHZXMy05UEZ4OTRTLWhlQnlPWTNNLWF5NllKQUxLU3V2ZllZenJfLUt6dVJYOTRwRTdMd0Y2WFpZcF9iVGdreG9ZLWhfbnZqdENrbUZCVGhDWC1sSDdLNk01RTkwdVhXZ2VlV3hvSjFNVG9VbkdsaEFWUUlwbVAxYS16RzZkMHFsRzlkZlFKeF9nN0ZrSlBiTkhLYUtYblVyWUNfWnB3dURk?oc=5"
    },
    {
     "type": "openverse",
@@ -3936,75 +5347,14 @@ window.EVENTS_REALTIME = [
   "hasMedia": true,
   "media": [
    {
-    "url": "https://live.staticflickr.com/3200/2507849961_e013266b80_b.jpg",
+    "url": "https://live.staticflickr.com/65535/47119338144_05c9f88bfa_b.jpg",
     "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1lScFBhc3dzTzRXWGUyRmlZMWZDd1JmdEg4dkw0OWgxMEhJd0VJODYta3I1bm5xVTZtdXFDU1pEZzI0djI3UUhnRUEwMVQ0U2lFQnRocEx3WHNDSWVtN0o3bDJ3NXZlazBER3k4dlluVlhKSlN4UnVBN0s1RDRTYjRlek8wQjFUTlR1b3Y4NlZmVEhVazlJamphb1JYYnFTNzJfbkhWanNGWXBpUWsxOEVpaDhDTGk2R0tCedIBrwFBVV95cUxONW5JSFM2TFBxYUstZ1JXM2VGVEFyLTlXai1pR1ZZUHR3UVc4N0VPWTBOWUdiWWZRYlp3S21KTUduQWNJQlk2aXBpMEUwRWVCV3pLSU5GX0lHRTB5Yk9Xb3ItaUd4Rk1PRGpGRUhnbUR0bVB6WkM1YUo4eUdpZ3l3Zk91bDl1N0x6d2gzbWh0T2lZd0luZkxJOUI4dE1PcWRrdGNRMHVUbWp6RHpUQ2Fr?oc=5"
- },
- {
-  "id": "rt-329e700ebd61",
-  "titleCn": "Kebun Sawit Ibu Tiri Viral - Universidad de Córdoba (UCO)",
-  "titleOrig": "Kebun Sawit Ibu Tiri Viral - Universidad de Córdoba (UCO)",
-  "catCn": "体育",
-  "cat": "sports",
-  "country": "马来西亚",
-  "stars": "🔥",
-  "cover": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "马来西亚体育：Kebun Sawit Ibu Tiri Viral - Universidad de Córdoba (UCO)",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "马来西亚",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOZ0NIVWZqRVN2clpUeTBzN1ljUHFkRHVHT21HOVR4ZGx6N2UyYmVJblFaSkNrTE1RMzhkZDRsZHVfVmIycmlBZ3N5QmI1Sy1LWmxnU3Rfa1VqNmZyaTJUUXhPVnBiVUZJTklaSVM1ZHJQZDBQeXk5RmtLQnl1NHF3UDhKZWFMaXBHUFVWTlh6dHF4b01sSUc2NUEyaFFtVHhDemdwMmRLcHJENHJpMkE0dlc3MTZaYUNiT2pldGNDU3BDWW9pMVdxSjFoaTdQS2ZlZWZaNDVuUFVXT2p3WkdMUElmLVhPdmJmMFdjRjNwLUJLSnlfUFlYaml4dzNRdDRVQjhIYjZmY1kyZFlqNUx0elVtTUczNUVRdkhjZHNHQ3lxanBreW82NThhbGRuZHc?oc=5"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse(IVE)",
-    "region": "马来西亚",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "Openverse(IVE)",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/3012/3042789836_f6118432fc.jpg",
-    "source": "Openverse(IVE)",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOZ0NIVWZqRVN2clpUeTBzN1ljUHFkRHVHT21HOVR4ZGx6N2UyYmVJblFaSkNrTE1RMzhkZDRsZHVfVmIycmlBZ3N5QmI1Sy1LWmxnU3Rfa1VqNmZyaTJUUXhPVnBiVUZJTklaSVM1ZHJQZDBQeXk5RmtLQnl1NHF3UDhKZWFMaXBHUFVWTlh6dHF4b01sSUc2NUEyaFFtVHhDemdwMmRLcHJENHJpMkE0dlc3MTZaYUNiT2pldGNDU3BDWW9pMVdxSjFoaTdQS2ZlZWZaNDVuUFVXT2p3WkdMUElmLVhPdmJmMFdjRjNwLUJLSnlfUFlYaml4dzNRdDRVQjhIYjZmY1kyZFlqNUx0elVtTUczNUVRdkhjZHNHQ3lxanBreW82NThhbGRuZHc?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbVhnaTRPaG9jWERxV0YycXNKa2wtZ0RheHJNQjVCT0FWemRYWkRTSk1VT0NLNi1tZEs1LW9rOEZvdEM2SjNfY21wSHMwaEs5Z2o0VEV3V2dkbUtxeGJJeHZXMy05UEZ4OTRTLWhlQnlPWTNNLWF5NllKQUxLU3V2ZllZenJfLUt6dVJYOTRwRTdMd0Y2WFpZcF9iVGdreG9ZLWhfbnZqdENrbUZCVGhDWC1sSDdLNk01RTkwdVhXZ2VlV3hvSjFNVG9VbkdsaEFWUUlwbVAxYS16RzZkMHFsRzlkZlFKeF9nN0ZrSlBiTkhLYUtYblVyWUNfWnB3dURk?oc=5"
  },
  {
   "id": "rt-5cd63523e1bc",
@@ -4136,7 +5486,7 @@ window.EVENTS_REALTIME = [
   "cat": "society",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/960px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://live.staticflickr.com/7205/6866254327_d508c9261e_b.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
@@ -4153,8 +5503,8 @@ window.EVENTS_REALTIME = [
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ldUU1ZXh2NGM2cmo2b3pzV01YMGFDSEk3SWJVNVFobzhwZ1ZBUnZ5SFBZQ2FzU3cxNDlybGJSb21XLS1ZUTllNG8zSWNEWElQUHNVZTI4Yw?oc=5"
    },
    {
-    "type": "wiki",
-    "name": "维基百科词条图",
+    "type": "openverse",
+    "name": "Openverse 共享图库",
     "region": "泰国",
     "credibility": 82,
     "url": ""
@@ -4176,12 +5526,12 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "维基百科词条图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/960px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
+    "url": "https://live.staticflickr.com/7205/6866254327_d508c9261e_b.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
@@ -4258,7 +5608,7 @@ window.EVENTS_REALTIME = [
   "cat": "society",
   "country": "马来西亚",
   "stars": "🔥",
-  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Bhutan_gate_in_Phuentsoling_0.jpg/960px-Bhutan_gate_in_Phuentsoling_0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "cover": "https://live.staticflickr.com/4672/25029617117_b6c518bab4_b.jpg",
   "coverType": "remote",
   "credibilityScore": 88,
   "buzzIndex": 60,
@@ -4275,8 +5625,8 @@ window.EVENTS_REALTIME = [
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEt2czZFaVJBZkJVUVhMWU9GWndMQnNUOWZqMFlMMjZXMGoyNzhra2x2MFRwX00yR09WMEYxNVgzNmhXQm45Mmd6NlJUQkU5c1h4eGpLdENDTEx3WGZIdVl1SUZ2QU1HNm1EMjROR3hCbWtHTnFOeDhKYXA3SHNwTjg2WkwxXzZ1VExsT2tCc0FJbXR4aTdYbmgtV19SX00zcEQtTVZ3?oc=5"
    },
    {
-    "type": "wiki",
-    "name": "维基百科词条图",
+    "type": "openverse",
+    "name": "Openverse 共享图库",
     "region": "马来西亚",
     "credibility": 82,
     "url": ""
@@ -4298,12 +5648,12 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "维基百科词条图",
+  "imageSource": "Openverse 共享图库",
   "hasMedia": true,
   "media": [
    {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Bhutan_gate_in_Phuentsoling_0.jpg/960px-Bhutan_gate_in_Phuentsoling_0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
+    "url": "https://live.staticflickr.com/4672/25029617117_b6c518bab4_b.jpg",
+    "source": "Openverse 共享图库",
     "caption": ""
    }
   ],
@@ -4373,67 +5723,6 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPajNZRk1tRkIwdzFXMTZYUDdRQllCQzZOallDRU16eWxCZGlTS0JaNFZRSU4ydDJTUEluRGNkeUwtOFl2VnhDWENWeGdLMUlTSmhneEREZFU3VThxb0Y1T2NmV241TjZ0bkdNMlhtZ1UyamNkcE43b3V3Zm5sWDg3WXhjS2dZd0doMEcyY3FLbVR6S0tsTF9XazFCS3ZydnF5Vl9XVVVJMTJ6c3A5M0tIV2JiODFIM1p6aUlNVm5oN29qY2U1Wk5r?oc=5"
  },
  {
-  "id": "rt-5fb1778d2765",
-  "titleCn": "Civil society networks urge political parties to embed environmental justice in policy beyond the 2026 election cycle - Greenpeace",
-  "titleOrig": "Civil society networks urge political parties to embed environmental justice in policy beyond the 2026 election cycle - Greenpeace",
-  "catCn": "政党选举",
-  "cat": "politics",
-  "country": "泰国",
-  "stars": "🔥",
-  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/CO2_emissions_EU.svg/960px-CO2_emissions_EU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "coverType": "remote",
-  "credibilityScore": 88,
-  "buzzIndex": 60,
-  "summary": "泰国政党选举：Civil society networks urge political parties to embed environmental justice in policy beyond the 2026 election cycle - Greenpeace",
-  "tags": [],
-  "timeRel": "",
-  "timeAbs": "",
-  "sources": [
-   {
-    "type": "gnews",
-    "name": "Google 新闻",
-    "region": "泰国",
-    "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdS0wUVdpSDNIcXFQYU5TTmFpS3VVcUVhZGNHSDJfdS15TENkWjRQbkhmZ0RZRkR5T3cxVHpJYkNyQUYzOG9VYUg5cnUteUl3MXJ2bnBsNVVkaVF2TmsxdHZscndjeEU2M0paMnhEMkNJZzctUldCOWQtLWd4REt0QlFsOGpVdjJrbWJFb2VKU190YjloZFNVSFBnMGNhLTdGNmlLY1g1SmQ3RDBYX205eW04c09KMkpCYjJqOXpiSmg1YnBIY2g5MmJSdURsNXJDbUNPR1RBTE52LTNuVXRwMkU4QUtnUmdwb2x2eVctWGNsbTU2WmRwLTFRbGdzZw?oc=5"
-   },
-   {
-    "type": "wiki",
-    "name": "维基百科词条图",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
-   }
-  ],
-  "sourceBreadth": {
-   "local": true,
-   "global": false,
-   "social_only": false
-  },
-  "timeline": [
-   {
-    "date": "2026-10-15",
-    "desc": "实时榜单收录",
-    "verified": false,
-    "label": "收录"
-   }
-  ],
-  "printType": "",
-  "risk": "低",
-  "hotDays": 2,
-  "imageSource": "维基百科词条图",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/CO2_emissions_EU.svg/960px-CO2_emissions_EU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "source": "维基百科词条图",
-    "caption": ""
-   }
-  ],
-  "fresh": true,
-  "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdS0wUVdpSDNIcXFQYU5TTmFpS3VVcUVhZGNHSDJfdS15TENkWjRQbkhmZ0RZRkR5T3cxVHpJYkNyQUYzOG9VYUg5cnUteUl3MXJ2bnBsNVVkaVF2TmsxdHZscndjeEU2M0paMnhEMkNJZzctUldCOWQtLWd4REt0QlFsOGpVdjJrbWJFb2VKU190YjloZFNVSFBnMGNhLTdGNmlLY1g1SmQ3RDBYX205eW04c09KMkpCYjJqOXpiSmg1YnBIY2g5MmJSdURsNXJDbUNPR1RBTE52LTNuVXRwMkU4QUtnUmdwb2x2eVctWGNsbTU2WmRwLTFRbGdzZw?oc=5"
- },
- {
   "id": "rt-2c117370977d",
   "titleCn": "Spanish PM dissolves parliament, calls early elections after protests pressure government to solve high housing prices - TNN Thailand",
   "titleOrig": "Spanish PM dissolves parliament, calls early elections after protests pressure government to solve high housing prices - TNN Thailand",
@@ -4495,18 +5784,18 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMRjdTZ2JRTTZ4eGl6djV6S1J6LUxDMlo4X1ZiUHcyZUMtWWZoalNDNXp1RDFCRlRvV2wyVDdXT0xhM0ZnVlczWjBycWNfSDVCc19GLUdYSQ?oc=5"
  },
  {
-  "id": "rt-bf998419d7e1",
-  "titleCn": "Thailand votes: 2026 election - Thai PBS",
-  "titleOrig": "Thailand votes: 2026 election - Thai PBS",
+  "id": "rt-55f853419391",
+  "titleCn": "THE STANDARD. . ภราดรซัด กกต. ยังไม่รู้วิธีการใช้กฎหมาย ปมลงมติส่งฟ้องศาลฎีกาคดีฮั้ว สว. #การเมือง #อนุทิน #ฮั้วสว #ภูมิใจไทย #TheStandardNow - Facebook",
+  "titleOrig": "THE STANDARD. . ภราดรซัด กกต. ยังไม่รู้วิธีการใช้กฎหมาย ปมลงมติส่งฟ้องศาลฎีกาคดีฮั้ว สว. #การเมือง #อนุทิน #ฮั้วสว #ภูมิใจไทย #TheStandardNow - Facebook",
   "catCn": "政党选举",
   "cat": "politics",
   "country": "泰国",
   "stars": "🔥",
-  "cover": "https://live.staticflickr.com/8471/8396264572_5714238b90_b.jpg",
-  "coverType": "remote",
+  "cover": "",
+  "coverType": "placeholder",
   "credibilityScore": 88,
   "buzzIndex": 60,
-  "summary": "泰国政党选举：Thailand votes: 2026 election - Thai PBS",
+  "summary": "泰国政党选举：THE STANDARD. . ภราดรซัด กกต. ยังไม่รู้วิธีการใช้กฎหมาย ปมลงมติส่งฟ้องศาลฎีกาคดีฮั้ว สว. #การเมือง #อนุทิน #ฮั้วสว #ภูมิใจไทย #TheStandardNow - Facebook",
   "tags": [],
   "timeRel": "",
   "timeAbs": "",
@@ -4516,14 +5805,7 @@ window.EVENTS_REALTIME = [
     "name": "Google 新闻",
     "region": "泰国",
     "credibility": 88,
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3X3FkVnluWHp4UjctRkJGYXIzei1MVFVJRzVJYk1sZ1ZVZDRTTC1GMEtDZGdrSmxVamJsMWF6UzFxdWdSVTBuWDJHNy1iUnN5V1ZiWGVjSTc?oc=5"
-   },
-   {
-    "type": "openverse",
-    "name": "Openverse 共享图库",
-    "region": "泰国",
-    "credibility": 82,
-    "url": ""
+    "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxNc3pQakFOLWY1UFpxQmxNaXhKbllRc28yMEpGOUFtS28tYXlQWWJCSUo0N1VOVDNsdWJtUUEwZkg1MzFxWERWYTVpOHkzSDFmRFJLTWJMVkNxZXJmbHV2OE1FeHlndVNVTjhlQmwySTlFbWRRNTNVZUdVcks0Z1hRUzNmckpBaTRMS1VmbUtsVGF4cEJQVUgzX212VlRHN00xRlNaVDdJbkY2TDRfVzFTaUpOcDFhRTZuNzR1S3VkYXdHSzJjeHpXQzVuTjczbW5xYnVoeFlrM2JHU2hvamVSY2VuNlViUHVKTm4xaGc4cFVnQk9tSXotTUhkdWdMaFo5dDBnWFBYYkROMlpmc1RMZGRCRk9JQXp6ZnJ4V3JXNko1dEhjMEhmSlp1SUlLSllTOXpwaWRGcGZWRE5CWGQtVkVwaXRrdW5tUW8zQnlhLVF6VlpVaXhnWWRZcFpXclJQNkRkeklpSUFnTXNuNFJYdk5kYW5XS0ZJN2RwTmQ2VkM1dHp1ZXBJbmlteWxKMVcxVVoycW5VTzZYWTl2bEJQa19PbmpORE5zMDJyczBnbmoyZWRhRWdoZzVYcERNQ3hPSXpNM0Q4R1dNSWJ4dEVyOWRtMl9vZXlYd19fdllrUHFiS1llLWpaVXRIb18yV0ZlcmhQaWFtbVNjWkxuSnBoSERXU0JmdTFGZjFlTXN0UWc5R0ZHcWFOMnJTdkREY0cwaFJPNjRCRmFTYU01X0ZYelVYNndTVHJnVEhOcU5qT2FPUmFNMlhlTUg2bjNBTTNLWnJZY1BFYUJyMHIzUER0WExaVGkwcTg3YkM2TUxFV2xwMXd6d1h4c1RFdk5LbDJsYVM3VVpYMUhhY3h5ZHZXT2E3WXRwUEt5QXVXdGxFLVd0S2Y5YUNDV2hobURpTEs1VV9OWk9KTzhpQzA1TldvZ0VCa21hbUdiMWFRcUVwN2JlQWlkSWkxQ0JZdV9PNGdvanp5SmxfdjJEaDFOS19JSDBRUTBBYXBPWS1UMmgwSk5mZy1FQ0c4Q0YwZGstOGE4UzFXQl9lclJVSzRna0lrUHo4Tk1WR002UFlFSmhzQS1uQXdRQjlyNHdMTUY5WE5MajRqMkx3UWZydDcwZ3VJUmZHSy1sWWYxc0UwcUhoOXM5WVZLWU1lYURBcE9zZmxDeHVUZVBQM3kxd2RJTFg0RGx3MUJIV0xOSU80VmtESXFKdlhzblJHaFJ3Y2NoUUcwVWZudFJzcXV6ZGtaZFNUZEVmMzBEWVVsUVF4TWhaVlBTRDhBV09qSjloX3JQTUZ4SFlhbmRuOWpJd2xfN011SzB2VkNtZ25xRlhCOUNsTWFSQQ?oc=5"
    }
   ],
   "sourceBreadth": {
@@ -4542,18 +5824,60 @@ window.EVENTS_REALTIME = [
   "printType": "",
   "risk": "低",
   "hotDays": 2,
-  "imageSource": "Openverse 共享图库",
-  "hasMedia": true,
-  "media": [
-   {
-    "url": "https://live.staticflickr.com/8471/8396264572_5714238b90_b.jpg",
-    "source": "Openverse 共享图库",
-    "caption": ""
-   }
-  ],
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
   "fresh": true,
   "batch": "realtime-2026-10-15",
-  "primaryUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3X3FkVnluWHp4UjctRkJGYXIzei1MVFVJRzVJYk1sZ1ZVZDRTTC1GMEtDZGdrSmxVamJsMWF6UzFxdWdSVTBuWDJHNy1iUnN5V1ZiWGVjSTc?oc=5"
+  "primaryUrl": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxNc3pQakFOLWY1UFpxQmxNaXhKbllRc28yMEpGOUFtS28tYXlQWWJCSUo0N1VOVDNsdWJtUUEwZkg1MzFxWERWYTVpOHkzSDFmRFJLTWJMVkNxZXJmbHV2OE1FeHlndVNVTjhlQmwySTlFbWRRNTNVZUdVcks0Z1hRUzNmckpBaTRMS1VmbUtsVGF4cEJQVUgzX212VlRHN00xRlNaVDdJbkY2TDRfVzFTaUpOcDFhRTZuNzR1S3VkYXdHSzJjeHpXQzVuTjczbW5xYnVoeFlrM2JHU2hvamVSY2VuNlViUHVKTm4xaGc4cFVnQk9tSXotTUhkdWdMaFo5dDBnWFBYYkROMlpmc1RMZGRCRk9JQXp6ZnJ4V3JXNko1dEhjMEhmSlp1SUlLSllTOXpwaWRGcGZWRE5CWGQtVkVwaXRrdW5tUW8zQnlhLVF6VlpVaXhnWWRZcFpXclJQNkRkeklpSUFnTXNuNFJYdk5kYW5XS0ZJN2RwTmQ2VkM1dHp1ZXBJbmlteWxKMVcxVVoycW5VTzZYWTl2bEJQa19PbmpORE5zMDJyczBnbmoyZWRhRWdoZzVYcERNQ3hPSXpNM0Q4R1dNSWJ4dEVyOWRtMl9vZXlYd19fdllrUHFiS1llLWpaVXRIb18yV0ZlcmhQaWFtbVNjWkxuSnBoSERXU0JmdTFGZjFlTXN0UWc5R0ZHcWFOMnJTdkREY0cwaFJPNjRCRmFTYU01X0ZYelVYNndTVHJnVEhOcU5qT2FPUmFNMlhlTUg2bjNBTTNLWnJZY1BFYUJyMHIzUER0WExaVGkwcTg3YkM2TUxFV2xwMXd6d1h4c1RFdk5LbDJsYVM3VVpYMUhhY3h5ZHZXT2E3WXRwUEt5QXVXdGxFLVd0S2Y5YUNDV2hobURpTEs1VV9OWk9KTzhpQzA1TldvZ0VCa21hbUdiMWFRcUVwN2JlQWlkSWkxQ0JZdV9PNGdvanp5SmxfdjJEaDFOS19JSDBRUTBBYXBPWS1UMmgwSk5mZy1FQ0c4Q0YwZGstOGE4UzFXQl9lclJVSzRna0lrUHo4Tk1WR002UFlFSmhzQS1uQXdRQjlyNHdMTUY5WE5MajRqMkx3UWZydDcwZ3VJUmZHSy1sWWYxc0UwcUhoOXM5WVZLWU1lYURBcE9zZmxDeHVUZVBQM3kxd2RJTFg0RGx3MUJIV0xOSU80VmtESXFKdlhzblJHaFJ3Y2NoUUcwVWZudFJzcXV6ZGtaZFNUZEVmMzBEWVVsUVF4TWhaVlBTRDhBV09qSjloX3JQTUZ4SFlhbmRuOWpJd2xfN011SzB2VkNtZ25xRlhCOUNsTWFSQQ?oc=5"
+ },
+ {
+  "id": "rt-272fa8c8be05",
+  "titleCn": "The Race to 2030: Bangkok’s Governor Election and the Future of Thailand - thestandard.co",
+  "titleOrig": "The Race to 2030: Bangkok’s Governor Election and the Future of Thailand - thestandard.co",
+  "catCn": "政党选举",
+  "cat": "politics",
+  "country": "泰国",
+  "stars": "🔥",
+  "cover": "",
+  "coverType": "placeholder",
+  "credibilityScore": 88,
+  "buzzIndex": 60,
+  "summary": "泰国政党选举：The Race to 2030: Bangkok’s Governor Election and the Future of Thailand - thestandard.co",
+  "tags": [],
+  "timeRel": "",
+  "timeAbs": "",
+  "sources": [
+   {
+    "type": "gnews",
+    "name": "Google 新闻",
+    "region": "泰国",
+    "credibility": 88,
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EX2EzSUd5Mmp5N0FjaVg5QUx4X3NValQyWEw0ZDhGblk5U0JBME1jbmtFblNYeHZ0cVhtWUR1QzhIc3FkSnRPWEhINGVjbGRseWJuZV8tRWZMWVRrb2h3ZVNyWlFmWGs3SGFqMTZLbWE?oc=5"
+   }
+  ],
+  "sourceBreadth": {
+   "local": true,
+   "global": false,
+   "social_only": false
+  },
+  "timeline": [
+   {
+    "date": "2026-10-15",
+    "desc": "实时榜单收录",
+    "verified": false,
+    "label": "收录"
+   }
+  ],
+  "printType": "",
+  "risk": "低",
+  "hotDays": 2,
+  "imageSource": "分类占位图（无自然配图）",
+  "hasMedia": false,
+  "media": [],
+  "fresh": true,
+  "batch": "realtime-2026-10-15",
+  "primaryUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EX2EzSUd5Mmp5N0FjaVg5QUx4X3NValQyWEw0ZDhGblk5U0JBME1jbmtFblNYeHZ0cVhtWUR1QzhIc3FkSnRPWEhINGVjbGRseWJuZV8tRWZMWVRrb2h3ZVNyWlFmWGs3SGFqMTZLbWE?oc=5"
  },
  {
   "id": "rt-f87a768f294d",
@@ -4844,5 +6168,5 @@ window.EVENTS_REALTIME = [
   "primaryUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Vd18yX09XWkZjYkI4eHZpZFpJRWkzbzNjMjRUY0p6UFJDWmRWN3puQ240TXIxMVpLVTZ0aVJSQVlMVFJ3N09kQlJicmFaQWN0c3ZiUDlwb1c?oc=5"
  }
 ];
-window.REALTIME_UPDATED = "2026-10-15T17:40:14";
+window.REALTIME_UPDATED = "2026-10-15T22:38:03";
 window.REALTIME_CARRIED = false;
