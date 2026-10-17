@@ -1461,8 +1461,10 @@
 
     function parseDataJs(txt) {
       try {
+        // NOTE: pass the REAL global window so the sharded loader can read the
+        // window.EVENTS_PART_xxx globals (set by the part <script> tags / live-update).
         const fn = new Function("window", txt + "\n;return {E: window.EVENTS, U: window.SITE_UPDATED};");
-        const r = fn({});
+        const r = fn(window);
         return { events: r.E || [], updated: r.U || "" };
       } catch (e) { return null; }
     }
@@ -1475,6 +1477,16 @@
         if (!mm) return;
         const meta = JSON.parse(mm[1]);
         if (!meta.updated || meta.updated <= cur) return;
+        // new version: re-fetch ALL part files first (the new part list may include
+        // new files). eval in global scope so window.EVENTS_PART_xxx are updated.
+        const partFiles = (meta.parts && meta.parts.length ? meta.parts : (window.EVENTS_PART_FILES || []));
+        for (const pf of partFiles) {
+          try {
+            const pres = await fetch(pf + "?_=" + Date.now(), { cache: "no-store" });
+            const ptxt = await pres.text();
+            (new Function(ptxt))();
+          } catch (e) {}
+        }
         const dres = await fetch("js/data.js?_=" + Date.now(), { cache: "no-store" });
         const dt = await dres.text();
         const parsed = parseDataJs(dt);
